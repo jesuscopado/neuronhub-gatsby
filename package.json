@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@narative/gatsby-theme-novela": "^0.13.3",
+    "gatsby": "^2.19.12",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0"
+  }
+}
