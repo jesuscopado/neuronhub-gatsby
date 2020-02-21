@@ -1,0 +1,3 @@
+backend:
+  name: github
+  repo: jesuscopado/neuronhub-gatsby
