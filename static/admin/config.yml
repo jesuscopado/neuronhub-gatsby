@@ -1,6 +1,5 @@
 backend:
-  name: github
-  repo: jesuscopado/neuronhub-gatsby
+  name: git-gateway
 
 local_backend: true # Optional if you want to use the local proxy mode
 
