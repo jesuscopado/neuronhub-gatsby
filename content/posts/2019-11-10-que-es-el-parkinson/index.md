@@ -15,7 +15,7 @@ tags:
 hero: "./images/10.jpeg"
 excerpt: Hace dos siglos (1817), José Zorrilla nacía en Valladolid para regalarle a la humanidad su _Don Juan Tenorio_. Mientras tanto, en Varsovia, un niño de 7 años conocido como Fryderyk Chopin componía su primera obra para piano
 timeToRead: 8
-author: Juan Garcia Ruiz
+author: Juan García Ruiz
 ---
 
 

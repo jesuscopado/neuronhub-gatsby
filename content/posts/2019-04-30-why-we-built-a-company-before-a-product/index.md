@@ -1,6 +1,6 @@
 ---
 title: Why we built a company before building a product
-author: Juan Garcia Ruiz
+author: Juan García Ruiz
 date: 2019-04-30
 hero: ./images/hero-6.jpg
 excerpt: this is my excerpt

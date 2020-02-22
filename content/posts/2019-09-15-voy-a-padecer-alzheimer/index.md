@@ -12,9 +12,12 @@ tags:
 - factores de riesgo
 - medidas
 hero: "./images/2.jpeg"
-excerpt: Al día siguiente no mu
+excerpt: Al día siguiente no murió nadie. El hecho, por absolutamente contrario a las
+normas de la vida, causó en los espíritus una perturbación enorme, efecto a
+todas luces justificado, basta recordar que no existe noticia en los cuarenta
+volúmenes de la historia universal
 timeToRead: 8
-author: Juan Garcia Ruiz
+author: Juan García Ruiz
 ---
 
 

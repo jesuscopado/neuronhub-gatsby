@@ -13,7 +13,7 @@ tags:
 hero: "./images/7.jpeg"
 excerpt: Los icebergs ilustran admirablemente los límites humanos en la exploración de la realidad. Se estima que la fracción visible supone tan solo una octava parte de la totalidad de la masa helada. Es decir, si un humano tuviera que estim
 timeToRead: 8
-author: Juan Garcia Ruiz
+author: Juan García Ruiz
 ---
 
 
