@@ -10,4 +10,8 @@ export default {
       "'Harding', 'SF Pro Display', '-apple-system', 'BlinkMacSystemFont', 'San Francisco', 'Helvetica Neue', 'Helvetica', 'Ubuntu', 'Roboto', 'Noto', 'Segoe UI', 'Arial', sans-serif",
     monospace: `"Operator Mono", Consolas, Menlo, Monaco, source-code-pro, Courier New, monospace`,
   },
+  colors: {
+    ...novelaTheme.colors,
+    accent: "#bb3f5c",
+  },
 };

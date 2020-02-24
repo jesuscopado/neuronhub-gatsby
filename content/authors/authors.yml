@@ -7,11 +7,7 @@
     prisma de mi formación universitaria en psicología y bioquímica, con el rigor y la fundamentación que exigen ambas disciplinas. 
   avatar: ./avatars/juan-garcia.jpeg
   social:
-    - url: https://unsplash.com
-    - url: https://stackoverflow.com
-    - url: https://github.com
-    - url: https://github.com
-    - url: https://github.com
+    - url: https://www.linkedin.com/in/garciaruizjuan/
   featured: true
 
 - name: Jesus Copado
