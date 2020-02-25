@@ -7,7 +7,7 @@ const OrderedList = styled.ol`
   color: ${p => p.theme.colors.articleText};
   font-family: ${p => p.theme.fonts.serifText};
   position: relative;
-  padding: 10px 0 25px 30px;
+  padding: 5px 0 20px 30px;
   margin: 0 auto;
   transition: ${p => p.theme.colorModeTransition};
   font-size: 18px;
