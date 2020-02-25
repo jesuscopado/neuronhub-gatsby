@@ -47,7 +47,7 @@ Asimismo, un requisito consensual es la eficacia de los tratamientos en el alivi
 
 Además de los tres signos mencionados, otros síntomas como la inestabilidad postural y los problemas de equilibrio pueden asociarse a la enfermedad. Resulta fundamental contrastar estas manifestaciones, puesto que podrían confundirse con otras condiciones: por ejemplo, la lentitud ligada al envejecimiento normal podría ser confundida con la bradiquinesia, la rigidez podría ser debida a la artritis y los temblores a problemas de estrés. Chou (2017) explica en el simposio celebrado por la Universidad de Michigan que es un error limitarse a considerar los síntomas motores (relativos al movimiento), y propone una división en tres categorías de los síntomas no motores, que ocurren en el 98,6% de los pacientes (una media de 8 por paciente) (Barone et al., 2009):
 
-**1. Cognitivos o psiquiátricos**
+1\. Cognitivos o psiquiátricos
 
 * Demencia: la demencia es “un síndrome que implica el deterioro de la memoria, el intelecto, el comportamiento y la capacidad para realizar actividades de la vida diaria” (WHO, 2019). El riesgo de demencia es mucho mayor en casos de Parkinson (de dos a seis veces más probable que en ausencia de Parkinson). El diagnóstico de la demencia asociada al Parkinson requiere que el diagnóstico del Parkinson sea realizado en primer lugar y que los problemas cognitivos (inatención, dificultad para realizar varias tareas al mismo tiempo, problemas de memoria) aparezcan más tarde.   
 * Cansancio: en torno a la mitad de los pacientes de Parkinson consideran que se trata de uno de los síntomas más incapacitantes. El ejercicio físico regular muestra resultados eficaces para combatir este síntoma.   
@@ -55,7 +55,7 @@ Además de los tres signos mencionados, otros síntomas como la inestabilidad po
 * Depresión: igualmente asociada a los problemas relativos al cansancio.  
 * Ansiedad  
  
-**2. Del sistema nervioso autónomo (funciones autónomas)**  
+2\. Del sistema nervioso autónomo (funciones autónomas)
 
 * Sudores  
 * Dificultad respiratoria (disnea)  
@@ -65,7 +65,7 @@ Además de los tres signos mencionados, otros síntomas como la inestabilidad po
 * Dificultades urinarias  
 * Diarrea  
 
-**3. Sensoriales**
+3\. Sensoriales
 
 * Déficit olfatorio  
 * Dolor difuso  
@@ -108,20 +108,18 @@ La investigación actual trata de comprender mejor los mecanismos que llevan a l
 
 **Referencias**
 
-Barone, P., Antonini, A., Colosimo, C., Marconi, R., Morgante, L., Avarello, T. P., . . . Dotto, P. D. (2009). The PRIAMO study: A multicenter assessment of nonmotor symptoms and their impact on quality of life in Parkinson's disease. _Movement Disorders_, 24(11), 1641–1649. [[Fuente]](https://doi.org/10.1002/mds.22643)
+Barone, P., Antonini, A., Colosimo, C., Marconi, R., Morgante, L., Avarello, T. P., . . . Dotto, P. D. (2009). The PRIAMO study: A multicenter assessment of nonmotor symptoms and their impact on quality of life in Parkinson's disease. _Movement Disorders_, 24(11), 1641–1649. [_Fuente_](https://doi.org/10.1002/mds.22643)
 
-[Barone, P., Antonini, A., Colosimo, C., Marconi, R., Morgante, L., Avarello, T. P., . . . Dotto, P. D. (2009). The PRIAMO study: A multicenter assessment of nonmotor symptoms and their impact on quality of life in Parkinson's disease. _Movement Disorders_, 24(11), 1641–1649.](https://doi.org/10.1002/mds.22643)
+Chou, K. (2017). _Parkinson's Disease: The Basics_ [Archivo de vídeo]. Recuperado 10 noviembre, 2019. [_Fuente_](https://www.youtube.com/watch?v=p2UgCT0o07I)
 
-Chou, K. (2017). _Parkinson's Disease: The Basics_ [Archivo de vídeo]. Recuperado 10 noviembre, 2019. [[Fuente]](https://www.youtube.com/watch?v=p2UgCT0o07I)
+Colaboradores de Wikipedia. (2019, 3 noviembre). _Acatisia._ Recuperado 10 noviembre, 2019. [[_Fuente_]](https://es.wikipedia.org/wiki/Acatisia)
 
-Colaboradores de Wikipedia. (2019, 3 noviembre). _Acatisia._ Recuperado 10 noviembre, 2019. [[Fuente]](https://es.wikipedia.org/wiki/Acatisia)
+INE. (2018). _INEbase / Población por comunidades, edad (grupos quinquenales), Españoles/Extranjeros, Sexo y Año_. Recuperado 10 noviembre, 2019. [_Fuente_](https://www.ine.es/jaxi/Datos.htm?path=/t20/e245/p08/l0/)
 
-INE. (2018). _INEbase / Población por comunidades, edad (grupos quinquenales), Españoles/Extranjeros, Sexo y Año_. Recuperado 10 noviembre, 2019. [[Fuente]](https://www.ine.es/jaxi/Datos.htm?path=/t20/e245/p08/l0/)
+KhanAcademyMedicine. (s.f.). _Pathophysiology of Parkinson's disease_ [Archivo de vídeo]. Recuperado 10 noviembre, 2019. [_Fuente_](https://www.youtube.com/watch?v=8mvUDiBQbjg)
 
-KhanAcademyMedicine. (s.f.). _Pathophysiology of Parkinson's disease_ [Archivo de vídeo]. Recuperado 10 noviembre, 2019. [[Fuente]](https://www.youtube.com/watch?v=8mvUDiBQbjg)
+MedlinePlus. (s.f.). _Dermatitis seborreica_. Recuperado 10 noviembre, 2019. [_Fuente_](https://medlineplus.gov/spanish/ency/article/000963.htm)
 
-MedlinePlus. (s.f.). _Dermatitis seborreica_. Recuperado 10 noviembre, 2019. [[Fuente]](https://medlineplus.gov/spanish/ency/article/000963.htm)
+Osmosis. (2019, 30 julio). _Parkinson's disease - causes, symptoms, diagnosis, treatment & pathology_ [Archivo de vídeo]. Recuperado 10 noviembre, 2019. [_Fuente_](https://www.youtube.com/watch?v=ARdGaE1sbBM)
 
-Osmosis. (2019, 30 julio). _Parkinson's disease - causes, symptoms, diagnosis, treatment & pathology_ [Archivo de vídeo]. Recuperado 10 noviembre, 2019. [[Fuente]](https://www.youtube.com/watch?v=ARdGaE1sbBM)
-
-WHO. (2019, 19 septiembre). _Demencia_. Recuperado 10 noviembre, 2019. [[Fuente]](https://www.who.int/es/news-room/fact-sheets/detail/dementia)
+WHO. (2019, 19 septiembre). _Demencia_. Recuperado 10 noviembre, 2019. [_Fuente_](https://www.who.int/es/news-room/fact-sheets/detail/dementia)
