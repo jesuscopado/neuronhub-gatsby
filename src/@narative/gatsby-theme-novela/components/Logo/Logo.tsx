@@ -13,7 +13,7 @@ const Logo: Icon = ({ fill = "white" }) => {
       <style type="text/css">
         {`
           .st0{fill:url(#SVGID_2_);}
-          .st1{fill:#010101;}
+          .st1{fill:${fill};}
           .st2{fill:#FFFFFF;}
           .st3{fill:none;stroke:#FFFFFF;stroke-width:1.2047;stroke-miterlimit:10;}
           .st4{fill:url(#SVGID_3_);}
