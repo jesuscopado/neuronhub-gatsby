@@ -16,16 +16,12 @@ interface ArticleHeroProps {
 
 const ArticleHero: React.FC<ArticleHeroProps> = ({ article, authors }) => {
   const hasCoAUthors = authors.length > 1;
-  const hasHeroImage =
-    article.hero &&
-    Object.keys(article.hero.full).length !== 0 &&
-    article.hero.full.constructor === Object;
 
   return (
     <Hero>
       <Header>
         <HeroHeading>{article.title}</HeroHeading>
-        <HeroSubtitle hasCoAUthors={hasCoAUthors}>
+        <HeroSubtitle hasCoAUthors={hasCoAUthors} id="ArticleSubtitle__Hero">
           <ArticleAuthors authors={authors} />
           <ArticleMeta hasCoAUthors={hasCoAUthors}>
             {article.date} · {article.timeToRead} min read
@@ -77,24 +73,24 @@ const ArticleMeta = styled.div<{ hasCoAUthors: boolean }>`
 const Header = styled.header`
   position: relative;
   z-index: 10;
-  margin:100px auto 120px;
+  margin: 120px auto 20px;
   padding-left: 68px;
   max-width: 749px;
 
   ${mediaqueries.desktop`
     padding-left: 53px;
     max-width: calc(507px + 53px);
-    margin: 100px auto 70px;
+    margin: 120px auto 20px;
   `}
 
   ${mediaqueries.tablet`
     padding-left: 0;
-    margin: 100px auto 70px;
+    margin: 120px auto 20px;
     max-width: 480px;
   `}
 
   ${mediaqueries.phablet`
-    margin: 170px auto 180px;
+    margin: 120px auto 20px;
     padding: 0 40px;
   `}
 

@@ -39,14 +39,11 @@ const Aside: React.FC<AsideProps> = ({ contentHeight, children }) => {
   );
 
   useEffect(() => {
-    /*const imageRect = document
-      .getElementById("ArticleImage__Hero")
+    const articleBodyRect = document
+      .getElementById("ArticleBody")
       .getBoundingClientRect();
 
-    const imageOffsetFromTopOfWindow = imageRect.top + window.scrollY;
-    setImageOffset(imageOffsetFromTopOfWindow);*/
-
-    const imageOffsetFromTopOfWindow = window.scrollY;
+    const imageOffsetFromTopOfWindow = articleBodyRect.top + window.scrollY;
     setImageOffset(imageOffsetFromTopOfWindow);
 
     const handleScroll = throttle(() => {

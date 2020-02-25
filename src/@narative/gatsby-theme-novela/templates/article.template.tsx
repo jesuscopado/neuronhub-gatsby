@@ -71,7 +71,7 @@ const Article: Template = ({ pageContext, location }) => {
       }
 
       // Set the height and offset of the content area
-      setContentHeight(contentSection.getBoundingClientRect().height);
+      setContentHeight(contentSection.getBoundingClientRect().height - 550);
     }, 20);
 
     calculateBodySize();
@@ -90,7 +90,7 @@ const Article: Template = ({ pageContext, location }) => {
       <MobileControls>
         <ArticleControls />
       </MobileControls>
-      <ArticleBody ref={contentSectionRef}>
+      <ArticleBody ref={contentSectionRef} id="ArticleBody">
         <MDXRenderer content={article.body}>
           <ArticleShare />
         </MDXRenderer>
@@ -111,7 +111,7 @@ export default Article;
 
 const MobileControls = styled.div`
   position: relative;
-  padding-top: 60px;
+  padding-top: 20px;
   transition: background 0.2s linear;
   text-align: center;
 
@@ -122,8 +122,8 @@ const MobileControls = styled.div`
 
 const ArticleBody = styled.article`
   position: relative;
-  margin-top: -60px;
-  padding: 0 0 35px;
+  margin-top: 0px;
+  padding: 30px 0 50px;
   padding-left: 68px;
   transition: background 0.2s linear;
 
@@ -132,11 +132,11 @@ const ArticleBody = styled.article`
   `}
   
   ${mediaqueries.tablet`
-    padding: 70px 0 80px;
+    padding: 30px 0 50px;
   `}
 
   ${mediaqueries.phablet`
-    padding: 60px 0;
+    padding: 30px 0;
   `}
 `;
 

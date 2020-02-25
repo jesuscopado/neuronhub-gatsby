@@ -1,11 +1,11 @@
 module.exports = {
   siteMetadata: {
-    title: `NeuronHub`,
-    name: `NeuronHub`,
+    title: `neuronhub`,
+    name: `neuronhub`,
     siteUrl: `https://neuronhub.org`,
     description: `El objetivo de este blog es reunir el conocimiento que se ha generado en el ámbito de la neurociencia en todo el mundo. En un contexto en el que los neuromitos se extienden a una velocidad deslumbrante, este blog se compromete a derrumbarlos y a compartir con los lectores información fiable.`,
     hero: {
-      heading: `Bienvenido a NeuronHub, un blog creado para que entiendas la neurociencia.`,
+      heading: `Bienvenido a neuronhub, un blog creado para que entiendas la neurociencia.`,
       maxWidth: 652,
     },
     social: [
@@ -51,8 +51,8 @@ module.exports = {
     /*{
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Novela by Narative`,
-        short_name: `Novela`,
+        name: `neuronhub`,
+        short_name: `neuronhub`,
         start_url: `/`,
         background_color: `#fff`,
         theme_color: `#fff`,
