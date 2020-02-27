@@ -61,11 +61,11 @@ module.exports = {
         icon: `src/assets/favicon.png`,
       },
     },
-    /*{
+    {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
-        trackingId: "UA-118232427-3",
+        trackingId: "UA-159262209-1",
       },
-    },*/
+    }
   ],
 };
