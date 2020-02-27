@@ -47,12 +47,13 @@ module.exports = {
     },
     {
       resolve: `gatsby-plugin-netlify-cms`,
-    }
-    /*{
+    },
+    {
       resolve: `gatsby-plugin-manifest`,
       options: {
         name: `neuronhub`,
         short_name: `neuronhub`,
+        description: `El objetivo de este blog es reunir el conocimiento que se ha generado en el ámbito de la neurociencia en todo el mundo.`,
         start_url: `/`,
         background_color: `#fff`,
         theme_color: `#fff`,
@@ -60,7 +61,7 @@ module.exports = {
         icon: `src/assets/favicon.png`,
       },
     },
-    {
+    /*{
       resolve: `gatsby-plugin-google-analytics`,
       options: {
         trackingId: "UA-118232427-3",

@@ -2,6 +2,7 @@
   "dependencies": {
     "@narative/gatsby-theme-novela": "^0.13.3",
     "gatsby": "^2.19.12",
+    "gatsby-plugin-manifest": "^2.2.42",
     "gatsby-plugin-netlify-cms": "^4.1.40",
     "netlify-cms-app": "^2.11.21",
     "react": "^16.12.0",
