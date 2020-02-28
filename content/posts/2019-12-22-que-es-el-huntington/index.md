@@ -22,8 +22,10 @@ author: Juan García Ruiz
 
 En 1775, un ciclón tropical acabó con el 90% de la población de la isla de Pingelap. Tan solo unas 20 personas sobrevivieron. Entre uno de los supervivientes se encontraba el gobernante de la isla, quien además era portador de una enfermedad genética muy poco frecuente que le obligaba a ver el mundo en blanco y negro conocida como acromatopsia. El gobernante debió ser uno de los participantes más enardecidos en el proyecto de repoblar la isla, que a día de hoy cuenta con un 10% de la población con visión monocromática. 
 
-![](https://nervousystemhome.files.wordpress.com/2019/12/oroluk_island_akk.jpg?w=1024)
-_Figura 1_. Isla de Pingelap.
+<div className="Image__Medium">
+  <img src="https://nervousystemhome.files.wordpress.com/2019/12/oroluk_island_akk.jpg?w=1024" alt="This is the alt text medium image" />
+  <figcaption>Figura 1. Isla de Pingelap.</figcaption>
+</div>
 
 Este fenómeno es el resultado del efecto fundador, un interesante concepto evolutivo que puede explicar la aparición de características insólitas en los casos en los que un grupo reducido de individuos heterogéneo da lugar a una nueva población (Mosley, 2015).
 
@@ -47,15 +49,19 @@ La incidencia del Huntington es de 0,38 por cada 100.000 personas al año. Aplic
 
 La enfermedad del Huntington se caracteriza por la repetición anormal (36 veces o más) de una secuencia de ADN localizada en el cromosoma 4. Esta mutación tiene lugar en el gen que codifica la proteína huntingtina, y da lugar a una versión anormal de la misma que se relaciona con la aparición de los síntomas descritos previamente (aunque no está claro de qué manera).  Se trata de una enfermedad autosómica dominante. ¿Qué quiere decir esto? Nuestro material genético está compuesto por 23 pares de cromosomas (es decir, somos organismos diploides): 22 pares de autosomas y un par de cromosomas sexuales que determinan, entre otras características, el sexo.
 
-![](https://nervousystemhome.files.wordpress.com/2019/12/ucsc_human_chromosome_colours.png?w=1024)
-_Figura 2_. 23 pares de cromosomas humanos. El par de cromosomas 4, el afectado por la mutación del Huntington, ha sido representado en rojo.
+<div className="Image__Small">
+  <img src="https://nervousystemhome.files.wordpress.com/2019/12/ucsc_human_chromosome_colours.png?w=1024" alt="This is the alt text small image" />
+  <figcaption>Figura 2. 23 pares de cromosomas humanos. El par de cromosomas 4, el afectado por la mutación del Huntington, ha sido representado en rojo.</figcaption>
+</div>
 
 El cromosoma 4 en el que se localiza la mutación característica del Huntington es un autosoma. Cada par está compuesto por un ejemplar paterno y un ejemplar materno. Es decir, cada progenitor nos dota de una de sus dos versiones de cada cromosoma. Así, si la mutación se encuentra en uno de los cromosomas de uno de los antecesores (como suele ser el caso), hay un cincuenta por ciento de probabilidad de que un descendiente lo reciba. Algunas enfermedades exigen la presencia de dos versiones de la mutación (cada una proviniendo de uno de los antecesores). En el caso del Huntington no es así: la presencia de la mutación en uno de los cromosomas es suficiente para que la enfermedad se desarrolle. A esto se le conoce como enfermedad genética dominante (Osmosis, 2019). 
 
 La neurodegeneración tiene lugar principalmente en el núcleo caudado y el putamen, estructuras pertenecientes a los ganglios basales, regiones cerebrales relacionadas con el movimiento voluntario. El núcleo caudado y el putamen forman parte del estriado dorsal, y tienen un papel importante en la inhibición del movimiento. Esto puede explicar algunos de los síntomas principales de la enfermedad como los movimientos coréicos (puesto que hay una disminución de las células encargadas de inhibirlos). 
 
-![](https://nervousystemhome.files.wordpress.com/2019/12/schematic_illustration_of_projection_fibers_esp.jpg?w=1024)
-_Figura 3_. Representación de los ganglios basales. El estriado dorsal, que incluye el putamen, el globo pálido y el núcleo caudado, ha sido representado en verde. Esta estructura es la principal afectada por la neurodegeneración del Huntington.
+<div className="Image__Small">
+  <img src="https://nervousystemhome.files.wordpress.com/2019/12/schematic_illustration_of_projection_fibers_esp.jpg?w=1024" alt="This is the alt text small image" />
+  <figcaption>Figura 3. Representación de los ganglios basales. El estriado dorsal, que incluye el putamen, el globo pálido y el núcleo caudado, ha sido representado en verde. Esta estructura es la principal afectada por la neurodegeneración del Huntington.</figcaption>
+</div>
 
 Cabe señalar que estos movimientos no pueden ser voluntariamente inhibidos, pero cesan durante las horas de sueño. La muerte neuronal es probablemente debida a una agregación proteica de la versión aberrante de la huntingtina. Las estructuras cerebrales afectadas en el Huntington se caracterizan además por tener una actividad neurotransmisora perturbada (es decir, la actividad de las moléculas encargadas de establecer la comunicación entre las neuronas se ve afectada). Concretamente, la actividad gabaérgica y acetilcolinérgica se ve disminuída, mientras que la actividad dopaminérgica se ve incrementada (Osmosis, 2019).
 
@@ -69,10 +75,10 @@ El Huntington es una enfermedad neurodegenerativa con un importante componente g
 
 **Referencias**
 
-European Huntington Association. (s.f.). What is Huntington’s Disease? – European Huntington Association. Recuperado 22 diciembre, 2019, de [http://eurohuntington.org/what-is-hd/](http://eurohuntington.org/what-is-hd/)
+European Huntington Association. (s.f.). What is Huntington’s Disease? – European Huntington Association. Recuperado 22 diciembre, 2019. [_Fuente_](http://eurohuntington.org/what-is-hd/)
 
-Mosley, M. (2015, 28 septiembre). La isla llena de gente que sólo puede ver en blanco y negro. Recuperado 22 diciembre, 2019, de [https://www.bbc.com/mundo/noticias/2015/09/150928_salud_isla_daltonicos_ig](https://www.bbc.com/mundo/noticias/2015/09/150928_salud_isla_daltonicos_ig)
+Mosley, M. (2015, 28 septiembre). La isla llena de gente que sólo puede ver en blanco y negro. Recuperado 22 diciembre, 2019. [_Fuente_](https://www.bbc.com/mundo/noticias/2015/09/150928_salud_isla_daltonicos_ig)
 
-Osmosis. (2019, 7 mayo). Huntington disease - causes, symptoms, diagnosis, treatment & pathology [Archivo de vídeo ]. Recuperado 22 diciembre, 2019, de [https://www.youtube.com/watch?v=nJoS5MOqmH4](https://www.youtube.com/watch?v=nJoS5MOqmH4)
+Osmosis. (2019, 7 mayo). Huntington disease - causes, symptoms, diagnosis, treatment & pathology [Archivo de vídeo ]. Recuperado 22 diciembre, 2019. [_Fuente_](https://www.youtube.com/watch?v=nJoS5MOqmH4)
 
-Pringsheim, T., Wiltshire, K., Day, L., Dykeman, J., Steeves, T., & Jette, N. (2012). The incidence and prevalence of Huntington's disease: A systematic review and meta-analysis. Movement Disorders, 27(9), 1083–1091. [https://doi.org/10.1002/mds.25075](https://doi.org/10.1002/mds.25075)  
+Pringsheim, T., Wiltshire, K., Day, L., Dykeman, J., Steeves, T., & Jette, N. (2012). The incidence and prevalence of Huntington's disease: A systematic review and meta-analysis. Movement Disorders, 27(9), 1083–1091. [_Fuente_](https://doi.org/10.1002/mds.25075)  

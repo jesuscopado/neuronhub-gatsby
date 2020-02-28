@@ -28,8 +28,10 @@ La demencia se caracteriza por un deterioro cognitivo progresivo que obstaculiza
 
 La demencia con cuerpos de Lewy (DCL) es una enfermedad neurodegenerativa caracterizada por la formación de agregados de proteína tanto en las neuronas como en las células no neuronales del sistema nervioso. Estos agregados son denominados cuerpos de Lewy cuando se sitúan en el soma neuronal, y neuritas de Lewy cuando se sitúan en el axón o en las dendritas. El componente principal de los cuerpos de Lewy es la proteína α-sinucleína, la cual está implicada en otras sinucleinopatías como la enfermedad de Parkinson.
 
-![](https://nervousystemhome.files.wordpress.com/2020/02/lewy.jpg?w=600)
-Figura 1. Micrografía de una sección de neocórtex de un paciente de demencia con cuerpos de Lewy. Las neuronas aparecen coloreadas en azul oscuro (tinción de Nissl). Los cuerpos de Lewy (acumulaciones densas de proteína de color marrón) y las neuritas de Lewy (hilos de color marrón de menor densidad que los cuerpos de Lewy) han sido teñidos mediante inmunotinción.
+<div className="Image__Tall">
+  <img src="https://nervousystemhome.files.wordpress.com/2020/02/lewy.jpg?w=600" alt="This is the alt text tall image" />
+  <figcaption>Figura 1. Micrografía de una sección de neocórtex de un paciente de demencia con cuerpos de Lewy. Las neuronas aparecen coloreadas en azul oscuro (tinción de Nissl). Los cuerpos de Lewy (acumulaciones densas de proteína de color marrón) y las neuritas de Lewy (hilos de color marrón de menor densidad que los cuerpos de Lewy) han sido teñidos mediante inmunotinción.</figcaption>
+</div>
 
 Este tipo de demencia afecta ligeramente más a los hombres que a las mujeres (National Institute of Aging, 2018). Según una revisión sistemática realizada por Zaccai, McCracken y Brayne (2005) sobre la prevalencia y la incidencia de la DCL, entre un 0 y un 5% de la población general padece la enfermedad (la variabilidad es debida a los criterios de inclusión utilizados en cada estudio analizado, puesto que el diagnóstico de la enfermedad no es fácil como se explicará más adelante). Asimismo, este mismo estudio constata la aparición de 1 caso por cada 1000 personas cada año (Zaccai, McCracken y Brayne, 2005). Así pues, la demencia con cuerpos de Lewy es una enfermedad relativamente común entre las patologías asociadas a la edad. La edad media de inicio se sitúa en torno a los 70 años (Outeiro et al., 2019). La edad es considerada el principal factor de riesgo. Si bien la causa de la enfermedad es desconocida, la pérdida neuronal se asocia a la acumulación de cuerpos de Lewy (National Institute of Aging, 2018). Las neuronas dopaminérgicas (capaces de sintetizar la dopamina), con un papel importante en la cognición, el movimiento, la motivación, el sueño y el estado de ánimo, se ven afectadas por la neurodegeneración en la demencia con cuerpos de Lewy. De la misma forma, la neurodegeneración afecta a las neuronas acetilcolinérgicas (capaces de sintetizar la acetilcolina), implicadas en la memoria y el aprendizaje.
 
@@ -59,12 +61,12 @@ La demencia con cuerpos de Lewy es una enfermedad neurodegenerativa que afecta a
 
 **Referencias**
 
-Boeve, B. F. (2009). REM sleep behavior disorder. _Annals of the New York Academy of Sciences, 1184_(1), 15–54. [https://doi.org/10.1111/j.1749-6632.2009.05115.x](https://doi.org/10.1111/j.1749-6632.2009.05115.x)
+Boeve, B. F. (2009). REM sleep behavior disorder. _Annals of the New York Academy of Sciences, 1184_(1), 15–54. [_Fuente_](https://doi.org/10.1111/j.1749-6632.2009.05115.x)
 
-Gale, S. A., Acar, D., & Daffner, K. R. (2018). Dementia. _The American Journal of Medicine, 131_(10), 1161–1169. [https://doi.org/10.1016/j.amjmed.2018.01.022](https://doi.org/10.1016/j.amjmed.2018.01.022)
+Gale, S. A., Acar, D., & Daffner, K. R. (2018). Dementia. _The American Journal of Medicine, 131_(10), 1161–1169. [_Fuente_](https://doi.org/10.1016/j.amjmed.2018.01.022)
 
-Éditions Larousse. (s.f.). Définitions : syndrome - Dictionnaire de français Larousse. Recuperado 17 febrero, 2020, de [https://www.larousse.fr/dictionnaires/francais/syndrome/76170](https://www.larousse.fr/dictionnaires/francais/syndrome/76170)
+Éditions Larousse. (s.f.). Définitions : syndrome - Dictionnaire de français Larousse. Recuperado 17 febrero, 2020. [_Fuente_](https://www.larousse.fr/dictionnaires/francais/syndrome/76170)
 
-National Institute of Aging. (2018). What Is Lewy Body Dementia? Recuperado 17 febrero, 2020, de [https://www.nia.nih.gov/health/what-lewy-body-dementia](https://www.nia.nih.gov/health/what-lewy-body-dementia)
+National Institute of Aging. (2018). What Is Lewy Body Dementia? Recuperado 17 febrero, 2020. [_Fuente_](https://www.nia.nih.gov/health/what-lewy-body-dementia)
 
-Outeiro, T. F., Koss, D. J., Erskine, D., Walker, L., Kurzawa-Akanbi, M., Burn, D., . . . McKeith, I. (2019). Dementia with Lewy bodies: an update and outlook. _Molecular Neurodegeneration, 14(_1). [https://doi.org/10.1186/s13024-019-0306-8](https://doi.org/10.1186/s13024-019-0306-8)
+Outeiro, T. F., Koss, D. J., Erskine, D., Walker, L., Kurzawa-Akanbi, M., Burn, D., . . . McKeith, I. (2019). Dementia with Lewy bodies: an update and outlook. _Molecular Neurodegeneration, 14_(1). [_Fuente_](https://doi.org/10.1186/s13024-019-0306-8)
