@@ -20,8 +20,8 @@ author: Juan García Ruiz
 
 Hace dos siglos (1817), José Zorrilla nacía en Valladolid para regalarle a la humanidad su _Don Juan Tenorio_. Mientras tanto, en Varsovia, un niño de 7 años conocido como Fryderyk Chopin componía su primera obra para piano: la _polonesa en sol menor_. Al mismo tiempo, en el Reino Unido, la medicina recibía una importante aportación por parte de un médico de 62 años llamado James Parkinson: _Essay on the Shaking Palsy_. En esta publicación, James describió por primera vez los síntomas de la enfermedad que hoy recibe su nombre. Dos siglos más tarde, el ser humano persiste en su intento de desentrañar la complejidad de la enfermedad de Parkinson, sin cura por el momento. Las incógnitas en torno a la enfermedad de Parkinson vibran en las mentes contemporáneas con la misma tenacidad que lo hacen la desventura de _Don Juan Tenorio_ y el misterio de las composiciones de Chopin. 
 
-<div className="Image__Small">
-  <img src="https://nervousystemhome.files.wordpress.com/2019/11/figura-1.png?w=242" alt="This is the alt text small image" />
+<div className="Image__Tall">
+  <img src="https://nervousystemhome.files.wordpress.com/2019/11/figura-1.png?w=242" alt="This is the alt text tall image" />
   <figcaption>Figura 1. Portada del ensayo publicado en 1817 en el que James Parkinson describió por primera vez los síntomas de la enfermedad de Parkinson.</figcaption>
 </div>
 
@@ -112,7 +112,7 @@ Barone, P., Antonini, A., Colosimo, C., Marconi, R., Morgante, L., Avarello, T. 
 
 Chou, K. (2017). _Parkinson's Disease: The Basics_ [Archivo de vídeo]. Recuperado 10 noviembre, 2019. [_Fuente_](https://www.youtube.com/watch?v=p2UgCT0o07I)
 
-Colaboradores de Wikipedia. (2019, 3 noviembre). _Acatisia._ Recuperado 10 noviembre, 2019. [[_Fuente_]](https://es.wikipedia.org/wiki/Acatisia)
+Colaboradores de Wikipedia. (2019, 3 noviembre). _Acatisia._ Recuperado 10 noviembre, 2019. [_Fuente_](https://es.wikipedia.org/wiki/Acatisia)
 
 INE. (2018). _INEbase / Población por comunidades, edad (grupos quinquenales), Españoles/Extranjeros, Sexo y Año_. Recuperado 10 noviembre, 2019. [_Fuente_](https://www.ine.es/jaxi/Datos.htm?path=/t20/e245/p08/l0/)
 

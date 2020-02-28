@@ -66,12 +66,12 @@ Arnold, E. S., & Fischbeck, K. H. (2018). Spinal muscular atrophy. _Neurogenetic
 
 Hesse, H. (1986). _Demian_. Barcelona, España: Seix Barral.
 
-MedlinePlus. (2018). Fasciculaciones musculares: MedlinePlus enciclopedia médica. Recuperado 13 enero, 2020, de [_Fuente_](https://medlineplus.gov/spanish/ency/article/003296.htm)
+MedlinePlus. (2018). Fasciculaciones musculares: MedlinePlus enciclopedia médica. Recuperado 13 enero, 2020. [_Fuente_](https://medlineplus.gov/spanish/ency/article/003296.htm)
 
-National Institute of Neurological Disorders and Stroke. (2016). Atrofia Muscular Espinal. Recuperado 13 enero, 2020, de [_Fuente_](https://espanol.ninds.nih.gov/trastornos/atrofia-muscular-espinal.htm)
+National Institute of Neurological Disorders and Stroke. (2016). Atrofia Muscular Espinal. Recuperado 13 enero, 2020. [_Fuente_](https://espanol.ninds.nih.gov/trastornos/atrofia-muscular-espinal.htm)
 
-NIH. (2020, 7 enero). Spinal muscular atrophy. Recuperado 18 enero, 2020, de [_Fuente_](https://ghr.nlm.nih.gov/condition/spinal-muscular-atrophy)
+NIH. (2020, 7 enero). Spinal muscular atrophy. Recuperado 18 enero, 2020. [_Fuente_](https://ghr.nlm.nih.gov/condition/spinal-muscular-atrophy)
 
-The ALS Association. (s.f.). Facts You Should Know. Recuperado 13 octubre, 2019, de [_Fuente_](http://www.alsa.org/about-als/facts-you-should-know.html)
+The ALS Association. (s.f.). Facts You Should Know. Recuperado 13 octubre, 2019. [_Fuente_](http://www.alsa.org/about-als/facts-you-should-know.html)
 
-World Health Organization. (2010, 8 diciembre). WHO | Neurological disorders affect millions globally: WHO report. Recuperado 19 enero, 2020, de [_Fuente_](https://www.who.int/mediacentre/news/releases/2007/pr04/en/)
+World Health Organization. (2010, 8 diciembre). WHO | Neurological disorders affect millions globally: WHO report. Recuperado 19 enero, 2020. [_Fuente_](https://www.who.int/mediacentre/news/releases/2007/pr04/en/)

@@ -71,4 +71,4 @@ Lefebvre, S., Burlet, P., Liu, Q., Bertrandy, S., Clermont, O., Munnich, A., . .
 
 Maeda, M., Harris, A. W., Kingham, B. F., Lumpkin, C. J., Opdenaker, L. M., McCahan, S. M., . . . Butchbach, M. E. R. (2014). Transcriptome Profiling of Spinal Muscular Atrophy Motor Neurons Derived from Mouse Embryonic Stem Cells. _PLoS ONE, 9_(9), 1–18. [_Fuente_](https://doi.org/10.1371/journal.pone.0106818)
 
-Protein Atlas. (s.f.). SMN1 protein expression summary - The Human Protein Atlas. Recuperado 2 febrero, 2020, de [_Fuente_](https://www.proteinatlas.org/ENSG00000172062-SMN1)
+Protein Atlas. (s.f.). SMN1 protein expression summary - The Human Protein Atlas. Recuperado 2 febrero, 2020. [_Fuente_](https://www.proteinatlas.org/ENSG00000172062-SMN1)

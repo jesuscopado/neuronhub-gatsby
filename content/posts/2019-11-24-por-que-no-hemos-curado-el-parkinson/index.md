@@ -103,7 +103,7 @@ Colaboradores de Wikipedia. (2019c, 18 noviembre). Amantadina. Recuperado 24 nov
 
 Hauser, R. A. (2018). Help cure Parkinson’s disease: please don’t waste the Golden Year. _Nature Partners Journals, 4_(1). [_Fuente_](https://doi.org/10.1038/s41531-018-0065-1)
 
-Kils, U. (s.f.). Iceberg. Recuperado 24 noviembre, 2019, de [_Fuente_](https://marine.rutgers.edu/herring/iceberg/berg0013/index.htm)
+Kils, U. (s.f.). Iceberg. Recuperado 24 noviembre, 2019. [_Fuente_](https://marine.rutgers.edu/herring/iceberg/berg0013/index.htm)
 
 Osmosis. (2019, 30 julio). _Parkinson's disease - causes, symptoms, diagnosis, treatment & pathology_ [Archivo de vídeo]. Recuperado 24 noviembre, 2019. [_Fuente_](https://www.youtube.com/watch?v=ARdGaE1sbBM)
 

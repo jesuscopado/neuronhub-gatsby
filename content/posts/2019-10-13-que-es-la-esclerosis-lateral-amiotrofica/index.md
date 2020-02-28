@@ -39,8 +39,10 @@ Las manifestaciones clínicas de la ELA incluyen una combinación de signos deri
 
 Las neuronas motoras conectan los músculos voluntarios con el sistema nervioso (véase _Figura 1_). Al degenerar estas neuronas, los músculos reciben una estimulación nerviosa pobre y se debilitan. En la mayoría de los casos, la enfermedad comienza afectando las extremidades. En otros casos, los primeros síntomas afectan al lenguaje y a la capacidad de deglutir los alimentos. En el 50% de los casos de ELA, los pacientes presentan además signos de demencia frontotemporal (Ralli, Lambiase, Artico, De Vincentiis & Greco, 2019).
 
-![](https://nervousystemhome.files.wordpress.com/2019/10/1.png?w=292)
-F_igura 1._ Representación del sistema nervioso central (cerebro y médula espinal) y de una sinapsis neuromuscular. El recuadro de la derecha muestra el detalle de las dos sinapsis del tracto corticoespinal: entre la neurona motora superior y la inferior, y entre la neurona motora inferior y el músculo. Las neuronas motoras van desde el cerebro hasta la médula espinal, pasando por el tronco cerebral, y envían a los músculos los mensajes nerviosos necesarios para realizar movimientos voluntarios como escribir. Imagen extraída de Wikipedia (Wikipedia contributors, 2019), traducida y modificada
+<div className="Image__Tall">
+  <img src="https://nervousystemhome.files.wordpress.com/2019/10/1.png?w=292" alt="This is the alt text tall image" />
+  <figcaption>Figura 1. Representación del sistema nervioso central (cerebro y médula espinal) y de una sinapsis neuromuscular. El recuadro de la derecha muestra el detalle de las dos sinapsis del tracto corticoespinal: entre la neurona motora superior y la inferior, y entre la neurona motora inferior y el músculo. Las neuronas motoras van desde el cerebro hasta la médula espinal, pasando por el tronco cerebral, y envían a los músculos los mensajes nerviosos necesarios para realizar movimientos voluntarios como escribir. Imagen extraída de Wikipedia (Wikipedia contributors, 2019), traducida y modificada</figcaption>
+</div>
 
 A medida que la enfermedad progresa, más neuronas motoras se van viendo afectadas y más partes del cuerpo pierden la movilidad voluntaria, hasta llegar a una parálisis total. Algunos músculos de la pared torácica como el diafragma pierden su movilidad, dificultando así la respiración (Ferguson & Elman, 2007; Hardiman, 2010; Lechtzin et al., 2018). Una de las diferencias de la Esclerosis Lateral Amiotrófica con respecto a otras enfermedades neurodegenerativas como el Alzheimer, es que los pacientes de esclerosis son plenamente conscientes de su estado físico, ya que las capacidades cognitivas se conservan. Este hecho hace que sea una de las enfermedades neurodegenerativas más duras psicológicamente.
 
@@ -54,16 +56,23 @@ _Hipótesis de los agregados_
 
 Algunos investigadores creen que una acumulación de agregados de proteínas en el interior de las células podría estar al origen de la neurodegeneración característica de la enfermedad. Antes de adentrarnos en esta hipótesis, recordemos brevemente el dogma central de la biología molecular a través de la _Figura 2_:
 
-![](https://nervousystemhome.files.wordpress.com/2019/10/2.png?w=584)
-_Figura 2._ Esquema simplificado de una célula eucariota representando los dos grandes procesos moleculares: transcripción de ADN en ARN mensajero (ARNm) en el núcleo celular, y traducción del ARNm en proteína en el citoplasma. El ADN está contenido en el núcleo celular y contiene la información genética de un organismo: los genes. Los genes son como un manual de instrucciones: la lectura de la secuencia genética da lugar en última instancia a la síntesis de proteínas, moléculas estructurales y funcionales de los seres vivos. La transcripción es una etapa intermedia igualmente importante, ya que los agentes moleculares encargados de fabricar las proteínas no saben leer el ADN, pero sí el ARNm. Nota: la replicación del ADN también forma parte del dogma central de la biología molecular, pero no ha sido representada en el esquema porque no es necesaria para la comprensión de lo que sigue.  
+<div className="Image__Small">
+  <img src="https://nervousystemhome.files.wordpress.com/2019/10/2.png?w=584" alt="This is the alt text small image" />
+  <figcaption>Figura 2. Esquema simplificado de una célula eucariota representando los dos grandes procesos moleculares: transcripción de ADN en ARN mensajero (ARNm) en el núcleo celular, y traducción del ARNm en proteína en el citoplasma. El ADN está contenido en el núcleo celular y contiene la información genética de un organismo: los genes. Los genes son como un manual de instrucciones: la lectura de la secuencia genética da lugar en última instancia a la síntesis de proteínas, moléculas estructurales y funcionales de los seres vivos. La transcripción es una etapa intermedia igualmente importante, ya que los agentes moleculares encargados de fabricar las proteínas no saben leer el ADN, pero sí el ARNm. Nota: la replicación del ADN también forma parte del dogma central de la biología molecular, pero no ha sido representada en el esquema porque no es necesaria para la comprensión de lo que sigue. </figcaption>
+</div>
 
 Volviendo a la enfermedad, Boeynaems (2017) explica en una conferencia de TEDx una interesante propuesta sobre los mecanismos moleculares de agregación de proteínas que subyacen a la ELA. 
 
 Según Boeynaems, la proteína responsable de la ELA es la TDP-43. TDP es una proteína necesaria para mantener el flujo de información genética de nuestras células (transcripción y traducción): el ADN, que se encuentra en el núcleo celular, debe ser transformado en ARN. La molécula de ARN sale entonces del núcleo y es leído por unas moléculas llamadas ribosomas, encargadas de sintetizar las proteínas a partir del código de ARN. Para que estos procesos puedan llevarse a cabo con normalidad, la concentración de TDP debe ser mayor en el núcleo que en el citoplasma. Una de las características de los pacientes de ELA es la perturbación de esta condición: las proteínas TDP se encuentran principalmente en el citoplasma, y una vez allí comienzan a agregarse y a formar placas que desencadenan la muerte neuronal. Un enfoque importante es el estudio del proceso que lleva a TDP a agregarse, ya que podría abrir vías terapéuticas para tratar la enfermedad.
 
-![](https://nervousystemhome.files.wordpress.com/2019/10/3-1.png?w=783)
-![](https://nervousystemhome.files.wordpress.com/2019/10/3.1.png?w=813)
-_Figura 3_. Representación esquemática de una célula sana (arriba) y de una célula aberrante (abajo). En condiciones normales, la proteína TDP se encuentra mayoritariamente en el interior del núcleo. La acumulación de TDP en el citoplasma da lugar a una interrupción de los procesos necesarios de expresión de proteínas, y acaba desencadenando una muerte celular. Según esta hipótesis, las neuronas motoras superior e inferior tienen este problema, y la concentración proteica daría lugar a la neurodegeneración. Los músculos que dejan de ser inervados por las neuronas motoras comienzan a atrofiarse, ocasionando los problemas de movilidad voluntaria característicos de la ELA.
+<div className="Image__Small">
+  <img src="https://nervousystemhome.files.wordpress.com/2019/10/3-1.png?w=783" alt="This is the alt text small image" />
+</div>
+
+<div className="Image__Small">
+  <img src="https://nervousystemhome.files.wordpress.com/2019/10/3.1.png?w=813" alt="This is the alt text small image" />
+  <figcaption>Figura 3. Representación esquemática de una célula sana (arriba) y de una célula aberrante (abajo). En condiciones normales, la proteína TDP se encuentra mayoritariamente en el interior del núcleo. La acumulación de TDP en el citoplasma da lugar a una interrupción de los procesos necesarios de expresión de proteínas, y acaba desencadenando una muerte celular. Según esta hipótesis, las neuronas motoras superior e inferior tienen este problema, y la concentración proteica daría lugar a la neurodegeneración. Los músculos que dejan de ser inervados por las neuronas motoras comienzan a atrofiarse, ocasionando los problemas de movilidad voluntaria característicos de la ELA.</figcaption>
+</div>
 
 _Hipótesis de las mutaciones_
 
@@ -87,28 +96,28 @@ Fomentando una ciencia para todos, quizá algún día no será necesario explica
 
 **Referencias**
 
-Boeynaems, S. (2017, 5 enero). _New insights in the molecular changes underlying ALS | Steven Boeynaems | TEDxUHasseltSalon_ [Archivo de vídeo ]. Recuperado 13 octubre, 2019, de [https://www.youtube.com/watch?v=oCBkzNi9kT4](https://www.youtube.com/watch?v=oCBkzNi9kT4)
+Boeynaems, S. (2017, 5 enero). _New insights in the molecular changes underlying ALS | Steven Boeynaems | TEDxUHasseltSalon_ [Archivo de vídeo ]. Recuperado 13 octubre, 2019. [_Fuente_](https://www.youtube.com/watch?v=oCBkzNi9kT4)
 
-Colaboradores de Wikipedia. (2019, 12 octubre). Fasciculación. Recuperado 13 octubre, 2019, de https://es.wikipedia.org/wiki/Fasciculaci%C3%B3n
+Colaboradores de Wikipedia. (2019, 12 octubre). Fasciculación. Recuperado 13 octubre, 2019. [_Fuente_](https://es.wikipedia.org/wiki/Fasciculaci%C3%B3n)
 
-Ferguson, T. A., & Elman, L. B. (2007). Neurorehabilitation Issues in Amyotrophic Lateral Sclerosis. _Neurorehabilitation, 22_(6), 409–416. [https://doi.org/10.1007/s00415-010-5830-y](https://doi.org/10.1007/s00415-010-5830-y)
+Ferguson, T. A., & Elman, L. B. (2007). Neurorehabilitation Issues in Amyotrophic Lateral Sclerosis. _Neurorehabilitation, 22_(6), 409–416. [_Fuente_](https://doi.org/10.1007/s00415-010-5830-y)
 
-Hardiman, O. (2010). Management of respiratory symptoms in ALS. _Journal of Neurology, 258_(3), 359–365. [https://doi.org/10.1007/s00415-010-5830-y](https://doi.org/10.1007/s00415-010-5830-y)
+Hardiman, O. (2010). Management of respiratory symptoms in ALS. _Journal of Neurology, 258_(3), 359–365. [_Fuente_](https://doi.org/10.1007/s00415-010-5830-y)
 
-Lechtzin, N., Cudkowicz, M. E., De Carvalho, M., Genge, A., Hardiman, O., Mitsumoto, H., . . . Andrews, J. A. (2018). Respiratory measures in amyotrophic lateral sclerosis. _Amyotrophic Lateral Sclerosis and Frontotemporal Degeneration, 19_(5-6), 321–330. https://doi.org/10.1080/21678421.2018.1452945
+Lechtzin, N., Cudkowicz, M. E., De Carvalho, M., Genge, A., Hardiman, O., Mitsumoto, H., . . . Andrews, J. A. (2018). Respiratory measures in amyotrophic lateral sclerosis. _Amyotrophic Lateral Sclerosis and Frontotemporal Degeneration, 19_(5-6), 321–330. [_Fuente_](https://doi.org/10.1080/21678421.2018.1452945)
 
-Logroscino, G., Traynor, B. J., Hardiman, O., Chio, A., Mitchell, D., Swingler, R. J., . . . Beghi, E. (2009). Incidence of amyotrophic lateral sclerosis in Europe. _Journal of Neurology, Neurosurgery & Psychiatry, 81_(4), 385–390. [https://doi.org/10.1136/jnnp.2009.183525](https://doi.org/10.1136/jnnp.2009.183525)
+Logroscino, G., Traynor, B. J., Hardiman, O., Chio, A., Mitchell, D., Swingler, R. J., . . . Beghi, E. (2009). Incidence of amyotrophic lateral sclerosis in Europe. _Journal of Neurology, Neurosurgery & Psychiatry, 81_(4), 385–390. [_Fuente_](https://doi.org/10.1136/jnnp.2009.183525)
 
-National Institute of Neurological Disorders and Stroke. (s.f.). Esclerosis lateral amiotrófica : National Institute of Neurological Disorders and Stroke (NINDS). Recuperado 13 octubre, 2019, de https://espanol.ninds.nih.gov/trastornos/esclerosis_lateral_amiotrofica.htm
+National Institute of Neurological Disorders and Stroke. (s.f.). Esclerosis lateral amiotrófica : National Institute of Neurological Disorders and Stroke (NINDS). Recuperado 13 octubre, 2019. [_Fuente_](https://espanol.ninds.nih.gov/trastornos/esclerosis_lateral_amiotrofica.htm)
 
-Pansarasa, O., Bordoni, M., Diamanti, L., Sproviero, D., Gagliardi, S., & Cereda, C. (2018). SOD1 in Amyotrophic Lateral Sclerosis: “Ambivalent” Behavior Connected to the Disease. _International Journal of Molecular Sciences, 19_(5), 1345. https://doi.org/10.3390/ijms19051345
+Pansarasa, O., Bordoni, M., Diamanti, L., Sproviero, D., Gagliardi, S., & Cereda, C. (2018). SOD1 in Amyotrophic Lateral Sclerosis: “Ambivalent” Behavior Connected to the Disease. _International Journal of Molecular Sciences, 19_(5), 1345. [_Fuente_](https://doi.org/10.3390/ijms19051345)
 
-Ralli, M., Lambiase, A., Artico, M., De Vincentiis, M., & Greco, A. (2019). Amyotrophic Lateral Sclerosis: Autoimmune Pathogenic Mechanisms, Clinical Features, and Therapeutic Perspectives. _IMAJ_, 21, 438–443. [https://doi.org/10.1136/jnnp.2009.183525](https://doi.org/10.1136/jnnp.2009.183525)
+Ralli, M., Lambiase, A., Artico, M., De Vincentiis, M., & Greco, A. (2019). Amyotrophic Lateral Sclerosis: Autoimmune Pathogenic Mechanisms, Clinical Features, and Therapeutic Perspectives. _IMAJ_, 21, 438–443. [_Fuente_](https://doi.org/10.3390/ijms19051345)
 
-Sangwan, S., & Eisenberg, D. S. (2016). Perspective on SOD1 mediated toxicity in Amyotrophic Lateral Sclerosis. _Postepy Biochemii, 62_(3), 362–369. https://doi.org/10.3109/21678421.2014.903974
+Sangwan, S., & Eisenberg, D. S. (2016). Perspective on SOD1 mediated toxicity in Amyotrophic Lateral Sclerosis. _Postepy Biochemii, 62_(3), 362–369. [_Fuente_](https://doi.org/10.3109/21678421.2014.903974)
 
-The ALS Association. (s.f.). Facts You Should Know. Recuperado 13 octubre, 2019, de http://www.alsa.org/about-als/facts-you-should-know.html
+The ALS Association. (s.f.). Facts You Should Know. Recuperado 13 octubre, 2019. [_Fuente_](http://www.alsa.org/about-als/facts-you-should-know.html)
 
-Valdmanis, P. N., Daoud, H., Dion, P. A., & Rouleau, G. A. (2009). Recent advances in the genetics of amyotrophic lateral sclerosis. _Current Neurology and Neuroscience Reports, 9_(3), 198–205. https://doi.org/10.1007/s11910-009-0030-9
+Valdmanis, P. N., Daoud, H., Dion, P. A., & Rouleau, G. A. (2009). Recent advances in the genetics of amyotrophic lateral sclerosis. _Current Neurology and Neuroscience Reports, 9_(3), 198–205. [_Fuente_](https://doi.org/10.1007/s11910-009-0030-9)
 
-Wikipedia contributors. (2019, 10 octubre). Motor neuron disease. Recuperado 13 octubre, 2019, de https://en.wikipedia.org/wiki/Motor_neuron_disease
+Wikipedia contributors. (2019, 10 octubre). Motor neuron disease. Recuperado 13 octubre, 2019. [_Fuente_](https://en.wikipedia.org/wiki/Motor_neuron_disease)
