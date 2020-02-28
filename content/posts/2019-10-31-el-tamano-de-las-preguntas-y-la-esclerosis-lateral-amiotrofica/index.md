@@ -151,11 +151,12 @@ InterPro. (s.f.). InterPro. Recuperado 23 octubre, 2019. [_Fuente_](https://www.
 
 Pfam. (s.f.). Pfam: Protein: TADBP_HUMAN (Q13148). Recuperado 23 octubre, 2019. [_Fuente_](https://pfam.xfam.org/protein/Q13148)
 
-The Human Protein Atlas. (s.f.). Tissue expression of TARDBP - Summary - The Human Protein Atlas. Recuperado 23 octubre, 2019. https://www.proteinatlas.org/ENSG00000120948-TARDBP/tissue
+The Human Protein Atlas. (s.f.). Tissue expression of TARDBP - Summary - The Human Protein Atlas. Recuperado 23 octubre, 2019. [_Fuente_](https://www.proteinatlas.org/ENSG00000120948-TARDBP/tissue)
 
 Structural Bioinformatics. (s.f.). The 20 Amino Acids: hydrophobic, hydrophilic, polar and charged amino acids. Recuperado 23 octubre, 2019. [_Fuente_](https://proteinstructures.com/Structure/Structure/amino-acids.html)
 
-UniProt. (2018, 28 febrero). SWISS-MODEL Repository | Q13148. Recuperado 1 noviembre, 2019. https://swissmodel.expasy.org/repository/uniprot/Q13148?csm=8E09A1206FB4EF4A
+UniProt. (2018, 28 febrero). SWISS-MODEL Repository | Q13148. Recuperado 1 noviembre, 2019. [_Fuente_](https://swissmodel.expasy.org/repository/uniprot/Q13148?csm=8E09A1206FB4EF4A)
+
 
 UniProtKB. (2002, 27 marzo). TARDBP - TAR DNA-binding protein 43 - Homo sapiens (Human) - TARDBP gene & protein. Recuperado 23 octubre, 2019. [_Fuente_](https://www.uniprot.org/uniprot/Q13148)
 
