@@ -10,7 +10,7 @@ tags:
 - neurodegeneración
 - TARDBP
 - TDP-43
-hero: "./images/5.jpeg"
+hero: "./images/5.jpg"
 excerpt: Desde que nace, el ser humano quiere entender. Con la aparición del lenguaje, las dudas comienzan a manifestarse a través de preguntas – qué es esto, quién es ése, la vida tiene algún sentido, y otras muchas cuestiones que podría formular un niño de tres años – agilizando así la comprensión del mundo. La curiosidad crece junto al ser hu
 timeToRead: 8
 author: Juan García Ruiz

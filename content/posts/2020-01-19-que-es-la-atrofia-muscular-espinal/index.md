@@ -11,7 +11,7 @@ tags:
 - enfermedad genética
 - neurociencia
 - neurodegeneración
-hero: "./images/1.jpeg"
+hero: "./images/10.jpg"
 excerpt: Entre las mariposas hay […] cierta especie nocturna en la que las hembras son menos numerosas que los machos. Las mariposas se reproducen como los demás animales
 ---
 

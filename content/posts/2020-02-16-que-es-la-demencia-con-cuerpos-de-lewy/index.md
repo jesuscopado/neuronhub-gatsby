@@ -12,7 +12,7 @@ tags:
 - neurociencia
 - neurodegeneración
 - sistema nervioso
-hero: "./images/3.jpeg"
+hero: "./images/12.jpg"
 excerpt: Imagina que un ser tan grande como el sol, de un millón de kilómetros de altura, se interesara por el comportamiento humano. Toma como ejemplo un comportamiento simple
 ---
 

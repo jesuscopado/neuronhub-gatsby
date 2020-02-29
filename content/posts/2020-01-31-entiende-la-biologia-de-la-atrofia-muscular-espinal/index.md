@@ -5,7 +5,7 @@ draft: false
 title: Entiende la biología de la Atrofia Muscular Espinal
 type: post
 url: /2020/01/31/entiende-la-biologia-de-la-atrofia-muscular-espinal/
-hero: "./images/2.jpeg"
+hero: "./images/11.jpg"
 excerpt: ¿Sabías que en el interior de tus células se encuentra el libro más antiguo y mejor conservado de la historia del ser humano? Comprendiendo el ADN, es posible entender el pasado. Hace cinco millones de años, una región del cromosoma cinco se duplicó en el ADN de un ancestro que compartimos con 
 ---
 
