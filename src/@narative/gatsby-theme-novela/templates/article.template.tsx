@@ -15,7 +15,7 @@ import { debounce } from "@utils";
 import ArticleAside from "../sections/article/Article.Aside";
 import ArticleHero from "../sections/article/Article.Hero";
 import ArticleControls from "@narative/gatsby-theme-novela/src/sections/article/Article.Controls";
-import ArticlesNext from "@narative/gatsby-theme-novela/src/sections/article/Article.Next";
+import ArticlesNext from "../sections/article/Article.Next";
 import ArticleSEO from "@narative/gatsby-theme-novela/src/sections/article/Article.SEO";
 import ArticleShare from "@narative/gatsby-theme-novela/src/sections/article/Article.Share";
 
