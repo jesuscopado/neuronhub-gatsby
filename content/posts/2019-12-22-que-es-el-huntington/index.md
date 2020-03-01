@@ -14,7 +14,7 @@ tags:
 - neurociencia
 - neurodegeneración
 - trastorno motor
-hero: "./images/8.jpeg"
+hero: "./images/8.jpg"
 excerpt: En 1775, un ciclón tropical acabó con el 90% de la población de la isla de Pingelap. Tan solo unas 20 personas sobrevivieron. Entre uno de los supervivientes se encontraba el gobernante de la isla, quien además era portador de una enfermedad genética muy poco frecuente que le obligaba a ver el mundo en blanco y negro conocida como acromatopsi
 timeToRead: 8
 author: Juan García Ruiz

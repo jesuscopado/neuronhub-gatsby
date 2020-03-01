@@ -40,6 +40,7 @@ module.exports = {
         contentAuthors: "content/authors",
         basePath: "/",
         authorsPage: true,
+        mailchimp: true,
         sources: {
           local: true,
           contentful: false
@@ -60,6 +61,12 @@ module.exports = {
         theme_color: `#fff`,
         display: `standalone`,
         icon: `src/assets/favicon.png`,
+      },
+    },
+    {
+      resolve: 'gatsby-plugin-mailchimp',
+      options: {
+        endpoint: 'https://neuronhub.us19.list-manage.com/subscribe/post?u=89902b60aacded954366416a9&amp;id=c428788c4d',
       },
     },
     {
