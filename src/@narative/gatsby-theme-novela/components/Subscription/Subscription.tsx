@@ -43,7 +43,7 @@ const Subscription: React.FC<{}> = () => {
       <SubscriptionContainer>
         <Content>
           <Heading>
-            Unéte a nuestra newsletter y recibe notificaciones sobre nuevo contenido
+            Únete a nuestra newsletter y recibe notificaciones sobre nuevo contenido
           </Heading>
           <Text>
             Sé el primero en recibir nuestro último contenido con la posibilidad 
