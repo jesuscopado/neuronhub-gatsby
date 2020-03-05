@@ -10,7 +10,7 @@ tags:
 - neurociencia
 - Parkinson
 - síntomas
-hero: "./images/7.jpeg"
+hero: "./images/7.jpg"
 excerpt: Los icebergs ilustran admirablemente los límites humanos en la exploración de la realidad. Se estima que la fracción visible supone tan solo una octava parte de la totalidad de la masa helada. Es decir, si un humano tuviera que estim
 timeToRead: 8
 author: Juan García Ruiz

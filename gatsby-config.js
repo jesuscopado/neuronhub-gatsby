@@ -14,7 +14,7 @@ module.exports = {
     siteUrl: `https://neuronhub.org`,
     description: `El objetivo de este blog es reunir el conocimiento que se ha generado en el ámbito de la neurociencia en todo el mundo. En un contexto en el que los neuromitos se extienden a una velocidad deslumbrante, este blog se compromete a derrumbarlos y a compartir con los lectores información fiable.`,
     hero: {
-      heading: `Bienvenido a neuronhub, el lugar donde la curiosidad es la única condición.
+      heading: `Enciende tus neuronas y apaga el resto.
       `,
       maxWidth: 652,
     },
