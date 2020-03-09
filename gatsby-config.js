@@ -12,7 +12,7 @@ module.exports = {
     title: `neuronhub`,
     name: `neuronhub`,
     siteUrl: `https://neuronhub.org`,
-    description: `El objetivo de este blog es reunir el conocimiento que se ha generado en el ámbito de la neurociencia en todo el mundo. En un contexto en el que los neuromitos se extienden a una velocidad deslumbrante, este blog se compromete a derrumbarlos y a compartir con los lectores información fiable.`,
+    description: `Entiende la neurociencia.`,
     hero: {
       heading: `Entiende la neurociencia.`,
       maxWidth: 652,
