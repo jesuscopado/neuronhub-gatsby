@@ -102,16 +102,23 @@ const HeadingsCSS = css`
   h1 *,
   h2,
   h2 * {
-    margin: 25px auto 18px;
+    margin: 20px auto 17px;
 
     ${mediaqueries.tablet`
-      margin: 30px auto 18px;
+      margin: 25px auto 17px;
     `};
   }
 
   h3,
   h3 * {
-    margin: 20px auto 10px;
+    margin: 12px auto 10px;
+  }
+
+  h4,
+  h4 *,
+  h5,
+  h5 * {
+    margin: 0px auto 10px;
   }
 
   h1,
