@@ -1,6 +1,6 @@
 ---
 author: Juan García Ruiz
-date: 2020-03-01 13:23:04+00:00
+date: 2020-02-29 13:23:04+00:00
 draft: false
 title: Entiende la biología de la demencia con cuerpos de Lewy
 type: post
