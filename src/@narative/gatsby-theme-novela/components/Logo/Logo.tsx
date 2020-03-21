@@ -9,7 +9,7 @@ const Logo: Icon = ({ fill = "white" }) => {
   return (
     <LogoContainer>
       <svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlnsXlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-        viewBox="120 240 625 100" xmlSpace="preserve" width="190" height="35">
+        viewBox="135 240 625 100" xmlSpace="preserve" width="190" height="35">
       <style type="text/css">
         {`
         .st0{fill:url(#SVGID_1_);}
