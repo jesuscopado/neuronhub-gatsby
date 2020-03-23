@@ -1,16 +1,15 @@
 ---
 author: Juan García Ruiz
-date: 2020-03-16 20:40:02+00:00
+date: 2020-03-16T20:40:02.000Z
 draft: false
 title: ¿Qué es la Ataxia de Friedreich?
 type: post
 url: /2020/03/15/que-es-la-ataxia-de-friedreich/
-hero: "./images/14.jpg"
+hero: ./images/14.jpg
 ---
-
 ¿Alguna vez te has preguntado cómo un cigoto, que es la célula resultante de la fecundación de un óvulo por un espermatozoide, acaba dando lugar a un ser humano adulto? ¿Cómo diferentes cigotos humanos pueden dar lugar a seres tan similares: de estatura próxima, de fisionomía y morfología parecidas, y constituidos de los mismos órganos y sistemas? Y, ¿cómo es posible que el desarrollo del ser humano se lleve a cabo siguiendo un patrón temporal tan regular? Sin duda el lector estará pensando en el ADN, la molécula que define quiénes somos. Pero ¿realmente el ADN define quienes somos, o más bien quienes podemos ser?
 
-El siglo pasado, un interesante debate científico separaba a aquellos que pensaban que la forma adulta de un organismo se encontraba perfectamente formada en el cigoto (hipótesis de la preformación), de aquellos que pensaban que la forma adulta de un organismo era el resultado de un desarrollo dividido en pasos graduales (hipótesis de la epigénesis). No habría sido necesario esperar un siglo para decantarse por la segunda hipótesis: hace 2370 años, Aristóteles escribía “_On the origins of animals_”, dónde formulaba que la epigénesis es el desarrollo de formas orgánicas individuales a partir de formas inmaduras estimulado por la _causa vital_ (Hurd, 2010). En otras palabras, no es el ADN el que determina quiénes somos, sino la forma en que éste se expresa.
+El siglo pasado, un interesante debate científico separaba a aquellos que pensaban que la forma adulta de un organismo se encontraba perfectamente formada en el cigoto (hipótesis de la preformación), de aquellos que pensaban que la forma adulta de un organismo era el resultado de un desarrollo dividido en pasos graduales (hipótesis de la epigénesis). No habría sido necesario esperar un siglo para decantarse por la segunda hipótesis: hace 2370 años, Aristóteles escribía “*On the origins of animals*”, dónde formulaba que la epigénesis es el desarrollo de formas orgánicas individuales a partir de formas inmaduras estimulado por la *causa vital* (Hurd, 2010). En otras palabras, no es el ADN el que determina quiénes somos, sino la forma en que éste se expresa.
 
 ¿Sigues teniendo algunas dudas? Si únicamente se considerara la secuencia de ADN, que es idéntica en todas las células de un organismo (sin contar las mutaciones espontáneas), ¿cómo se explicaría el hecho de que algunas células madre den lugar a neuronas y otras a células musculares? Si bien los genes son los mismos en todas nuestras células, el patrón de expresión no es el mismo en todas ellas. Existen diversos mecanismos epigenéticos que pueden estar al origen de la expresión diferencial de genes: algunos modifican el ADN (añadiendo grupos químicos como las metilaciones para silenciar la expresión genética), y otros el estado de la cromatina (asociación de ADN, ARN y proteínas contenidos en el núcleo celular) mediante procesos como la modificación de histonas, que son las proteínas encargadas de empaquetar el ADN. Ciertas modificaciones de histonas pueden dar lugar a una cromatina muy condensada (heterocromatina) en ciertas regiones del ADN, lo que dificulta o imposibilita la expresión genética de dichas zonas dado que la maquinaria proteica que se encarga de ello no puede acceder a los genes. Por el contrario, otras modificaciones de histonas disminuyen la condensación de la cromatina (eucromatina), dando lugar a un ADN más accesible a la maquinaria de expresión genética y por tanto facilitando la expresión de los genes contenidos en estas regiones (Hurd, 2010). Estas modificaciones son transitorias y variables en el tiempo, lo que explica el carácter secuencial y ordenado del desarrollo de un organismo. Tomando el ejemplo de las células que dan lugar a las neuronas, los genes que codifican proteínas importantes para la diferenciación celular en células musculares se encontrarían silenciados (en regiones de heterocromatina), mientras que aquellos que codifican proteínas importantes para la diferenciación neuronal se encontrarían en un estado de expresión activa (en regiones de eucromatina).
 
@@ -35,7 +34,7 @@ Según el estudio de Cook & Giunti (2017), en la actualidad una persona de cada 
 
 La ataxia de Friedrich es un trastorno multisistémico, afectando al sistema nervioso, ciculatorio y endocrino.
 
-##### Efectos sobre el sistema nervioso (Cook & Giunti, 2017) 
+##### Efectos sobre el sistema nervioso (Cook & Giunti, 2017)
 
 Los mencionados síntomas más comunes de la forma clásica de la ataxia de Friedrich, a saber la dificultad o imposibilidad de la marcha, el deterioro de la coordinación motora y el equilibrio, la pérdida de los reflejos a nivel de las piernas, y la disartria, son el resultado de un deterioro del sistema nervioso central y periférico. La ataxia se debe principalmente a una neuropatía sensorial periférica: atrofia de los nervios periféricos ascendentes que perjudica la percepción sensorial. Los pacientes presentan igualmente una degeneración de la vía espinocerebelar, compuesta por fibras nerviosas que conectan la médula espinal con el cerebelo y envían información propioceptiva (sensación sobre la posición relativa de las diferentes partes del cuerpo). Asimismo, la degeneración se manifiesta a nivel del núcleo dentado del cerebelo, al origen de los problemas de coordinación. La vía corticoespinal (o piramidal), que conecta la corteza motora cerebral con la médula espinal para ejercer los movimientos voluntarios, se ve afectada por la degeneración. Lo mismo ocurre a nivel de la vía corticopontocerebelar, que conecta la corteza con el cerebelo pasando por el puente troncoencefálico, enviando información de los movimientos en ejecución con el fin de ajustar la coordinación del mismo. Otros síntomas que pueden derivar de la degeneración nerviosa mencionada son los siguientes:
 
@@ -43,9 +42,9 @@ Los mencionados síntomas más comunes de la forma clásica de la ataxia de Frie
 * Espasticidad: contracción permanente de los músculos que impide la correcta ejecución de determinadas acciones como la manipulación de objetos o la marcha. 
 * Disfagia (dificultad para deglutir los alimentos).
 * Fijación ocular inestable.
-* Procesamiento auditivo aberrante, dificultando la comunicación junto con al disartria.
+* Procesamiento auditivo aberrante, dificultando la comunicación junto con la disartria.
 * Actividad aberrante de la vejiga, frecuencia urinaria alterada y problemas intestinales como la diarrea. 
-* Trastornos del sueño respiratorios tales que la apnea (interrupción temporal de la respiración acompañada de un despertar brusco). 
+* Trastornos del sueño respiratorios como la apnea (interrupción temporal de la respiración acompañada de un despertar brusco). 
 * Déficits cognitivos de atención, velocidad de procesamiento de la información, función ejecutiva, memoria de trabajo y razonamiento espacial. 
 * Depresión, relacionada con una disminución del volumen de materia gris en el lóbulo frontal.
 * Ansiedad.
@@ -84,18 +83,18 @@ En otras palabras, la escasez de frataxina en las células dificulta la formaci�
 
 ### Mensaje para llevarse a casa
 
-La ataxia de Friedrich es una enfermedad neurodegenerativa genética que afecta una gran porción de la población europea joven y adulta a diferentes niveles como el sistema nervioso, el sistema circulatorio (miocardio), y el sistema endocrino. Sus principales síntomas son los problemas de marcha y los reflejos, la pérdida de coordinación motora y la articulación de las palabras. La mortalidad es debida principalmente a los déficits cardiacos, y ocurre a edades tempranas. Los pacientes pueden presentar otras enfermedades como diabetes, y tienen a desarrollar depresión y ansiedad. La causa de la enfermedad es la mutación en el gen de la frataxina, una proteína esencial en el metabolismo celular cuya disminución provoca la muerte celular en regiones del sistema nervioso como la corteza cerebral, el cerebelo y las fibras nerviosas corticoespinales, corticocerebelares, espinocerebelosas, entre otras. Esta degeneración del sistema nervioso da cuenta de los problemas motores, sensoriales y de coordinación. Los mecanismos mediante los cuales la mutación afecta al miocardio son diferentes (en este caso, no se trata de degeneración celular sino de hipertrofia). Se trata de una enfermedad compleja desde un punto de vista sintomático, y los mecanismos fisiopatológicos que relacionan la mutación con las disfunciones celulares deben continuar siendo explorados.
+La ataxia de Friedrich es una enfermedad neurodegenerativa genética que afecta a una gran porción de la población europea joven y adulta a diferentes niveles como el sistema nervioso, el sistema circulatorio (miocardio), y el sistema endocrino. Sus principales síntomas son los problemas de marcha y los reflejos, la pérdida de coordinación motora y la articulación de las palabras. La mortalidad es debida principalmente a los déficits cardiacos, y ocurre a edades tempranas. Los pacientes pueden presentar otras enfermedades como diabetes, y tienden a desarrollar depresión y ansiedad. La causa de la enfermedad es la mutación en el gen de la frataxina, una proteína esencial en el metabolismo celular cuya disminución provoca la muerte celular en regiones del sistema nervioso como la corteza cerebral, el cerebelo y las fibras nerviosas corticoespinales, corticocerebelares, espinocerebelosas, entre otras. Esta degeneración del sistema nervioso da cuenta de los problemas motores, sensoriales y de coordinación. Los mecanismos mediante los cuales la mutación afecta al miocardio son diferentes (en este caso, no se trata de degeneración celular sino de hipertrofia). Se trata de una enfermedad compleja desde un punto de vista sintomático, y los mecanismos fisiopatológicos que relacionan la mutación con las disfunciones celulares deben continuar siendo explorados.
 
 #### Referencias
 
-Cook, A., & Giunti, P. (2017). Friedreich’s ataxia: clinical features, pathogenesis and management. _British Medical Bulletin, 124_(1), 19–30. [_Fuente_](https://doi.org/10.1093/bmb/ldx034)
+Cook, A., & Giunti, P. (2017). Friedreich’s ataxia: clinical features, pathogenesis and management. *British Medical Bulletin, 124*(1), 19–30. *[Fuente](https://doi.org/10.1093/bmb/ldx034)*
 
-Hurd, P. J. (2010). The era of epigenetics. _Briefings in Functional Genomics, 9_(5-6), 425–428. [_Fuente_](https://doi.org/10.1093/bfgp/elq039)
+Hurd, P. J. (2010). The era of epigenetics. *Briefings in Functional Genomics, 9*(5-6), 425–428. *[Fuente](https://doi.org/10.1093/bfgp/elq039)*
 
-Mayo Clinic. (2018). Left ventricular hypertrophy. Recuperado 17 marzo, 2020, de [_Fuente_](https://www.mayoclinic.org/diseases-conditions/left-ventricular-hypertrophy/symptoms-causes/syc-20374314)
+Mayo Clinic. (2018). Left ventricular hypertrophy. Recuperado 17 marzo, 2020, de *[Fuente](https://www.mayoclinic.org/diseases-conditions/left-ventricular-hypertrophy/symptoms-causes/syc-20374314)*
 
-UniProtKB. (s.f.). [FXN - Frataxin]. Recuperado 17 marzo, 2020, de [_Fuente_](https://www.uniprot.org/uniprot/Q16595)
+UniProtKB. (s.f.). \[FXN - Frataxin]. Recuperado 17 marzo, 2020, de *[Fuente](https://www.uniprot.org/uniprot/Q16595)*
 
-Wikipedia contributors. (2020a). Spinal cord. Recuperado 17 marzo, 2020, de [_Fuente_](https://en.wikipedia.org/wiki/Spinal_cord)
+Wikipedia contributors. (2020a). Spinal cord. Recuperado 17 marzo, 2020, de *[Fuente](https://en.wikipedia.org/wiki/Spinal_cord)*
 
-Wikipedia contributors. (2020b). Electron transport chain. Recuperado 17 marzo, 2020, de [_Fuente_](https://en.wikipedia.org/wiki/Electron_transport_chain)
+Wikipedia contributors. (2020b). Electron transport chain. Recuperado 17 marzo, 2020, de *[Fuente](https://en.wikipedia.org/wiki/Electron_transport_chain)*
