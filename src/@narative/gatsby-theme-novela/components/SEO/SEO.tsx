@@ -85,7 +85,7 @@ const SEO: React.FC<HelmetProps> = ({
     path ? `${site.siteUrl}${path}` : site.siteUrl;
 
   // If no image is provided lets use the favicon
-  image = image ? image : 'faviconSquare.png';
+  image = image ? image : '/faviconSquare.png';
 
   const metaTags = [
     { charset: 'utf-8' },
