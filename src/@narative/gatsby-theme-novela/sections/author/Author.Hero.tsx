@@ -110,7 +110,7 @@ const Subheading = styled.p`
   text-align: center;
 
   ${mediaqueries.phablet`
-    font-size: 14px;
+    font-size: 15px;
   `}
 `;
 
@@ -120,6 +120,6 @@ const Social = styled.div`
   margin-top: 35px;
 
   ${mediaqueries.phablet`
-    font-size: 14px;
+    font-size: 15px;
   `}
 `;
