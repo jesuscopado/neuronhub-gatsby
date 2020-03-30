@@ -1,19 +1,9 @@
 - name: Juan García Ruiz
   bio: |
     Desde antes de tener conciencia de mí mismo pregunto por qué. Estudié psicología y bioquímica para entender. En este sitio trato de responder. Cuando no escribo toco el piano.
+  longBio: |
+    Se necesita toda una vida para reconciliar las dos partes de un corazón dividido entre las letras y las ciencias. Fascinado por los grandes narradores de la talla de Roald Dahl, por la imaginación y el preciosismo de la escritura de Isaac Asimov, y por el alcance semántico de las metáforas de Julio Cortázar, trato de escribir artículos comprensibles por todo el mundo y cuya lectura sea lo más agradable posible. La complejidad de los temas tratados exige una toma de perspectiva, que en mi caso ha sido construida bajo el prisma de mi formación universitaria en psicología y bioquímica, con el rigor y la fundamentación que exigen ambas disciplinas.
   avatar: ./avatars/juan-garcia.jpeg
   social:
     - url: https://www.linkedin.com/in/garciaruizjuan/
   featured: true
-
-- name: Jesus Copado
-  bio: |
-    Written by You. This is where your author bio lives. Share your work, your
-    joys and of course, your Twitter handle.
-  avatar: ./avatars/juan-garcia.jpeg
-  social:
-    - url: https://unsplash.com
-    - url: https://stackoverflow.com
-    - url: https://github.com
-    - url: https://github.com
-    - url: https://github.com
