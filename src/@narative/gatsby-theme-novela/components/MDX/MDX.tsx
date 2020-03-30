@@ -117,7 +117,9 @@ const HeadingsCSS = css`
   h4,
   h4 *,
   h5,
-  h5 * {
+  h5 *,
+  h6,
+  h6 * {
     margin: 0px auto 10px;
   }
 
