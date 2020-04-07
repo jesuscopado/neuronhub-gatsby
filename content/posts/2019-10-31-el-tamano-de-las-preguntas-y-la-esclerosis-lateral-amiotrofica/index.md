@@ -24,7 +24,7 @@ La gran pregunta de partida da título al artículo precedente: [¿Qué es la Es
 
 En otras palabras, este artículo pretende explorar la proteína TDP-43, relacionada con la Esclerosis Lateral Amiotrófica. Permítanse unas últimas insistencias: sobre la necesidad de no perder de vista la pregunta principal en ningún momento, y sobre la necesidad de una lectura escéptica y crítica ante las grandes preguntas (y sobre todo, ante las grandes respuestas).
 
-**El carnet de identidad de la proteína TDP-43**
+### El carnet de identidad de la proteína TDP-43
 
 Como se explicó en el [anterior artículo](https://www.neuronhub.org/Que-es-la-Esclerosis-Lateral-Amiotrofica), la proteína _TDP-43_ está íntimamente relacionada con la ELA. La comprensión de la proteína (en términos de estructura, función, localización celular, presencia en diferentes organismos) puede aportar algo de luz a la aparición de la patología. En primer lugar, no hay que olvidar que todos poseemos esta proteína. En este punto, una pregunta completamente justificada es: ¿por qué no todos tenemos ELA? Todos poseemos la proteína en su estado salvaje (sin mutaciones), pero la patología se relaciona con una forma mutante de la misma. Es decir, la Esclerosis Lateral Amiotrófica está asociada a ciertas modificaciones genéticas del ADN que codifica esta proteína (ver _Figura 1_). 
 
@@ -44,7 +44,7 @@ TDP-43 es una proteína compuesta por 414 aminoácidos (piezas elementales que c
   <figcaption>Figura 2. Localización subcelular de la proteína TDP-43. Imagen extraida de UniProtKB (2002) </figcaption>
 </div>
 
-**Fotos de carnet de la proteína TDP-43**
+### Fotos de carnet de la proteína TDP-43
 
 <div className="Image__Small">
   <img src="https://nervousystemhome.files.wordpress.com/2019/11/333333333-1.png?w=393" alt="This is the alt text small image" />
@@ -56,7 +56,7 @@ TDP-43 es una proteína compuesta por 414 aminoácidos (piezas elementales que c
   <figcaption>Figura 4. Representación esquemática bidimensional de los 414 aminoácidos de la proteína TDP-43 y de sus dominios proteicos (en azul y verde). Los dominios proteicos son secuencias de más de 20 aminoácidos conservadas a lo largo de la evolución. Los dominios pueden ser considerados como unidades independientes de las proteínas, poseen funciones especificas y pueden estar presentes diferentes proteínas de una misma especie o en proteínas de especies diferentes. Continuando con la metáfora del ladrillo para hacer referencia a los aminoácidos en una proteína, los dominios son estructuras formadas por ladrillos con una función particular y diferenciada (por ejemplo, constituirían un _dominio_ los ladrillos que forman un puente, un pozo o el tejado de una casa). Por esta razón, los dominios son secuencias de aminoácidos que pueden considerarse independientes de la proteína y de la especie. Su presencia en las proteínas se ha visto favorecida por la selección natural, y evolucionan de forma independiente. Imagen extraída de InterPro (s. f.) (simplificada y modificada). Ademas de los dominios (representados en la imagen) TDP-43 posee dos motivos proteicos. Los motivos, tal y como los dominios, son regiones conservadas a lo largo de la evolución pero de tamaño menor, normalmente de menos de veinte aminoácidos. En el caso de TDP-43 un primer motivo entre las posiciones 82 y 98 esta relacionado con la migración de la proteína al núcleo. El segundo motivo se encuentra entre los aminoácidos 239 y 250 y esta asociado a la exportación de la proteína desde el núcleo hasta el citoplasma.</figcaption>
 </div>
 
-**Hábitat natural de la proteína TDP-43**
+### Hábitat natural de la proteína TDP-43
 
 TDP-43 es una proteína presente en el ser humano así como en otras especies como el gibón de mejillas blancas (primate hominoideo), el orangután de Sumatra, el narval (cetáceo dentado) o el diablo de Tasmania (Altschul et al., 1997). Esta proteína implicada en la regulación genética se expresa de forma constitutiva (en todos los tejidos) aunque no en las mismas proporciones:
 
@@ -67,19 +67,19 @@ TDP-43 es una proteína presente en el ser humano así como en otras especies co
 
 En resumen, la proteína TDP-43 se encuentra en diversas especies, y está presente en la mayoría de los tejidos estudiados (tejido endocrino, pulmones, tejido muscular…). Tan solo en los ojos y en la sangre es posible encontrar el ARNm que codifica la proteína, pero no el producto final (TDP-43). La expresión de la proteína en el tejido nervioso (representado como _Cerebro_) es coherente con la hipótesis que propone que una expresión aberrante de la proteína está al origen de la degeneración neuronal de la ELA.
 
-**Actividad profesional de la proteína TDP-43**
+### Actividad profesional de la proteína TDP-43
 
 TDP-43 está implicada en la generación y el procesamiento del ARN. Los ARN regulados por TDP-43 son diversos: ARN mensajeros que codifican proteínas implicadas en la supervivencia neuronal, por ejemplo. Esta proteína es capaz de unirse a las repeticiones de dos ribonucleótidos (_ladrillos_ del ARN): uracilo (U) y guanina (G). Esto es posible gracias a la presencia de los dos dominios proteicos mencionados arriba: RRM1 y RRM2. Entre las funciones del ARN reguladas por TDP-43 se encuentra la maduración del mismo (etapa esencial para su traducción en proteínas) o su estabilización (controlando la longitud de la extremidad poliadenilada del ARN, que es una de las características de los ARN maduros). En casos de estrés oxidativo, la proteína TDP-43 forma complejos compuestos constituidos de otras TDP-43 y ARN: estos agregados reciben el nombre de gránulos de estrés (_GS_ según su sigla en inglés) y permiten la supervivencia de las células. Asimismo, TDP-43 contribuye a la periodicidad de los ritmos circadianos estabilizando las proteínas CRY1 y CRY2 indirectamente.
 
 La base de datos UniProtKB reúne información proveniente de diferentes fuentes relativa a las funciones moleculares y los procesos biológicos en los que TDP-43 está implicada. A continuación se recogen algunos de ellos (listas no exhaustivas): 
 
-_Funciones moleculares de TDP-43:_
+##### Funciones moleculares de TDP-43:
 
  * Capacidad de interactuar con el ADN en estado de doble hélice: TDP-43 es capaz de favorecer la interacción de la proteína ARN polimerasa II con el ADN, contribuyendo a la regulación (activación o inhibición) de la transcripción en ARN mensajero (rol de _factor de transcripción_). Fuente: BHF-UCL, ProtInc y Ensembl.
  * Capacidad de interactuar con el ARN. Fuente: BHF-UCL.
  * Capacidad de interactuar con proteínas idénticas a ella. Fuente: IntAct.
 
-_Procesos biológicos relacionados con TDP-43:_
+##### Procesos biológicos relacionados con TDP-43:
 
  * Procesamiento del ARNm. Fuente: UniProtKB.
  * Regulación negativa de la expresión genética. Fuente: CACAO.
@@ -91,7 +91,7 @@ _Procesos biológicos relacionados con TDP-43:_
  * Regulación del ritmo circadiano. Fuente: Ensembl.
  * Regulación de la estabilización de proteínas. Fuente: UniProtKB.
 
-**Cuando no todo va bien: la proteína mutante**
+### Cuando no todo va bien: la proteína mutante
 
 Las mutaciones genéticas que pueden dar lugar a variantes naturales (pero patológicos) de la proteína TDP-43 son diversas. Una característica común de estas mutaciones es que todas consisten en la sustitución de un solo nucleótido por otro en la secuencia de ADN (ver _Figura 1_), traduciéndose en la modificación puntual de uno de los 414 aminoácidos (ladrillos de las proteínas). Los aminoácidos afectados identificados hoy en día en los casos de ELA están comprendidos entre la posición 169 y la 393 (UniProtKB, 2002).
 
@@ -109,11 +109,11 @@ Las mutaciones genéticas que pueden dar lugar a variantes naturales (pero patol
 
 En resumen, a partir de los casos de mutación de la proteína TDP-43 es posible sospechar que las regiones de baja complejidad (zonas más frecuentemente mutadas) deben jugar un papel importante en el funcionamiento normal de las células, y que su perturbación puede tener consecuencias negativas para las mismas.
 
-**Los efectos de la mutación**
+### Los efectos de la mutación
 
 Recordemos que la proteína TDP-43 posee dominios, motivos proteicos y regiones de baja complejidad, y que sus funciones están relacionadas con la regulación de la expresión genética. Las mutaciones relacionadas con el ELA afectan principalmente a las regiones de baja complejidad. ¿De qué manera pueden las mutaciones del ADN acarrear problemas funcionales para la célula? Una posible explicación en el caso de la ELA podría ser el fenómeno conocido como separación de fase (_LLPS_ o _liquid-liquid phase separation_, en inglés).
 
-_La separación de fase_
+##### La separación de fase
 
 De la misma forma que el agua puede encontrarse en estado líquido, gaseoso (vapor) y sólido (hielo), las proteínas pueden adoptar un estado líquido cuando se encuentran disueltas en el espacio celular (también líquido), o un estado sólido más estático. El estado de liquidez de las proteínas depende de su composición en aminoácidos: existen 20 _ladrillos_ diferentes, todos ellos con propiedades físicas y químicas diferentes. Así, las proteínas con regiones de baja complejidad (zonas en las que abundan los aminoácidos glicina, glutamina, alanina y prolina), pueden tener estructuras tridimensionales muy diversas, ser muy dinámicas e interactuar con otras proteínas del mismo tipo, dando lugar a una agregación de proteínas importante (Wolozin & Ivanov, 2019). Cuando las proteínas con regiones de baja complejidad en estado líquido comienzan a interactuar entre sí, es posible observar la formación de unas _gotas_ proteicas relativamente separadas del resto del medio celular (de la misma forma que el aceite, en estado líquido, se separa del agua, también en estado líquido). Por ello este fenómeno es conocido como separación de fase líquido-líquido. 
 
@@ -121,27 +121,26 @@ En ocasiones, cuando las moléculas de ARN interactúan con ciertas proteínas c
 
 Las interacciones entre las regiones de baja complejidad son débiles, lo que permite que los gránulos de estrés se formen y se deformen constantemente. Las transiciones de estado entre las proteínas y sus interacciones con el ARNm son una parte esencial de la regulación del metabolismo del ARN (Wolozin & Ivanov, 2019).
 
-_El papel de las mutaciones_
+##### El papel de las mutaciones
 
 Las mutaciones mencionadas más arriba relacionadas con la ELA afectan principalmente a las regiones de baja complejidad. Estas regiones capaces de formar y deformar agregados proteicos son necesarias para el metabolismo del ARN. La literatura habla además de una relación entre la formación de agregados estables de TDP-43 en el citoplasma (ver [¿Qué es la Esclerosis Lateral Amiotrófica?](https://www.neuronhub.org/Que-es-la-Esclerosis-Lateral-Amiotrofica)) y la neurodegeneración de las neuronas motoras características de la ELA. ¿Cómo se relaciona todo esto? Una posibilidad es que las mutaciones que dan lugar a la sustitución de un aminoácido por otro, de lugar a una proteína final compuesta de _ladrillos_ con propiedades más afines que las de la proteína salvaje (no mutada). Esto tendría como consecuencia una estabilización de las interacciones entre las proteínas, favoreciendo la formación de gránulos de estrés, pero dificultando su desorganización. Dicho de otra forma, una explicación del efecto de las mutaciones sobre la célula podría ser una alteración del metabolismo del ARN (cuyo buen funcionamiento necesita la transición constante entre el estado líquido y los gránulos de estrés). La alteración del metabolismo del ARN y por lo tanto de la expresión genética en células en las que las mutaciones de TDP-43 han tenido lugar, hacen inviable la supervivencia de la célula. 
 
 **Nota: la hipótesis del párrafo precedente es personal, no ha sido extraída de ningún artículo (al contrario que el resto del contenido), y no es la única posibilidad. El objetivo es ilustrar esta importante parte de la investigación: la reflexión. Sin esta etapa, las respuestas a las pequeñas preguntas no son más que informaciones aisladas y alejadas de la pregunta principal.**
 
 Si se confirmara experimentalmente la hipótesis del aumento
-de la estabilidad derivado de las mutaciones, podrían plantearse otras
-preguntas: 
+de la estabilidad derivado de las mutaciones, podrían plantearse otras preguntas: 
 
  * ¿Existen otras proteínas además de TDP-43 con regiones de baja complejidad capaces de desencadenar o agravar la enfermedad? (esto permitiría saber si la explicación de las regiones de baja complejidad es suficiente)
  * La ELA se caracteriza por una acumulación de TDP-43 citoplásmica y una reducción de la concentración de la misma en el núcleo celular. Sin embargo, los gránulos de estrés pueden formarse naturalmente tanto en el citoplasma como en el núcleo. ¿Qué factores intervienen en la diferencia de concentraciones en los casos de enfermedad?
  * ¿Las mutaciones descritas en los casos de ELA ocurren únicamente en el tejido nervioso? Si es así, ¿a qué podría ser debido? Si no es así, ¿cuáles son los efectos de las mutaciones en otros tejidos?
 
-**Lo que ahora sabes**
+### Lo que ahora sabes
 
 La proteína TDP-43 tiene funciones importantes relacionadas con la expresión genética. Los dominios RRM1 y RRM2 presentes en la proteína permiten la interacción con el ARNm. Las regiones de baja complejidad facilitan las interacciones con otras proteínas TDP-43 y permiten la formación de gránulos de estrés, necesarios para que la cinética de la expresión de genes sea adecuada. Las mutaciones de las regiones de baja complejidad podrían estar relacionadas con la agregación aberrante (casi irreversible) de TDP-43 y con la perturbación de las funciones genéticas asociadas. Esto podría explicar la degeneración de la neurona motora característica de la ELA, y como consecuencia la atrofia muscular. 
 
 Las grandes preguntas son importantes, pero para responderlas hay que pasar por pequeñas preguntas. La relación entre éstas debe ser establecida por medio del razonamiento. Es más práctico avanzar lentamente resolviendo pequeñas incógnitas que no avanzar en absoluto tratando de responder un interrogante trascendental y ambicioso. Es importante promover el pensamiento crítico y el escepticismo ante  aquellos medios que dicen haber dado con la piedra filosofal. Desde que nace, el ser humano quiere entender. Esto no quiere decir que deba conformarse con cualquier explicación. 
 
-**Referencias**
+#### Referencias
 
 Altschul S. F., Madden,T. L., Schäffer,A. A., Zhang, J., Zhang, Z., Miller, W. and Lipman, D. J. (1997) Gapped BLAST and PSI-BLAST: a new generation of protein database search programs. _Nucleic Acids Res._, _25_, 3389–3402.
 

@@ -22,7 +22,7 @@ La relación entre el tamaño del sol y el ser humano es análoga a la relación
 
 Las enfermedades neurodegenerativas suelen ser consideradas como síndromes, definidos como conjunto de síntomas relacionados con un estado patológico que permiten orientar el diagnóstico (traducido de Éditions Larousse, s.f.). En otras palabras, la etiología de las enfermedades neurodegenerativas no tiene una causa única y precisa, sino que es de una gran complejidad: entender el comportamiento de todos los agentes que acaban dando lugar a los síntomas observables puede considerarse tan difícil como la comprensión de la cultura humana por un ser de tamaño estelar.
 
-**¿Qué es la demencia?**
+### ¿Qué es la demencia?
 
 La demencia se caracteriza por un deterioro cognitivo progresivo que obstaculiza el desarrollo de las actividades cotidianas y genera una gran dependencia en las personas que la sufren. Las causas de la demencia pueden ser de naturaleza variada: neurológica, neuropsiquiátrica o relativa a otras enfermedades (Gale, Acar & Daffner, 2018).
 
@@ -35,7 +35,7 @@ La demencia con cuerpos de Lewy (DCL) es una enfermedad neurodegenerativa caract
 
 Este tipo de demencia afecta ligeramente más a los hombres que a las mujeres (National Institute of Aging, 2018). Según una revisión sistemática realizada por Zaccai, McCracken y Brayne (2005) sobre la prevalencia y la incidencia de la DCL, entre un 0 y un 5% de la población general padece la enfermedad (la variabilidad es debida a los criterios de inclusión utilizados en cada estudio analizado, puesto que el diagnóstico de la enfermedad no es fácil como se explicará más adelante). Asimismo, este mismo estudio constata la aparición de 1 caso por cada 1000 personas cada año (Zaccai, McCracken y Brayne, 2005). Así pues, la demencia con cuerpos de Lewy es una enfermedad relativamente común entre las patologías asociadas a la edad. La edad media de inicio se sitúa en torno a los 70 años (Outeiro et al., 2019). La edad es considerada el principal factor de riesgo. Si bien la causa de la enfermedad es desconocida, la pérdida neuronal se asocia a la acumulación de cuerpos de Lewy (National Institute of Aging, 2018). Las neuronas dopaminérgicas (capaces de sintetizar la dopamina), con un papel importante en la cognición, el movimiento, la motivación, el sueño y el estado de ánimo, se ven afectadas por la neurodegeneración en la demencia con cuerpos de Lewy. De la misma forma, la neurodegeneración afecta a las neuronas acetilcolinérgicas (capaces de sintetizar la acetilcolina), implicadas en la memoria y el aprendizaje.
 
-**La genética de la demencia con cuerpos de Lewy**
+### La genética de la demencia con cuerpos de Lewy
 
 El papel de los genes en esta enfermedad no está del todo claro. Parece evidente la existencia de un componente genético, puesto que se han identificado casos de familias con un historial médico en el que la enfermedad se presenta con mayor frecuencia de la esperada. Según Outeiro et al. (2019), los hermanos de los afectados tienen más del doble de probabilidades de desarrollar la enfermedad.
 
@@ -45,21 +45,21 @@ El papel de la proteína sinucleína es complejo: ciertos estudios de familias c
 
 Según Outeiro et al. (2019), los factores de riesgo genéticos más importantes de la DCL son el gen APOE (relacionado igualmente con la enfermedad de Alzheimer) y el gen GBA. No obstante, la DCL es una enfermedad heterogénea desde un punto de vista genético, con poca evidencia de mutaciones directamente implicadas en la patogénesis.
 
-**¿Cuáles son los síntomas de la DCL?**
+### ¿Cuáles son los síntomas de la DCL?
 
 Las pacientes de DCL suelen presentar un deterioro cognitivos fluctuantes (problemas atencionales, de memoria, de orientación…), con periodos de lucidez y periodos más deficitarios. Asimismo, son características las alucinaciones, normalmente visuales, aunque se han registrado casos de alucinaciones auditivas y táctiles. Son frecuentes los signos de parkinsonismo (rigidez, bradiquinesia, temblor en estado de reposo), en común con la enfermedad de Parkinson, lo que invita a pensar que el funcionamiento de la α-sinucleína puede estar relacionado con los sistemas motores. Ciertos pacientes de DCL presentan trastornos de conducta de la fase REM, consistentes en una ausencia de atonía muscular durante esta fase del sueño. En condiciones normales, la fase REM se caracteriza por los movimientos oculares rápidos y la atonía muscular completa (el cuerpo permanece inmóvil). Este trastorno del sueño afecta principalmente a la segunda característica: los pacientes mantienen el tono muscular y pueden desencadenar movimientos violentos, y vocalizaciones anormales (Boeve, 2009). El diagnóstico de la DCL implica la presencia de al menos dos de los síntomas descritos.
 
-**El diagnóstico**
+### El diagnóstico
 
 La demencia con cuerpos de Lewy es una enfermedad infradiagnosticada. Según Outeiro et al. (2019), 50% de los sujetos que presentan cuerpos de Lewy en el tejido nervioso, presentan al mismo tiempo características histológicas típicas de la enfermedad de Alzheimer como placas de amiloide y ovillos neurofibrilares, así como una historia clínica de deterioro cognitivo característico del Alzheimer. Los síntomas de la enfermedad con cuerpos de Lewy suelen ser confundidos con otras enfermedades psiquiátricas como el Alzheimer o la esquizofrenia (National Institute of Aging, 2018). Asimismo, dada la dificultad de rastrear los signos motores a partir de una autopsia, los síntomas de parkinsonismo pueden igualmente dificultar el diagnóstico de la DCL. Además, el diagnóstico de la DCL requiere que la aparición de la demencia preceda u ocurra al mismo tiempo que los signos de parkinsonismo (de lo contrario, podría tratarse de una enfermedad diferente: la demencia de la enfermedad de Parkinson). En este sentido, se ha tomado como convención la _regla del año_: periodo crítico de 12 meses aproximadamente entre la aparición de la demencia y la aparición de los síntomas motores (Outeiro et al., 2019).
 
 Otra de las dificultades asociadas al diagnóstico es la escasez de biomarcadores, es decir pistas biológicas que permiten detectar fácilmente la enfermedad. Los biomarcadores actuales son: la presencia reducida de transportadores de dopamina en los ganglios basales, asociado a la pérdida neuronal en esta región cerebral, y detectable mediante tomografía por emisión de positrones o mediante tomografía computarizada de emisión monofotónica (técnicas de imaginería biomédica); la pérdida de inervación nerviosa cardiaca, detectable mediante gammagrafía de perfusión miocárdica; y la ausencia de atonía durante la fase REM, detectable mediante análisis polisomnográficos (Outeiro et al., 2019). La presencia de al menos uno de los biomarcadores junto con uno de los síntomas principales descritos más arriba (deterioro cognitivo con fluctuaciones, alucinaciones, parkinsonismo, y trastorno del sueño REM) es suficiente para diagnosticar la demencia con cuerpos de Lewy con una probabilidad de error baja (Outeiro et al., 2019).
 
-**Lo que ahora sabes (y lo que no)**
+### Lo que ahora sabes (y lo que no)
 
 La demencia con cuerpos de Lewy es una enfermedad neurodegenerativa que afecta a las neuronas dopaminérgicas y acetilcolinérgicas caracterizada por la aparición de agregados de proteínas como la α-sinucleína en los somas y en las proyecciones neuronales, conocidos como cuerpos de Lewy y neuritas de Lewy, respectivamente.  La relación entre los cuerpos y neuritas de Lewy y la neurodegeneración sigue resultando un misterio. Entre los principales síntomas de la enfermedad destacan el déficit cognitivo, los problemas motores típicos del parkinsonismo, los trastornos de conducta de la fase REM y las alucinaciones visuales. La demencia con cuerpos de Lewy es considerada una enfermedad infradiagnosticada dada la escasez de biomarcadores y la confusión con otras enfermedades, entre otras razones. Si bien no se considera una enfermedad genética y la mayoría de los casos son considerados esporádicos, el estudio de ciertos casos de demencia con cuerpos de Lewy en determinadas familias afectadas ha permitido identificar algunos candidatos genéticos como el gen APOE y el gen GBA.
 
-**Referencias**
+#### Referencias
 
 Boeve, B. F. (2009). REM sleep behavior disorder. _Annals of the New York Academy of Sciences, 1184_(1), 15–54. [_Fuente_](https://doi.org/10.1111/j.1749-6632.2009.05115.x)
 

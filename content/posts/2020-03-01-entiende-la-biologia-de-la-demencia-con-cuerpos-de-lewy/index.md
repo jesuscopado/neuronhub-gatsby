@@ -23,7 +23,7 @@ excerpt: ¿Son las ciudades seres vivos? Nadie pone en duda el hecho de que una 
 
 Reflexionar sobre los diferentes niveles de organización (molécula, organismo, ciudad, país…) siempre es interesante. Y este ejercicio de pensamiento puede hacerse en los dos sentidos. Este artículo se centra en un nivel de organización celular y molecular. Las neuronas son cuerpos organizados compuestos por diferentes moléculas. Cuando las moléculas empiezan a fallar, las células experimentan sus consecuencias. Cuando muchas células experimentan sus consecuencias, es posible que tejidos e incluso órganos comiencen a funcionar de forma deficiente. Y cuando esto ocurre, los problemas se hacen visible a ojos del ser humano.
 
-**¿Qué ocurre a nivel cerebral?**
+### ¿Qué ocurre a nivel cerebral?
 
 La demencia con cuerpos de Lewy es la tercera enfermedad neurodegenerativa más común tan solo después del Alzheimer y del Parkinson. La mayoría de los pacientes de demencia con cuerpos de Lewy (DCL) presentan una pérdida de neuronas dopaminérgicas en la sustancia negra, una región perteneciente a los ganglios basales (ver _Figura 1_). Asimismo, la patología afecta de forma considerable a nivel del neocórtex (capa más externa del cerebro, también conocida como corteza cerebral) y del sistema límbico (ver _Figura 2_). El neocórtex está implicado en funciones superiores como la memoria, la orientación espacial y el lenguaje (Wikipedia contributors, 2020a). El sistema límbico, por su parte, se asocia a funciones como la emoción, la memoria a largo plazo y la olfacción (Wikipedia contributors, 2020b).
 
@@ -46,13 +46,13 @@ Desde un punto de vista macroscópico, los cerebros de las personas con DCL mani
 
 A pesar de los descubrimientos sobre las características macroscópicas y microscópicas de la DCL en el sistema nervioso, los ensayos clínicos no encuentran correlaciones entre la densidad de cuerpos de Lewy y factores como la edad de aparición de la enfermedad, su duración o la gravedad de los síntomas. Además, en la actualidad no está claro si los cuerpos de Lewy constituyen un evento patológico con consecuencias negativas sobre la supervivencia neuronal, o tan solo son una consecuencia neuroprotectora de otro evento patológico en el contexto de la enfermedad (Outeiro et al. 2019). La búsqueda de mejores predictores es necesaria, y el papel de los agregados de α-sinucleína debe ser estudiado con más profundidad.
 
-**Mecanismos moleculares de aparición de los cuerpos de Lewy**
+### Mecanismos moleculares de aparición de los cuerpos de Lewy
 
 A pesar de que su papel en la demencia de cuerpos de Lewy no está del todo claro, la agregación de α-sinucleína es un evento central en esta patología. La agregación de esta proteína comienza por un proceso conocido como nucleación, en el que diferentes monómeros (una _unidad_ de proteína) interaccionan formando oligómeros (agrupaciones de varias proteínas). Esta etapa es relativamente lenta, pero dado que las estructuras formadas son demasiado inestables, estas tienden a estabilizarse durante la etapa de elongación formando agrupaciones de oligómeros a una velocidad mucho más importante. La agregación de oligómeros da lugar a configuraciones estructurales más estables que continúan a adherirse hasta lograr una fibrilación, estado de elevada agregación (Outeiro et al., 2019). Una vez los agregados de α-sinucleína formados, estos se dispersan entre las neuronas mediante la inclusión de más α-sinucleína intacta, como se explica más arriba. Las regiones cerebrales que no presentan α-sinucleína en abundancia no dan lugar a la agregación, puesto que la fase de nucleación necesita una gran presencia de la proteína para iniciar este proceso (Outeiro et al., 2019).
 
 En conclusión, se ha avanzado bastante en la comprensión de los mecanismos de agregación, que se relacionan de alguna forma con la toxicidad neuronal y los síntomas de la DCL. No obstante, su papel exacto sigue siendo una incógnita.
 
-**¿Existe un tratamiento para la demencia con cuerpos de Lewy?**
+### ¿Existe un tratamiento para la demencia con cuerpos de Lewy?
 
 En la actualidad no existe ningún tratamiento para curar la demencia con cuerpos de Lewy. La medicación actual se centra en el alivio sintomático, y utiliza fármacos destinados originalmente a otras enfermedades como el Parkinson o el Alzheimer (Lee, Cummings, Decourt, Leverenz & Sabbagh, 2019).
 
@@ -60,11 +60,11 @@ Durante mucho tiempo, los ensayos clínicos se han centrado en el alivio de sín
 
 Las vías de acción futuras deben centrarse por una parte en el desarrollo de biomarcadores fiables que permitan compensar el problemático infradiagnóstico actual y dar lugar a diagnósticos más precoces, lo que facilitaría la participación en los ensayos clínicos y mejoraría la eficacia de los tratamientos. Por otra parte, es necesario encontrar nuevas dianas moleculares para el desarrollo de terapias específicas para la demencia con cuerpos de Lewy (Lee, Cummings, Decourt, Leverenz & Sabbagh, 2019).
 
-**Mensaje para llevarse a casa**
+### Mensaje para llevarse a casa
 
 La demencia con cuerpos de Lewy es una de las enfermedades neurodegenerativas más frecuentes. Su principal característica es la aparición cuerpos y neuritas de Lewy (agregados de la proteína α-sinucleína) y la degeneración de las neuronas dopaminérgicas de la sustancia negra (en los ganglios basales). La presencia de los cuerpos de Lewy no se limita al sistema nervioso, pero la enfermedad se asocia a la agregación en áreas cerebrales como el neocórtex y el sistema límbico. La agregación es el resultado de un proceso de nucleación de monómeros de proteína y de elongación de oligómeros de esta, formando estructuras fibrilares que podrían resultar tóxicas para la célula nerviosa, o bien ser el resultado de la toxicidad originada por otros agentes. Una hipótesis para explicar la expansión de las agregaciones de α-sinucleína propone un mecanismo de tipo priónico. En la actualidad no existe ninguna cura para la enfermedad, puesto que el diagnóstico es difícil a causa de la falta de marcadores fiables, los ensayos clínicos son escasos y la enfermedad es de una gran complejidad sintomática.  
 
-**Referencias**
+#### Referencias
 
 Beach, T. G., Adler, C. H., Sue, L. I., Vedders, L., Lue, L., White III, C. L., . . . Walker, D. G. (2010). Multi-organ distribution of phosphorylated α-synuclein histopathology in subjects with Lewy body disorders. _Acta Neuropathologica, 119_(6), 689–702. [_Fuente_](https://doi.org/10.1007/s00401-010-0664-3)
 

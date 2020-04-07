@@ -19,13 +19,13 @@ author: Juan García Ruiz
 
 Todo el mundo recuerda a Stephen Hawking como uno de los grandes físicos de los últimos tiempos. Todos compartimos la imagen de un lucidísimo científico cuyas importantes restricciones físicas, como su incapacidad de caminar o de hablar, son compensadas por su inteligencia sin límites. De la misma forma, todos estamos familiarizados con el fenómeno viral _Ice Bucket Challenge_, consistente en grabarse en video vertiéndose un cubo de agua helada sobre la figura. Lo que quizá no todo el mundo sabe es que Stephen Hawking se desplazaba en silla de ruedas y la gente se vaciaba un cubo de agua helada ante una cámara por una misma razón: la Esclerosis Lateral Amiotrófica (ELA). 
 
-**¿Qué es la Esclerosis Lateral Amiotrófica?**
+### ¿Qué es la Esclerosis Lateral Amiotrófica?
 
 La ELA es una enfermedad neurodegenerativa caracterizada por una muerte neuronal progresiva, afectando principalmente a las neuronas motoras. Esta patología puede acabar desencadenando una parálisis total y la esperanza de vida suele ser de 2 a 3 años tras la aparición de los primeros síntomas.
 
 La incidencia anual de la ELA en Europa es de entre 1 y 2 casos por cada 100.000 personas (Logroscino et al., 2009). En otras palabras, cada año aparecen en Europa entre 7000 y 15000 nuevos casos, el 90% de los cuales son esporádicos o no hereditarios (Valdmanis, Daoud, Dion & Rouleau, 2009). Por tanto, tan solo en el genoma del 10% restante pueden encontrarse mutaciones genéticas características de la ELA. La mayoría de pacientes tiene entre 40 y 70 años, siendo 55 la edad media de diagnóstico (The ALS Association, s.f.). La estadística muestra una incidencia mayor en los hombres que en las mujeres (Ralli, Lambiase, Artico, De Vincentiis & Greco, 2019).
 
-**¿Cómo se manifiesta la ELA?**
+### ¿Cómo se manifiesta la ELA?
 
 Las manifestaciones clínicas de la ELA incluyen una combinación de signos derivados del mal funcionamiento de la neurona motora superior y de la neurona motora inferior. Estos son algunos de sus síntomas (National Institute of Neurological Disorders and Stroke, s.f.; The ALS Association, s.f.-b):
 
@@ -48,11 +48,11 @@ A medida que la enfermedad progresa, más neuronas motoras se van viendo afectad
 
 La ELA no tiene un diagnóstico fácil, puesto que en la actualidad no existe ninguna prueba específica que lo permita. En el ámbito clínico, la identificación de la ELA pasa por una evaluación de los signos motores de una misma región del cuerpo. Según un estudio llevado a cabo por Paganoni et al. (2014), el tiempo medio requerido para hacer un diagnóstico definitivo es de entre 8 y 15 meses. 
 
-**¿Cuál es la causa de la ELA?**
+### ¿Cuál es la causa de la ELA?
 
 La etiología es la parte de la medicina que estudia las causas de las enfermedades. La etiología de la ELA es muy compleja y por el momento no existe una respuesta definitiva. El origen de esta enfermedad neurodegenerativa es una incógnita para 9 de cada 10 casos, ya que tan solo los casos hereditarios (1 de cada 10) son identificables mediante un análisis del genoma.  No obstante, se han elaborado algunas hipótesis para dar cuenta de la aparición de la enfermedad. 
 
-_Hipótesis de los agregados_
+##### Hipótesis de los agregados
 
 Algunos investigadores creen que una acumulación de agregados de proteínas en el interior de las células podría estar al origen de la neurodegeneración característica de la enfermedad. Antes de adentrarnos en esta hipótesis, recordemos brevemente el dogma central de la biología molecular a través de la _Figura 2_:
 
@@ -74,17 +74,17 @@ Según Boeynaems, la proteína responsable de la ELA es la TDP-43. TDP es una pr
   <figcaption>Figura 3. Representación esquemática de una célula sana (arriba) y de una célula aberrante (abajo). En condiciones normales, la proteína TDP se encuentra mayoritariamente en el interior del núcleo. La acumulación de TDP en el citoplasma da lugar a una interrupción de los procesos necesarios de expresión de proteínas, y acaba desencadenando una muerte celular. Según esta hipótesis, las neuronas motoras superior e inferior tienen este problema, y la concentración proteica daría lugar a la neurodegeneración. Los músculos que dejan de ser inervados por las neuronas motoras comienzan a atrofiarse, ocasionando los problemas de movilidad voluntaria característicos de la ELA.</figcaption>
 </div>
 
-_Hipótesis de las mutaciones_
+##### Hipótesis de las mutaciones
 
 Otros científicos apuestan por un problema genético: ciertas mutaciones en el genoma (modificaciones en el “manual de instrucciones”) dan lugar a la síntesis de proteínas anormales capaces de ejercer una nueva función tóxica para las células, y esto explicaría la neurodegeneración. Un ejemplo de mutación estrechamente relacionado con la ELA es la modificación de la Super Óxido Dismutasa (SOD). Esta mutación se encuentra en el 20% de los casos hereditarios de ELA (Sangwan & Eisenberg, 2016). Aún no está claro el lugar que ocupa esta proteína en la aparición de la enfermedad: se trata de una molécula que puede tener diferentes roles en función de la presencia o ausencia de mutación, así como en función de su localización celular (Pansarasa et al., 2018).
 
 El estudio de los casos genéticos (comparando el genoma de pacientes de ELA hereditaria con personas sanas) permite localizar exactamente los genes clave implicados en la enfermedad. Uno de los genes que se han encontrado es el C9orf72 (Boeynaems, 2017). Esta mutación ha sido estudiada en células de levadura y en moscas. La mutación C9orf72 está relacionada con la perturbación del equilibrio de la proteína TDP-43 (explicado arriba), dando lugar a una acumulación citoplasmática con respecto al núcleo. Por lo tanto, las hipótesis no tienen por qué ser mutuamente excluyentes.
 
-_Hipótesis del sistema inmune_
+##### Hipótesis del sistema inmune
 
 Además de la hipótesis de los “agregados” y de la hipótesis de las “mutaciones”, ciertas publicaciones atribuyen un rol central al sistema inmunitario (Ralli, Lambiase, Artico, De Vincentiis & Greco, 2019). Las células de nuestro sistema inmunitario se encargan de detectar y neutralizar las moléculas o los microbios susceptibles de ocasionarnos problemas que consiguen penetrar en nuestro organismo. En condiciones normales, estas células inmunitarias son especialistas en el reconocimiento de intrusos, y los diferencian perfectamente de las moléculas que forman parte de nuestro cuerpo o de los microorganismos que habitan pacíficamente nuestro organismo. Ciertas patologías consisten en una perturbación de este proceso de reconocimiento que da lugar a la identificación de moléculas endógenas (pertenecientes a nuestro organismo) como intrusos, y a su posterior destrucción. En estos casos hablamos de un mecanismo autoinmune. En cuanto a la ELA, no está claro cuál es la molécula endógena que podría ser reconocida por el sistema inmune desencadenando la defensa contra el propio organismo.
 
-**Lo que ahora sabes (y lo que no)**
+### Lo que ahora sabes (y lo que no)
 
 Ahora sabes por qué Stephen Hawking no podía caminar. La Esclerosis Lateral Amiotrófica es una enfermedad neurodegenerativa que afecta a las neuronas motoras, produciendo una atrofia muscular como consecuencia de su reducida estimulación. Los pacientes de ELA conservan sus capacidades cognitivas, pero la esperanza de vida es muy reducida a causa del gran deterioro físico. Hay varias hipótesis que tratan de explicar la etiología de la ELA: la hipótesis de los agregados, la hipótesis de las mutaciones, y la hipótesis del sistema inmune. Estas proposiciones no son contradictorias entre sí, pero no siempre es fácil establecer el vínculo entre los tres enfoques. Las tres teorías explican parte de la etiología de la ELA, pero no todas las incógnitas han sido resueltas. Aunque se han identificado moléculas que juegan un papel importante en la etiología de la ELA (proteínas como SOD1 o TDP-43; genes como C9orf72), aún hay muchas preguntas no resueltas relativas a la función de cada agente y a sus interacciones. En otras palabras, sabemos algunas cosas sobre ciertos procesos relacionados con la ELA, pero sabemos muy poco sobre la enfermedad en sí. Esto explica el hecho de que en la actualidad no exista ninguna cura y que nuestra mejor carta sea la mejora de la calidad de vida de los pacientes. 
 
@@ -94,7 +94,7 @@ En segundo lugar, la ciencia no debe ser un secreto entre los científicos y las
 
 Fomentando una ciencia para todos, quizá algún día no será necesario explicar lo que había detrás de los cubos de agua helada.
 
-**Referencias**
+#### Referencias
 
 Boeynaems, S. (2017, 5 enero). _New insights in the molecular changes underlying ALS | Steven Boeynaems | TEDxUHasseltSalon_ [Archivo de vídeo ]. Recuperado 13 octubre, 2019. [_Fuente_](https://www.youtube.com/watch?v=oCBkzNi9kT4)
 

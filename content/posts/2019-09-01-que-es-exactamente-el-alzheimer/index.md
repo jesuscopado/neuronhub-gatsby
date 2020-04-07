@@ -19,7 +19,7 @@ Todos conocemos a alguien que padece o ha padecido la enfermedad de Alzheimer, p
 
 La gran presencia del Alzheimer en nuestra sociedad nos ha familiarizado con los síntomas principales, como las pérdidas de memoria, los problemas de atención, la desorientación y el empobrecimiento del lenguaje. Pero más allá de eso, ¿qué sabemos sobre el Alzheimer?
 
-**La biología del Alzheimer**
+### La biología del Alzheimer
 
 La adquisición de la lectura es un proceso progresivo. Antes de lanzarnos a leer una gran novela como Rayuela, lo normal es pasar por historias más cortas como El Principito. Sin embargo, no sería posible empezar una historia sin haber aprendido a leer sílabas de forma independiente, y para ello es necesario haber aprendido a asociar los signos del español con sus sonidos. La comprensión del Alzheimer, tal y como adquisición de la lectura, debería comenzar por el reconocimiento de todas sus letras: los agentes moleculares y celulares.
 
@@ -36,7 +36,7 @@ Una vez precisada la necesidad de evitar el reduccionismo, resulta apropiado men
 
 En conclusión, el Alzheimer es una compleja patología consistente en una acumulación de desregulaciones que dan lugar a un depósito aberrante de proteínas como tau y beta amiloide. Estos agregados de proteínas resultan tóxicos para las neuronas, y esto puede relacionarse con la muerte neuronal característica del Alzheimer, localizada en estructuras como la corteza frontal, el hipocampo, y los núcleos basales. La atrofia cerebral progresiva está asociada con los conocidos síntomas del Alzheimer, como la pérdida de la memoria, la desorientación y los cambios en la personalidad. A pesar de los descubrimientos biológicos que han ensanchado la comprensión de la enfermedad, nos encontramos en un estadio temprano. En efecto, en la actualidad no se conocen todos los agentes moleculares que interaccionan con los marcadores biológicos del Alzheimer que han sido identificados. Asimismo, queda mucho por elucidar en lo concerniente a factores de riesgo, comienzo de la enfermedad, regulación genética, prevención y tratamiento.  En otras palabras, a pesar de que se han descubierto algunas letras en este campo, estamos lejos de poder leer un libro.
 
-**Referencias**
+#### Referencias
 
 Hashim, N.R. (2010). Neuropathology of Alzheimer's disease. The Mount Sinai journal of medicine, New York, 77 1, 32-42. 
 

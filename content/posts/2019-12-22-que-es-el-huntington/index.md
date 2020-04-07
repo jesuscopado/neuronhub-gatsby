@@ -31,21 +31,21 @@ Este fenómeno es el resultado del efecto fundador, un interesante concepto evol
 
 Un siglo más tarde, en el mismo continente, tuvo lugar otro curioso caso de efecto fundador. Un médico americano llamado George Huntington describió los síntomas observados en una familia de ascendencia inglesa y bautizó con su propio nombre a la enfermedad neurodegenerativa. Se cree que los primeros casos tuvieron lugar en Europa del Norte, y dada la naturaleza hereditaria de la enfermedad se extendió rápidamente, especialmente en América. La población más grande conocida afectada por la enfermedad se encuentra en el estado venezolano mencionado previamente, Zulia. Los primeros habitantes llegaron a principios del siglo diecinueve, y al ser tan poco numerosos y haber algunos afectados, a lo largo del tiempo la enfermedad genética fue creciendo paralelamente a la población. 
 
-**La enfermedad de Huntington**
+### La enfermedad de Huntington
 
 El Huntington es una enfermedad neurodegenerativa hereditaria que se caracteriza por la aparición de movimientos exagerados de las extremidades (movimientos coréicos), deterioro cognitivo y depresión. Se trata de una enfermedad genética desencadenada por una mutación situada en el cromosoma 4. 
 
-**Síntomas**
+### Síntomas
 
 Las manifestaciones tempranas de la enfermedad aparecen en torno a los 35-40 años de edad, e incluyen movimientos indeseados de las extremidades que pueden dificultar la marcha, así como movimientos involuntarios faciales. Los problemas motores vienen acompañados de problemas cognitivos como dificultad para concentrarse y tomar decisiones. Es frecuente en los estadios tempranos observar problemas de irritabilidad y depresión (European Huntington Association, s.f.). A medida que la enfermedad progresa, aparecen otros síntomas motores como la lentitud en los movimientos o bradiquinesia, la rigidez muscular y los problemas de equilibrio. 
 
 En cuanto a los problemas cognitivos, los estadios avanzados de Huntington se caracterizan por una lentitud en el procesamiento de la información, una falta de conciencia de la propia enfermedad (síntoma conocido como anosognosia) y una incapacidad de realizar dos acciones simples a la vez. Asimismo, los pacientes muestran signos de apatía, depresión e impulsividad (European Huntington Association, s.f.). 
 
-**El Huntington en cifras**
+### El Huntington en cifras
 
 La incidencia del Huntington es de 0,38 por cada 100.000 personas al año. Aplicado a la población española (46.934.632 personas) esto suponen 178 nuevos casos cada año. La esperanza de vida tras el diagnóstico es de 10 a 20 años (Ósmosis, 2019). Según una recopilación de meta-análisis realizada por Pringsheim et al. (2012), la prevalencia del Huntington (es decir, el número de casos estable en el tiempo, teniendo en cuenta que se trata de una enfermedad con una esperanza de vida limitada) es de 2,71 afectados por cada 100.000 personas. 
 
-**Biologia del Huntington**
+### Biologia del Huntington
 
 La enfermedad del Huntington se caracteriza por la repetición anormal (36 veces o más) de una secuencia de ADN localizada en el cromosoma 4. Esta mutación tiene lugar en el gen que codifica la proteína huntingtina, y da lugar a una versión anormal de la misma que se relaciona con la aparición de los síntomas descritos previamente (aunque no está claro de qué manera).  Se trata de una enfermedad autosómica dominante. ¿Qué quiere decir esto? Nuestro material genético está compuesto por 23 pares de cromosomas (es decir, somos organismos diploides): 22 pares de autosomas y un par de cromosomas sexuales que determinan, entre otras características, el sexo.
 
@@ -69,11 +69,11 @@ Las repeticiones de las secuencias de ADN no solo afectan a la huntingtina, sino
 
 La prueba genética que permite predecir la aparición o diagnosticar la enfermedad de Huntington consiste en contar el número de repeticiones, puesto que correlaciona con la aparición de los síntomas (Osmosis, 2019). 
 
-**Lo que sabes y lo que no**
+### Lo que sabes y lo que no
 
 El Huntington es una enfermedad neurodegenerativa con un importante componente genético. La muerte neuronal tiene lugar en el estriado dorsal, una estructura implicada en la regulación del movimiento voluntario. Un componente molecular que podría estar implicado en la degeneración celular es la huntingtina, la proteína mutante que resulta de la mutación genética característica del huntington: número anormal de repeticiones de una secuencia de ADN. Aún no está claro cómo la huntingtina provoca la muerte neuronal, pero una hipótesis es que la proteína resultante de la mutación posee componentes que pueden interactuar de forma afín y formar agregados proteicos. Dichos agregados resultan tóxicos para las células y podrían inducir la neurodegeneración.  
 
-**Referencias**
+#### Referencias
 
 European Huntington Association. (s.f.). What is Huntington’s Disease? – European Huntington Association. Recuperado 22 diciembre, 2019. [_Fuente_](http://eurohuntington.org/what-is-hd/)
 

@@ -21,7 +21,7 @@ _Al día siguiente no murió nadie. El hecho, por absolutamente contrario a las 
 
 Para la tranquilidad del lector, el fragmento inicial es un extracto de la novela _Las intermitencias de la muerte_ de Saramago (2005). No obstante, sirve como ilustración de la evolución que ha experimentado la esperanza de vida durante los últimos años. 
 
-**¿Qué es exactamente la esperanza de vida y cuál ha sido su trayectoria en las últimas décadas?**
+### ¿Qué es exactamente la esperanza de vida y cuál ha sido su trayectoria en las últimas décadas?
 
 Según el INE (2018), “la esperanza de vida es el número medio de años que esperaría seguir viviendo una persona de una determinada edad en caso de mantenerse el patrón de mortalidad por edad (tasas de mortalidad a cada edad) actualmente observado”. Nuestras condiciones de vida han mejorado en las últimas décadas gracias a los avances médicos, los hábitos nutricionales y el acceso a la educación. Esto, sumado a la reducción de la tasa de mortalidad infantil, se traduce en una esperanza de vida mayor. 
 
@@ -34,7 +34,7 @@ El gráfico muestra un incremento importante de la esperanza de vida: las expect
 
 La sociedad no está preparada para hacerse cargo de una población capaz de envejecer más que nunca. La vejez suele venir acompañada de un deterioro físico y cognitivo, normalmente fruto de las desregulaciones genéticas asociadas a la edad. En efecto, la expresión genética, normalmente controlada por mecanismos precisos encargados de mantener la homeostasis, empieza a fallar. Tomemos como ejemplo las enzimas HDAC (histonas deacetilasas). La función principal de estas proteínas es la regulación epigenética mediante el control de la acetilación de la cromatina (compuesto formado por ADN y proteínas situado en el núcleo de nuestras células). En otras palabras, las HDAC contribuyen eligiendo qué genes han de ser expresados y en qué momento. La vejez se acompaña de un descontrol de la expresión de HDAC, por lo tanto los genes cuya expresión depende de estas enzimas se ven igualmente afectados. Las HDAC están relacionadas, entre otros, con el deterioro cognitivo y la muerte neuronal asociados al envejecimiento (Penney & Tsai, 2014).
 
-**Volvamos a la pregunta inicial: ¿voy a padecer Alzheimer?**
+### Volvamos a la pregunta inicial: ¿voy a padecer Alzheimer?
 
 No en vano se le ha dado tanta importancia al incremento en la esperanza de vida y al envejecimiento para responder a esta pregunta. En efecto, la edad es el factor de riesgo más importante de la enfermedad de Alzheimer (Alzheimer's Association, s.f.). La mayoría de pacientes de Alzheimer tienen 65 años o más. A partir de 65 años, el riesgo de padecer Alzheimer se duplica cada cinco años (Alzheimer's Society, 2016).
 
@@ -51,11 +51,11 @@ Ninguno de los factores de riesgo mencionados hasta el momento es controlable. N
  * Consumo de alcohol: un consumo regular de alcohol puede incrementar el riesgo de padecer una enfermedad neurodegenerativa. Esto no es difícil de imaginar, puesto que el alcohol puede provocar neurodegeneración e inhibir la neurogénesis (National Institute on Alcohol Abuse and Alcoholism, 2008). Asimismo, Venkataraman, Kalk, Sewell, Ritchie y Lingford-Hughes (2016) establecen que hay una asociación directa entre el consumo de alcohol y la neuroinflamación, proceso que podría desencadenar y/o acelerar el progreso de la enfermedad. Además, según los autores, la neuroinflamación podría estar asociada con un incremento en la cantidad de precursores de beta amiloide en el cerebro (uno de los marcadores biológicos del Alzheimer) y con la neurodegeneración. 
  * Hábitos alimenticios: una dieta desequilibrada puede afectar negativamente al sistema nervioso de muchas maneras. Por ejemplo, una dieta demasiado grasienta puede desencadenar problemas arteriales que afecten las vías circulatorias del sistema nervioso, pudiendo llegar a producir daños cerebrales graves (isquemia, hipoxia, necrosis…). En el [sitio web del Servicio Nacional de Salud de Inglaterra](https://www.nhs.uk/live-well/eat-well/the-eatwell-guide/?tabname=food-and-diet) es posible encontrar información muy útil: consejos prácticos, divulgación sobre lo que es una dieta equilibrada, así como algunas ideas de recetas sanas.
 
-**Para concluir y responder por fin a la pregunta: ¿voy a padecer Alzheimer?**
+### Para concluir y responder por fin a la pregunta: ¿voy a padecer Alzheimer?
 
 La respuesta más fiable a día de hoy es la siguiente: no se sabe. El Alzheimer es una enfermedad muy compleja. Nos falta demasiada información para entender bien esta demencia. Tan solo hay considerar que el factor de riesgo más importante, la edad, no es de los controlables. Envejecemos, nuestro sistema comienza a fallar, el control de la expresión genética es menos minucioso y a nuestro organismo cada vez le cuesta más esfuerzo mantener la homeostasis.
 
-**¿Qué se puede hacer?**
+### ¿Qué se puede hacer?
 
 A nivel personal se pueden hacer muchas cosas: evitar o reducir el consumo de tabaco y alcohol, dedicarle ciertas horas semanales al deporte, seguir una dieta equilibrada, realizar actividades estimulantes para el cerebro (tocar un instrumento musical, probar con la pintura, dedicarle un rato a la lectura…). Para una información un poco más detallada al respecto, es posible consultar la siguiente [web](https://www.alzheimers.org.uk/about-dementia/risk-factors-and-prevention/how-reduce-your-risk-dementia).
 
@@ -63,7 +63,7 @@ A gran escala, es necesario investigar. Es importante entender los mecanismos mo
 
 **Nota:** La lista de factores de riesgo no es exhaustiva. La selección se ha hecho en función de la frecuencia de aparición en diferentes artículos de referencia. No se ha incluido la comorbilidad con algunas enfermedades (depresión, diabetes, obesidad) dado que aún hay mucha discusión sobre la posición que ocupan con respecto al Alzheimer (en algunos casos lo preceden y en otros lo suceden). Pueden consultarse más factores de riesgo del Alzheimer (incluyendo las enfermedades asociadas) en el siguiente [enlace](https://www.alzheimers.org.uk/sites/default/files/pdf/factsheet_risk_factors_for_dementia.pdf).
 
-**Referencias**
+#### Referencias
 
 Alzheimer's Association. (s.f.). Alzheimer. Causas y factores de riesgo. Recuperado 15 septiembre, 2019. [_Fuente_](https://www.alz.org/alzheimer-demencia/causas-y-factores-de-riesgo?lang=es-MX)
 
