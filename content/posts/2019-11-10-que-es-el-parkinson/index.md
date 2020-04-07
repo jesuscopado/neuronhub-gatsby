@@ -27,7 +27,7 @@ Hace dos siglos (1817), José Zorrilla nacía en Valladolid para regalarle a la 
 
 El Parkinson es una enfermedad neurodegenerativa, caracterizada por una muerte neuronal en una región del cerebro llamada sustancia negra. La sustancia negra forma parte de un grupo de estructuras cerebrales conocidas como los ganglios basales, implicados en la coordinación del movimiento. Las neuronas afectadas en la enfermedad de Parkinson se encargan de liberar un neurotransmisor (mensaje molecular que utilizan las neuronas para comunicarse entre ellas o para enviar mensajes a otras partes del cuerpo como los músculos) llamado dopamina. 
 
-**¿Cómo se manifiesta el Parkinson?**
+### ¿Cómo se manifiesta el Parkinson?
 
 Es frecuente asociar la enfermedad de Parkinson con un temblor de las extremidades. En efecto, se trata de una alteración progresiva del movimiento que puede afectar a las extremidades superiores, a las extremidades inferiores, e incluso a nivel del mentón. Sin embargo, hasta un 20% de los pacientes de Parkinson no muestra signos de temblor, por lo que no se debe reducir la enfermedad a este síntoma (Chou, 2017). 
 
@@ -39,15 +39,15 @@ del profesional. Un criterio compartido por la mayoría de los profesionales es
 la necesidad de que al menos dos de tres de los siguientes síntomas esté presente
 (Chou, 2017):
 
- * Temblor: movimientos involuntarios en posición de reposo. Los temblores disminuyen cuando la parte afectada no se encuentra en estado de reposo (movimiento voluntario). Por ejemplo, los pacientes manifiestan el temblor de las piernas cuando están sentados, y el signo desaparece cuando caminan. Por lo general, este síntoma no afecta a la cabeza ni a la voz. Los temblores pueden comenzar en una de las extremidades (por ejemplo, brazo derecho) y extenderse al lado opuesto del cuerpo con el paso del tiempo (brazo izquierdo). No obstante, el segundo lado afectado continúa estando menos afectado que el primero, por lo que es posible que los temblores se manifiesten de manera asimétrica.
- * Rigidez: manifestada mediante la inexpresión facial, los problemas posturales como el encorvamiento, y la ausencia de oscilación de los brazos al caminar.
- * Bradiquinesia: lentitud en los movimientos (en algunos casos, _aquinesia_ o ausencia de movimiento). No debe confundirse con debilidad muscular: no se observan diferencias de fuerza muscular con respecto a las personas sanas. A veces la lentitud en los movimientos se manifiesta con pasos cortos al caminar, o lentitud el deglutir los alimentos.
+* Temblor: movimientos involuntarios en posición de reposo. Los temblores disminuyen cuando la parte afectada no se encuentra en estado de reposo (movimiento voluntario). Por ejemplo, los pacientes manifiestan el temblor de las piernas cuando están sentados, y el signo desaparece cuando caminan. Por lo general, este síntoma no afecta a la cabeza ni a la voz. Los temblores pueden comenzar en una de las extremidades (por ejemplo, brazo derecho) y extenderse al lado opuesto del cuerpo con el paso del tiempo (brazo izquierdo). No obstante, el segundo lado afectado continúa estando menos afectado que el primero, por lo que es posible que los temblores se manifiesten de manera asimétrica.
+* Rigidez: manifestada mediante la inexpresión facial, los problemas posturales como el encorvamiento, y la ausencia de oscilación de los brazos al caminar.
+* Bradiquinesia: lentitud en los movimientos (en algunos casos, _aquinesia_ o ausencia de movimiento). No debe confundirse con debilidad muscular: no se observan diferencias de fuerza muscular con respecto a las personas sanas. A veces la lentitud en los movimientos se manifiesta con pasos cortos al caminar, o lentitud el deglutir los alimentos.
 
 Asimismo, un requisito consensual es la eficacia de los tratamientos en el alivio sintomático del Parkinson. Es decir, si un paciente presenta dos de los síntomas precedentes y la medicación existente para el alivio sintomático del Parkinson surge efecto, el diagnóstico puede realizarse con cierta seguridad. 
 
 Además de los tres signos mencionados, otros síntomas como la inestabilidad postural y los problemas de equilibrio pueden asociarse a la enfermedad. Resulta fundamental contrastar estas manifestaciones, puesto que podrían confundirse con otras condiciones: por ejemplo, la lentitud ligada al envejecimiento normal podría ser confundida con la bradiquinesia, la rigidez podría ser debida a la artritis y los temblores a problemas de estrés. Chou (2017) explica en el simposio celebrado por la Universidad de Michigan que es un error limitarse a considerar los síntomas motores (relativos al movimiento), y propone una división en tres categorías de los síntomas no motores, que ocurren en el 98,6% de los pacientes (una media de 8 por paciente) (Barone et al., 2009):
 
-1\. Cognitivos o psiquiátricos
+##### 1. Cognitivos o psiquiátricos
 
 * Demencia: la demencia es “un síndrome que implica el deterioro de la memoria, el intelecto, el comportamiento y la capacidad para realizar actividades de la vida diaria” (WHO, 2019). El riesgo de demencia es mucho mayor en casos de Parkinson (de dos a seis veces más probable que en ausencia de Parkinson). El diagnóstico de la demencia asociada al Parkinson requiere que el diagnóstico del Parkinson sea realizado en primer lugar y que los problemas cognitivos (inatención, dificultad para realizar varias tareas al mismo tiempo, problemas de memoria) aparezcan más tarde.   
 * Cansancio: en torno a la mitad de los pacientes de Parkinson consideran que se trata de uno de los síntomas más incapacitantes. El ejercicio físico regular muestra resultados eficaces para combatir este síntoma.   
@@ -55,7 +55,7 @@ Además de los tres signos mencionados, otros síntomas como la inestabilidad po
 * Depresión: igualmente asociada a los problemas relativos al cansancio.  
 * Ansiedad  
  
-2\. Del sistema nervioso autónomo (funciones autónomas)
+##### 2. Del sistema nervioso autónomo (funciones autónomas)
 
 * Sudores  
 * Dificultad respiratoria (disnea)  
@@ -65,7 +65,7 @@ Además de los tres signos mencionados, otros síntomas como la inestabilidad po
 * Dificultades urinarias  
 * Diarrea  
 
-3\. Sensoriales
+##### 3. Sensoriales
 
 * Déficit olfatorio  
 * Dolor difuso  
@@ -80,7 +80,7 @@ En el caso del Parkinson, las imágenes obtenidas por resonancia magnética no s
 
 En resumen, las personas que padecen Parkinson muestran dos o tres síntomas motores como la lentitud en los movimientos, los temblores y/o la rigidez, además de otros síntomas no motores que pueden ser cognitivos (cansancio, problemas de sueño, depresión…), relativos al sistema nervioso autónomo (problemas respiratorios, sudores, mareos…) y sensoriales (déficit olfativo, dolor difuso, acatisia…). El diagnóstico puede acompañarse de pruebas visuales como DatSCAN.
 
-**Entiende la biología del Parkinson**
+### Entiende la biología del Parkinson
 
 Las causas del Parkinson son, en la mayoría de los casos, desconocidas. En ocasiones, ciertas mutaciones en genes como _pink1_, _parkin_ y _alfa-sinucleína_ pueden están al origen de la enfermedad (Osmosis, 2019). La enfermedad afecta mayoritariamente a los hombres (casi dos veces más), por lo que el sexo es considerado un factor de riesgo. No obstante, el factor de riesgo más importante es la edad: el 1% de la población mayor de 60 años padece esta enfermedad (Chou, 2017). Esto, traducido a las cifras de población española (11,6 millones por encima de los 60 años, ver _Figura 3_), supone un total de 116.000 personas afectadas por la enfermedad. Estas cifras convierten a la enfermedad de Parkinson en la segunda enfermedad neurodegenerativa más frecuente tras el Alzheimer (Chou, 2017). 
 
@@ -89,7 +89,7 @@ Las causas del Parkinson son, en la mayoría de los casos, desconocidas. En ocas
   <figcaption>Figura 3. Figura extraída del sitio web del INE (2018). Distribución de la población española mayor de 60 años, clasificada por grupos de edad de 5 años.</figcaption>
 </div>
 
-_¿Qué ocurre cuando las neuronas de la sustancia negra mueren?_
+##### ¿Qué ocurre cuando las neuronas de la sustancia negra mueren?
 
 Las neuronas dopaminérgicas de la _sustancia negra_ se comunican con otra región llamada _cuerpo estriado_ mediante la vía nigroestriatal (ver _Figura 4_). En condiciones normales, la vía nigroestriatal permite una regulación fina del movimiento. ¿Cómo lo hace? En pocas palabras, la corteza motora estimula los músculos para producir movimiento. La corteza motora es en primer lugar estimulada por el tálamo, una gran estructura ubicada en el centro del cerebro. La actividad estimuladora del tálamo debe ser regulada para permitir unos movimientos adaptados. Por ejemplo, la actividad talámica será activada en las situaciones que requieran una aceleración del movimiento, como al cruzar una carretera cuando el semáforo va a ponerse en rojo. De la misma forma, la actividad talámica será reducida y finamente adaptada en actividades que así lo requieran como la pintura. Estas dos acciones son reguladas por dos vías nigroestratales diferentes: la vía directa para la estimulación y la vía indirecta para la inhibición. Las neuronas de la vía directa secretan dopamina y estimulan el tálamo, permitiendo así un incremento de la actividad de la corteza motora y como consecuencia de los músculos inervados por la misma. La vía indirecta también secreta dopamina, pero esta vez consiguiendo una estimulación mínima del tálamo, de tal forma que la actividad de la corteza motora sea reducida pero no nula.
 
@@ -100,13 +100,13 @@ Las neuronas dopaminérgicas de la _sustancia negra_ se comunican con otra regi�
 
 La degeneración asociada al Parkinson afecta al 80% de las neuronas dopaminérgicas (es decir, productoras de dopamina) que forman la vía nigroestratal. Cuando las neuronas dopaminérgicas de la vía directa (encargadas de incrementar la actividad motora) se ven afectadas por el Parkinson, la disminución de la actividad dopaminérgica debida a la neurodegeneración tiene como consecuencia una ausencia de sobreestimulación muscular. Así, en situaciones que requieren un incremento de la actividad motora, los pacientes de Parkinson no pueden adaptar sus movimientos (en el caso de la persona que cruza la carretera, la respuesta ante un semáforo que va a ponerse en rojo es una marcha normal en lugar de una aceleración). En cuanto a las neuronas dopaminérgicas de la vía indirecta, encargadas de dar lugar a movimientos finos (impidiendo la sobreestimulación del tálamo y por consecuencia de la corteza motora, pero no tanto como para pausar por completo el movimiento), la neurodegeneración tiene como consecuencia una ausencia de la pequeña estimulación que permite la reducción del movimiento. Así, lo que debería ser un movimiento paulatino se convierte en una detención total (KhanAcademyMedicine, s.f.).
 
-**Lo que ahora sabes**
+### Lo que ahora sabes
 
 El Parkinson es una enfermedad neurodegenerativa compleja, caracterizada por la muerte de una familia de neuronas situadas en la sustancia negra del cerebro. Las consecuencias de esta neurodegeneración son motoras (problemas en la coordinación del movimiento debido a una rigidez muscular anormal, lentitud o ausencia de movimiento, temblores...) y no motoras (cansancio, problemas de sueño, ansiedad...). El neurotransmisor que está al origen del problema es la dopamina, necesario para la coordinación del movimiento y para la regulación de las funciones mencionadas. 
 
 La investigación actual trata de comprender mejor los mecanismos que llevan a la neurodegeneración (algunos autores proponen una agregación de proteínas, concretamente la alfa-sinucleína) para conseguir un tratamiento eficaz para la enfermedad que vaya más allá del alivio sintomático. Para ello, mucha investigación básica sobre los mecanismos moleculares del Parkinson es necesaria. 
 
-**Referencias**
+#### Referencias
 
 Barone, P., Antonini, A., Colosimo, C., Marconi, R., Morgante, L., Avarello, T. P., . . . Dotto, P. D. (2009). The PRIAMO study: A multicenter assessment of nonmotor symptoms and their impact on quality of life in Parkinson's disease. _Movement Disorders_, 24(11), 1641–1649. [_Fuente_](https://doi.org/10.1002/mds.22643)
 
