@@ -10,7 +10,7 @@ tags:
 - factores de riesgo
 - marcadores biológicos
 hero: "./images/1.jpeg"
-excerpt: Todos conocemos a alguien que padece o ha padecido la enfermedad de Alzheimer, patología que constituye entre el 60 y 80% de los casos de demencia (Purves, 2004). *Leer más*
+excerpt: Todos conocemos a alguien que padece o ha padecido la enfermedad de Alzheimer, patología que constituye entre el 60 y 80% de los casos de demencia (Purves, 2004). Esto no es raro, teniendo en cuenta que según el Informe Mundial sobre la Demencia (Patterson, 2018), a día de hoy 50 millones de personas en todo el mundo padecen una demencia (cifra ligeramente superior a la población total de España).
 timeToRead: 8
 author: Juan García Ruiz
 ---
