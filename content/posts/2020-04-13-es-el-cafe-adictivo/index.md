@@ -1,19 +1,24 @@
 ---
-author: Juan García Ruiz
-date: 2020-04-13 16:48:51+00:00
+excerpt: >-
+  Cuenta la leyenda que un pastor de la meseta etíope llamado Kaldi observó hace
+  siglos que sus cabras, tras comer las bayas de cierto árbol, no conseguían
+  dormir por la noche. Tras comunicarle su hallazgo al abad del monasterio
+  local, éste último pudo constatar de primera mano un efecto similar. Esta
+  leyenda constituye, según la sabiduría popular, uno de los primeros contactos
+  del humano con el café (National Coffee Association, s. f.).
 draft: false
 title: ¿Es el café adictivo?
-type: post
-excerpt: >-
-  Cuenta la leyenda que un pastor de la meseta etíope llamado Kaldi observó hace siglos que sus cabras, tras comer las bayas de cierto árbol, no conseguían dormir por la noche. Tras comunicarle su hallazgo al abad del monasterio local, éste último pudo constatar de primera mano un efecto similar. Esta leyenda constituye, según la sabiduría popular, uno de los primeros contactos del humano con el café (National Coffee Association, s. f.).
+author: Juan García Ruiz
+date: 2020-04-13T16:48:51.000Z
 tags:
-- A1
-- A2
-- bioquímica
-- café
-- cafeína
-- cultura
-- neurociencia
+  - A1
+  - A2
+  - bioquímica
+  - café
+  - cafeína
+  - cultura
+  - neurociencia
+type: post
 hero: images/16.jpg
 ---
 
@@ -73,7 +78,7 @@ Según la literatura científica, la cafeína puede generar adicción leve (Asap
 
 #### ¿Por qué la cafeína puede generar adicción leve?
 
-En primer lugar, la cafeína genera tolerancia (Hilliard, 2019), es decir que su consumo regular acaba por aumentar la dosis necesaria para lograr los mismos efectos estimulantes del sistema nervioso (mejora del estado de ánimo y de la concentración, e incremento del metabolismo). La tolerancia aparece como consecuencia de la adaptación del cerebro al consumo regular de cafeína: al estar los receptores A1 y A2 ocupados por la cafeína, las neuronas tienden a producir más receptores para echarle una mano a la adenosina libre que no ha conseguido unirse a los mismos. La consecuencia de este mayor número de receptores A1 y A2 es que se necesita más cafeína para cubrirlos todos, por la dosis necesaria para desencadenar los efectos estimulantes es más importante (Hilliard, 2019). Afortunadamente, este fenómeno es reversible: si el consumo de cafeína se reduce o detiene por completo, en unos días el número de receptores disminuirá paralelamente (Medicurio, 2017).
+En primer lugar, la cafeína genera tolerancia (Hilliard, 2019), es decir que su consumo regular acaba por aumentar la dosis necesaria para lograr los mismos efectos estimulantes del sistema nervioso (mejora del estado de ánimo y de la concentración, e incremento del metabolismo). La tolerancia aparece como consecuencia de la adaptación del cerebro al consumo regular de cafeína: al estar los receptores A1 y A2 ocupados por la cafeína, las neuronas tienden a producir más receptores para echarle una mano a la adenosina libre que no ha conseguido unirse a los mismos. La consecuencia de este mayor número de receptores A1 y A2 es que se necesita más cafeína para cubrirlos todos, por lo que la dosis necesaria para desencadenar los efectos estimulantes es más importante (Hilliard, 2019). Afortunadamente, este fenómeno es reversible: si el consumo de cafeína se reduce o detiene por completo, en unos días el número de receptores disminuirá paralelamente (Medicurio, 2017).
 
 En segundo lugar, una interrupción brusca del consumo de cafeína puede dar lugar a signos como dolor de cabeza, fatiga, ansiedad, irritabilidad y dificultad para concentrarse (WebMD, 2008). En este sentido, en caso de consumo exagerado de cafeína, los expertos recomiendan una reducción gradual en lugar de una parada drástica (Hilliard, 2019).
 
@@ -100,7 +105,7 @@ Los expertos no consideran que la cafeína sea adictiva, pero es posible hablar 
 
 ### Mensaje para llevarse a casa
 
-La cafeína es una molécula antagonista de la adenosina, que estimula sistema nervioso inhibiendo la sensación de fatiga y aumentando el nivel de alerta y la atención. Su consumo no es peligroso siempre y cuando sea moderado (no más de cuatro tazas de café al día), y su poder adictivo es muy limitado. El consumo de cafeína genera tolerancia de forma reversible, y su interrupción da lugar a signos de abstinencia de duración limitada.
+La cafeína es una molécula antagonista de la adenosina, que estimula el sistema nervioso inhibiendo la sensación de fatiga y aumentando el nivel de alerta y la atención. Su consumo no es peligroso siempre y cuando sea moderado (no más de cuatro tazas de café al día), y su poder adictivo es muy limitado. El consumo de cafeína genera tolerancia de forma reversible, y su interrupción da lugar a signos de abstinencia de duración limitada.
 
 #### Referencias
 
