@@ -86,16 +86,16 @@ Por último, algunos autores hablan de adicción comportamental, que no estaría
 
 #### ¿Por qué los expertos no consideran la cafeína como sustancia adictiva?
 
-La razón principal que deja a la cafeína fuera de lista de sustancias adictivas es el hecho de que no altera el sistema de recompensa cerebral (Hilliard, 2019). El sistema de recompensa, conocido como ruta mesolímbica, es una vía cerebral que controla la motivación. Cuando experimentamos una sensación placentera al llevar a cabo una acción (por ejemplo, al comer chocolate), las neuronas del área tegmental ventral (perteneciente al sistema de recompensa) liberan dopamina en el _núcleo accumbens_ o en la corteza cerebral, dando lugar a una sensación agradable que nos llevará a repetir la acción en el futuro. La perturbación de este sistema de recompensa está asociado a la aparición de las adicciones, pero la señalización dopaminérgica asociada a la cafeína no es suficiente para alterarlo (Hilliard, 2019). 
+La razón principal que deja a la cafeína fuera de lista de sustancias adictivas es el hecho de que no altera el sistema de recompensa cerebral (Hilliard, 2019). El sistema de recompensa, conocido como ruta mesolímbica, es una vía cerebral que controla la motivación. Cuando experimentamos una sensación placentera al llevar a cabo una acción (por ejemplo, al comer chocolate), las neuronas del área tegmental ventral (perteneciente al sistema de recompensa) liberan dopamina en el _núcleo accumbens_ o en la corteza cerebral, dando lugar a una sensación agradable que nos conduce a repetir la acción en el futuro. La perturbación de este sistema de recompensa está asociada a la aparición de las adicciones, pero la señalización dopaminérgica derivada de la presencia de cafeína no es suficiente para alterarlo (Hilliard, 2019). 
 
-En comparación con drogas como la cocaína, la cafeína no genera tanta dependencia (Fisone, Borgkvist, & Usiello, 2004). Además, la cafeína no supone una amenaza para la salud física, social o económica como es el caso de drogas de abuso (WebMD, 2008). Por otra parte, los signos de abstinencia mencionados previamente (dolor de cabeza, fatiga, ansiedad, entre otros) duran entre siete y doce días tras interrumpir el consumo de cafeína (Hilliard, 2019). 
+En comparación con drogas como la cocaína, la cafeína no genera tanta dependencia (Fisone, Borgkvist, & Usiello, 2004). Además, la cafeína no supone una amenaza para la salud física, social o económica como es el caso de las drogas de abuso (WebMD, 2008). Por otra parte, los signos de abstinencia mencionados previamente (dolor de cabeza, fatiga, ansiedad, entre otros) tan solo duran entre siete y doce días tras interrumpir el consumo de cafeína (Hilliard, 2019). 
 
 #### La pregunta que hay que hacerse
 
-Los expertos no consideran que la cafeína sea adictiva, pero es posible hablar de adicción leve. El problema parece radicar en la definición de adicción. Quizá, la pregunta más pertinente no sea si la cafeína es o no adictiva, sino si a nivel personal existe un problema con el consumo de cafeína. En este sentido, el DSM-V recoge una lista de criterios que pueden caracterizar un consumo problemático de cafeína (deben darse al menos tres de los citados):
+Los expertos no consideran que la cafeína sea adictiva, pero es posible hablar de adicción leve. El problema parece radicar en la definición de adicción. Quizá, la pregunta más pertinente no sea si la cafeína es o no adictiva, sino si a nivel personal existe un problema con el consumo de cafeína. En este sentido, el DSM-V recoge una lista de criterios que pueden caracterizar un consumo problemático (deben darse al menos tres de los citados):
 
-* Problemas para controlar el consumo de cafeína.
 * Consumo de cafeína a pesar de la existencia de problemas (sociales, físicos, psicológicos) derivados del mismo. 
+* Pérdida de control sobre el consumo de cafeína.
 * Síntomas de abstinencia (dolor de cabeza, ansiedad, irritabilidad, problemas de concentración...). 
 * Consumo de cafeína en mayores cantidades o más frecuentemente de lo previsto.  
 * Problemas para realizar tareas de carácter básico (estudios, trabajo) debidos a o empeorados por el consumo de cafeína.
@@ -105,7 +105,7 @@ Los expertos no consideran que la cafeína sea adictiva, pero es posible hablar 
 
 ### Mensaje para llevarse a casa
 
-La cafeína es una molécula antagonista de la adenosina, que estimula el sistema nervioso inhibiendo la sensación de fatiga y aumentando el nivel de alerta y la atención. Su consumo no es peligroso siempre y cuando sea moderado (no más de cuatro tazas de café al día), y su poder adictivo es muy limitado. El consumo de cafeína genera tolerancia de forma reversible, y su interrupción da lugar a signos de abstinencia de duración limitada.
+La cafeína es una molécula antagonista de la adenosina, que estimula el sistema nervioso inhibiendo la sensación de fatiga y aumentando el nivel de alerta y la atención. Su consumo no es peligroso siempre y cuando sea moderado (no más de cuatro tazas de café al día), y su poder adictivo es limitado. El consumo de cafeína genera tolerancia de forma reversible, y su interrupción da lugar a signos de abstinencia de duración limitada.
 
 #### Referencias
 
