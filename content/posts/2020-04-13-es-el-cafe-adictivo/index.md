@@ -109,7 +109,7 @@ La cafeína es una molécula antagonista de la adenosina, que estimula el sistem
 
 #### Referencias
 
-Alianza Salud. (2016, septiembre 6). Cantidad de azúcar en los refrescos más comunes. Recuperado 13 de abril de 2020. [_Fuente_](https://alianzasalud.org.mx/2013/05/cantidad-de-azucar-en-los-refrescos-mas-comunes/)
+Alianza Salud. (2016). Cantidad de azúcar en los refrescos más comunes. Recuperado 13 de abril de 2020. [_Fuente_](https://alianzasalud.org.mx/2013/05/cantidad-de-azucar-en-los-refrescos-mas-comunes/)
 
 AsapSCIENCE. (2014). Your Brain On Coffee. Recuperado 13 de abril de 2020. [_Fuente_](https://www.youtube.com/watch?v=4YOwEqGykDM)
 
