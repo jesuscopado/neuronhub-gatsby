@@ -5,11 +5,7 @@ draft: false
 title: ¿Es el café adictivo?
 type: post
 excerpt: >-
-  La tecnología nos facilita la vida, la medicina avanza y cada vez vivimos más
-  (pero no mejor). Las enfermedades neurodegenerativas, asociadas principalmente
-  al envejecimiento, van haciéndose hueco insidiosamente en nuestra sociedad.
-  Vulnerables y desasosegados, las aceptamos sin más remedio como parte natural
-  de la vida, para no desalentarnos ante la inexistencia de una cura.
+  Cuenta la leyenda que un pastor de la meseta etíope llamado Kaldi observó hace siglos que sus cabras, tras comer las bayas de cierto árbol, no conseguían dormir por la noche. Tras comunicarle su hallazgo al abad del monasterio local, éste último pudo constatar de primera mano un efecto similar. Esta leyenda constituye, según la sabiduría popular, uno de los primeros contactos del humano con el café (National Coffee Association, s. f.).
 tags:
 - A1
 - A2
