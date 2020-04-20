@@ -96,7 +96,7 @@ Fomentando una ciencia para todos, quizá algún día no será necesario explica
 
 #### Referencias
 
-Boeynaems, S. (2017, 5 enero). _New insights in the molecular changes underlying ALS | Steven Boeynaems | TEDxUHasseltSalon_ [Archivo de vídeo ]. Recuperado 13 octubre, 2019. [_Fuente_](https://www.youtube.com/watch?v=oCBkzNi9kT4)
+Boeynaems, S. (2017, 5 enero). _New insights in the molecular changes underlying ALS | Steven Boeynaems | TEDxUHasseltSalon_ [Archivo de vídeo]. Recuperado 13 octubre, 2019. [_Fuente_](https://www.youtube.com/watch?v=oCBkzNi9kT4)
 
 Colaboradores de Wikipedia. (2019, 12 octubre). Fasciculación. Recuperado 13 octubre, 2019. [_Fuente_](https://es.wikipedia.org/wiki/Fasciculaci%C3%B3n)
 
