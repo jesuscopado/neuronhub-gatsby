@@ -1,19 +1,24 @@
 ---
-author: Juan García Ruiz
-date: 2020-04-13 16:48:51+00:00
+excerpt: >-
+  Cuenta la leyenda que un pastor de la meseta etíope llamado Kaldi observó hace
+  siglos que sus cabras, tras comer las bayas de cierto árbol, no conseguían
+  dormir por la noche. Tras comunicarle su hallazgo al abad del monasterio
+  local, éste último pudo constatar de primera mano un efecto similar. Esta
+  leyenda constituye, según la sabiduría popular, uno de los primeros contactos
+  del humano con el café (National Coffee Association, s. f.).
 draft: false
 title: ¿Es el café adictivo?
-type: post
-excerpt: >-
-  Cuenta la leyenda que un pastor de la meseta etíope llamado Kaldi observó hace siglos que sus cabras, tras comer las bayas de cierto árbol, no conseguían dormir por la noche. Tras comunicarle su hallazgo al abad del monasterio local, éste último pudo constatar de primera mano un efecto similar. Esta leyenda constituye, según la sabiduría popular, uno de los primeros contactos del humano con el café (National Coffee Association, s. f.).
+author: Juan García Ruiz
+date: 2020-04-13T16:48:51.000Z
 tags:
-- A1
-- A2
-- bioquímica
-- café
-- cafeína
-- cultura
-- neurociencia
+  - A1
+  - A2
+  - bioquímica
+  - café
+  - cafeína
+  - cultura
+  - neurociencia
+type: post
 hero: images/16.jpg
 ---
 
@@ -32,7 +37,7 @@ En pocas palabras, cuando las neuronas consumen energía producen adenosina, y e
   <figcaption>Figura 1. Representación esquemática de la señalización celular de la adenosina en el cerebro.</figcaption>
 </div>
 
-El componente estimulante del café proviene de una molécula llamada cafeína, contenida igualmente en el té, en ciertas bebidas energéticas, y en alimentos como el cacao. La cafeína comienza a hacer efecto media hora tras su ingestión (SciShow, 2012), y su vida media es de cinco horas (Committee on Military Nutrition Research, 2001). En otras palabras, después de cinco horas tras tras haber bebido un café, la concentración de cafeína en el organismo se habrá reducido a la mitad puesto que la otra mitad habrá sido metabolizada y eliminada. No obstante, según el Committee on Military Nutrition Research (2001) existen importantes diferencias individuales en el tiempo de metabolización de la cafeína, variando entre 1 a 9 horas en función de diversos factores (algunos de ellos innatos, y otros relacionados con el estado fisiológico de la persona o sus hábitos). El café entra en el organismo y recorre el tubo digestivo desde la boca hasta el intestino, lugar donde la cafeína es absorbida por el sistema circulatorio. La cafeína contenida en la sangre es transportada hasta el cerebro, y gracias a sus propiedades hidrófobas es capaz de atravesar la frontera que separa el sistema circulatorio del sistema nervioso, conocida como la barrera hematoencefálica. La barrera hematoencefálica es un poderoso filtro que protege el sistema nervioso de potenciales peligros provenientes del exterior dejando pasar determinadas moléculas de forma selectiva.
+El componente estimulante del café proviene de una molécula llamada cafeína, contenida igualmente en el té, en ciertas bebidas energéticas, y en alimentos como el cacao. La cafeína comienza a hacer efecto media hora tras su ingestión (SciShow, 2012), y su vida media es de cinco horas (Committee on Military Nutrition Research, 2001). En otras palabras, después de cinco horas tras haber bebido un café, la concentración de cafeína en el organismo se habrá reducido a la mitad puesto que la otra mitad habrá sido metabolizada y eliminada. No obstante, según el Committee on Military Nutrition Research (2001) existen importantes diferencias individuales en el tiempo de metabolización de la cafeína, variando entre 1 a 9 horas en función de diversos factores (algunos de ellos innatos, y otros relacionados con el estado fisiológico de la persona o sus hábitos). El café entra en el organismo y recorre el tubo digestivo desde la boca hasta el intestino, lugar donde la cafeína es absorbida por el sistema circulatorio. La cafeína contenida en la sangre es transportada hasta el cerebro, y gracias a sus propiedades hidrófobas es capaz de atravesar la frontera que separa el sistema circulatorio del sistema nervioso, conocida como la barrera hematoencefálica. La barrera hematoencefálica es un poderoso filtro que protege el sistema nervioso de potenciales peligros provenientes del exterior dejando pasar determinadas moléculas de forma selectiva.
 
 La cafeína posee una estructura similar a la adenosina (Figura 2). Como consecuencia de la proximidad estructural, la cafeína puede asociarse a los receptores de la adenosina (Hilliard, 2019), entrando en competición con esta última. 
 
@@ -73,7 +78,7 @@ Según la literatura científica, la cafeína puede generar adicción leve (Asap
 
 #### ¿Por qué la cafeína puede generar adicción leve?
 
-En primer lugar, la cafeína genera tolerancia (Hilliard, 2019), es decir que su consumo regular acaba por aumentar la dosis necesaria para lograr los mismos efectos estimulantes del sistema nervioso (mejora del estado de ánimo y de la concentración, e incremento del metabolismo). La tolerancia aparece como consecuencia de la adaptación del cerebro al consumo regular de cafeína: al estar los receptores A1 y A2 ocupados por la cafeína, las neuronas tienden a producir más receptores para echarle una mano a la adenosina libre que no ha conseguido unirse a los mismos. La consecuencia de este mayor número de receptores A1 y A2 es que se necesita más cafeína para cubrirlos todos, por la dosis necesaria para desencadenar los efectos estimulantes es más importante (Hilliard, 2019). Afortunadamente, este fenómeno es reversible: si el consumo de cafeína se reduce o detiene por completo, en unos días el número de receptores disminuirá paralelamente (Medicurio, 2017).
+En primer lugar, la cafeína genera tolerancia (Hilliard, 2019), es decir que su consumo regular acaba por aumentar la dosis necesaria para lograr los mismos efectos estimulantes del sistema nervioso (mejora del estado de ánimo y de la concentración, e incremento del metabolismo). La tolerancia aparece como consecuencia de la adaptación del cerebro al consumo regular de cafeína: al estar los receptores A1 y A2 ocupados por la cafeína, las neuronas tienden a producir más receptores para echarle una mano a la adenosina libre que no ha conseguido unirse a los mismos. La consecuencia de este mayor número de receptores A1 y A2 es que se necesita más cafeína para cubrirlos todos, por lo que la dosis necesaria para desencadenar los efectos estimulantes es más importante (Hilliard, 2019). Afortunadamente, este fenómeno es reversible: si el consumo de cafeína se reduce o detiene por completo, en unos días el número de receptores disminuye paralelamente (Medicurio, 2017).
 
 En segundo lugar, una interrupción brusca del consumo de cafeína puede dar lugar a signos como dolor de cabeza, fatiga, ansiedad, irritabilidad y dificultad para concentrarse (WebMD, 2008). En este sentido, en caso de consumo exagerado de cafeína, los expertos recomiendan una reducción gradual en lugar de una parada drástica (Hilliard, 2019).
 
@@ -81,16 +86,16 @@ Por último, algunos autores hablan de adicción comportamental, que no estaría
 
 #### ¿Por qué los expertos no consideran la cafeína como sustancia adictiva?
 
-La razón principal que deja a la cafeína fuera de lista de sustancias adictivas es el hecho de que no altera el sistema de recompensa cerebral (Hilliard, 2019). El sistema de recompensa, conocido como ruta mesolímbica, es una vía cerebral que controla la motivación. Cuando experimentamos una sensación placentera al llevar a cabo una acción (por ejemplo, al comer chocolate), las neuronas del área tegmental ventral (perteneciente al sistema de recompensa) liberan dopamina en el _núcleo accumbens_ o en la corteza cerebral, dando lugar a una sensación agradable que nos llevará a repetir la acción en el futuro. La perturbación de este sistema de recompensa está asociado a la aparición de las adicciones, pero la señalización dopaminérgica asociada a la cafeína no es suficiente para alterarlo (Hilliard, 2019). 
+La razón principal que deja a la cafeína fuera de lista de sustancias adictivas es el hecho de que no altera el sistema de recompensa cerebral (Hilliard, 2019). El sistema de recompensa, conocido como ruta mesolímbica, es una vía cerebral que controla la motivación. Cuando experimentamos una sensación placentera al llevar a cabo una acción (por ejemplo, al comer chocolate), las neuronas del área tegmental ventral (perteneciente al sistema de recompensa) liberan dopamina en el _núcleo accumbens_ o en la corteza cerebral, dando lugar a una sensación agradable que nos conduce a repetir la acción en el futuro. La perturbación de este sistema de recompensa está asociada a la aparición de las adicciones, pero la señalización dopaminérgica derivada de la presencia de cafeína no es suficiente para alterarlo (Hilliard, 2019). 
 
-En comparación con drogas como la cocaína, la cafeína no genera tanta dependencia (Fisone, Borgkvist, & Usiello, 2004). Además, la cafeína no supone una amenaza para la salud física, social o económica como es el caso de drogas de abuso (WebMD, 2008). Por otra parte, los signos de abstinencia mencionados previamente (dolor de cabeza, fatiga, ansiedad, entre otros) duran entre siete y doce días tras interrumpir el consumo de cafeína (Hilliard, 2019). 
+En comparación con drogas como la cocaína, la cafeína no genera tanta dependencia (Fisone, Borgkvist, & Usiello, 2004). Además, la cafeína no supone una amenaza para la salud física, social o económica como es el caso de las drogas de abuso (WebMD, 2008). Por otra parte, los signos de abstinencia mencionados previamente (dolor de cabeza, fatiga, ansiedad, entre otros) tan solo duran entre siete y doce días tras interrumpir el consumo de cafeína (Hilliard, 2019). 
 
 #### La pregunta que hay que hacerse
 
-Los expertos no consideran que la cafeína sea adictiva, pero es posible hablar de adicción leve. El problema parece radicar en la definición de adicción. Quizá, la pregunta más pertinente no sea si la cafeína es o no adictiva, sino si a nivel personal existe un problema con el consumo de cafeína. En este sentido, el DSM-V recoge una lista de criterios que pueden caracterizar un consumo problemático de cafeína (deben darse al menos tres de los citados):
+Los expertos no consideran que la cafeína sea adictiva, pero es posible hablar de adicción leve. El problema parece radicar en la definición de adicción. Quizá, la pregunta más pertinente no sea si la cafeína es o no adictiva, sino si a nivel personal existe un problema con el consumo de cafeína. En este sentido, el DSM-V recoge una lista de criterios que pueden caracterizar un consumo problemático (deben darse al menos tres de los citados):
 
-* Problemas para controlar el consumo de cafeína.
 * Consumo de cafeína a pesar de la existencia de problemas (sociales, físicos, psicológicos) derivados del mismo. 
+* Pérdida de control sobre el consumo de cafeína.
 * Síntomas de abstinencia (dolor de cabeza, ansiedad, irritabilidad, problemas de concentración...). 
 * Consumo de cafeína en mayores cantidades o más frecuentemente de lo previsto.  
 * Problemas para realizar tareas de carácter básico (estudios, trabajo) debidos a o empeorados por el consumo de cafeína.
@@ -100,11 +105,11 @@ Los expertos no consideran que la cafeína sea adictiva, pero es posible hablar 
 
 ### Mensaje para llevarse a casa
 
-La cafeína es una molécula antagonista de la adenosina, que estimula sistema nervioso inhibiendo la sensación de fatiga y aumentando el nivel de alerta y la atención. Su consumo no es peligroso siempre y cuando sea moderado (no más de cuatro tazas de café al día), y su poder adictivo es muy limitado. El consumo de cafeína genera tolerancia de forma reversible, y su interrupción da lugar a signos de abstinencia de duración limitada.
+La cafeína es una molécula antagonista de la adenosina, que estimula el sistema nervioso inhibiendo la sensación de fatiga y aumentando el nivel de alerta y la atención. Su consumo no es peligroso siempre y cuando sea moderado (no más de cuatro tazas de café al día), y su poder adictivo es limitado. El consumo de cafeína genera tolerancia de forma reversible, y su interrupción da lugar a signos de abstinencia de duración limitada.
 
 #### Referencias
 
-Alianza Salud. (2016, septiembre 6). Cantidad de azúcar en los refrescos más comunes. Recuperado 13 de abril de 2020. [_Fuente_](https://alianzasalud.org.mx/2013/05/cantidad-de-azucar-en-los-refrescos-mas-comunes/)
+Alianza Salud. (2016). Cantidad de azúcar en los refrescos más comunes. Recuperado 13 de abril de 2020. [_Fuente_](https://alianzasalud.org.mx/2013/05/cantidad-de-azucar-en-los-refrescos-mas-comunes/)
 
 AsapSCIENCE. (2014). Your Brain On Coffee. Recuperado 13 de abril de 2020. [_Fuente_](https://www.youtube.com/watch?v=4YOwEqGykDM)
 
