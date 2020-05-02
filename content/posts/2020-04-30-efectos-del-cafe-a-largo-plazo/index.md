@@ -99,8 +99,6 @@ De manera similar, el consumo de café parece disminuir al riesgo de padecer pro
 
 #### Los riesgos potenciales del café
 
-##### Esto es un h5
-
 ###### Cáncer
 
 Según Grosso et al., (2017), el consumo elevado de café está relacionado con un mayor riesgo de padecer cáncer de pulmón, de vejiga, y un tipo de leucemia que afecta a los niños (leucemia linfoblástica aguda infantil).
