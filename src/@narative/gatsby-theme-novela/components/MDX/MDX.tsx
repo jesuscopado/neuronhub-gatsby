@@ -111,16 +111,20 @@ const HeadingsCSS = css`
 
   h3,
   h3 * {
-    margin: 12px auto 10px;
+    margin: 12px auto 15px;
   }
 
   h4,
   h4 *,
   h5,
-  h5 *,
+  h5 * {
+    margin: 0px auto 11px;
+  }
+
   h6,
   h6 * {
-    margin: 0px auto 10px;
+    margin: -8px auto 10px;
+    text-align: center;
   }
 
   h1,
