@@ -1,11 +1,19 @@
 ---
 author: Juan García Ruiz
-date: 2020-04-30 19:03:40+00:00
+date: 2020-04-30T19:03:40.000Z
 draft: false
 title: Efectos del café a largo plazo
 type: post
 excerpt: >-
-  “Aprende a tocar la guitarra como Jimi Hendrix en 3 días”, “habla polaco como un nativo en tan solo una semana”, “pierde 20 kilos en dos días”. Estos sugerentes titulares no se corresponden con la realidad. Todos sabemos, pero a veces no recordamos, que la vida es muy diferente a lo que vemos en las películas. No existen recetas mágicas para aprender a tocar un instrumento, para hablar una lengua o para perder un cuarto del peso corporal en menos de una semana. Tampoco se es más inteligente escuchando la sonata K. 448 de Mozart. No obstante, hay que reconocer que resulta tentador. Por eso a veces silenciamos nuestro sentido común y permitimos que esos titulares funcionen.
+  “Aprende a tocar la guitarra como Jimi Hendrix en 3 días”, “habla polaco como
+  un nativo en tan solo una semana”, “pierde 20 kilos en dos días”. Estos
+  sugerentes titulares no se corresponden con la realidad. Todos sabemos, pero a
+  veces no recordamos, que la vida es muy diferente a lo que vemos en las
+  películas. No existen recetas mágicas para aprender a tocar un instrumento,
+  para hablar una lengua o para perder un cuarto del peso corporal en menos de
+  una semana. Tampoco se es más inteligente escuchando la sonata K. 448 de
+  Mozart. No obstante, hay que reconocer que resulta tentador. Por eso a veces
+  silenciamos nuestro sentido común y permitimos que esos titulares funcionen.
 hero: images/17.jpg
 ---
 
@@ -22,14 +30,14 @@ Lo ideal sería que todos aprendiéramos a aceptar y a renunciar. Aceptar que la
   <figcaption>Figura 1. David de Miguel Ángel. Extraída de Iborio (2017)</figcaption>
 </div>
 
-Sin más dilación, hablemos de café. En este artículo hablo de los efectos a largo plazo del café, incluyendo beneficios y riesgos. La primera conclusión que podéis anotar es la siguiente: el café no es el santo grial, pero tampoco una bebida concebida en el averno. El lector no debe ir con la expectativa de que el café puede acabar con la enfermedad en el mundo, o de que se ha descubierto un componente letal en su interior. Pero el lector puede ir con la expectativa de que aprenderá algunas cosas interesantes sobre una de las bebidas más consumidas en todo el mundo.
+Sin más dilación, hablemos de café. En este artículo hablo de los efectos a largo plazo del café, incluyendo beneficios y riesgos. La primera conclusión que podéis anotar es la siguiente: el café no es el santo grial, pero tampoco una bebida concebida en el averno. El lector no debe ir con la expectativa de que el café pueda acabar con la enfermedad en el mundo, o de que se haya descubierto un componente letal en su interior. Pero el lector puede ir con la expectativa de que aprenderá algunas cosas interesantes sobre una de las bebidas más consumidas en todo el mundo.
 
 ### Radiografía del café
 
 El café contiene mucho más que cafeína. A día de hoy se han identificado miles de sustancias químicas diferentes, de las cuales tan solo una treintena han sido estudiadas (Wikipedia contributors, 2020). Para la tranquilidad del lector, en este artículo solo se mencionarán aquellas que conocemos mejor y guardan alguna relación con los efectos del café sobre la salud a largo plazo.
 
 * Los ácidos clorogénicos, que reciben su nombre no porque posean un átomo de cloro en su estructura, sino a partir del griego antiguo "chlorós" (verde). En efecto, los ácidos clorogénicos adquieren un color verdoso cuando se oxidan.  
-* La cafeína está presente en varias decenas de plantas diferentes. Se cree al principio la cantidad de cafeína en estas plantas era ínfima. Gracias a la toxicidad que supone la cafeína para ciertos animales herbívoros pequeños como algunos insectos, estas plantas han favorecido a lo largo de su historia evolutiva la presencia de esta molécula (Nieber, 2017).
+* La cafeína está presente en varias decenas de plantas diferentes. Se cree que al principio la cantidad de cafeína en estas plantas era ínfima. Gracias a la toxicidad que supone la cafeína para ciertos animales herbívoros pequeños como algunos insectos, estas plantas han favorecido a lo largo de su historia evolutiva la presencia de esta molécula (Nieber, 2017).
 * Los diterpenos como el cafestol y el kahweol.
 * Las melanoidinas, generadas al someter los alimentos a altas temperaturas, provocando una reacción (conocida como reacción de Maillard) entre los hidratos de carbono y ciertos aminoácidos (unidades que componen las proteínas). En el caso que nos ocupa, estas moléculas se generan durante el tueste de los granos de café. 
 * Los micronutrientes: vitamina B3 (niacina), vitamina E, potasio y magnesio. 
