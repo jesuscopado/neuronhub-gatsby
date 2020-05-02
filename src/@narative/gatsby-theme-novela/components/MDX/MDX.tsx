@@ -125,6 +125,7 @@ const HeadingsCSS = css`
   h6 * {
     margin: -8px auto 10px;
     text-align: center;
+    font-size: 15px;
   }
 
   h1,
