@@ -133,22 +133,23 @@ Por último, es importante que el lector tenga en cuenta el sesgo de publicació
 
 A pesar de las limitaciones descritas es posible sacar algunas cosas en claro. El café no debe tomarse como un remedio ante una infección bacteriana, ante una depresión o ante cualquiera de las enfermedades que parecen verse beneficiadas por su consumo. En primer lugar, no hay que olvidar que la mayoría de resultados establecen correlaciones y no se sabe si detrás de éstas hay una relación de causalidad. Además, no hay ninguna noción sobre su nivel de eficacia. 
 
-El café puede formar parte de una dieta sana. Un consumo de tres a cuatro tazas al día no es perjudicial y **podría **acompañarse de ciertos beneficios para la salud a largo plazo: menor riesgo de desarrollar ciertos tipos cáncer, algunas enfermedades cardiovasculares, metabólicas, hepáticas y de salud mental. Los riesgos parecen ser mínimos en comparación con los efectos positivos. Además, el café descafeinado podría dar lugar a algunos de los beneficios mencionados. El efecto del café sobre la salud es una cuestión de hábitos. Añadir azúcar al café añade un riesgo adicional y anula los potenciales efectos beneficiosos metabólicos y sobre las enfermedades cardiovasculares. 
-
-Como has podido comprobar, la ciencia pocas veces da respuestas dicotómicas ante preguntas muy generales. La realidad es compleja. Es posible analizarla a través de las lentes de los beneficios y los riesgos, que nos muestra el mundo con colores vivos y cuya visión es tan cómoda como falsa; o a través de las lentes donde no hay beneficios y riesgos absolutos, mostrándonos un mundo de colores tenues y cuya visión puede incomodar pero es más real (_Figura 4_).
+El café puede formar parte de una dieta sana. Un consumo de tres a cuatro tazas al día no es perjudicial y **podría** acompañarse de ciertos beneficios para la salud a largo plazo: menor riesgo de desarrollar ciertos tipos cáncer, algunas enfermedades cardiovasculares, metabólicas, hepáticas y de salud mental. Los riesgos parecen ser mínimos en comparación con los efectos positivos. Además, el café descafeinado podría dar lugar a algunos de los beneficios mencionados. El efecto del café sobre la salud es una cuestión de hábitos. Añadir azúcar al café añade un riesgo adicional y anula los potenciales efectos beneficiosos metabólicos y sobre las enfermedades cardiovasculares. 
 
 <div className="Image__Small">
   <img src="https://nervousystemhome.files.wordpress.com/2020/05/gafas.png?w=1024" alt="This is the alt text small image" />
   <figcaption>Figura 4. Gafas</figcaption>
 </div>
 
-#### Referencias
+Como has podido comprobar, la ciencia pocas veces da respuestas dicotómicas ante preguntas muy generales. La realidad es compleja. Es posible analizarla a través de las lentes de los beneficios y los riesgos, que nos muestra el mundo con colores vivos y cuya visión es tan cómoda como falsa; o a través de las lentes donde no hay beneficios y riesgos absolutos, mostrándonos un mundo de colores tenues y cuya visión puede incomodar pero es más real (_Figura 4_).
+
+<h4><button type="button" class="collapsible">Referencias</button></h4>
+<div class="content"><p>
 
 Baker, S. (2018, mayo 21). Verificación de datos: ¿produce cáncer el café? Recuperado 1 de mayo de 2020. [_Fuente_](https://elpais.com/elpais/2018/05/04/ciencia/1525449001_806468.html)
 
 Grosso, G., Godos, J., Galvano, F., & Giovannucci, E. L. (2017). Coffee, Caffeine, and Health Outcomes: An Umbrella Review. _Annual Review of Nutrition, 37_(1), 131-156. [_Fuente_](https://doi.org/10.1146/annurev-nutr-071816-064941)
 
-Iborio, E. (2017, noviembre 8). El David de Miguel Ángel - Michelangelo Buonarrotti. Recuperado 2 de mayo de 2020.[_Fuente_](https://historia-arte.com/obras/el-david-de-miguel-angel)
+Iborio, E. (2017, noviembre 8). El David de Miguel Ángel - Michelangelo Buonarrotti. Recuperado 2 de mayo de 2020. [_Fuente_](https://historia-arte.com/obras/el-david-de-miguel-angel)
 
 Neves, M. F., Trombin, V. G., Lopes, F. F., Kalaki, R., & Milan, P. (2011). World consumption of beverages. _The orange juice business_, 118. [_Fuente_](https://doi.org/10.3920/978-90-8686-739-4_31)
 
@@ -156,4 +157,6 @@ Nieber, K. (2017). The Impact of Coffee on Health. _Planta Medica_, _83_(16), 12
 
 Saeed, M., Naveed, M., BiBi, J., Ali Kamboh, A., Phil, L., & Chao, S. (2019). Potential nutraceutical and food additive properties and risks of coffee: a comprehensive overview. _Critical Reviews in Food Science and Nutrition_, _59_(20), 3293-3319. [_Fuente_](https://doi.org/10.1080/10408398.2018.1489368)
 
-Wikipedia contributors. (2020). List of chemical compounds in coffee. Recuperado 1 de mayo de 2020. [_Fuente_](https://en.wikipedia.org/wiki/List_of_chemical_compounds_in_coffee)
+Wikipedia contributors. (2020). List of chemical compounds in coffee. Recuperado 1 de mayo de 2020. [_Fuente_](https://en.wikipedia.org/wiki/List_of_chemical_compounds_in_coffee) 
+
+</p></div>

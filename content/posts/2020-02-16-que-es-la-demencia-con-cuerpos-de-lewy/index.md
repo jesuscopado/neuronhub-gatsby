@@ -59,7 +59,8 @@ Otra de las dificultades asociadas al diagnóstico es la escasez de biomarcadore
 
 La demencia con cuerpos de Lewy es una enfermedad neurodegenerativa que afecta a las neuronas dopaminérgicas y acetilcolinérgicas caracterizada por la aparición de agregados de proteínas como la α-sinucleína en los somas y en las proyecciones neuronales, conocidos como cuerpos de Lewy y neuritas de Lewy, respectivamente.  La relación entre los cuerpos y neuritas de Lewy y la neurodegeneración sigue resultando un misterio. Entre los principales síntomas de la enfermedad destacan el déficit cognitivo, los problemas motores típicos del parkinsonismo, los trastornos de conducta de la fase REM y las alucinaciones visuales. La demencia con cuerpos de Lewy es considerada una enfermedad infradiagnosticada dada la escasez de biomarcadores y la confusión con otras enfermedades, entre otras razones. Si bien no se considera una enfermedad genética y la mayoría de los casos son considerados esporádicos, el estudio de ciertos casos de demencia con cuerpos de Lewy en determinadas familias afectadas ha permitido identificar algunos candidatos genéticos como el gen APOE y el gen GBA.
 
-#### Referencias
+<h4><button type="button" class="collapsible">Referencias</button></h4>
+<div class="content"><p>
 
 Boeve, B. F. (2009). REM sleep behavior disorder. _Annals of the New York Academy of Sciences, 1184_(1), 15–54. [_Fuente_](https://doi.org/10.1111/j.1749-6632.2009.05115.x)
 
@@ -70,3 +71,5 @@ Gale, S. A., Acar, D., & Daffner, K. R. (2018). Dementia. _The American Journal 
 National Institute of Aging. (2018). What Is Lewy Body Dementia? Recuperado 17 febrero, 2020. [_Fuente_](https://www.nia.nih.gov/health/what-lewy-body-dementia)
 
 Outeiro, T. F., Koss, D. J., Erskine, D., Walker, L., Kurzawa-Akanbi, M., Burn, D., . . . McKeith, I. (2019). Dementia with Lewy bodies: an update and outlook. _Molecular Neurodegeneration, 14_(1). [_Fuente_](https://doi.org/10.1186/s13024-019-0306-8)
+
+</p></div>

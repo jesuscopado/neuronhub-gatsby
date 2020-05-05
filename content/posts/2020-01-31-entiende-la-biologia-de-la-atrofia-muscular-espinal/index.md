@@ -63,7 +63,8 @@ Por último, se han desarrollado algunas estrategias de remplazo celular. Estas 
 
 El ARN juega un papel vital en la célula: es el precursor de las proteínas, unidades estructurales y funcionales de nuestras células. El metabolismo del ARN incluye etapas como la maduración de los precursores de ARN mensajero. Sin la maduración del ARN mensajero, la proteína resultante puede dejar de ser viable y esto puede tener consecuencias para la viabilidad de las células. Es el caso de la enfermedad neurodegenerativa conocida como Atrofia Muscular Espinal. Esta patología se caracteriza por una mutación genética de la proteína SMN1, implicada en la maduración del ARN. Sin esta proteína funcional, su homóloga SMN2 no es suficiente para restaurar las funciones celulares como el desarrollo y la proliferación de las células, en este caso las neuronas motoras. Aún resulta un misterio por qué la mutación genética tiene repercusiones únicamente a nivel de estas células nerviosas (y como consecuencias sobre los músculos inervados por estas, resultando en una atrofia muscular). Existen varias vías de desarrollo de tratamientos: terapia farmacológica, cuyo objetivo es aumentar de forma directa la cantidad de proteína SMN jugando sobre los reguladores genéticos de su expresión; la terapia genética, que busca la incorporación en la célula de la proteína SMN funcional mediante terapias virales; y la terapia celular, que propone la utilización de células madre para desarrollar nuevos tejidos funcionales. A pesar de que se ha avanzado considerablemente en la búsqueda de vías factibles, ninguna estrategia ha mostrado resultados definitivos.
 
-#### Referencias
+<h4><button type="button" class="collapsible">Referencias</button></h4>
+<div class="content"><p>
 
 Arnold, E. S., & Fischbeck, K. H. (2018). Spinal muscular atrophy. _Neurogenetics, Part II_, _148_(38), 591–601. [_Fuente_](https://doi.org/10.1016/b978-0-444-64076-5.00038-7)
 
@@ -72,3 +73,5 @@ Lefebvre, S., Burlet, P., Liu, Q., Bertrandy, S., Clermont, O., Munnich, A., . .
 Maeda, M., Harris, A. W., Kingham, B. F., Lumpkin, C. J., Opdenaker, L. M., McCahan, S. M., . . . Butchbach, M. E. R. (2014). Transcriptome Profiling of Spinal Muscular Atrophy Motor Neurons Derived from Mouse Embryonic Stem Cells. _PLoS ONE, 9_(9), 1–18. [_Fuente_](https://doi.org/10.1371/journal.pone.0106818)
 
 Protein Atlas. (s.f.). SMN1 protein expression summary - The Human Protein Atlas. Recuperado 2 febrero, 2020. [_Fuente_](https://www.proteinatlas.org/ENSG00000172062-SMN1)
+
+</p></div>
