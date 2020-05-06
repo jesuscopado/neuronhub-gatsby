@@ -149,7 +149,7 @@ const CollapsibleCSS = p => css`
 
     ${mediaqueries.phablet`
       padding-left: 16px;
-    `};
+    `};git
 
   }
 
@@ -166,7 +166,7 @@ const CollapsibleCSS = p => css`
     left: 0px;
 
     ${mediaqueries.phablet`
-      font-size: 11px;
+      font-size: 12px;
     `};
 
   }
