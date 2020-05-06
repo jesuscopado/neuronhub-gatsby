@@ -107,7 +107,8 @@ Los expertos no consideran que la cafeína sea adictiva, pero es posible hablar 
 
 La cafeína es una molécula antagonista de la adenosina, que estimula el sistema nervioso inhibiendo la sensación de fatiga y aumentando el nivel de alerta y la atención. Su consumo no es peligroso siempre y cuando sea moderado (no más de cuatro tazas de café al día), y su poder adictivo es limitado. El consumo de cafeína genera tolerancia de forma reversible, y su interrupción da lugar a signos de abstinencia de duración limitada.
 
-#### Referencias
+<h4><button type="button" class="collapsible">Referencias</button></h4>
+<div class="content"><p>
 
 Alianza Salud. (2016). Cantidad de azúcar en los refrescos más comunes. Recuperado 13 de abril de 2020. [_Fuente_](https://alianzasalud.org.mx/2013/05/cantidad-de-azucar-en-los-refrescos-mas-comunes/)
 
@@ -138,3 +139,5 @@ Petre, A. (2017). Are Coffee and Caffeine Addictive? A Critical Look. Recuperado
 SciShow. (2012). Caffeine! Recuperado 13 de abril de 2020. [_Fuente_](https://www.youtube.com/watch?v=Xl1XBJLfIDU)
 
 WebMD. (2008). Caffeine Myths and Facts. Recuperado 13 de abril de 2020. [_Fuente_](https://www.webmd.com/diet/caffeine-myths-and-facts#1)
+
+</p></div>

@@ -140,7 +140,8 @@ La proteína TDP-43 tiene funciones importantes relacionadas con la expresión g
 
 Las grandes preguntas son importantes, pero para responderlas hay que pasar por pequeñas preguntas. La relación entre éstas debe ser establecida por medio del razonamiento. Es más práctico avanzar lentamente resolviendo pequeñas incógnitas que no avanzar en absoluto tratando de responder un interrogante trascendental y ambicioso. Es importante promover el pensamiento crítico y el escepticismo ante  aquellos medios que dicen haber dado con la piedra filosofal. Desde que nace, el ser humano quiere entender. Esto no quiere decir que deba conformarse con cualquier explicación. 
 
-#### Referencias
+<h4><button type="button" class="collapsible">Referencias</button></h4>
+<div class="content"><p>
 
 Altschul S. F., Madden,T. L., Schäffer,A. A., Zhang, J., Zhang, Z., Miller, W. and Lipman, D. J. (1997) Gapped BLAST and PSI-BLAST: a new generation of protein database search programs. _Nucleic Acids Res._, _25_, 3389–3402.
 
@@ -160,3 +161,5 @@ UniProt. (2018, 28 febrero). SWISS-MODEL Repository | Q13148. Recuperado 1 novie
 UniProtKB. (2002, 27 marzo). TARDBP - TAR DNA-binding protein 43 - Homo sapiens (Human) - TARDBP gene & protein. Recuperado 23 octubre, 2019. [_Fuente_](https://www.uniprot.org/uniprot/Q13148)
 
 Wolozin, B., & Ivanov, P. (2019). Stress granules and neurodegeneration. _Nature Reviews Neuroscience_, 20(11), 649–666. [_Fuente_](https://doi.org/10.1038/s41583-019-0222-5)
+
+</p></div>

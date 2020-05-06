@@ -21,6 +21,9 @@ import ArticleShare from "@narative/gatsby-theme-novela/src/sections/article/Art
 
 import { Template } from "@types";
 
+import Helmet from 'react-helmet';
+import { withPrefix } from 'gatsby';
+
 const siteQuery = graphql`
   {
     allSite {
@@ -94,6 +97,9 @@ const Article: Template = ({ pageContext, location }) => {
         <MDXRenderer content={article.body}>
           <ArticleShare />
         </MDXRenderer>
+        <Helmet>
+          <script src={withPrefix('collapse_section.js')} type="text/javascript" />
+        </Helmet>
       </ArticleBody>
       {mailchimp && article.subscription && <Subscription />}
       {next.length > 0 && (
@@ -123,7 +129,7 @@ const MobileControls = styled.div`
 const ArticleBody = styled.article`
   position: relative;
   margin-top: 0px;
-  padding: 30px 0 80px;
+  padding: 30px 0 70px;
   padding-left: 68px;
   transition: background 0.2s linear;
 
@@ -136,7 +142,7 @@ const ArticleBody = styled.article`
   `}
 
   ${mediaqueries.phablet`
-    padding: 30px 0 40px;;
+    padding: 30px 0 40px;
   `}
 `;
 

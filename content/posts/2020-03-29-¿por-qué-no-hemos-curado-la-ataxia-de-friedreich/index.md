@@ -66,7 +66,8 @@ Por las razones citadas, no es del todo sorprendente que aún no haya una cura p
 
 Sabemos mucho sobre la ataxia de Friedreich: afecta al movimiento (coordinación, marcha), al corazón, y puede afectar a otros sistemas como el endocrino. A nivel molecular, una repetición aberrante de una secuencia de ADN reduce la expresión de la proteína frataxina, afectando al metabolismo y en última instancia a las células del sistema nervioso y del corazón (entre otros sistemas). Poseemos el conocimiento y la tecnología para actuar de forma local sobre el ADN para corregir la mutación aberrante, así como para aumentar la cantidad de frataxina celular y para corregir los defectos metabólicos. Pero esto resulta insuficiente desde un punto de vista clínico, puesto que ninguna de las intervenciones ha dado lugar a una cura general de la enfermedad. Esto es debido a múltiples factores como el conocimiento de la enfermedad (aunque abundante, quizá sea insuficiente), la gran complejidad molecular de la enfermedad (y en relación con esto, al difícil paso de los experimentos *in vitro* y en animales a los experimentos en el ser humano). Ciertos factores son difíciles o imposibles de controlar (historia clínica de cada paciente, medicamentos consumidos, lentitud del proceso de desarrollo de los fármacos...), pero dado el bajo número de fármacos que consiguen salir al mercado, debemos centrar la atención en aquellos factores que sí están en nuestra mano: la investigación, y con ello la mejor comprensión de los aspectos moleculares y celulares de las enfermedades. Según los resultados de los ensayos clínicos, en los que se consigue restablecer ciertos parámetros como la cantidad de frataxina, parece claro que hay cosas que se nos escapan: quizá la frataxina no explique todo en la ataxia de Friedreich. Es importante que partamos de hipótesis correctas para poder llegar a formar parte de ese pequeño 6,35% de medicamentos que puede cambiarlo todo.
 
-#### Referencias
+<h4><button type="button" class="collapsible">Referencias</button></h4>
+<div class="content"><p>
 
 Abrahão, A., Pedroso, J. L., Braga-Neto, P., Bor-Seng-Shu, E., De Carvalho Aguiar, P., & Barsottini, O. G. P. (2015). Milestones in Friedreich ataxia: more than a century and still learning. *neurogenetics*, *16*(3), 151–160. [_Fuente_](https://doi.org/10.1007/s10048-015-0439-z)
 
@@ -79,3 +80,5 @@ Kim, S. Y. (2013). Efficacy versus Effectiveness. *Korean Journal of Family Medi
 Wikipedia contributors. (2020, 25 marzo). Clinical trial. Recuperado 29 marzo, 2020. [_Fuente_](https://en.wikipedia.org/wiki/Clinical_trial)
 
 Zhang, S., Napierala, M., & Napierala, J. S. (2019). Therapeutic Prospects for Friedreich’s Ataxia. *Trends in Pharmacological Sciences*, *40*(4), 229–233. [_Fuente_](https://doi.org/10.1016/j.tips.2019.02.001)
+
+</p></div>

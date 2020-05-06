@@ -94,7 +94,8 @@ En segundo lugar, la ciencia no debe ser un secreto entre los científicos y las
 
 Fomentando una ciencia para todos, quizá algún día no será necesario explicar lo que había detrás de los cubos de agua helada.
 
-#### Referencias
+<h4><button type="button" class="collapsible">Referencias</button></h4>
+<div class="content"><p>
 
 Boeynaems, S. (2017, 5 enero). _New insights in the molecular changes underlying ALS | Steven Boeynaems | TEDxUHasseltSalon_ [Archivo de vídeo]. Recuperado 13 octubre, 2019. [_Fuente_](https://www.youtube.com/watch?v=oCBkzNi9kT4)
 
@@ -121,3 +122,5 @@ The ALS Association. (s.f.). Facts You Should Know. Recuperado 13 octubre, 2019.
 Valdmanis, P. N., Daoud, H., Dion, P. A., & Rouleau, G. A. (2009). Recent advances in the genetics of amyotrophic lateral sclerosis. _Current Neurology and Neuroscience Reports, 9_(3), 198–205. [_Fuente_](https://doi.org/10.1007/s11910-009-0030-9)
 
 Wikipedia contributors. (2019, 10 octubre). Motor neuron disease. Recuperado 13 octubre, 2019. [_Fuente_](https://en.wikipedia.org/wiki/Motor_neuron_disease)
+
+</p></div>

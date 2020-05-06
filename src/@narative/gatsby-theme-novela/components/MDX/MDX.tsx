@@ -138,6 +138,42 @@ const HeadingsCSS = css`
   }
 `;
 
+const CollapsibleCSS = p => css`
+  /* Style the button that is used to open and close the collapsible content */
+  .collapsible {
+    cursor: pointer;
+    text-align: left;
+    position: relative;
+    ${ARTICLE_WIDTH};
+    padding-left: 18px;
+  }
+
+  /* Add a background color to the button if it is clicked on (add the .active class with JS), and when you move the mouse over it (hover) */
+  .collapsible:hover {
+    color: ${p.theme.colors.accent};
+  }
+
+  .collapsible:after {
+    content: '\u25BA';
+    font-size: 13px;
+    position: absolute;
+    bottom: 2px;
+    left: 0px;
+    padding-right: 5px;
+  }
+  
+  .active:after {
+    content: '\u25BC';
+  }
+
+  /* Style the collapsible content. Note: hidden by default */
+  .content {
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.2s ease-out;
+  }
+`;
+
 const PrismCSS = p => css`
   .prism-code {
     overflow: auto;
@@ -369,4 +405,5 @@ const MDXBody = styled.div`
   ${HeadingsCSS}
   ${PrismCSS}
   ${ImageCSS}
+  ${CollapsibleCSS}
 `;
