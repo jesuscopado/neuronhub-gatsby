@@ -1,11 +1,19 @@
 ---
 author: Juan García Ruiz
-date: 2020-04-30 19:03:40+00:00
+date: 2020-04-30T19:03:40.000Z
 draft: false
 title: Efectos del café a largo plazo
 type: post
 excerpt: >-
-  “Aprende a tocar la guitarra como Jimi Hendrix en 3 días”, “habla polaco como un nativo en tan solo una semana”, “pierde 20 kilos en dos días”. Estos sugerentes titulares no se corresponden con la realidad. Todos sabemos, pero a veces no recordamos, que la vida es muy diferente a lo que vemos en las películas. No existen recetas mágicas para aprender a tocar un instrumento, para hablar una lengua o para perder un cuarto del peso corporal en menos de una semana. Tampoco se es más inteligente escuchando la sonata K. 448 de Mozart. No obstante, hay que reconocer que resulta tentador. Por eso a veces silenciamos nuestro sentido común y permitimos que esos titulares funcionen.
+  “Aprende a tocar la guitarra como Jimi Hendrix en 3 días”, “habla polaco como
+  un nativo en tan solo una semana”, “pierde 20 kilos en dos días”. Estos
+  sugerentes titulares no se corresponden con la realidad. Todos sabemos, pero a
+  veces no recordamos, que la vida es muy diferente a lo que vemos en las
+  películas. No existen recetas mágicas para aprender a tocar un instrumento,
+  para hablar una lengua o para perder un cuarto del peso corporal en menos de
+  una semana. Tampoco se es más inteligente escuchando la sonata K. 448 de
+  Mozart. No obstante, hay que reconocer que resulta tentador. Por eso a veces
+  silenciamos nuestro sentido común y permitimos que esos titulares funcionen.
 hero: images/17.jpg
 ---
 
@@ -22,14 +30,14 @@ Lo ideal sería que todos aprendiéramos a aceptar y a renunciar. Aceptar que la
   <figcaption>Figura 1. David de Miguel Ángel. Extraída de Iborio (2017)</figcaption>
 </div>
 
-Sin más dilación, hablemos de café. En este artículo hablo de los efectos a largo plazo del café, incluyendo beneficios y riesgos. La primera conclusión que podéis anotar es la siguiente: el café no es el santo grial, pero tampoco una bebida concebida en el averno. El lector no debe ir con la expectativa de que el café puede acabar con la enfermedad en el mundo, o de que se ha descubierto un componente letal en su interior. Pero el lector puede ir con la expectativa de que aprenderá algunas cosas interesantes sobre una de las bebidas más consumidas en todo el mundo.
+Sin más dilación, hablemos de café. En este artículo hablo de los efectos a largo plazo del café, incluyendo beneficios y riesgos. La primera conclusión que podéis anotar es la siguiente: el café no es el santo grial, pero tampoco una bebida concebida en el averno. El lector no debe ir con la expectativa de que el café pueda acabar con la enfermedad en el mundo, o de que se haya descubierto un componente letal en su interior. Pero el lector puede ir con la expectativa de que aprenderá algunas cosas interesantes sobre una de las bebidas más consumidas en todo el mundo.
 
 ### Radiografía del café
 
 El café contiene mucho más que cafeína. A día de hoy se han identificado miles de sustancias químicas diferentes, de las cuales tan solo una treintena han sido estudiadas (Wikipedia contributors, 2020). Para la tranquilidad del lector, en este artículo solo se mencionarán aquellas que conocemos mejor y guardan alguna relación con los efectos del café sobre la salud a largo plazo.
 
 * Los ácidos clorogénicos, que reciben su nombre no porque posean un átomo de cloro en su estructura, sino a partir del griego antiguo "chlorós" (verde). En efecto, los ácidos clorogénicos adquieren un color verdoso cuando se oxidan.  
-* La cafeína está presente en varias decenas de plantas diferentes. Se cree al principio la cantidad de cafeína en estas plantas era ínfima. Gracias a la toxicidad que supone la cafeína para ciertos animales herbívoros pequeños como algunos insectos, estas plantas han favorecido a lo largo de su historia evolutiva la presencia de esta molécula (Nieber, 2017).
+* La cafeína está presente en varias decenas de plantas diferentes. Se cree que al principio la cantidad de cafeína en estas plantas era ínfima. Gracias a la toxicidad que supone la cafeína para ciertos animales herbívoros pequeños como algunos insectos, estas plantas han favorecido a lo largo de su historia evolutiva la presencia de esta molécula (Nieber, 2017).
 * Los diterpenos como el cafestol y el kahweol.
 * Las melanoidinas, generadas al someter los alimentos a altas temperaturas, provocando una reacción (conocida como reacción de Maillard) entre los hidratos de carbono y ciertos aminoácidos (unidades que componen las proteínas). En el caso que nos ocupa, estas moléculas se generan durante el tueste de los granos de café. 
 * Los micronutrientes: vitamina B3 (niacina), vitamina E, potasio y magnesio. 
@@ -37,7 +45,7 @@ El café contiene mucho más que cafeína. A día de hoy se han identificado mil
 
 ### Consumo de café diario: ¿es peligroso o beneficioso?
 
-El café es hoy una de las bebidas más consumidas en todo el mundo (ver _Figura 2_). Sin embargo, esta bebida caliente no siempre ha gozado de una gran popularidad. Durante mucho tiempo se ha asociado su consumo a la aparición de patologías como el cáncer. No obstante, desde 2016 la Organización Mundial de la Salud ha eliminado al café de su lista negra (Baker, 2018). Basta realizar una consulta rápida en internet para constatar que hay un gran número de contradicciones. Esto es esperable, dado que el efecto del café no tiene por qué ser idéntico para todos los aspectos de la salud. Otras diferencias radican en la variabilidad metodológica existente entre los estudios. Entonces, ante tanta disparidad ¿cómo llegar a alguna conclusión?
+El café es hoy una de las bebidas más consumidas en todo el mundo (ver _Figura 2_). Sin embargo, esta bebida caliente no siempre ha gozado de una gran popularidad. Durante mucho tiempo se ha asociado su consumo a la aparición de patologías como el cáncer. No obstante, desde 2016 la Organización Mundial de la Salud ha eliminado el café de su lista negra (Baker, 2018). Basta realizar una consulta rápida en internet para constatar que hay un gran número de contradicciones. Esto es esperable, dado que el efecto del café no tiene por qué ser idéntico para todos los aspectos de la salud. Otras diferencias radican en la variabilidad metodológica existente entre los estudios. Entonces, ante tanta disparidad ¿cómo llegar a alguna conclusión?
 
 <div className="Image__Small">
   <img src="https://nervousystemhome.files.wordpress.com/2020/05/figura-1-artc3adculo-cafc3a9-2.png?w=974" alt="This is the alt text small image" />
@@ -80,7 +88,7 @@ El café tiene propiedades antimicrobianas contra ciertos microorganismos patol�
 
 ###### Patologías asociadas al sistema nervioso y la salud mental
 
-Los estudios de de Grosso et al. (2017) y Saeed et al. (2019) ha encontrado una relación entre el consumo de café y la reducción de la aparición de la enfermedad de Alzheimer. La cafeína podría estar al origen de una disminución de la acumulación del péptido _β_-amiloide (Saeed et al., 2019), relacionado con la aparición de esta enfermedad neurodegenerativa (ver [¿Qué es exactamente el Alzheimer?](https://www.neuronhub.org/Que-es-exactamente-el-Alzheimer)).
+Los estudios de Grosso et al. (2017) y Saeed et al. (2019) ha encontrado una relación entre el consumo de café y la reducción de la aparición de la enfermedad de Alzheimer. La cafeína podría estar al origen de una disminución de la acumulación del péptido _β_-amiloide (Saeed et al., 2019), relacionado con la aparición de esta enfermedad neurodegenerativa (ver [¿Qué es exactamente el Alzheimer?](https://www.neuronhub.org/Que-es-exactamente-el-Alzheimer)).
 
 El consumo de café está igualmente asociado con una disminución del riesgo de padecer Parkinson (Grosso et al., 2017; Saeed et al., 2019). Según los 16 meta-análisis cuantitativos, la reducción máxima del riesgo de padecer Parkinson se alcanzaría con 4 tazas de café diarias (Grosso et al., 2017). Las propiedades antiinflamatorias del café podrían explicar estos beneficios. La inflamación es un proceso implicado en el desarrollo del Parkinson, ya que favorece la agregación de la proteína α-sinucleína (ver [¿Qué es el Parkinson?](https://www.neuronhub.org/Que-es-el-Parkinson)). Otro mecanismo neuroprotector es la activación de la secreción de dopamina, principal neurotransmisor afectado en el Parkinson, por la cafeína (Grosso et al., 2017; Saeed et al., 2019).
 
@@ -95,7 +103,7 @@ El estado de ánimo también puede verse positivamente afectado por el consumo d
 
 ###### Otras patologías
 
-De manera similar, el consumo de café parece disminuir al riesgo de padecer problemas de la vesícula biliar y una enfermedad renal crónica (Grosso et al., 2017), patología que afecta a la capacidad filtradora del riñón. El café puede ser igualmente beneficioso contra el dolor de cabeza (Saeed et al., 2019). En general, los estudios del café (con o sin cafeína) muestran que su consumo correlaciona con una reducción de la mortalidad general (Grosso et al., 2017; Saeed et al., 2019).
+De manera similar, el consumo de café parece disminuir el riesgo de padecer problemas de la vesícula biliar y una enfermedad renal crónica (Grosso et al., 2017), patología que afecta a la capacidad filtradora del riñón. El café puede ser igualmente beneficioso contra el dolor de cabeza (Saeed et al., 2019). En general, los estudios sobre el café (con o sin cafeína) muestran que su consumo correlaciona con una disminución de la tasa de mortalidad (Grosso et al., 2017; Saeed et al., 2019).
 
 #### Los riesgos potenciales del café
 
@@ -127,13 +135,13 @@ La mayoría de los estudios incluidos en los meta-análisis seleccionados no pre
 
 Los estudios que se han tratado no han considerado la posible existencia de polimorfismos genéticos (diferencias genéticas entre individuos de una misma especie) asociados al metabolismo de los diferentes componentes del café. De existir dichos polimorfismos, los beneficios y los riesgos podrían no ser aplicables a todos los perfiles genéticos. Asimismo, es esencial que en el futuro se consideren otras variables relacionadas con el café. Se ha constatado que un consumo elevado de café suele coincidir con hábitos poco saludables (consumo de alcohol, consumo de tabaco, inactividad física). Además, las personas tienden a subestimar la frecuencia de los hábitos poco saludables y a ser más realistas con aquellos socialmente aceptados (consumo de café), generando un gran sesgo a la hora de evaluar sus efectos. Por ejemplo, se ha encontrado que el consumo de café se asocia a un mayor riesgo a desarrollar un cáncer de pulmón, problemas ligados al parto o de presión sanguínea. Estos resultados podrían ser debidos al consumo de tabaco. Para aclarar esta ambigüedad, estas variables deberán tenerse en cuenta en el futuro.
 
-Por último, es importante que el lector tenga en cuenta el sesgo de publicación, muy presente en estudios como los meta-análisis. Este sesgo consiste en limitar publicación a los resultados significativos. Imagina, por ejemplo, que 100 laboratorios se interesan al efecto del café sobre el Alzheimer, de los cuales 95 no encuentran ninguna relación. Lo que le llega al lector son 5 publicaciones que indican un efecto del café sobre el Alzheimer, pero lo que no sabe es que el 95% no encontró nada. Por ello, es importante guardar un espíritu crítico y no absorber todo el contenido que se lee sin reflexionar y contrastar la información. 
+Por último, es importante que el lector tenga en cuenta el sesgo de publicación, muy presente en estudios como los meta-análisis. Este sesgo consiste en limitar la publicación a los resultados significativos. Imagina, por ejemplo, que 100 laboratorios se interesan al efecto del café sobre el Alzheimer, de los cuales 95 no encuentran ninguna relación. Lo que le llega al lector son 5 publicaciones que indican un efecto del café sobre el Alzheimer, pero lo que no sabe es que el 95% no encontró nada. Por ello, es importante guardar un espíritu crítico y no absorber todo el contenido que se lee sin reflexionar y contrastar la información. 
 
 ### Mensaje para llevarse a casa
 
-A pesar de las limitaciones descritas es posible sacar algunas cosas en claro. El café no debe tomarse como un remedio ante una infección bacteriana, ante una depresión o ante cualquiera de las enfermedades que parecen verse beneficiadas por su consumo. En primer lugar, no hay que olvidar que la mayoría de resultados establecen correlaciones y no se sabe si detrás de éstas hay una relación de causalidad. Además, no hay ninguna noción sobre su nivel de eficacia. 
+A pesar de las limitaciones descritas es posible sacar algunas cosas en claro. El café no debe tomarse como un remedio ante una infección bacteriana, ante una depresión o ante cualquiera de las enfermedades que parecen verse atenuadas por su consumo. En primer lugar, no hay que olvidar que la mayoría de resultados establecen correlaciones y no se sabe si detrás de éstas hay una relación de causalidad. Además, no hay ninguna noción sobre su nivel de eficacia. 
 
-El café puede formar parte de una dieta sana. Un consumo de tres a cuatro tazas al día no es perjudicial y **podría** acompañarse de ciertos beneficios para la salud a largo plazo: menor riesgo de desarrollar ciertos tipos cáncer, algunas enfermedades cardiovasculares, metabólicas, hepáticas y de salud mental. Los riesgos parecen ser mínimos en comparación con los efectos positivos. Además, el café descafeinado podría dar lugar a algunos de los beneficios mencionados. El efecto del café sobre la salud es una cuestión de hábitos. Añadir azúcar al café añade un riesgo adicional y anula los potenciales efectos beneficiosos metabólicos y sobre las enfermedades cardiovasculares. 
+El café puede formar parte de una dieta sana. Un consumo de tres a cuatro tazas al día no es perjudicial y **podría** acompañarse de ciertos beneficios para la salud a largo plazo: menor riesgo de desarrollar ciertos tipos cáncer, algunas enfermedades cardiovasculares, metabólicas, hepáticas y de salud mental. Los riesgos parecen ser mínimos en comparación con los efectos positivos. Además, el café descafeinado podría dar lugar a algunos de los beneficios mencionados. El efecto del café sobre la salud es una cuestión de hábitos. Añadir azúcar al café añade un riesgo adicional y anula los potenciales efectos beneficiosos sobre las enfermedades metabólicas y cardiovasculares. 
 
 <div className="Image__Small">
   <img src="https://nervousystemhome.files.wordpress.com/2020/05/gafas.png?w=1024" alt="This is the alt text small image" />
