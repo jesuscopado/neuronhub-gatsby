@@ -74,7 +74,7 @@ La prueba genética que permite predecir la aparición o diagnosticar la enferme
 El Huntington es una enfermedad neurodegenerativa con un importante componente genético. La muerte neuronal tiene lugar en el estriado dorsal, una estructura implicada en la regulación del movimiento voluntario. Un componente molecular que podría estar implicado en la degeneración celular es la huntingtina, la proteína mutante que resulta de la mutación genética característica del huntington: número anormal de repeticiones de una secuencia de ADN. Aún no está claro cómo la huntingtina provoca la muerte neuronal, pero una hipótesis es que la proteína resultante de la mutación posee componentes que pueden interactuar de forma afín y formar agregados proteicos. Dichos agregados resultan tóxicos para las células y podrían inducir la neurodegeneración.  
 
 <h4><button type="button" class="collapsible">Referencias</button></h4>
-<div class="content"><p>
+<div class="content">
 
 European Huntington Association. (s.f.). What is Huntington’s Disease? – European Huntington Association. Recuperado 22 diciembre, 2019. [_Fuente_](http://eurohuntington.org/what-is-hd/)
 
@@ -84,4 +84,4 @@ Osmosis. (2019, 7 mayo). Huntington disease - causes, symptoms, diagnosis, treat
 
 Pringsheim, T., Wiltshire, K., Day, L., Dykeman, J., Steeves, T., & Jette, N. (2012). The incidence and prevalence of Huntington's disease: A systematic review and meta-analysis. Movement Disorders, 27(9), 1083–1091. [_Fuente_](https://doi.org/10.1002/mds.25075)  
 
-</p></div>
+</div>

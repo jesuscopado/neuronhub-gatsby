@@ -37,7 +37,7 @@ Una vez precisada la necesidad de evitar el reduccionismo, resulta apropiado men
 En conclusión, el Alzheimer es una compleja patología consistente en una acumulación de desregulaciones que dan lugar a un depósito aberrante de proteínas como tau y beta amiloide. Estos agregados de proteínas resultan tóxicos para las neuronas, y esto puede relacionarse con la muerte neuronal característica del Alzheimer, localizada en estructuras como la corteza frontal, el hipocampo, y los núcleos basales. La atrofia cerebral progresiva está asociada con los conocidos síntomas del Alzheimer, como la pérdida de la memoria, la desorientación y los cambios en la personalidad. A pesar de los descubrimientos biológicos que han ensanchado la comprensión de la enfermedad, nos encontramos en un estadio temprano. En efecto, en la actualidad no se conocen todos los agentes moleculares que interaccionan con los marcadores biológicos del Alzheimer que han sido identificados. Asimismo, queda mucho por elucidar en lo concerniente a factores de riesgo, comienzo de la enfermedad, regulación genética, prevención y tratamiento.  En otras palabras, a pesar de que se han descubierto algunas letras en este campo, estamos lejos de poder leer un libro.
 
 <h4><button type="button" class="collapsible">Referencias</button></h4>
-<div class="content"><p>
+<div class="content">
 
 Hashim, N.R. (2010). Neuropathology of Alzheimer's disease. The Mount Sinai journal of medicine, New York, 77 1, 32-42. 
 
@@ -45,4 +45,4 @@ Patterson, C. (2018). _World Alzheimer Report_. Retrieved 11 August 2019. [_Fuen
 
 Purves, D. (2004). _Neuroscience_. Sunderland, Mass: Sinauer Associates, Publishers.
 
-</p></div>
+</div>

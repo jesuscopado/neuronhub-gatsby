@@ -55,10 +55,10 @@ Esta hipótesis es asumida y está al origen de los tratamientos farmacológicos
 Quizá esté publicada sin que lo sepamos, o quizá estemos lejos de haber dado con la clave. En cualquiera de los dos escenarios, necesitamos investigar más para conocer mejor a lo que nos enfrentamos antes de empezar a diseñar nuestras armas. Pero hay otro paso antes de lanzarse a meter células en los tubos de ensayo: la reflexión. Partir de un contexto teórico adecuado, formular las hipótesis correctamente y echar un vistazo a lo que ya ha sido publicado son condiciones necesarias para avanzar (y para ahorrarle esfuerzo, tiempo y dinero a la comunidad científica).
 
 <h4><button type="button" class="collapsible">Referencias</button></h4>
-<div class="content"><p>
+<div class="content">
 
 Begley, S. (2018, 5 noviembre). New prize offers $2 million for finding key to Alzheimer’s in past research. Recuperado 29 septiembre, 2019. [_Fuente_](https://www.statnews.com/2018/11/05/prize-alzheimers-past-research/)
 
 Novak, P., Schmidt, R., Kontsekova, E., Zilka, N., Kovacech, B., Skrabana, R., . . . Novak, M. (2017). Safety and immunogenicity of the tau vaccine AADvac1 in patients with Alzheimer's disease: a randomised, double-blind, placebo-controlled, phase 1 trial. _The Lancet Neurology, 16_(2), 123–134. [_Fuente_](https://doi.org/10.1016/s1474-4422(16)30331-3)
 
-</p></div>
+</div>

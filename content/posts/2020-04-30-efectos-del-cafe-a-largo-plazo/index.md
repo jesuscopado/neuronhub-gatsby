@@ -151,7 +151,7 @@ El café puede formar parte de una dieta sana. Un consumo de tres a cuatro tazas
 Como has podido comprobar, la ciencia pocas veces da respuestas dicotómicas ante preguntas muy generales. La realidad es compleja. Es posible analizarla a través de las lentes de los beneficios y los riesgos, que nos muestra el mundo con colores vivos y cuya visión es tan cómoda como falsa; o a través de las lentes donde no hay beneficios y riesgos absolutos, mostrándonos un mundo de colores tenues y cuya visión puede incomodar pero es más real (_Figura 4_).
 
 <h4><button type="button" class="collapsible">Referencias</button></h4>
-<div class="content"><p>
+<div class="content">
 
 Baker, S. (2018, mayo 21). Verificación de datos: ¿produce cáncer el café? Recuperado 1 de mayo de 2020. [_Fuente_](https://elpais.com/elpais/2018/05/04/ciencia/1525449001_806468.html)
 
@@ -167,4 +167,4 @@ Saeed, M., Naveed, M., BiBi, J., Ali Kamboh, A., Phil, L., & Chao, S. (2019). Po
 
 Wikipedia contributors. (2020). List of chemical compounds in coffee. Recuperado 1 de mayo de 2020. [_Fuente_](https://en.wikipedia.org/wiki/List_of_chemical_compounds_in_coffee) 
 
-</p></div>
+</div>

@@ -86,7 +86,7 @@ En otras palabras, la escasez de frataxina en las células dificulta la formaci�
 La ataxia de Friedrich es una enfermedad neurodegenerativa genética que afecta a una gran porción de la población europea joven y adulta a diferentes niveles como el sistema nervioso, el sistema circulatorio (miocardio), y el sistema endocrino. Sus principales síntomas son los problemas de marcha y los reflejos, la pérdida de coordinación motora y la articulación de las palabras. La mortalidad es debida principalmente a los déficits cardiacos, y ocurre a edades tempranas. Los pacientes pueden presentar otras enfermedades como diabetes, y tienden a desarrollar depresión y ansiedad. La causa de la enfermedad es la mutación en el gen de la frataxina, una proteína esencial en el metabolismo celular cuya disminución provoca la muerte celular en regiones del sistema nervioso como la corteza cerebral, el cerebelo y las fibras nerviosas corticoespinales, corticocerebelares, espinocerebelosas, entre otras. Esta degeneración del sistema nervioso da cuenta de los problemas motores, sensoriales y de coordinación. Los mecanismos mediante los cuales la mutación afecta al miocardio son diferentes (en este caso, no se trata de degeneración celular sino de hipertrofia). Se trata de una enfermedad compleja desde un punto de vista sintomático, y los mecanismos fisiopatológicos que relacionan la mutación con las disfunciones celulares deben continuar siendo explorados.
 
 <h4><button type="button" class="collapsible">Referencias</button></h4>
-<div class="content"><p>
+<div class="content">
 
 Cook, A., & Giunti, P. (2017). Friedreich’s ataxia: clinical features, pathogenesis and management. *British Medical Bulletin, 124*(1), 19–30. *[Fuente](https://doi.org/10.1093/bmb/ldx034)*
 
@@ -100,4 +100,4 @@ Wikipedia contributors. (2020a). Spinal cord. Recuperado 17 marzo, 2020, de *[Fu
 
 Wikipedia contributors. (2020b). Electron transport chain. Recuperado 17 marzo, 2020, de *[Fuente](https://en.wikipedia.org/wiki/Electron_transport_chain)*
 
-</p></div>
+</div>

@@ -146,9 +146,14 @@ const CollapsibleCSS = p => css`
     position: relative;
     ${ARTICLE_WIDTH};
     padding-left: 18px;
+
+    ${mediaqueries.phablet`
+      padding-left: 16px;
+    `};
+
   }
 
-  /* Add a background color to the button if it is clicked on (add the .active class with JS), and when you move the mouse over it (hover) */
+  /* Change font color when you move the mouse over it (hover) */
   .collapsible:hover {
     color: ${p.theme.colors.accent};
   }
@@ -159,7 +164,11 @@ const CollapsibleCSS = p => css`
     position: absolute;
     bottom: 2px;
     left: 0px;
-    padding-right: 5px;
+
+    ${mediaqueries.phablet`
+      font-size: 11px;
+    `};
+
   }
   
   .active:after {

@@ -92,7 +92,7 @@ Desde sus primeras apariciones en la literatura científica se han hecho numeros
 La investigación debe centrarse en el descubrimiento de biomarcadores para diagnosticar el Parkinson en estadios más tempranos, así como en el descubrimiento de otras vías moleculares explicativas de la etiología de la enfermedad. En cuanto a la sociedad, el papel de los profesionales de la salud y de los pacientes no es menos importante. Teniendo en cuenta la dificultad de dar con una cura y de probar su eficacia, debería facilitarse la información relativa a la existencia de ensayos clínicos, para así disminuir el miedo a lo desconocido. Por otra parte, debería ensalzarse la relevancia de estos ensayos a nivel societal, y el gran aporte que cada paciente puede conferir a la ciencia. La exploración del iceberg solo es posible lanzándose al agua.
 
 <h4><button type="button" class="collapsible">Referencias</button></h4>
-<div class="content"><p>
+<div class="content">
 
 Chou, K. (2017). _Parkinson's Disease: The Basics_ [Archivo de vídeo]. Recuperado 24 noviembre, 2019. [_Fuente_](https://www.youtube.com/watch?v=p2UgCT0o07I)
 
@@ -110,4 +110,4 @@ Osmosis. (2019, 30 julio). _Parkinson's disease - causes, symptoms, diagnosis, t
 
 Port, B. (2018, 3 diciembre). Why isn’t there a cure for Parkinson’s? Recuperado 24 noviembre, 2019. [_Fuente_](https://medium.com/parkinsons-uk/why-isnt-there-a-cure-for-parkinson-s-634f522d6be2)
 
-</p></div>
+</div>

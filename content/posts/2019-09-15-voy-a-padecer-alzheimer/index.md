@@ -64,7 +64,7 @@ A gran escala, es necesario investigar. Es importante entender los mecanismos mo
 **Nota:** La lista de factores de riesgo no es exhaustiva. La selección se ha hecho en función de la frecuencia de aparición en diferentes artículos de referencia. No se ha incluido la comorbilidad con algunas enfermedades (depresión, diabetes, obesidad) dado que aún hay mucha discusión sobre la posición que ocupan con respecto al Alzheimer (en algunos casos lo preceden y en otros lo suceden). Pueden consultarse más factores de riesgo del Alzheimer (incluyendo las enfermedades asociadas) en el siguiente [enlace](https://www.alzheimers.org.uk/sites/default/files/pdf/factsheet_risk_factors_for_dementia.pdf).
 
 <h4><button type="button" class="collapsible">Referencias</button></h4>
-<div class="content"><p>
+<div class="content">
 
 Alzheimer's Association. (s.f.). Alzheimer. Causas y factores de riesgo. Recuperado 15 septiembre, 2019. [_Fuente_](https://www.alz.org/alzheimer-demencia/causas-y-factores-de-riesgo?lang=es-MX)
 
@@ -90,4 +90,4 @@ The Economist. Intelligence Unit. (2017). Assessing the Socioeconomic Impact of 
 
 Venkataraman, A., Kalk, N., Sewell, G., Ritchie, C. W., & Lingford-Hughes, A. (2016). Alcohol and Alzheimer's Disease—Does Alcohol Dependence Contribute to Beta-Amyloid Deposition, Neuroinflammation and Neurodegeneration in Alzheimer's Disease? _Alcohol and Alcoholism_. [_Fuente_](https://doi.org/10.1093/alcalc/agw092)
 
-</p></div>
+</div>

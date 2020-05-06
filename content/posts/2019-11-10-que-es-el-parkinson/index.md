@@ -107,7 +107,7 @@ El Parkinson es una enfermedad neurodegenerativa compleja, caracterizada por la 
 La investigación actual trata de comprender mejor los mecanismos que llevan a la neurodegeneración (algunos autores proponen una agregación de proteínas, concretamente la alfa-sinucleína) para conseguir un tratamiento eficaz para la enfermedad que vaya más allá del alivio sintomático. Para ello, mucha investigación básica sobre los mecanismos moleculares del Parkinson es necesaria. 
 
 <h4><button type="button" class="collapsible">Referencias</button></h4>
-<div class="content"><p>
+<div class="content">
 
 Barone, P., Antonini, A., Colosimo, C., Marconi, R., Morgante, L., Avarello, T. P., . . . Dotto, P. D. (2009). The PRIAMO study: A multicenter assessment of nonmotor symptoms and their impact on quality of life in Parkinson's disease. _Movement Disorders_, 24(11), 1641–1649. [_Fuente_](https://doi.org/10.1002/mds.22643)
 
@@ -125,4 +125,4 @@ Osmosis. (2019, 30 julio). _Parkinson's disease - causes, symptoms, diagnosis, t
 
 WHO. (2019, 19 septiembre). _Demencia_. Recuperado 10 noviembre, 2019. [_Fuente_](https://www.who.int/es/news-room/fact-sheets/detail/dementia)
 
-</p></div>
+</div>

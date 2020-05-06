@@ -61,7 +61,7 @@ La Atrofia Muscular Espinal es una enfermedad neurodegenerativa que afecta princ
 </div>
 
 <h4><button type="button" class="collapsible">Referencias</button></h4>
-<div class="content"><p>
+<div class="content">
 
 Arnold, E. S., & Fischbeck, K. H. (2018). Spinal muscular atrophy. _Neurogenetics, Part II, 148_(38), 591–601. [_Fuente_](https://doi.org/10.1016/b978-0-444-64076-5.00038-7)
 
@@ -77,4 +77,4 @@ The ALS Association. (s.f.). Facts You Should Know. Recuperado 13 octubre, 2019.
 
 World Health Organization. (2010, 8 diciembre). WHO | Neurological disorders affect millions globally: WHO report. Recuperado 19 enero, 2020. [_Fuente_](https://www.who.int/mediacentre/news/releases/2007/pr04/en/)
 
-</p></div>
+</div>

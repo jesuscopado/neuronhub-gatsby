@@ -71,7 +71,7 @@ La aparición de CRISPR-Cas9 es reciente, y su utilización en humanos resulta a
 El Huntington es una enfermedad neurodegenerativa agresiva con una incidencia importante, afectando a las funciones motoras, cognitivas y emocionales. Por el momento es posible hacer frente a algunos de los síntomas, aunque no sin efectos secundarios. La cura del Huntington no ha sido desentrañada por el momento, y para hacerlo es necesaria la colaboración de gobiernos, científicos, pacientes, y ciudadanos no enfermos (es posible hacer donaciones a las entidades mencionadas arriba). Una posible vía para tratar la enfermedad es mediante modificación genética. En esta línea, la utilización de la técnica CRISPR-Cas9 podría ser una propuesta adecuada, siempre y cuando se hayan superado las cuestiones relativas a los efectos inesperados, a la regulación legal de la técnica y a su uso de forma ética.
 
 <h4><button type="button" class="collapsible">Referencias</button></h4>
-<div class="content"><p>
+<div class="content">
 
 Lewis, R. (2015, 28 mayo). Can We Cure Huntington’s Disease? Recuperado 31 diciembre, 2019. [_Fuente_](https://blogs.plos.org/dnascience/2015/05/28/can-we-cure-huntingtons-disease/)
 
@@ -83,4 +83,4 @@ Osmosis. (2019, 7 mayo). Huntington disease – causes, symptoms, diagnosis, tre
 
 Wikipedia contributors. (2019, 23 diciembre). Huntington Disease. Recuperado 31 diciembre, 2019. [_Fuente_](https://en.wikipedia.org/wiki/Huntington%27s_disease)
 
-</p></div>
+</div>

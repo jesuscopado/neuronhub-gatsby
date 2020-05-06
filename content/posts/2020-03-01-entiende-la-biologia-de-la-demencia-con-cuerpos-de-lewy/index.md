@@ -65,7 +65,7 @@ Las vías de acción futuras deben centrarse por una parte en el desarrollo de b
 La demencia con cuerpos de Lewy es una de las enfermedades neurodegenerativas más frecuentes. Su principal característica es la aparición cuerpos y neuritas de Lewy (agregados de la proteína α-sinucleína) y la degeneración de las neuronas dopaminérgicas de la sustancia negra (en los ganglios basales). La presencia de los cuerpos de Lewy no se limita al sistema nervioso, pero la enfermedad se asocia a la agregación en áreas cerebrales como el neocórtex y el sistema límbico. La agregación es el resultado de un proceso de nucleación de monómeros de proteína y de elongación de oligómeros de esta, formando estructuras fibrilares que podrían resultar tóxicas para la célula nerviosa, o bien ser el resultado de la toxicidad originada por otros agentes. Una hipótesis para explicar la expansión de las agregaciones de α-sinucleína propone un mecanismo de tipo priónico. En la actualidad no existe ninguna cura para la enfermedad, puesto que el diagnóstico es difícil a causa de la falta de marcadores fiables, los ensayos clínicos son escasos y la enfermedad es de una gran complejidad sintomática.  
 
 <h4><button type="button" class="collapsible">Referencias</button></h4>
-<div class="content"><p>
+<div class="content">
 
 Beach, T. G., Adler, C. H., Sue, L. I., Vedders, L., Lue, L., White III, C. L., . . . Walker, D. G. (2010). Multi-organ distribution of phosphorylated α-synuclein histopathology in subjects with Lewy body disorders. _Acta Neuropathologica, 119_(6), 689–702. [_Fuente_](https://doi.org/10.1007/s00401-010-0664-3)
 
@@ -81,4 +81,4 @@ Wikipedia contributors. (2020a, 16 febrero). Neocortex. Recuperado 29 febrero, 2
 
 Wikipedia contributors. (2020b, 25 febrero). Limbic system. Recuperado 29 febrero, 2020, de [_Fuente_](https://en.wikipedia.org/wiki/Limbic_system)
 
-</p></div>
+</div>
