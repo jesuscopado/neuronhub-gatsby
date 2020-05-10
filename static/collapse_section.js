@@ -1,5 +1,10 @@
+console.log('22');
+
+console.log('The page has fully loaded');
 var coll = document.getElementsByClassName("collapsible");
 var i;
+
+console.log(coll.length);
 
 for (i = 0; i < coll.length; i++) {
   coll[i].addEventListener("click", function() {
