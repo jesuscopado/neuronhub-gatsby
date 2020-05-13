@@ -13,5 +13,6 @@ export default {
   colors: {
     ...novelaTheme.colors,
     accent: "#bb3f5c",
+    accentLight: "#f6e7eb",
   },
 };

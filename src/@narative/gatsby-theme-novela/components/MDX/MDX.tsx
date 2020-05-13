@@ -183,6 +183,123 @@ const CollapsibleCSS = p => css`
   }
 `;
 
+const ClarificationCSS = p => css`
+  .clarification-box {
+    font-size: 16px;
+    margin: 0 auto 25px;
+    width: 100%;
+    max-width: 520px;
+    padding: 15px 30px;
+
+    border: 1px solid ${p.theme.colors.accent};
+    border-radius: 5px;
+    background-color: ${p.theme.colors.accentLight};
+    
+    text-align: justify;
+    line-height: 20px;
+
+    ${mediaqueries.desktop`
+      max-width: 440px;
+    `}
+
+    ${mediaqueries.tablet`
+      max-width: 380px;
+      margin: 0 auto 25px;
+    `};
+
+    ${mediaqueries.phablet`
+      padding: 12px;
+    `};
+  }
+
+  .clarification2 {
+    font-size: 16px;
+    margin: 0 auto 25px;
+    width: 100%;
+    max-width: 520px;
+    padding: 15px 30px;
+
+    background-color: ${p.theme.colors.accentLight};
+    background-position: 0px 0px;
+    background-repeat: no-repeat;
+    border-left: solid 4px ${p.theme.colors.accent};
+
+    text-align: justify;
+    line-height: 20px;
+
+    ${mediaqueries.desktop`
+      max-width: 440px;
+    `}
+
+    ${mediaqueries.tablet`
+      max-width: 380px;
+      margin: 0 auto 25px;
+    `};
+
+    ${mediaqueries.phablet`
+      padding: 12px;
+    `};
+  }
+
+  .clarification3 {
+    font-size: 16px;
+    margin: 0 auto 25px;
+    width: 100%;
+    max-width: 520px;
+    padding: 15px 30px;
+
+    background-position: 0px 0px;
+    background-repeat: no-repeat;
+    border-left: solid 4px ${p.theme.colors.accent};
+
+    text-align: justify;
+    line-height: 20px;
+
+    ${mediaqueries.desktop`
+      max-width: 440px;
+    `}
+
+    ${mediaqueries.tablet`
+      max-width: 380px;
+      margin: 0 auto 25px;
+    `};
+
+    ${mediaqueries.phablet`
+      padding: 12px;
+    `};
+  }
+
+  .clarification4 {
+    font-size: 16px;
+    margin: 0 auto 25px;
+    width: 100%;
+    max-width: 520px;
+    padding: 15px 30px;
+
+    background-color: #e7e7e7;
+    background-position: 0px 0px;
+    background-repeat: no-repeat;
+    border-left: solid 4px ${p.theme.colors.accent};
+
+    text-align: justify;
+    line-height: 20px;
+
+    ${mediaqueries.desktop`
+      max-width: 440px;
+    `}
+
+    ${mediaqueries.tablet`
+      max-width: 380px;
+      margin: 0 auto 25px;
+    `};
+
+    ${mediaqueries.phablet`
+      padding: 12px;
+    `};
+  }
+
+`;
+
 const PrismCSS = p => css`
   .prism-code {
     overflow: auto;
@@ -415,4 +532,5 @@ const MDXBody = styled.div`
   ${PrismCSS}
   ${ImageCSS}
   ${CollapsibleCSS}
+  ${ClarificationCSS}
 `;
