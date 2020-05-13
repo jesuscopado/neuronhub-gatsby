@@ -189,7 +189,7 @@ const ClarificationCSS = p => css`
     margin: 0 auto 25px;
     width: 100%;
     max-width: 520px;
-    padding: 15px 30px;
+    padding: 15px 45px;
 
     background-color: ${p.theme.colors.accentLight};
     background-position: 0px 0px;
@@ -198,6 +198,7 @@ const ClarificationCSS = p => css`
 
     text-align: justify;
     line-height: 20px;
+    letter-spacing: -0.5px;
 
     ${mediaqueries.desktop`
       max-width: 440px;
