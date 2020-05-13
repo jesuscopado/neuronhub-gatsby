@@ -52,7 +52,7 @@ Por otra parte, estas hormonas permiten redistribuir el flujo sanguíneo de form
 **La adrenalina, la noradrenalina y la respuesta nerviosa simpática inmediata permiten reaccionar rápidamente ante un estímulo estresor, movilizando la energía en aquellos órganos necesarios para responder, y desatendiendo aquellos que son menos necesarios en ese instante.**
 
 <div className="Image__Small">
-  <img src="https://nervousystemhome.files.wordpress.com/2020/05/ooooooooo-2.png?w=724" alt="This is the alt text small image" />
+  <img src="https://nervousystemhome.files.wordpress.com/2020/05/imagendefinitiva-2.png?w=724" alt="This is the alt text small image" />
   <figcaption>Figura 3. Distribución de la adrenalina y la noradrenalina y efectos.</figcaption>
 </div>
 
