@@ -30,8 +30,8 @@ La percepción de un estresor activa una región situada en la zona central de l
 
 * Además de la respuesta simpática inmediata, el organismo pone en marcha una respuesta más lenta (unos treinta minutos tras la percepción del estresor) que permite mantener el organismo alerta ante una potencial reaparición del evento estresante. Esta respuesta consiste en la estimulación de las glándulas adrenales, pero llega con cierto desfase dado que pasa por la activación intermedia de una estructura cerebral llamada hipófisis, situada en la base del cerebro junto al hipotálamo. De esta forma, el hipotálamo estimula la hipófisis mediante la liberación de una hormona llamada corticotropina (CRH). Por su parte, la hipófisis libera la hormona adrenocorticotropa (ACTH), estimulando así las glándulas adrenales. La estimulación de las glándulas adrenales desencadena la liberación de adrenalina y noradrenalina, como en la respuesta inmediata, pero también permite la secreción de cortisol (BrainFacts, 2012; Shomu’s Biology, 2016).
 
-<div className="Image__Medium">
-  <img src="https://nervousystemhome.files.wordpress.com/2020/05/figura-2.png?w=753" alt="This is the alt text medium image" />
+<div className="Image__Small">
+  <img src="https://nervousystemhome.files.wordpress.com/2020/05/figura-2.png?w=753" alt="This is the alt text small image" />
   <figcaption>Figura 2. Cronología de los eventos hormonales principales que ocurren tras la percepción de un estímulo estresor.</figcaption>
 </div>
 
