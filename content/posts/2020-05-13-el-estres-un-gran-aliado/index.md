@@ -28,12 +28,14 @@ La percepción de un estresor activa una región situada en la zona central de l
 
 * El hipotálamo envía una respuesta nerviosa inmediata llamada respuesta simpática, cuya función es movilizar al organismo para la acción. La respuesta nerviosa parte del cerebro y desciende por la médula espinal: parte de las fibras nerviosas de la médula espinal alcanzan las glándulas adrenales (situadas sobre los riñones), donde liberan un neurotransmisor llamado acetilcolina y estimulan la liberación de adrenalina y noradrenalina en la sangre; otra parte de las fibras nerviosas terminan estimulando una serie de órganos efectores (incrementando la frecuencia cardíaca, orientando la irrigación sanguínea hacia los músculos esqueléticos, o dilatando las pupilas para focalizar la atención visual, por ejemplo) gracias a la liberación de, una vez más, noradrenalina. En pocas palabras, al final de esta primera respuesta inmediata, hay un incremento de adrenalina y noradrenalina en sangre (sus efectos son detallados más abajo), y diferentes efectores se ponen en marcha para hacer frente al peligro.
 
-**Aclaración**: la noradrenalina liberada en la sangre durante la primera parte de la respuesta simpática es considerada una _hormona_ (es secretada por una glándula al torrente sanguíneo, a través del cual es transportada para llegar a una célula de destino, sin importar la distancia con respecto al lugar de su liberación), mientras que la noradrenalina liberada en los órganos efectores es considerada un _neurotransmisor_ (es secretada por una neurona y actúa en el lugar inmediato de liberación, siendo su efecto mucho más rápido).
+<span class="clarification-box">
+<b>Aclaración:</b> la noradrenalina liberada en la sangre durante la primera parte de la respuesta simpática es considerada una <i>hormona</i> (es secretada por una glándula al torrente sanguíneo, a través del cual es transportada para llegar a una célula de destino, sin importar la distancia con respecto al lugar de su liberación), mientras que la noradrenalina liberada en los órganos efectores es considerada un <i>neurotransmisor</i> (es secretada por una neurona y actúa en el lugar inmediato de liberación, siendo su efecto mucho más rápido).
+</span>
 
 * Además de la respuesta simpática inmediata, el organismo pone en marcha una respuesta más lenta (unos treinta minutos tras la percepción del estresor) que permite mantener el organismo alerta ante una potencial reaparición del evento estresante. Esta respuesta consiste en la estimulación de las glándulas adrenales, pero llega con cierto desfase dado que pasa por la activación intermedia de una estructura cerebral llamada hipófisis, situada en la base del cerebro junto al hipotálamo. De esta forma, el hipotálamo estimula la hipófisis mediante la liberación de una hormona llamada corticotropina (CRH). Por su parte, la hipófisis libera la hormona adrenocorticotropa (ACTH), estimulando así las glándulas adrenales. La estimulación de las glándulas adrenales desencadena la liberación de adrenalina y noradrenalina, como en la respuesta inmediata, pero también permite la secreción de cortisol (BrainFacts, 2012; Shomu’s Biology, 2016).
 
-<div className="Image__Medium">
-  <img src="https://nervousystemhome.files.wordpress.com/2020/05/figura-2.png?w=753" alt="This is the alt text medium image" />
+<div className="Image__Small">
+  <img src="https://nervousystemhome.files.wordpress.com/2020/05/figura-2.png?w=753" alt="This is the alt text small image" />
   <figcaption>Figura 2. Cronología de los eventos hormonales principales que ocurren tras la percepción de un estímulo estresor.</figcaption>
 </div>
 
@@ -50,7 +52,7 @@ Por otra parte, estas hormonas permiten redistribuir el flujo sanguíneo de form
 **La adrenalina, la noradrenalina y la respuesta nerviosa simpática inmediata permiten reaccionar de forma inmediata ante un estímulo estresor, movilizando la energía en aquellos órganos necesarios para responder, y desatendiendo aquellos que son menos necesarios en ese instante.**
 
 <div className="Image__Small">
-  <img src="https://nervousystemhome.files.wordpress.com/2020/05/sin-perdida.png?w=724" alt="This is the alt text small image" />
+  <img src="https://nervousystemhome.files.wordpress.com/2020/05/ooooooooo-2.png?w=724" alt="This is the alt text small image" />
   <figcaption>Figura 3. Distribución de la adrenalina y la noradrenalina y efectos.</figcaption>
 </div>
 
@@ -60,7 +62,9 @@ El abastecimiento celular de glucosa es especialmente eficiente en presencia de 
 
 **En resumen, el cortisol constituye una respuesta adicional ante el estrés, favoreciendo igualmente el abastecimiento energético de las células, concentrando la energía en los órganos esenciales para responder e impidiendo que el organismo baje la guardia.**
 
-**Aclaración**: si bien la adrenalina, la noradrenalina y el cortisol son los mensajeros más importantes en la respuesta de estrés, no son los únicos. Por ejemplo, la aldosterona está implicada en la retención de agua y sodio (Hasudungan, 2017), lo que permite evitar la deshidratación en situaciones de emergencia.
+<span class="clarification-box">
+<b>Aclaración:</b> si bien la adrenalina, la noradrenalina y el cortisol son los mensajeros más importantes en la respuesta de estrés, no son los únicos. Por ejemplo, la aldosterona está implicada en la retención de agua y sodio (Hasudungan, 2017), lo que permite evitar la deshidratación en situaciones de emergencia.
+</span>
 
 ### Mensaje para llevarse a casa
 
