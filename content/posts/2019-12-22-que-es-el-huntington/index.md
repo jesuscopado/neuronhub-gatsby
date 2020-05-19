@@ -49,7 +49,7 @@ La incidencia del Huntington es de 0,38 por cada 100.000 personas al año. Aplic
 
 La enfermedad del Huntington se caracteriza por la repetición anormal (36 veces o más) de una secuencia de ADN localizada en el cromosoma 4. Esta mutación tiene lugar en el gen que codifica la proteína huntingtina, y da lugar a una versión anormal de la misma que se relaciona con la aparición de los síntomas descritos previamente (aunque no está claro de qué manera).  Se trata de una enfermedad autosómica dominante. ¿Qué quiere decir esto? Nuestro material genético está compuesto por 23 pares de cromosomas (es decir, somos organismos diploides): 22 pares de autosomas y un par de cromosomas sexuales que determinan, entre otras características, el sexo.
 
-<div className="Image__Small">
+<div className="Image__Small Image__withBorder">
   <img src="https://nervousystemhome.files.wordpress.com/2019/12/ucsc_human_chromosome_colours.png?w=1024" alt="This is the alt text small image" />
   <figcaption>Figura 2. 23 pares de cromosomas humanos. El par de cromosomas 4, el afectado por la mutación del Huntington, ha sido representado en rojo.</figcaption>
 </div>
@@ -58,7 +58,7 @@ El cromosoma 4 en el que se localiza la mutación característica del Huntington
 
 La neurodegeneración tiene lugar principalmente en el núcleo caudado y el putamen, estructuras pertenecientes a los ganglios basales, regiones cerebrales relacionadas con el movimiento voluntario. El núcleo caudado y el putamen forman parte del estriado dorsal, y tienen un papel importante en la inhibición del movimiento. Esto puede explicar algunos de los síntomas principales de la enfermedad como los movimientos coréicos (puesto que hay una disminución de las células encargadas de inhibirlos). 
 
-<div className="Image__Small">
+<div className="Image__Small Image__withBorder">
   <img src="https://nervousystemhome.files.wordpress.com/2019/12/schematic_illustration_of_projection_fibers_esp.jpg?w=1024" alt="This is the alt text small image" />
   <figcaption>Figura 3. Representación de los ganglios basales. El estriado dorsal, que incluye el putamen, el globo pálido y el núcleo caudado, ha sido representado en verde. Esta estructura es la principal afectada por la neurodegeneración del Huntington.</figcaption>
 </div>

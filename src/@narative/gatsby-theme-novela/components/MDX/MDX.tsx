@@ -321,19 +321,7 @@ const ImageCSS = p => css`
   
   div.Image__withBorder {
     img {
-      border: 1px solid ${p.theme.colors.accent};
-    }
-  }
-
-  div.Image__withBorder2 {
-    img {
-      border: 2px solid ${p.theme.colors.accent};
-    }
-  }
-
-  div.Image__withBorder3 {
-    img {
-      border: 1px solid black;
+      border: 1px solid ${p.theme.colors.articleText};
     }
   }
 

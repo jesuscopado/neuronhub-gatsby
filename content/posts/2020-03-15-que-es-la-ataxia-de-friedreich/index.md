@@ -49,7 +49,7 @@ Los mencionados síntomas más comunes de la forma clásica de la ataxia de Frie
 * Depresión, relacionada con una disminución del volumen de materia gris en el lóbulo frontal.
 * Ansiedad.
 
-<div className="Image__Tall">
+<div className="Image__Tall Image__withBorder">
   <img src="https://nervousystemhome.files.wordpress.com/2020/03/2.png?w=400" alt="This is the alt text tall image" />
   <figcaption>Figura 2. Representación de un corte sagital del cerebelo en la que puede observarse el núcleo dentado.</figcaption>
 </div>
@@ -74,7 +74,7 @@ La mutación del cromosoma 9 tiene lugar en el gen que codifica la frataxina, un
 
 La disminución de la concentración de frataxina tiene consecuencias fatales para la célula. En efecto, la frataxina es una proteína de pequeñas dimensiones muy conservada evolutivamente. Su expresión tiene lugar en el citoplasma celular, y posteriormente es transportada a las mitocondrias (orgánulos celulares relacionados con la homeostasis celular, el metabolismo y la gestión de la energía celular). Concretamente, su función está relacionada con la síntesis de los complejos hierro-azufre, que son agregados atómicos presentes en ciertas proteínas encargadas de llevar a cabo importantes reacciones químicas de óxido-reducción. Estas proteínas están implicadas en múltiples procesos metabólicos como la cadena de transporte de electrones, durante el cual son generadas las moléculas de ATP, molécula que almacena la energía utilizada por la célula para llevar a cabo sus funciones (Wikipedia, 2020b). La frataxina acelera la incorporación de átomos de azufre a los complejos de hierro-azufre. La escasez de frataxina asociada a la mutación da lugar a una perturbación de la formación de los complejos hierro-azufre. La célula, en un intento de compensar esta perturbación, acelera la recuperación de hierro mediante la activación de la expresión de proteínas encargadas de su transporte (como la transferrina). La expresión de estas proteínas provoca el transporte de hierro al interior de la mitocondria y su acumulación (ya que éste no es utilizado en la formación de los complejos). Dentro de la mitocondria, las acumulaciones de hierro son oxidadas mediante reacciones de óxido-reducción. Estas reacciones pueden dar lugar a la producción de especies reactivas de oxígeno, tóxicas para la célula (Cook & Giunti, 2017).
 
-<div className="Image__Small">
+<div className="Image__Small Image__withBorder">
   <img src="https://nervousystemhome.files.wordpress.com/2020/03/3-1.png?w=453" alt="This is the alt text small image" />
   <figcaption>Figura 3. Localización subcelular de la proteína frataxina: citoplasma y mitocondria. Fuente: UniProtKB (s.f.)</figcaption>
 </div>

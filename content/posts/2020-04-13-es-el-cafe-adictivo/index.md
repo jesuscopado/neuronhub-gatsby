@@ -32,7 +32,7 @@ Para entender el mecanismo estimulante del café es importante entender cómo fu
 
 En pocas palabras, cuando las neuronas consumen energía producen adenosina, y esta molécula se encarga de informar al organismo de la energía que ha sido consumida, sugiriéndole a través de los receptores A1 y A2 que hay que descansar. Durante el sueño, la concentración de adenosina va disminuyendo progresivamente (AsapSCIENCE, 2014), preparando al organismo para afrontar un nuevo día de consumo energético empezando de cero. 
 
-<div className="Image__Tall">
+<div className="Image__Tall Image__withBorder">
   <img src="https://nervousystemhome.files.wordpress.com/2020/04/sincafec3adna-1.png?w=599" alt="This is the alt text tall image" />
   <figcaption>Figura 1. Representación esquemática de la señalización celular de la adenosina en el cerebro.</figcaption>
 </div>
@@ -41,7 +41,7 @@ El componente estimulante del café proviene de una molécula llamada cafeína, 
 
 La cafeína posee una estructura similar a la adenosina (Figura 2). Como consecuencia de la proximidad estructural, la cafeína puede asociarse a los receptores de la adenosina (Hilliard, 2019), entrando en competición con esta última. 
 
-<div className="Image__Tall">
+<div className="Image__Tall Image__withBorder">
   <img src="https://nervousystemhome.files.wordpress.com/2020/04/cafeinadenosina-1.png?w=571" alt="This is the alt text tall image" />
   <figcaption>Figura 2. Estructura química de la cafeína y de la adenosina. Es posible encontrar el mismo grupo químico purina en ambas moléculas.</figcaption>
 </div>
@@ -52,7 +52,7 @@ La fijación de la cafeína sobre los receptores A1 impide la inhibición de la 
 
 Por otra parte, el bloqueo de los receptores de la adenosina por la cafeína activa otras vías de señalización. Por ejemplo, la liberación de dopamina (estimulante cerebral) es más efectiva en presencia de cafeína. Asimismo, el exceso de adenosina no asociada a su receptor es interpretado por el organismo como un estado de activación, estimulando así la liberación de adrenalina (otro estimulante) por la glándula suprarrenal (Hilliard, 2019).
 
-<div className="Image__Tall">
+<div className="Image__Tall Image__withBorder">
   <img src="https://nervousystemhome.files.wordpress.com/2020/04/organismocaf-2.png?w=651" alt="This is the alt text tall image" />
   <figcaption>Figura 3. Representación esquemática del recorrido de la cafeína desde su ingestión hasta la penetración en el tejido nervioso y de la señalización celular de la adenosina en presencia de cafeína.</figcaption>
 </div>
@@ -63,7 +63,7 @@ Ahora que has comprendido cómo funciona la cafeína, quizá te preguntes acerca
 
 No obstante, los expertos recomiendan no sobrepasar los 400 mg de cafeína al día (Coffee & Health, 2019). La _Figura 4_ ilustra la cantidad de cafeína contenida en algunas de las bebidas más ricas en esta sustancia. Según estos datos, por ejemplo, es importante mantener el consumo de café filtrado por debajo de 4 tazas. La cantidad exacta de cafeína puede variar ligeramente según el establecimiento donde se consume o el tipo de café.
 
-<div className="Image__Small">
+<div className="Image__Small Image__withBorder">
   <img src="https://nervousystemhome.files.wordpress.com/2020/04/cafc3a9tc3a9contenido.png?w=777" alt="This is the alt text small image" />
   <figcaption>Figura 4. Contenido en cafeína de diferentes bebidas. Imagen creada por Juan García Ruiz (datos de MayoClinic, 2018).</figcaption>
 </div>
