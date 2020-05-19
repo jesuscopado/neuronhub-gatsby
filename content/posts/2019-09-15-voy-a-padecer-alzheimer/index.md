@@ -25,7 +25,7 @@ Para la tranquilidad del lector, el fragmento inicial es un extracto de la novel
 
 Según el INE (2018), “la esperanza de vida es el número medio de años que esperaría seguir viviendo una persona de una determinada edad en caso de mantenerse el patrón de mortalidad por edad (tasas de mortalidad a cada edad) actualmente observado”. Nuestras condiciones de vida han mejorado en las últimas décadas gracias a los avances médicos, los hábitos nutricionales y el acceso a la educación. Esto, sumado a la reducción de la tasa de mortalidad infantil, se traduce en una esperanza de vida mayor. 
 
-<div className="Image__Medium">
+<div className="Image__Medium Image__withBorder">
   <img src="https://nervousystemhome.files.wordpress.com/2019/09/imagn.png?w=925" alt="This is the alt text medium image" />
   <figcaption>Figura 1. Gráfico generado a partir de los datos publicados por el INE (2018) sobre la esperanza de vida. La esperanza vida (ordenadas) ha sido representada en función del año (abscisas). La línea gris representa los datos de esperanza de vida para las mujeres; la línea amarilla representa los datos de esperanza de vida para los hombres. La línea azul representa los datos de esperanza de vida con independencia del sexo.</figcaption>
 </div>

@@ -39,7 +39,7 @@ Las manifestaciones clínicas de la ELA incluyen una combinación de signos deri
 
 Las neuronas motoras conectan los músculos voluntarios con el sistema nervioso (véase _Figura 1_). Al degenerar estas neuronas, los músculos reciben una estimulación nerviosa pobre y se debilitan. En la mayoría de los casos, la enfermedad comienza afectando las extremidades. En otros casos, los primeros síntomas afectan al lenguaje y a la capacidad de deglutir los alimentos. En el 50% de los casos de ELA, los pacientes presentan además signos de demencia frontotemporal (Ralli, Lambiase, Artico, De Vincentiis & Greco, 2019).
 
-<div className="Image__Tall">
+<div className="Image__Tall Image__withBorder">
   <img src="https://nervousystemhome.files.wordpress.com/2019/10/1.png?w=292" alt="This is the alt text tall image" />
   <figcaption>Figura 1. Representación del sistema nervioso central (cerebro y médula espinal) y de una sinapsis neuromuscular. El recuadro de la derecha muestra el detalle de las dos sinapsis del tracto corticoespinal: entre la neurona motora superior y la inferior, y entre la neurona motora inferior y el músculo. Las neuronas motoras van desde el cerebro hasta la médula espinal, pasando por el tronco cerebral, y envían a los músculos los mensajes nerviosos necesarios para realizar movimientos voluntarios como escribir. Imagen extraída de Wikipedia (Wikipedia contributors, 2019), traducida y modificada</figcaption>
 </div>
@@ -56,7 +56,7 @@ La etiología es la parte de la medicina que estudia las causas de las enfermeda
 
 Algunos investigadores creen que una acumulación de agregados de proteínas en el interior de las células podría estar al origen de la neurodegeneración característica de la enfermedad. Antes de adentrarnos en esta hipótesis, recordemos brevemente el dogma central de la biología molecular a través de la _Figura 2_:
 
-<div className="Image__Small">
+<div className="Image__Small Image__withBorder">
   <img src="https://nervousystemhome.files.wordpress.com/2019/10/2.png?w=584" alt="This is the alt text small image" />
   <figcaption>Figura 2. Esquema simplificado de una célula eucariota representando los dos grandes procesos moleculares: transcripción de ADN en ARN mensajero (ARNm) en el núcleo celular, y traducción del ARNm en proteína en el citoplasma. El ADN está contenido en el núcleo celular y contiene la información genética de un organismo: los genes. Los genes son como un manual de instrucciones: la lectura de la secuencia genética da lugar en última instancia a la síntesis de proteínas, moléculas estructurales y funcionales de los seres vivos. La transcripción es una etapa intermedia igualmente importante, ya que los agentes moleculares encargados de fabricar las proteínas no saben leer el ADN, pero sí el ARNm. Nota: la replicación del ADN también forma parte del dogma central de la biología molecular, pero no ha sido representada en el esquema porque no es necesaria para la comprensión de lo que sigue. </figcaption>
 </div>
@@ -65,11 +65,11 @@ Volviendo a la enfermedad, Boeynaems (2017) explica en una conferencia de TEDx u
 
 Según Boeynaems, la proteína responsable de la ELA es la TDP-43. TDP es una proteína necesaria para mantener el flujo de información genética de nuestras células (transcripción y traducción): el ADN, que se encuentra en el núcleo celular, debe ser transformado en ARN. La molécula de ARN sale entonces del núcleo y es leído por unas moléculas llamadas ribosomas, encargadas de sintetizar las proteínas a partir del código de ARN. Para que estos procesos puedan llevarse a cabo con normalidad, la concentración de TDP debe ser mayor en el núcleo que en el citoplasma. Una de las características de los pacientes de ELA es la perturbación de esta condición: las proteínas TDP se encuentran principalmente en el citoplasma, y una vez allí comienzan a agregarse y a formar placas que desencadenan la muerte neuronal. Un enfoque importante es el estudio del proceso que lleva a TDP a agregarse, ya que podría abrir vías terapéuticas para tratar la enfermedad.
 
-<div className="Image__Small">
+<div className="Image__Small Image__withBorder">
   <img src="https://nervousystemhome.files.wordpress.com/2019/10/3-1.png?w=783" alt="This is the alt text small image" />
 </div>
 
-<div className="Image__Small">
+<div className="Image__Small Image__withBorder">
   <img src="https://nervousystemhome.files.wordpress.com/2019/10/3.1.png?w=813" alt="This is the alt text small image" />
   <figcaption>Figura 3. Representación esquemática de una célula sana (arriba) y de una célula aberrante (abajo). En condiciones normales, la proteína TDP se encuentra mayoritariamente en el interior del núcleo. La acumulación de TDP en el citoplasma da lugar a una interrupción de los procesos necesarios de expresión de proteínas, y acaba desencadenando una muerte celular. Según esta hipótesis, las neuronas motoras superior e inferior tienen este problema, y la concentración proteica daría lugar a la neurodegeneración. Los músculos que dejan de ser inervados por las neuronas motoras comienzan a atrofiarse, ocasionando los problemas de movilidad voluntaria característicos de la ELA.</figcaption>
 </div>

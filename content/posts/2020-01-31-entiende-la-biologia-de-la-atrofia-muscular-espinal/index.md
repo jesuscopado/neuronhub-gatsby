@@ -15,7 +15,7 @@ excerpt: ¿Sabías que en el interior de tus células se encuentra el libro más
 
 La Atrofia Muscular Espinal (AME) es una enfermedad neurodegenerativa que afecta principalmente a las neuronas de la asta anterior de la medula espinal. Se trata de la primera causa de mortalidad infantil por enfermedad hereditaria. Sus manifestaciones varían en función del tipo clínico de manifestación (tipos I, II, III y IV, de más severo a menos), pero por lo general son las funciones motoras las principales afectadas, siendo la debilidad y la atrofia muscular los síntomas más comunes. La neurodegeneración está asociada a un problema genético relacionado con la proteína SMN.
 
-<div className="Image__Small">
+<div className="Image__Small Image__withBorder">
   <img src="https://nervousystemhome.files.wordpress.com/2020/02/imagen1.png?w=945" alt="This is the alt text small image" />
   <figcaption>Figura 1. Representación esquemática de la medula espinal a diferentes niveles. Arriba a la izquierda, localización de la medula espinal y de los nervios espinales (en amarillo). La médula, al interior de la columna vertebral, no es visible en esta primera representación. Arriba a la derecha, detalle de un corte de dos vértebras. En esta imagen, los nervios y la médula espinal han sido representados en azul. Abajo, detalle de un corte transversal de la médula espinal. Al exterior es posible apreciar la sustancia blanca, compuesta por los axones de las neuronas. Al interior se encuentra la sustancia gris, compuesta de los cuerpos celulares de las neuronas. La sustancia gris se subdivide, a su vez, en dos astas dorsales (zona de la espalda) y en dos astas ventrales (zona del vientre), que es donde la neurodegeneración típica de la AME tiene lugar.</figcaption>
 </div>
@@ -34,7 +34,7 @@ El ser humano posee dos proteínas llamadas SMN: SMN1 y SMN2. Estas dos macromol
 
 Hasta aquí no se ha dicho nada revolucionario: la proteína SMN1 es funcional, y su disminución correlaciona con la aparición de la AME. El lector se preguntará, en este momento, cuál es el rol de esta proteína, que resulta tan determinante para el devenir de la célula. La proteína SMN se expresa de manera ubiquitaria (en todos los tejidos), pero el nivel de expresión puede variar de un tejido a otro:
 
-<div className="Image__Small">
+<div className="Image__Small Image__withBorder">
   <img src="https://nervousystemhome.files.wordpress.com/2020/02/expresion.jpg?w=687" alt="This is the alt text small image" />
   <figcaption>Figura 2. Representación de la expresión del ARN mensajero y de la proteína SMN en cada tejido. Fuente: (Protein Atlas, s.f.)</figcaption>
 </div>

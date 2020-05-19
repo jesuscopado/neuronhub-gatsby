@@ -57,7 +57,7 @@ El desarrollo de un medicamento debe pasar por las fases citadas y puede durar u
 
 Por las razones citadas, no es del todo sorprendente que aún no haya una cura para la ataxia de Friedreich ni para el resto de enfermedades neurodegenerativas a pesar del nivel de comprensión que hemos alcanzado. No obstante, no hay que perder la esperanza: en la actualidad son numerosos los ensayos clínicos en curso (ver *Figura 2*). Varios de entre ellos han alcanzado la fase II y uno de ellos (omaveloxolona, mencionado previamente) se encuentra en fase III.
 
-<div className="Image__Medium">
+<div className="Image__Medium Image__withBorder">
   <img src="https://nervousystemhome.files.wordpress.com/2020/03/fatreatmentpipelinemar2020.png?w=990" alt="This is the alt text medium image" />
   <figcaption>Figura 2. Ensayos clínicos en curso para curar la ataxia de Friedreich. Fuente: FARA (2020)</figcaption>
 </div>

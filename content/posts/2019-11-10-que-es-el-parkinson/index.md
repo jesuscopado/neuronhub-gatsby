@@ -73,7 +73,7 @@ Además de los tres signos mencionados, otros síntomas como la inestabilidad po
 
 En el caso del Parkinson, las imágenes obtenidas por resonancia magnética no son útiles para el diagnóstico. En la mayoría de los casos, los pacientes presentan resultados normales para su edad. No obstante, algunas pruebas adicionales pueden ser utilizadas para el diagnóstico del Parkinson. Por ejemplo, el DatSCAN (ver _Figura 2_) puede aportar información para confirmar un diagnóstico. Esta prueba consiste en la inyección intravenosa de un marcador radioactivo (por tanto, detectable mediante radiografía) que se asocia específicamente a las células afectadas por el Parkinson. De esta forma, la neurodegeneración de estas células se manifiesta como una disminución de la señal emitida por el marcador radioactivo. Esta prueba debe ser tomada como un complemento del diagnóstico principal y nunca como única prueba diagnóstica,puesto que la neurodegeneración de estos grupos celulares puede darse en otras patologías. 
 
-<div className="Image__Small">
+<div className="Image__Small Image__withBorder">
   <img src="https://nervousystemhome.files.wordpress.com/2019/11/figura-2.png?w=279" alt="This is the alt text small image" />
   <figcaption>Figura 2. Resultado de un DatSCAN de un paciente de Parkinson (izquierda) y de una persona sana (derecha). La imagen representa dos secciones cerebrales horizontales. La señal emitida por el marcador radioactivo (representada con colores cálidos) se localiza en torno a la región cerebral conocida como sustancia negra, y es mayor en la radiografía de la persona sana que en la radiografía del paciente de Parkinson. Esta diferencia se debe a la neurodegeneración de las neuronas ubicadas en esta región en los casos de Parkinson. Imagen extraída de Chou (2017).</figcaption>
 </div>
@@ -84,7 +84,7 @@ En resumen, las personas que padecen Parkinson muestran dos o tres síntomas mot
 
 Las causas del Parkinson son, en la mayoría de los casos, desconocidas. En ocasiones, ciertas mutaciones en genes como _pink1_, _parkin_ y _alfa-sinucleína_ pueden están al origen de la enfermedad (Osmosis, 2019). La enfermedad afecta mayoritariamente a los hombres (casi dos veces más), por lo que el sexo es considerado un factor de riesgo. No obstante, el factor de riesgo más importante es la edad: el 1% de la población mayor de 60 años padece esta enfermedad (Chou, 2017). Esto, traducido a las cifras de población española (11,6 millones por encima de los 60 años, ver _Figura 3_), supone un total de 116.000 personas afectadas por la enfermedad. Estas cifras convierten a la enfermedad de Parkinson en la segunda enfermedad neurodegenerativa más frecuente tras el Alzheimer (Chou, 2017). 
 
-<div className="Image__Medium">
+<div className="Image__Medium Image__withBorder">
   <img src="https://nervousystemhome.files.wordpress.com/2019/11/figura-3.png?w=1024" alt="This is the alt text medium image" />
   <figcaption>Figura 3. Figura extraída del sitio web del INE (2018). Distribución de la población española mayor de 60 años, clasificada por grupos de edad de 5 años.</figcaption>
 </div>
@@ -93,7 +93,7 @@ Las causas del Parkinson son, en la mayoría de los casos, desconocidas. En ocas
 
 Las neuronas dopaminérgicas de la _sustancia negra_ se comunican con otra región llamada _cuerpo estriado_ mediante la vía nigroestriatal (ver _Figura 4_). En condiciones normales, la vía nigroestriatal permite una regulación fina del movimiento. ¿Cómo lo hace? En pocas palabras, la corteza motora estimula los músculos para producir movimiento. La corteza motora es en primer lugar estimulada por el tálamo, una gran estructura ubicada en el centro del cerebro. La actividad estimuladora del tálamo debe ser regulada para permitir unos movimientos adaptados. Por ejemplo, la actividad talámica será activada en las situaciones que requieran una aceleración del movimiento, como al cruzar una carretera cuando el semáforo va a ponerse en rojo. De la misma forma, la actividad talámica será reducida y finamente adaptada en actividades que así lo requieran como la pintura. Estas dos acciones son reguladas por dos vías nigroestratales diferentes: la vía directa para la estimulación y la vía indirecta para la inhibición. Las neuronas de la vía directa secretan dopamina y estimulan el tálamo, permitiendo así un incremento de la actividad de la corteza motora y como consecuencia de los músculos inervados por la misma. La vía indirecta también secreta dopamina, pero esta vez consiguiendo una estimulación mínima del tálamo, de tal forma que la actividad de la corteza motora sea reducida pero no nula.
 
-<div className="Image__Small">
+<div className="Image__Small Image__withBorder">
   <img src="https://nervousystemhome.files.wordpress.com/2019/11/figura-4.jpg?w=1024" alt="This is the alt text small image" />
   <figcaption>Figura 4. Representación esquemática de las vías nigroestatal, mesolímbica y mesocortical, así como diversas estructuras cerebrales implicadas. En el caso del Parkinson, la vía afectada es la nigroestratal (en rojo), impidiendo la comunicación neuronal entre la sustancia negra y el cuerpo estriado.</figcaption>
 </div>

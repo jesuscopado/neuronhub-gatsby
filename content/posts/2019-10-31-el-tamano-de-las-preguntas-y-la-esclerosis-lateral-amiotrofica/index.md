@@ -28,7 +28,7 @@ En otras palabras, este artículo pretende explorar la proteína TDP-43, relacio
 
 Como se explicó en el [anterior artículo](https://www.neuronhub.org/Que-es-la-Esclerosis-Lateral-Amiotrofica), la proteína _TDP-43_ está íntimamente relacionada con la ELA. La comprensión de la proteína (en términos de estructura, función, localización celular, presencia en diferentes organismos) puede aportar algo de luz a la aparición de la patología. En primer lugar, no hay que olvidar que todos poseemos esta proteína. En este punto, una pregunta completamente justificada es: ¿por qué no todos tenemos ELA? Todos poseemos la proteína en su estado salvaje (sin mutaciones), pero la patología se relaciona con una forma mutante de la misma. Es decir, la Esclerosis Lateral Amiotrófica está asociada a ciertas modificaciones genéticas del ADN que codifica esta proteína (ver _Figura 1_). 
 
-<div className="Image__Small">
+<div className="Image__Small Image__withBorder">
   <img src="https://nervousystemhome.files.wordpress.com/2019/10/1111111.png?w=584" alt="This is the alt text small image" />
   <figcaption>Figura 1. Representación esquemática de una célula. El ADN contiene una mutación en su secuencia de nucleótidos (cruz roja). Esta mutación es transcrita, dando lugar a una molécula de ARN mutante, y ésta es a su vez traducida en una proteína que presenta igualmente la mutación. Esto es lo que ocurre en los casos de Esclerosis Lateral Amiotrófica: el gen que codifica la proteína TDP-43 da lugar a una forma aberrante de la misma. La función natural de la proteína es perturbada, ocasionando las conocidas consecuencias de la enfermedad: muerte celular (al tratarse de neuronas hablamos de neurodegeneración).</figcaption>
 </div>
@@ -39,19 +39,19 @@ Esta proteína, codificada por el gen TARDBP, tiene dos isoformas principales (e
 
 TDP-43 es una proteína compuesta por 414 aminoácidos (piezas elementales que componen las proteínas, como los _ladrillos_ componen una casa) y tiene una masa de 44.740 daltons (el dalton es la unidad utilizada para expresar el peso de los átomos y de las moléculas como las proteínas, de la misma forma que utilizamos el kilogramo para expresar el peso del ser humano). En condiciones normales, esta proteína se encuentra en el núcleo celular, y tiene múltiples funciones relacionadas con la biogénesis (creación) y el procesamiento del ARN.
 
-<div className="Image__Small">
+<div className="Image__Small Image__withBorder">
   <img src="https://nervousystemhome.files.wordpress.com/2019/10/2222222222.png?w=508" alt="This is the alt text small image" />
   <figcaption>Figura 2. Localización subcelular de la proteína TDP-43. Imagen extraida de UniProtKB (2002) </figcaption>
 </div>
 
 ### Fotos de carnet de la proteína TDP-43
 
-<div className="Image__Small">
+<div className="Image__Small Image__withBorder">
   <img src="https://nervousystemhome.files.wordpress.com/2019/11/333333333-1.png?w=393" alt="This is the alt text small image" />
   <figcaption>Figura 3. Representación tridimensional de la proteína TDP-43. Imagen extraida de UniProt (2018)</figcaption>
 </div>
 
-<div className="Image__Small">
+<div className="Image__Small Image__withBorder">
   <img src="https://nervousystemhome.files.wordpress.com/2019/10/444444444.png?w=616" alt="This is the alt text small image" />
   <figcaption>Figura 4. Representación esquemática bidimensional de los 414 aminoácidos de la proteína TDP-43 y de sus dominios proteicos (en azul y verde). Los dominios proteicos son secuencias de más de 20 aminoácidos conservadas a lo largo de la evolución. Los dominios pueden ser considerados como unidades independientes de las proteínas, poseen funciones especificas y pueden estar presentes diferentes proteínas de una misma especie o en proteínas de especies diferentes. Continuando con la metáfora del ladrillo para hacer referencia a los aminoácidos en una proteína, los dominios son estructuras formadas por ladrillos con una función particular y diferenciada (por ejemplo, constituirían un _dominio_ los ladrillos que forman un puente, un pozo o el tejado de una casa). Por esta razón, los dominios son secuencias de aminoácidos que pueden considerarse independientes de la proteína y de la especie. Su presencia en las proteínas se ha visto favorecida por la selección natural, y evolucionan de forma independiente. Imagen extraída de InterPro (s. f.) (simplificada y modificada). Ademas de los dominios (representados en la imagen) TDP-43 posee dos motivos proteicos. Los motivos, tal y como los dominios, son regiones conservadas a lo largo de la evolución pero de tamaño menor, normalmente de menos de veinte aminoácidos. En el caso de TDP-43 un primer motivo entre las posiciones 82 y 98 esta relacionado con la migración de la proteína al núcleo. El segundo motivo se encuentra entre los aminoácidos 239 y 250 y esta asociado a la exportación de la proteína desde el núcleo hasta el citoplasma.</figcaption>
 </div>
@@ -60,7 +60,7 @@ TDP-43 es una proteína compuesta por 414 aminoácidos (piezas elementales que c
 
 TDP-43 es una proteína presente en el ser humano así como en otras especies como el gibón de mejillas blancas (primate hominoideo), el orangután de Sumatra, el narval (cetáceo dentado) o el diablo de Tasmania (Altschul et al., 1997). Esta proteína implicada en la regulación genética se expresa de forma constitutiva (en todos los tejidos) aunque no en las mismas proporciones:
 
-<div className="Image__Small">
+<div className="Image__Small Image__withBorder">
   <img src="https://nervousystemhome.files.wordpress.com/2019/10/555555555.png?w=535" alt="This is the alt text small image" />
   <figcaption>Figura 5. Expresión diferencial de la proteína TDP43 en función del tejido. La cuantificación del ARNm de una proteína es una buena medida de la expresión genética, ya que las moléculas de ARNm que han sido transcritas a partir de un gen dado (ADN) son normalmente traducidas finalmente en proteína. La presencia de ARNm es un indicador del nivel de transcripción, y este a su vez correlaciona positivamente con la expresión genética. Imagen extraída de The Human Protein Atlas. (s.f.). Texto traducido al español.</figcaption>
 </div>
@@ -95,14 +95,14 @@ La base de datos UniProtKB reúne información proveniente de diferentes fuentes
 
 Las mutaciones genéticas que pueden dar lugar a variantes naturales (pero patológicos) de la proteína TDP-43 son diversas. Una característica común de estas mutaciones es que todas consisten en la sustitución de un solo nucleótido por otro en la secuencia de ADN (ver _Figura 1_), traduciéndose en la modificación puntual de uno de los 414 aminoácidos (ladrillos de las proteínas). Los aminoácidos afectados identificados hoy en día en los casos de ELA están comprendidos entre la posición 169 y la 393 (UniProtKB, 2002).
 
-<div className="Image__Small">
+<div className="Image__Small Image__withBorder">
   <img src="https://nervousystemhome.files.wordpress.com/2019/10/6666666666666.png?w=608" alt="This is the alt text small image" />
   <figcaption>Figura 6. A la izquierda, representación esquemática de los 414 aminoácidos de la proteína TDP-43. Los diferentes dominios identificados han sido representados en sus posiciones correspondientes (en verde y en rojo). Las zonas de baja complejidad (LCR por sus siglas en ingles: low complexity domain) han sido representadas en azul. A la derecha, tabla resumiendo la información precedente con el detalle de la posición de las cada dominio. Al margen de la tabla, mutaciones observadas en diferentes casos de ELA junto a cada región afectada. La figura 6 muestra una gran concentración de mutaciones en las regiones de baja complejidad. Por tanto, es posible deducir que la perturbación de la función normal (en ausencia de mutación) de las regiones LCR se asocia con la Esclerosis Lateral Amiotrófica. Imagen extraída de Pfam (s.f.) (simplificada y modificada) </figcaption>
 </div>
 
 *Nota: las mutaciones en los aminoácidos 298 y 379 han sido representadas dos veces, ya que afectan a dos regiones que se solapan: LCR (271-305) y (297-313) en el caso de la mutación 298 y (367-379) y (374-403) en el caso de la mutación 379. Ciertas mutaciones relacionadas con la ELA no han sido representadas, ya que afectan a regiones de la proteína que no pertenecen a ningún dominio, y con el fin de simplificar la imagen estas zonas han sido descartadas.*
 
-<div className="Image__Small">
+<div className="Image__Small Image__withBorder">
   <img src="https://nervousystemhome.files.wordpress.com/2019/10/777777777.png?w=817" alt="This is the alt text small image" />
   <figcaption>Figura 7. Alineamiento de la secuencia de aminoácidos de la isoforma 1 de la proteína TDP-43 contra la isoforma 2 de tamaño más reducido. Los aminoácidos de ambas secuencias han sido representados con el código de una sola letra. Para más información sobre el código y la estructura de los aminoácidos, es posible visitar el siguiente enlace: https://proteinstructures.com/Structure/Structure/amino-acids.html (Structural Bioinformatics, s.f.). La secuencia superior (del aminoácido 1 al 414) corresponde a la estructura linear de la proteína en su estado natural (isoforma 1). La secuencia inferior (del aminoácido 1 al 298) corresponde a la isoforma 2. Tal y como muestra la imagen, hay una correspondencia casi perfecta entre ambas isoformas desde el aminoácido 129 de la isoforma 1 y el aminoácido 13 de la isoforma 2 hasta el final de la cadena. Al principio de ambas secuencias hay otro bloque constituido por aminoácidos idénticos o similares (simbolizados con doble punto). Los primeros 103 aminoácidos son específicos de la isoforma 1. En otras palabras, las isoformas de la proteína TDP-43 se diferencian en el tamaño de la cadena, siendo la 1 superior a la 2 y encontrándose el fragmento extra al principio de la cadena. Los aminoácidos correspondientes a los dominios proteicos RRM1 y 2 han sido representados en amarillo. Los aminoácidos azules representan los lugares puntuales en los que se han identificado mutaciones relacionadas con la ELA.</figcaption>
 </div>

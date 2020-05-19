@@ -47,7 +47,7 @@ El café contiene mucho más que cafeína. A día de hoy se han identificado mil
 
 El café es hoy una de las bebidas más consumidas en todo el mundo (ver _Figura 2_). Sin embargo, esta bebida caliente no siempre ha gozado de una gran popularidad. Durante mucho tiempo se ha asociado su consumo a la aparición de patologías como el cáncer. No obstante, desde 2016 la Organización Mundial de la Salud ha eliminado el café de su lista negra (Baker, 2018). Basta realizar una consulta rápida en internet para constatar que hay un gran número de contradicciones. Esto es esperable, dado que el efecto del café no tiene por qué ser idéntico para todos los aspectos de la salud. Otras diferencias radican en la variabilidad metodológica existente entre los estudios. Entonces, ante tanta disparidad ¿cómo llegar a alguna conclusión?
 
-<div className="Image__Small">
+<div className="Image__Small Image__withBorder">
   <img src="https://nervousystemhome.files.wordpress.com/2020/05/figura-1-artc3adculo-cafc3a9-2.png?w=974" alt="This is the alt text small image" />
   <figcaption>Figura 2. Distribución del mercado mundial de la bebida (2009). Imagen extraída de Neves, Trombin, Lopes, Kalaki, & Milan, (2011) y traducida. Los porcentajes hacen referencia al total consumido en litros.</figcaption>
 </div>
@@ -94,7 +94,7 @@ El consumo de café está igualmente asociado con una disminución del riesgo de
 
 De manera general, el café podría resultar beneficioso para las enfermedades neurodegenerativas gracias a sus efectos antioxidantes, asociados a la neurogénesis o generación de nuevas neuronas (Grosso et al., 2017; Saeed et al., 2019). Asimismo,según Saeed et al. (2019), la niacina (vitamina B3) contenida en el café podría estar asociada a una regeneración de axones y dendritas neuronales (_Figura 3_). El papel protector de la cafeína contra la neurodegeneración ha sido confirmado en estudios con modelos animales de Alzheimer y Parkinson (Saeed et al., 2019). Las personas que consumen más cafeína muestran, además, un menor riesgo de presentar déficits cognitivos (Grosso et al., 2017).
 
-<div className="Image__Small">
+<div className="Image__Small Image__withBorder">
   <img src="https://nervousystemhome.files.wordpress.com/2020/05/neurona.png?w=626" alt="This is the alt text small image" />
   <figcaption>Figura 3. Representación de una neurona. Solo la posición de las neuritas (dendritas y axón) ha sido indicada.</figcaption>
 </div>
@@ -143,7 +143,7 @@ A pesar de las limitaciones descritas es posible sacar algunas cosas en claro. E
 
 El café puede formar parte de una dieta sana. Un consumo de tres a cuatro tazas al día no es perjudicial y **podría** acompañarse de ciertos beneficios para la salud a largo plazo: menor riesgo de desarrollar ciertos tipos cáncer, algunas enfermedades cardiovasculares, metabólicas, hepáticas y de salud mental. Los riesgos parecen ser mínimos en comparación con los efectos positivos. Además, el café descafeinado podría dar lugar a algunos de los beneficios mencionados. El efecto del café sobre la salud es una cuestión de hábitos. Añadir azúcar al café añade un riesgo adicional y anula los potenciales efectos beneficiosos sobre las enfermedades metabólicas y cardiovasculares. 
 
-<div className="Image__Small">
+<div className="Image__Small Image__withBorder">
   <img src="https://nervousystemhome.files.wordpress.com/2020/05/gafas.png?w=1024" alt="This is the alt text small image" />
   <figcaption>Figura 4. Gafas</figcaption>
 </div>
