@@ -300,7 +300,7 @@ const PrismCSS = p => css`
   }
 `;
 
-const ImageCSS = css`
+const ImageCSS = p => css`
   .gatsby-resp-image-background-image {
     display: none !important;
   }
@@ -317,6 +317,24 @@ const ImageCSS = css`
     ${mediaqueries.tablet`
       margin: 10px auto 45px;
     `};
+  }
+  
+  div.Image__withBorder {
+    img {
+      border: 1px solid ${p.theme.colors.accent};
+    }
+  }
+
+  div.Image__withBorder2 {
+    img {
+      border: 2px solid ${p.theme.colors.accent};
+    }
+  }
+
+  div.Image__withBorder3 {
+    img {
+      border: 1px solid black;
+    }
   }
 
   div.Image__Tall {

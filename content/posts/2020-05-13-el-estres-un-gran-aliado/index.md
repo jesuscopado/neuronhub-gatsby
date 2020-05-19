@@ -17,7 +17,7 @@ El estrés no goza de una fama prodigiosa en la actualidad. No son pocas las pub
 
 El estrés no es más que la preparación del organismo para la acción. De hecho, la respuesta fisiológica de estrés es también conocida como _reacción de lucha o huida_ (del inglés _fight or flight response_). Imagina por ejemplo una liebre que decide descansar un rato tras alimentarse. Encontrándose el animal en un estado de reposo y consagrando su energía esencialmente a la digestión, aparece en escena un zorro. La supervivencia de la liebre depende en gran medida de su tiempo de reacción. En esta situación, la digestión deja de ser una prioridad y lo único que importa es concentrar toda la energía disponible en la huida. Es aquí donde entra en juego el estrés.
 
-<div className="Image__Small">
+<div className="Image__Small Image__withBorder2">
   <img src="https://nervousystemhome.files.wordpress.com/2020/05/fs_387442.jpg?w=999" alt="This is the alt text small image" />
   <figcaption>Figura 1. "Foxes and hares", acuarela. Cortesía de Rachel McNaughton. Más en http://www.artbyrachel.co.uk/</figcaption>
 </div>
@@ -34,7 +34,7 @@ La percepción de un estresor activa una región situada en la zona central de l
 
 * Además de la respuesta simpática inmediata, el organismo pone en marcha una respuesta más lenta (unos treinta minutos tras la percepción del estresor) que permite mantener el organismo alerta ante una potencial reaparición del evento estresante. Esta respuesta consiste en la estimulación de las glándulas adrenales, pero llega con cierto desfase dado que pasa por la activación intermedia de una estructura cerebral llamada hipófisis, situada en la base del cerebro junto al hipotálamo. De esta forma, el hipotálamo estimula la hipófisis mediante la liberación de una hormona llamada corticotropina (CRH). Por su parte, la hipófisis libera la hormona adrenocorticotropa (ACTH), estimulando así las glándulas adrenales. La estimulación de las glándulas adrenales desencadena la liberación de adrenalina y noradrenalina, como en la respuesta inmediata, pero también permite la secreción de cortisol (BrainFacts, 2012; Shomu’s Biology, 2016).
 
-<div className="Image__Small">
+<div className="Image__Small Image__withBorder">
   <img src="https://nervousystemhome.files.wordpress.com/2020/05/figura-2.png?w=753" alt="This is the alt text small image" />
   <figcaption>Figura 2. Cronología de los eventos hormonales principales que ocurren tras la percepción de un estímulo estresor.</figcaption>
 </div>
@@ -51,7 +51,7 @@ Por otra parte, estas hormonas permiten redistribuir el flujo sanguíneo de form
 
 **La adrenalina, la noradrenalina y la respuesta nerviosa simpática inmediata permiten reaccionar rápidamente ante un estímulo estresor, movilizando la energía en aquellos órganos necesarios para responder, y desatendiendo aquellos que son menos necesarios en ese instante.**
 
-<div className="Image__Small">
+<div className="Image__Small Image__withBorder3">
   <img src="https://nervousystemhome.files.wordpress.com/2020/05/imagendefinitiva-2.png?w=724" alt="This is the alt text small image" />
   <figcaption>Figura 3. Distribución de la adrenalina y la noradrenalina y efectos.</figcaption>
 </div>
