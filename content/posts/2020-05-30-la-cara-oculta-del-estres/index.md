@@ -1,11 +1,16 @@
 ---
 author: Juan García Ruiz
-date: 2020-05-30 20:31:08+00:00
+date: 2020-05-30T20:31:08.000Z
 draft: false
 title: La cara oculta del estrés
 type: post
 excerpt: >-
-  El estrés es una respuesta ventajosa en muchas ocasiones: nos proporciona el eretismo que necesitamos para estudiar o realizar un examen, para hacer una buena salida en una carrera popular, o para hablar o tocar un instrumento en público. En definitiva, nos ayuda a responder bajo presión, centrando la energía en lo importante. Para otros seres vivos, el estrés es incluso más útil puesto que puede suponer su supervivencia. 
+  El estrés es una respuesta ventajosa en muchas ocasiones: nos proporciona el
+  eretismo que necesitamos para estudiar o realizar un examen, para hacer una
+  buena salida en una carrera popular, o para hablar o tocar un instrumento en
+  público. En definitiva, nos ayuda a responder bajo presión, centrando la
+  energía en lo importante. Para otros seres vivos, el estrés es incluso más
+  útil puesto que puede suponer su supervivencia. 
 hero: images/19.jpg
 ---
 
@@ -57,7 +62,7 @@ CW: Sí. Por ejemplo, he encontrado bastante variabilidad en la producción de g
 
 **JGR: ¿Hasta qué punto podemos aplicar a humanos lo que aprendemos con los roedores?**
 
-CW: Bastante. En los modelos de roedores el estrés produce comportamientos depresivos de forma muy similar a como ocurre en el humano. Algunos estudios han mostrado que las personas con estrés postraumático muestra cambios en regiones del cerebro y procedimientos de aprendizaje (extinción del _condicionamiento del miedo_ perturbada) muy similares a los cambios que se producen en ratas y ratones.
+CW: Bastante. En los modelos de roedores el estrés produce comportamientos depresivos de forma muy similar a como ocurre en el humano. Algunos estudios han mostrado que las personas con estrés postraumático muestran cambios en regiones del cerebro y procedimientos de aprendizaje (extinción del _condicionamiento del miedo_ perturbada) muy similares a los cambios que se producen en ratas y ratones.
 
 <span class="clarification-box">
 <b>Aclaración:</b> el condicionamiento del miedo es un aprendizaje que permite predecir la aparición de un estímulo aversivo tras la percepción de una señal neutra (por ejemplo, aprender que tras escuchar un sonido se desencadenará una pequeña descarga eléctrica). La extinción del condicionamiento puede facilitarse mediante la presentación repetida de la señal neutra sin que esta vaya acompañada del estímulo aversivo (presentando únicamente el sonido sin la descarga eléctrica). Tanto el condicionamiento como la extinción reposan sobre un funcionamiento cognitivo sano. Un deterioro de la extinción asociado al estrés puede ser revelador de un funcionamiento cognitivo afectado negativamente.
