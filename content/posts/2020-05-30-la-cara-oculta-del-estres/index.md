@@ -1,11 +1,16 @@
 ---
 author: Juan García Ruiz
-date: 2020-05-30 20:31:08+00:00
+date: 2020-05-30T20:31:08.000Z
 draft: false
 title: La cara oculta del estrés
 type: post
 excerpt: >-
-  El estrés es una respuesta ventajosa en muchas ocasiones: nos proporciona el eretismo que necesitamos para estudiar o realizar un examen, para hacer una buena salida en una carrera popular, o para hablar o tocar un instrumento en público. En definitiva, nos ayuda a responder bajo presión, centrando la energía en lo importante. Para otros seres vivos, el estrés es incluso más útil puesto que puede suponer su supervivencia. 
+  El estrés es una respuesta ventajosa en muchas ocasiones: nos proporciona el
+  eretismo que necesitamos para estudiar o realizar un examen, para hacer una
+  buena salida en una carrera popular, o para hablar o tocar un instrumento en
+  público. En definitiva, nos ayuda a responder bajo presión, centrando la
+  energía en lo importante. Para otros seres vivos, el estrés es incluso más
+  útil puesto que puede suponer su supervivencia. 
 hero: images/19.jpg
 ---
 
@@ -49,7 +54,7 @@ CW: Hay muchas formas de estudiar el estrés crónico en ratas y ratones. Una fo
 
 **JGR: ¿Cuáles son los límites de estos métodos para inducir estrés?**
 
-CW: Realmente no existe consenso, y esto puede dar lugar a resultados contradictorios. Algunos estresores se usan más que otros. Por ejemplo, la "inestabilidad social" o "Método McCormick, se utiliza frecuentemente con ratas adolescentes, ya que la socialización es más importante para éstas que para las adultas. Para las ratas adultas existen otros métodos como la limitación del espacio iluminado, descargas eléctricas repetidas en la cola, o la exposición a estrés crónico de naturaleza variable cada día (exposición a temperaturas frías, al amontonamiento junto con otras ratas, la privación de espacio...). Uno de los límites de estos métodos es que es difícil saber cuándo los efectos son generalizables a otros estresores. Por ejemplo, ¿se encontrará el mismo efecto con un estresor físico como las descargas que con un estresor psicológico? Otro límite es que inferimos que los métodos funcionan como estresores basándonos únicamente en algunos marcadores biológicos de un componente determinado de la respuesta de estrés (que es en realidad más compleja). Por ejemplo, se asume que la privación del espacio iluminado estresa a los animales porque incrementa la actividad del eje hipotalámo-hipófisario y porque causa una pérdida de peso.
+CW: Realmente no existe consenso, y esto puede dar lugar a resultados contradictorios. Algunos estresores se usan más que otros. Por ejemplo, la "inestabilidad social" o "Método McCormick", se utiliza frecuentemente con ratas adolescentes, ya que la socialización es más importante para éstas que para las adultas. Para las ratas adultas existen otros métodos como la limitación del espacio iluminado, descargas eléctricas repetidas en la cola, o la exposición a estrés crónico de naturaleza variable cada día (exposición a temperaturas frías, al amontonamiento junto con otras ratas, la privación de espacio...). Uno de los límites de estos métodos es que es difícil saber cuándo los efectos son generalizables a otros estresores. Por ejemplo, ¿se encontrará el mismo efecto con un estresor físico como las descargas que con un estresor psicológico? Otro límite es que inferimos que los métodos funcionan como estresores basándonos únicamente en algunos marcadores biológicos de un componente determinado de la respuesta de estrés (que es en realidad más compleja). Por ejemplo, se asume que la privación del espacio iluminado estresa a los animales porque incrementa la actividad del eje hipotalámo-hipófisario y porque causa una pérdida de peso.
 
 **JGR: El ser humano muestra diferencias individuales en el procesamiento de los estresores. ¿Es posible encontrar diferencias individuales en roedores?**
 
@@ -57,7 +62,7 @@ CW: Sí. Por ejemplo, he encontrado bastante variabilidad en la producción de g
 
 **JGR: ¿Hasta qué punto podemos aplicar a humanos lo que aprendemos con los roedores?**
 
-CW: Bastante. En los modelos de roedores el estrés produce comportamientos depresivos de forma muy similar a como ocurre en el humano. Algunos estudios han mostrado que las personas con estrés postraumático muestra cambios en regiones del cerebro y procedimientos de aprendizaje (extinción del _condicionamiento del miedo_ perturbada) muy similares a los cambios que se producen en ratas y ratones.
+CW: Bastante. En los modelos de roedores el estrés produce comportamientos depresivos de forma muy similar a como ocurre en el humano. Algunos estudios han mostrado que las personas con estrés postraumático muestran cambios en regiones del cerebro y procedimientos de aprendizaje (extinción del _condicionamiento del miedo_ perturbada) muy similares a los cambios que se producen en ratas y ratones.
 
 <span class="clarification-box">
 <b>Aclaración:</b> el condicionamiento del miedo es un aprendizaje que permite predecir la aparición de un estímulo aversivo tras la percepción de una señal neutra (por ejemplo, aprender que tras escuchar un sonido se desencadenará una pequeña descarga eléctrica). La extinción del condicionamiento puede facilitarse mediante la presentación repetida de la señal neutra sin que esta vaya acompañada del estímulo aversivo (presentando únicamente el sonido sin la descarga eléctrica). Tanto el condicionamiento como la extinción reposan sobre un funcionamiento cognitivo sano. Un deterioro de la extinción asociado al estrés puede ser revelador de un funcionamiento cognitivo afectado negativamente.
@@ -83,7 +88,7 @@ CW: La curiosidad por entender cómo funciona el cerebro, cómo éste controla e
 
 **JGR: ¿Realiza otras actividades profesionales además de investigar?**
 
-CW: Mi trabajo consta de tres partes: investigación, docencia y sistema de salud. En cuanto a la investigación, actualmente superviso a varios estudiantes universitarios y de posgrado. Normalmente trabajamos en diferentes proyectos al mismo tiempo. En la universidad, soy profesora de dos asignaturas de neurociencia avanzada (Efectos del estrés en el cerebro y Neurobiología del aprendizaje y la memoria) y una asignatura de introducción a la neurociencia. En la actualidad, mi carga de horas lectivas ha reducido considerablemente, ya que la dirección del _Center for the Integrative Study of Animal Behavior_ y del _Program of Animal Behavior_ exige una gran responsabilidad.
+CW: Mi trabajo consta de tres partes: una consagrada a la investigación, otra a la docencia, y otra al sistema de salud. En cuanto a la investigación, actualmente superviso a varios estudiantes universitarios y de posgrado. Normalmente trabajamos en diferentes proyectos al mismo tiempo. En la universidad, soy profesora de dos asignaturas de neurociencia avanzada (Efectos del estrés en el cerebro y Neurobiología del aprendizaje y la memoria) y una asignatura de introducción a la neurociencia. En la actualidad, mi carga de horas lectivas ha reducido considerablemente, ya que la dirección del _Center for the Integrative Study of Animal Behavior_ y del _Program of Animal Behavior_ exige una gran responsabilidad.
 
 **JGR: ¿Cómo es la investigación en Estados Unidos?**
 
