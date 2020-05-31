@@ -75,7 +75,7 @@ CW: Es una pregunta difícil de contestar. A lo largo de nuestra historia evolut
 
 CW: Hay muchas cosas que se pueden hacer para controlar el estrés crónico. Es posible evitarlo simplemente exponiéndose menos a situaciones de naturaleza estresante. Es posible predecir el estrés y prepararnos mentalmente para afrontarlo si no es posible evitarlo. También es muy importante la percepción de control (sea real o no) para reducir el estrés de una situación. Otro factor muy importante para reducir el estrés crónico es el apoyo social. Finalmente, para aquellos estresores que no podemos evitar, lo mejor es cambiar la forma de concebirlos (evitar el catastrofismo, por ejemplo). Finalmente, me gustaría añadir que un exceso de estrés puede ser dañino, pero muy poco estrés también puede ser problemático. El objetivo está en encontrar la cantidad adecuada de estrés en nuestras vidas.
 
-**EXTRA: sobre la investigación en Estados Unidos**
+**_EXTRA: sobre la investigación en Estados Unidos_**
 
 **JGR: ¿Qué te llevó a dedicarte a la investigación?**
 
