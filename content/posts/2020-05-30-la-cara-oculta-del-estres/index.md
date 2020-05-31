@@ -88,7 +88,7 @@ CW: La curiosidad por entender cómo funciona el cerebro, cómo éste controla e
 
 **JGR: ¿Realiza otras actividades profesionales además de investigar?**
 
-CW: Mi trabajo consta de tres partes: investigación, docencia y sistema de salud. En cuanto a la investigación, actualmente superviso a varios estudiantes universitarios y de posgrado. Normalmente trabajamos en diferentes proyectos al mismo tiempo. En la universidad, soy profesora de dos asignaturas de neurociencia avanzada (Efectos del estrés en el cerebro y Neurobiología del aprendizaje y la memoria) y una asignatura de introducción a la neurociencia. En la actualidad, mi carga de horas lectivas ha reducido considerablemente, ya que la dirección del _Center for the Integrative Study of Animal Behavior_ y del _Program of Animal Behavior_ exige una gran responsabilidad.
+CW: Mi trabajo consta de tres partes: una consagrada a la investigación, otra a la docencia, y otra al sistema de salud. En cuanto a la investigación, actualmente superviso a varios estudiantes universitarios y de posgrado. Normalmente trabajamos en diferentes proyectos al mismo tiempo. En la universidad, soy profesora de dos asignaturas de neurociencia avanzada (Efectos del estrés en el cerebro y Neurobiología del aprendizaje y la memoria) y una asignatura de introducción a la neurociencia. En la actualidad, mi carga de horas lectivas ha reducido considerablemente, ya que la dirección del _Center for the Integrative Study of Animal Behavior_ y del _Program of Animal Behavior_ exige una gran responsabilidad.
 
 **JGR: ¿Cómo es la investigación en Estados Unidos?**
 
