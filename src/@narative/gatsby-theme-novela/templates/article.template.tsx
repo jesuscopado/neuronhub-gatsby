@@ -19,6 +19,8 @@ import ArticlesNext from "../sections/article/Article.Next";
 import ArticleSEO from "@narative/gatsby-theme-novela/src/sections/article/Article.SEO";
 import ArticleShare from "@narative/gatsby-theme-novela/src/sections/article/Article.Share";
 
+import SocialLinks from "@components/SocialLinks";
+
 import { Template } from "@types";
 
 import Helmet from 'react-helmet';
@@ -31,6 +33,22 @@ const siteQuery = graphql`
         node {
           siteMetadata {
             name
+            social {
+              url
+              name
+            }
+          }
+        }
+      }
+    }
+    allMdx(
+      sort: { fields: frontmatter___date, order: ASC }
+      filter: { frontmatter: { date: { ne: null } } }
+    ) {
+      edges {
+        node {
+          frontmatter {
+            date
           }
         }
       }
@@ -45,7 +63,7 @@ const Article: Template = ({ pageContext, location }) => {
   const [contentHeight, setContentHeight] = useState<number>(0);
 
   const results = useStaticQuery(siteQuery);
-  const name = results.allSite.edges[0].node.siteMetadata.name;
+  const { name, social } = results.allSite.edges[0].node.siteMetadata;
 
   const { article, authors, mailchimp, next } = pageContext;
 
@@ -90,9 +108,9 @@ const Article: Template = ({ pageContext, location }) => {
       <ArticleAside contentHeight={contentHeight}>
         <Progress contentHeight={contentHeight} />
       </ArticleAside>
-      <MobileControls>
-        <ArticleControls />
-      </MobileControls>
+      <SocialLinksDiv>
+        <SocialLinks links={social} />
+      </SocialLinksDiv>
       <ArticleBody ref={contentSectionRef} id="ArticleBody">
         <MDXRenderer content={article.body}>
           <ArticleShare />
@@ -114,6 +132,14 @@ const Article: Template = ({ pageContext, location }) => {
 };
 
 export default Article;
+
+const SocialLinksDiv = styled.div`
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: ${p => p.theme.colors.grey};
+  padding-top: 5px;
+`;
 
 const MobileControls = styled.div`
   position: relative;

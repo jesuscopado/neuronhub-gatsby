@@ -30,10 +30,6 @@ module.exports = {
         name: `facebook`,
         url: `https://www.facebook.com/neuronhub.org/`,
       },
-      {
-        name: `github`,
-        url: `https://github.com/jesuscopado`,
-      },
     ],
   },
   plugins: [
