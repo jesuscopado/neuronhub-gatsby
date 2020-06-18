@@ -1,11 +1,16 @@
 ---
 author: Juan García Ruiz
-date: 2020-06-17 16:25:57+00:00
+date: 2020-06-17T16:25:57.000Z
 draft: false
 title: ¿Qué es el insomnio?
 type: post
 excerpt: >-
-  “¡Oh, qué terrible lucha he mantenido contra el sueño últimamente; el sufrimiento de la falta de sueño o el sufrimiento del miedo a dormir, que tantos horrores desconocidos me trae! Qué afortunadas son algunas personas, en cuyas vidas no hay temores ni miedo, para quienes dormir es una bendición que llega cada noche y no trae consigo sino dulces sueños [...]" (Bram Stoker, 1897).
+  “¡Oh, qué terrible lucha he mantenido contra el sueño últimamente; el
+  sufrimiento de la falta de sueño o el sufrimiento del miedo a dormir, que
+  tantos horrores desconocidos me trae! Qué afortunadas son algunas personas, en
+  cuyas vidas no hay temores ni miedo, para quienes dormir es una bendición que
+  llega cada noche y no trae consigo sino dulces sueños [...]" (Bram Stoker,
+  1897).
 hero: images/20.jpg
 ---
 
@@ -27,7 +32,7 @@ El insomnio puede ser igualmente de origen psicológico. Un exceso de estrés pu
 
 Los humanos, como muchos animales, regimos algunos de nuestros comportamientos cíclicos según ritmos biológicos circadianos (con una periodicidad de 24 horas aproximadamente). Esto explica que el sueño comience a aparecer en torno a la misma hora todos los días. El ritmo circadiano del sueño está controlado por un reloj interno que dirige sus oscilaciones: por ejemplo, la temperatura corporal comienza a disminuir al final del día y la secreción hormonal se adapta a la conciliación del sueño con una menor expresión de cortisol (hormona del estrés) y una mayor expresión de melatonina (hormona relacionada con el inicio del sueño). Aunque este reloj endógeno puede funcionar con cierta independencia, también interactúa con una serie de sincronizadores externos como la cantidad de luz, la disponibilidad de alimento o las interacciones sociales.
 
-En ocasiones, determinados hábitos pueden perturbar el reloj biológico del sueño. Por ejemplo, la exposición a la luz de las pantallas de móviles y ordenadores poco antes de ir a dormir puede afectar a la secreción de melatonina: el cuerpo interpreta esta presencia anormal de luz como una señal de vigilia ("hay mucha luz, aún no es hora de dormir") e inhibir la secreción de melatonina.
+En ocasiones, determinados hábitos pueden perturbar el reloj biológico del sueño. Por ejemplo, la exposición a la luz de las pantallas de móviles y ordenadores poco antes de ir a dormir puede afectar a la secreción de melatonina: el cuerpo interpreta esta presencia anormal de luz como una señal de vigilia ("hay mucha luz, aún no es hora de dormir") e inhibe la secreción de melatonina.
 
 ### ¿Es posible combatir el insomnio?
 
