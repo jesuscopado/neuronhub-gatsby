@@ -18,7 +18,6 @@ Este párrafo de _La metamorfosis_, publicado por primera vez en 1915, germinó 
   <figcaption>Figura 1. L'insecte (1940), Alfred Otto Wolfgang Schulze.</figcaption>
 </div>
 
-
 Una curiosa visión de los ritmos biológicos propone que el estado natural de los animales es el sueño, y que la vigilia no es más que una pausa que se hace para expresar ciertos comportamientos necesarios para la supervivencia individual y de la especie, como la alimentación o la reproducción. No es difícil imaginar la aceptación que puede tener esta visión del sueño entre aquellas personas para quien la cama es una balsa de aceite que se dirige a un paraíso oculto cada noche. Para otros, por el contrario, la cama se asemeja más a la barca de Caronte, encargado de llevar el alma de los difuntos al inframundo. 
 
 <div className="Image__Medium">
