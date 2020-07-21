@@ -1,11 +1,18 @@
 ---
 author: Juan García Ruiz
-date: 2020-07-20 09:41:57+00:00
+date: 2020-07-20T09:41:57.000Z
 draft: false
 title: ¿Es necesaria la experimentación con animales?
 type: post
 excerpt: >-
-  Imagina que un tren avanzara ante tus ojos hacia un grupo de personas atadas con fuerza a los raíles, entre las que se encontraran algunos familiares tuyos. Imagina que tienes en tu poder una palanca, y que al accionarla pudieras desviar el tren y conducirlo a tomar un carril en el que hay atadas el mismo número de personas, pero esta vez completamente desconocidas. ¿Accionarías la palanca, tomando la responsabilidad de las muertes pero salvando a tus familiares, o dejarías que el tren siguiera su curso inicial sin cargar con el peso de la catástrofe?
+  Imagina que un tren avanzara ante tus ojos hacia un grupo de personas atadas
+  con fuerza a los raíles, entre las que se encontraran algunos familiares
+  tuyos. Imagina que tienes en tu poder una palanca, y que al accionarla
+  pudieras desviar el tren y conducirlo a tomar un carril en el que hay atadas
+  el mismo número de personas, pero esta vez completamente desconocidas.
+  ¿Accionarías la palanca, tomando la responsabilidad de las muertes pero
+  salvando a tus familiares, o dejarías que el tren siguiera su curso inicial
+  sin cargar con el peso de la catástrofe?
 hero: images/22.jpg
 ---
 
@@ -80,7 +87,7 @@ Por último, de la misma forma que la teoría de la evolución puede ser utiliza
 
 En los últimos años se han hecho muchos progresos en la investigación con animales puesto que la idea de que son seres sensibles ha ido ganando cada vez más terreno. Los derechos de los animales y su bienestar son prioridades en la investigación. A pesar de medidas como las tres R (reducir, refinar, remplazar), estamos lejos de alcanzar un consenso en la toma de una posición con respecto a la utilización de animales en la investigación. Existen opiniones completamente en contra de la investigación con animales, opiniones completamente a favor, y posiciones intermedias que solo justifican ciertos proyectos. 
 
-Los argumentos en contra se basan en el hecho de que los derechos de los animales son violados cuando estos son utilizados, en la crueldad de ciertas prácticas y la negación del sufrimiento animal, en el balance de daños y beneficios insatisfactorio, en la responsabilidad moral mayor al utilizarlos que al no utilizarlos, y en las semejanzas que existen entre los humanos y el resto de animales que no justifican un trato diferente. La soluciones que proponen los detractores de la investigación con animales son utilizar de métodos alternativos (in vitro, modelos celulares o computacionales) o sencillamente prescindir de los aportes de la investigación con todas sus consecuencias. 
+Los argumentos en contra se basan en el hecho de que los derechos de los animales son violados cuando estos son utilizados, en la crueldad de ciertas prácticas y la negación del sufrimiento animal, en el balance de daños y beneficios insatisfactorio, en la responsabilidad moral mayor al utilizarlos que al no utilizarlos, y en las semejanzas que existen entre los humanos y el resto de animales que no justifican un trato diferente. Las soluciones que proponen los detractores de la investigación con animales son utilizar métodos alternativos (in vitro, modelos celulares o computacionales) o sencillamente prescindir de los aportes de la investigación con todas sus consecuencias. 
 
 En cuanto a los argumentos utilizados por los defensores de la investigación animal se encuentra la imposibilidad de simular ciertos órganos y ciertas patologías sin modelos animales, lo práctico de utilizar animales dadas las similitudes genéticas y patológicas así como los ciclos de vida más cortos que permiten abarcar varias generaciones en un solo estudio, y la obligación moral sentida en función del parentesco evolutivo que daría por "bueno" aquello que favorece a la propia especie por encima de las otras. Debemos mucho a la medicina que hasta la fecha se ha practicado con animales. Erradicar estas prácticas supondría el fin del desarrollo de nuevos medicamentos. 
 
