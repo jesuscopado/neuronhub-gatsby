@@ -62,7 +62,7 @@ Cuando la neurona presináptica es estimulada de forma repetida, la liberación 
 
 ### Mensaje para llevarse a casa
 
-La potenciación a largo plazo es un mecanismo de consolidación de la memoria consistente en el fortalecimiento de la sinapsis mediante la estimulación repetida de las neuronas presinápticas. ¿Cómo se traduce esto al lenguaje cotidiano? Cuanto más veces lleves a cabo una tarea de aprendizaje, mejor funcionará tu memoria ya que la huella de memoria se actualizará y añadirá información más rica. Por el contrario, si hay un lapso demasiado importante entre cada sesión de aprendizaje, es posible que la huella de memoria se extinga y que el aprendizaje sea ineficiente. 
+La potenciación a largo plazo es un mecanismo de consolidación de la memoria consistente en el fortalecimiento de la sinapsis mediante la estimulación repetida de las neuronas presinápticas. ¿Cómo se traduce esto al lenguaje cotidiano? Cuantas más veces lleves a cabo una tarea de aprendizaje, mejor funcionará tu memoria ya que la huella de memoria se actualizará y añadirá información más rica. Por el contrario, si hay un lapso demasiado importante entre cada sesión de aprendizaje, es posible que la huella de memoria se extinga y que el aprendizaje sea ineficiente. 
 
 <h4><button type="button" class="collapsible">Referencias</button></h4>
 <div class="content">
