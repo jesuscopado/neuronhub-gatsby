@@ -82,8 +82,6 @@ MLA: El punto fuerte de todo proceso de transmisión de conocimiento es el vínc
 
 MLA: Un docente nunca debería olvidar que si intenta explicar algo y el destinatario del mensaje no lo comprende tal vez es porque no está hablando en su mismo idioma. Es obligación del que comunica tratar de comprender el modo en el que la mente del receptor trabaja, el modo en el que aquél codifica y decodifica los mensajes. No puede el emisor tirar la toalla pensando que el estudiante tiene una inteligencia limitada. La razón se expresa de muchas maneras, tiene múltiples formas. He visto a un profesor de matemáticas humillar a una alumna porque se le daban mal los números. Y luego he visto a esa misma alumna llegar a las conclusiones lógicas en las redes y utilizando colores mucho antes que el resto de sus compañeros “matemáticamente eficientes”.  Da que pensar.
 
-#### Referencias
-
 <h4><button type="button" class="collapsible">Referencias</button></h4>
 <div class="content">
 
