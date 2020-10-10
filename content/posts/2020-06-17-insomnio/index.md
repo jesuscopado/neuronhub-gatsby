@@ -18,7 +18,7 @@ hero: images/20.jpg
 
 ### ¿Qué es exactamente el insomnio?
 
-Según la quinta edición del Manual Diagnóstico y Estadístico de los Trastornos Mentales o DSM-5 (American Psychiatric Association, 2013), el insomnio se caracteriza por un sueño insuficiente o de poca calidad. El insomnio puede dificultar la capacidad para conciliar el sueño o para mantenerlo una vez iniciado. Estas dificultades se repiten durante al menos tres veces a la semana durante al menos tres meses en condiciones aparentemente adecuadas para dormir. Las consecuencias negativas del insomnio se manifiestan durante el día: en el trabajo, las relaciones sociales o en el ámbito académico.
+Según la quinta edición del Manual Diagnóstico y Estadístico de los Trastornos Mentales o DSM-5 (American Psychiatric Association, 2013), el insomnio se caracteriza por un sueño insuficiente o de poca calidad. El insomnio puede dificultar la capacidad para conciliar el sueño o para mantenerlo una vez iniciado. Estas dificultades se repiten como mínimo tres veces a la semana durante al menos tres meses en condiciones aparentemente adecuadas para dormir. Las consecuencias negativas del insomnio se manifiestan durante el día: en el trabajo, las relaciones sociales o en el ámbito académico.
 
 ### ¿Cuáles son las causas del insomnio?
 
