@@ -55,11 +55,13 @@ Entonces, ¿es posible recordar algo sin prestar atención? Desgraciadamente, la
 
 La memoria de trabajo nos permite ser conscientes del mundo que nos rodea y reaccionar. Siempre se ha asociado la memoria de trabajo con la percepción consciente, pero recientemente han surgido pruebas de la existencia de un mecanismo alternativo no consciente. Esta memoria de trabajo alternativa permitiría, en ciertos casos, dar respuestas acertadas sin que haya un procesamiento consciente previo. No obstante, cabe señalar que el rendimiento positivo asociado a estos casos es muy inferior al rendimiento positivo durante la memoria de trabajo consciente. Ambos tipos de memoria de trabajo son explicados por patrones de actividad cerebral diferentes y son relativamente estables en el tiempo (segundos).
 
-**Extra: ¿podemos mejorar nuestra memoria de trabajo?**
+<span class="clarification-box">
+<p><b>Extra: ¿podemos mejorar nuestra memoria de trabajo?</b></p>
 
-En los últimos años, la memoria de trabajo le ha comido el terreno al tradicional _aprender de memoria_ en el ámbito educativo. Esta atención creciente se debe, en parte, a que la sociedad en la que nos movemos exige de nosotros una gran capacidad para procesar la información más que para memorizarla (especialmente teniendo en cuenta que nuestra memoria ha sido reemplazada por los calendarios o recordatorios de nuestro smartphone, o por la información que encontramos en internet de forma instantánea). 
+En los últimos años, la memoria de trabajo le ha comido el terreno al tradicional <i>aprender de memoria</i> en el ámbito educativo. Esta atención creciente se debe, en parte, a que la sociedad en la que nos movemos exige de nosotros una gran capacidad para procesar la información más que para memorizarla (especialmente teniendo en cuenta que nuestra memoria ha sido reemplazada por los calendarios o recordatorios de nuestro smartphone, o por la información que encontramos en internet de forma instantánea).
 
 Son numerosos los programas y terapias que ofrecen (a cambio de monedas) métodos para mejorar la memoria de trabajo. El metanálisis de Melby-Lervåg & Hulme (2013), sin embargo, concluye tras analizar varias decenas de estudios al respecto, que no existe evidencia de la eficacia de este tipo de métodos. Según concluyen la mejora es limitada en el tiempo y no generalizable (si se mejora en la memoria de trabajo asociada al lenguaje, otro tipo de memoria de trabajo como la visual no se beneficiará).
+</span>
 
 <h4><button type="button" class="collapsible">Referencias</button></h4>
 <div class="content">
