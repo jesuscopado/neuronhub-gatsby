@@ -6,7 +6,7 @@ title: Si te he visto no me acuerdo
 type: post
 excerpt: >-
   ¿Es posible recordar algo sin haberlo memorizado conscientemente? Por ejemplo, ¿podemos recordar los sonidos o las imágenes de un anuncio publicitario sin procesarlos conscientemente? Antes de responder, es importante entender lo que es la memoria de trabajo.
-hero: images/27.jpeg
+hero: images/27.jpg
 ---
 
 ¿Es posible recordar algo sin haberlo memorizado conscientemente? Por ejemplo, ¿podemos recordar los sonidos o las imágenes de un anuncio publicitario sin procesarlos conscientemente? Antes de responder, es importante entender lo que es la memoria de trabajo.
