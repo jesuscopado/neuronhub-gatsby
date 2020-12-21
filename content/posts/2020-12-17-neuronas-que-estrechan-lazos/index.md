@@ -1,14 +1,17 @@
 ---
 author: Juan García Ruiz
-date: 2020-12-17
+date: 2020-12-17T00:00:00.000Z
 draft: false
 title: Neuronas que estrechan lazos
 type: post
 excerpt: >-
-  A nuestro organismo le gusta la ley del mínimo esfuerzo. Nuestro cerebro no es una excepción. Por ejemplo, cuando procesamos la información de nuestro entorno, nuestras neuronas se hablan entre ellas y se envían mensajes específicos. Pero cada vez que nos exponemos a una misma información, nuestras neuronas no empiezan de cero, esto sería demasiado caro energéticamente.
+  A nuestro organismo le gusta la ley del mínimo esfuerzo. Nuestro cerebro no es
+  una excepción. Por ejemplo, cuando procesamos la información de nuestro
+  entorno, nuestras neuronas se hablan entre ellas y se envían mensajes
+  específicos. Pero cada vez que nos exponemos a una misma información, nuestras
+  neuronas no empiezan de cero, esto sería demasiado caro energéticamente.
 hero: images/28.jpeg
 ---
-
 A nuestro organismo le gusta la ley del mínimo esfuerzo. Nuestro cerebro no es una excepción. Por ejemplo, cuando procesamos la información de nuestro entorno, nuestras neuronas se hablan entre ellas y se envían mensajes específicos. Pero cada vez que nos exponemos a una misma información, nuestras neuronas no empiezan de cero, esto sería demasiado caro energéticamente. Por ello, cuando las neuronas perciben los estímulos de forma repetida, aprenden, de tal forma que en el futuro no necesitan tanto tiempo para procesarlos. Pero, ¿cómo aprenden las neuronas? Una forma es mediante la plasticidad sináptica, y hay alguien que tiene algo que contar al respecto.
 
 Jesper Sjöström nació en una pequeña ciudad sueca, donde realizó una ingeniería de biotecnología molecular en la Universidad de Uppsala. En 2002, Jesper obtuvo un doctorado sobre plasticidad sináptica en el cortex visual en la Universidad Brandeis de Boston bajo la supervisión del Doctor Sacha Nelson. Tras esto, el experto en plasticidad sináptica realizó un postdoc con el Doctor Michael Häusser en el University College de Londres. Todavía en Londres, Jesper empezó a dirigir su propio laboratorio en 2007. Unos años más tarde, trasladó su laboratorio al Centro de Investigación en Neurociencia de la Universidad de McGill, en Montreal. Actualmente, el prestigioso científico sueco ejerce como profesor de neurociencia en el departamento de Medicina de la Universidad de McGill. Paralelamente, Jesper continúa su labor como investigador estudiando los procesos de plasticidad sináptica en circuitos neocorticales, centrándose en la enfermedad de Alzheimer y epilepsia.
@@ -29,7 +32,7 @@ JS: Las neuronas que componen nuestro cerebro están conectadas las unas a las o
 
 JS: Aunque todavía es necesario formalizarlo científicamente, la comunidad neurocientífica cree que la plasticidad sináptica es la base del aprendizaje. Esta idea se le atribuye a un antiguo profesor de neuropsicología de la Universidad de McGill llamado Donald Hebb, quien en 1949 publicó un libro tremendamente influyente donde postulaba que las conexiones neuronales que son repetidamente activadas al mismo tiempo eran más sólidas y permitían la formación de la memoria en el cerebro. Esta forma de aprendizaje sináptico es conocida hoy en día como plasticidad Hebbiana.
 
-La idea de Hebb es que ciertos grupos de neuronas (según el propio Hebb, _ensamblajes neuronales_) _codifican_ un percepto o idea. Digamos por ejemplo que ves un elefante: esto activará el ensamblaje neuronal que codifica el percepto “elefante”, lo que fortalecerá las conexiones entre estas neuronas simultáneamente activas. De esta forma, la próxima vez que veas una parte de un elefante (como una oreja o la trompa), las neuronas encargadas de percibir estas partes activarán igualmente el resto de las neuronas (cola, gran tamaño, color gris) para completar el puzle y que el cerebro pueda percibirlo como un todo (como un elefante). No es necesario ver un elefante para pensar en un elefante, solo es necesario activar las neuronas adecuadas, que a su vez activarán otras neuronas necesarias para activar este percepto. La clave en este proceso de fortalecimiento entre conexiones es la activación simultánea de las neuronas.
+La idea de Hebb es que ciertos grupos de neuronas (según el propio Hebb, *ensamblajes neuronales*) *codifican* un percepto o idea. Digamos por ejemplo que ves un elefante: esto activará el ensamblaje neuronal que codifica el percepto “elefante”, lo que fortalecerá las conexiones entre estas neuronas simultáneamente activas. De esta forma, la próxima vez que veas una parte de un elefante (como una oreja o la trompa), las neuronas encargadas de percibir estas partes activarán igualmente el resto de las neuronas (cola, gran tamaño, color gris) para completar el puzle y que el cerebro pueda percibirlo como un todo (como un elefante). No es necesario ver un elefante para pensar en un elefante, solo es necesario activar las neuronas adecuadas, que a su vez activarán otras neuronas necesarias para activar este percepto. La clave en este proceso de fortalecimiento entre conexiones es la activación simultánea de las neuronas.
 
 Hebb no fue el primero en sugerir que el cerebro funcionaba así. El célebre neuroanatomista español Santiago Ramón y Cajal ya propuso algo similar algunas décadas antes, e incluso Aristóteles razonaba siguiendo esta línea. Hebb incluso reconoció que nunca propuso nada nuevo, pero yo creo que él sí que aportó algo diferente, ya que consiguió formular una idea comprobable experimentalmente. Todavía hoy los neurocientíficos trabajamos en esta idea, tratando de probarla o refutarla. Por ahora todo apunta a que las proposiciones de Hebb eran bastante acertadas.
 
@@ -43,7 +46,7 @@ Más tarde en 1973, Timothy Bliss and Terje Lømo encabezaron una importante pub
 
 La segunda razón es por puro pragmatismo experimental. Los científicos tienden a repetir lo que se ha hecho antes para evitar tener que reinventar la rueda. De esta forma, desde el momento en que un laboratorio empieza a estudiar el hipocampo y presenta resultados convincentes, resulta lógico para el resto de los laboratorios continuar investigando este campo.
 
-**JGR: Como menciona, la potenciación a largo plazo es una forma de plasticidad sináptica. Se ha demostrado que los receptores NMDA juegan un papel importante como “detectores de coincidencia”, reconociendo cuándo diferentes neuronas son activadas simultáneamente como ha explicado. Sin embargo, en sus publicaciones habla de una función alternativa de estos receptores. ¿A qué se refiere con este funcionamiento _poco convencional_ de los receptores NMDA?**
+**JGR: Como menciona, la potenciación a largo plazo es una forma de plasticidad sináptica. Se ha demostrado que los receptores NMDA juegan un papel importante como “detectores de coincidencia”, reconociendo cuándo diferentes neuronas son activadas simultáneamente como ha explicado. Sin embargo, en sus publicaciones habla de una función alternativa de estos receptores. ¿A qué se refiere con este funcionamiento *poco convencional* de los receptores NMDA?**
 
 JS: En efecto, la plasticidad Hebbiana requiere una activación neuronal simultánea, y por tanto es necesario que las neuronas sean capaces de detectar esta simultaneidad. En 1983, Graham Collingridge y Hugh McLennan, de la Universidad de British Columbia, descubrieron que esta función era cubierta por los receptores NMDA como mencionas.
 
@@ -51,7 +54,7 @@ Esto tiene mucho sentido, puesto que estos receptores necesitan la coexistencia 
 
 Sin embargo, para que esto ocurra así, los receptores NMDA deben encontrarse en la membrana de la célula receptora o postsináptica. Cuando éstos se encuentran en la emisora o presináptica, no pueden funcionar como detectores de coincidencia puesto que no pueden detectar la despolarización de la receptora. Por esta razón, los neurocientíficos no esperaban encontrar receptores NMDA en la célula presináptica.
 
-Sin embargo, durante las últimas décadas se han publicado artículos indicando la presencia de estos extraños receptores en los axones (prolongación de la neurona que transmite los impulsos nerviosos) de la neurona presináptica. Estos reportes se consideraron algo controvertidos puesto que no los entendíamos. Además, dado que el axón es una parte tan fina, su estudio es muy difícil y se pensaba que esta evidencia podía tener otras interpretaciones.
+Sin embargo, durante las últimas décadas se han publicado artículos indicando la presencia de estos extraños receptores en los axones (prolongaciones de la neurona que transmiten los impulsos nerviosos) de la neurona presináptica. Estos reportes se consideraron algo controvertidos puesto que no los entendíamos. Además, dado que el axón es una parte tan fina, su estudio es muy difícil y se pensaba que esta evidencia podía tener otras interpretaciones.
 
 Actualmente, sin embargo, la presencia de receptores NMDA en axones presinápticos es cada vez más aceptada, y sus funciones son consideradas esenciales para el correcto funcionamiento del cerebro. Algunos los consideran como los bichos raros entre los receptores, pero yo he preferido adoptar el término de “poco convencionales” si los comparamos con aquellos que funcionan como detectores de coincidencia. Una gran parte de mi laboratorio se dedica a elucidar las extrañas propiedades de estas proteínas. 
 
@@ -61,9 +64,9 @@ JS: Muchas de las patologías cerebrales más importantes (Alzheimer, epilepsia,
 
 **JGR: ¿Qué le ha enseñado su trabajo?**
 
-JS: Mis investigaciones han revelado los patrones de actividad neuronal que hacen que la fuerza de las conexiones sinápticas aumente o disminuya. Esto es importante para entender a qué tipo de información _prestan atención_ las neuronas. Resulta que para las neuronas es muy importante el momento exacto y el orden en que reciben mensajes de otras neuronas, probablemente porque esto permite activar lo que se conoce como código predictivo, que permite a los organismos determinar qué eventos percibidos son la causa y cuáles son la consecuencia.
+JS: Mis investigaciones han revelado los patrones de actividad neuronal que hacen que la fuerza de las conexiones sinápticas aumente o disminuya. Esto es importante para entender a qué tipo de información *prestan atención* las neuronas. Resulta que para las neuronas es muy importante el momento exacto y el orden en que reciben mensajes de otras neuronas, probablemente porque esto permite activar lo que se conoce como código predictivo, que permite a los organismos determinar qué eventos percibidos son la causa y cuáles son la consecuencia.
 
-Por otra parte, hemos contribuido a la comprensión de los patrones de conectividad que permiten a las neuronas almacenar información. A las neuronas les gusta conectarse y hablar entre ellas en grupos. Estos patrones de conectividad pueden explicar las respuestas _en eco_ o con cierto desfase tras la recepción de un estímulo en el caso de las convulsiones epilépticas, pero también en cerebros sanos.
+Por otra parte, hemos contribuido a la comprensión de los patrones de conectividad que permiten a las neuronas almacenar información. A las neuronas les gusta conectarse y hablar entre ellas en grupos. Estos patrones de conectividad pueden explicar las respuestas *en eco* o con cierto desfase tras la recepción de un estímulo en el caso de las convulsiones epilépticas, pero también en cerebros sanos.
 
 Por último, como mencioné previamente, hemos revelado formas poco convencionales de señalización mediada por receptores NMDA. Esto significa que nuestra comprensión del aprendizaje es incompleta, lo que resulta esencial si queremos entender y tratar patologías como la enfermedad de Alzheimer.
 
@@ -83,7 +86,7 @@ Por último, el mundo necesita buenos científicos. Tan solo mira la pandemia mu
 
 **JGR: Ha tenido la oportunidad de trabajar en varios países como Suecia, Estados Unidos y el Reino Unido. Siempre se anima a los investigadores a trabajar algún tiempo en otros lugares, pero no siempre está claro por qué esto es tan importante. ¿Qué le han enseñado sus experiencias internacionales?**
 
-JS: La ciencia es un juego de ideas. Siempre hay que buscar nuevas formas de ver las cosas o de interpretarlas. Si un científico se queda fijo en un lugar, es probable que se limite a tus propias ideas. Todos los laboratorios, todos los centros de investigación y todas las universidades tienen su cultura, sus métodos y sus formas de hacer las cosas. Es aconsejable desarraigarse y aprender nuevas formas de abordar los problemas.
+JS: La ciencia es un juego de ideas. Siempre hay que buscar nuevas formas de ver las cosas o de interpretarlas. Si un científico se queda fijo en un lugar, es probable que se limite a sus propias ideas. Todos los laboratorios, todos los centros de investigación y todas las universidades tienen su cultura, sus métodos y sus formas de hacer las cosas. Es aconsejable desarraigarse y aprender nuevas formas de abordar los problemas.
 
 Cuando te mueves de un país a otro y de un laboratorio a otro, también aumentas tus redes profesionales. Conoces gente, haces nuevos amigos y ganas nuevos contactos. Tal y como dirijo mi laboratorio hoy en día, mi red profesional supone mi sustento: sin la ayuda de mis amigos y compañeros no podría haber conseguido esto. Por ejemplo, no podría haber aprendido nuevas técnicas, contratado a la gente apropiada o divulgado mis descubrimientos yo solo.
 
