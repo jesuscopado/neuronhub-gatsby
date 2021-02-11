@@ -12,9 +12,9 @@ module.exports = {
     title: `neuronhub`,
     name: `neuronhub`,
     siteUrl: `https://neuronhub.org`,
-    description: `Entiende la neurociencia.`,
+    description: `Entiende la neurociencia`,
     hero: {
-      heading: `Entiende la neurociencia.`,
+      heading: `Entiende la neurociencia`,
       maxWidth: 652,
     },
     social: [
