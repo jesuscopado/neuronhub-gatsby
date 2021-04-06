@@ -1,14 +1,16 @@
 ---
 author: Juan García Ruiz
-date: 2021-04-05
+date: 2021-04-05T00:00:00.000Z
 draft: false
 title: Cuando el cerebro no lo es todo
 type: post
 excerpt: >-
-  En el estudio del comportamiento humano, es inevitable pasar por experiencias in vitro, o estudios con células, tejidos u órganos. Incluso a veces es necesario pasar por modelos computacionales. La neurociencia puede tener numerosas ramificaciones que abordan diferentes aspectos de la conducta.
+  En el estudio del comportamiento humano, es inevitable pasar por experiencias
+  in vitro, o estudios con células, tejidos u órganos. Incluso a veces es
+  necesario pasar por modelos computacionales. La neurociencia puede tener
+  numerosas ramificaciones que abordan diferentes aspectos de la conducta.
 hero: images/32.jpeg
 ---
-
 <span class="clarification-box">
 Do you want to read this article in English? <a href="/When-the-brain-falls-short">You can find it here.</a>
 </span>
@@ -19,7 +21,7 @@ Nuestro conocimiento se construye sobre la base de conceptos que creamos en soci
 
 La mejor forma de entender un tema es observar todas sus caras. Para entender la adicción, no basta con entender la bioquímica del sistema nervioso. De hecho, tal y como se explicará más tarde, basarse solo en lo que ocurre en el cerebro puede ser limitante. De esta forma, la neurociencia de la adicción puede complementarse con la sociología de la adicción. 
 
-Para darle al lector una nueva perspectiva, para promover el pensamiento crítico y evitar el reduccionismo que puede suponer tratar de explicarlo todo desde un punto de vista orgánico, hemos charlado con Michael Egerer. Sociólogo de formación y actualmente investigador en la Universidad de Helsinki, Michael Egerer se interesa por la regulación de la industria del juego y el concepto de adicción.
+Para dar al lector una nueva perspectiva que promueva el pensamiento crítico y evite el reduccionismo que puede suponer tratar de explicarlo todo desde un punto de vista orgánico, hemos charlado con Michael Egerer. Sociólogo de formación y actualmente investigador en la Universidad de Helsinki, Michael Egerer se interesa por la regulación de la industria del juego y el concepto de adicción.
 
 **Juan García Ruiz: ¿Cómo estudia la adicción?**
 
@@ -33,7 +35,7 @@ Volviendo a mi trabajo, lo que he comprendido con estas entrevistas que he reali
 
 **JGR: ¿Qué es ser adicto al juego? ¿Puede existir una predisposición a la adicción?**
 
-ME: Los juegos de azar comienzan a considerarse un problema cuando empieza a causar otros problemas. Existe un catálogo de criterios precisos que ayudan a la identificación y diagnóstico de la adicción (N. del A.: según el manual diagnóstico de referencia, el DSM-V, en español esta patología queda recogida dentro de la categoría de _Trastornos relacionados con sustancias y trastornos adictivos_). Jim Oxford simplificó la adicción definiéndola como un exceso que conduce a la aparición de problemas. El fallo de esta definición es que puede albergar y patologizar otros muchos comportamientos inhabituales.
+ME: Los juegos de azar comienzan a considerarse un problema cuando empieza a causar otros problemas. Existe un catálogo de criterios precisos que ayudan a la identificación y diagnóstico de la adicción (N. del A.: según el manual diagnóstico de referencia, el DSM-V, en español esta patología queda recogida dentro de la categoría de *Trastornos relacionados con sustancias y trastornos adictivos*). Jim Oxford simplificó la adicción definiéndola como un exceso que conduce a la aparición de problemas. El fallo de esta definición es que puede albergar y patologizar otros muchos comportamientos inhabituales.
 
 Está claro que hay factores que predisponen a las personas a la adicción. Pero creo que en lugar de continuar el estéril debate entre heredado o adquirido, deberíamos poner más énfasis en la regulación. Algunos se vuelven adictos más fácilmente, otros menos, eso es cierto. Pero todos pueden beneficiarse de una regulación y una prevención eficientes. La prevención, además, no se limita a la educación, sino que también hay incentivos en la regulación. Creo que la normalización, por ejemplo, es clave.
 
@@ -45,7 +47,7 @@ ME: Probablemente desde que existen los juegos de azar. Como apunte, los juegos 
 
 ME: Desgraciadamente no sé mucho sobre el juego en España. Conozco algo sobre la regulación, eso es todo. Y sí, sí que hay diferencias culturales en la práctica de juegos de azar. Lo que hay que preguntarse es: ¿son los juegos de azar una actividad cotidiana; o más bien se practica como una actividad no tan frecuente para rellenar el tiempo libre, o como forma de celebración ocasional? La forma de ver el juego y la percepción de aceptabilidad tienen un impacto enorme en su consumo general. Las instituciones también cumplen un papel importante en la definición de lo que es la adicción. La razón por la que nos centramos en la población finlandesa y francesa es porque son buenos ejemplos de comportamientos opuestos: para la cultura finlandesa el juego es como una actividad más de la vida cotidiana, mientras que en la cultura francesa es más bien una actividad esporádica y hay una mayor desconfianza hacia estas prácticas.
 
-**JGR: ¿Qué es La Red de Juegos de Azar (_The Gambling Network_)?**
+**JGR: ¿Qué es La Red de Juegos de Azar (*The Gambling Network*)?**
 
 ME: Es un congreso finlandés de investigación sobre el juego. También recibe a personas en curso de tratamiento o prevención. Incluso se ha dado el caso de que asista el responsable de la regulación del juego del ministerio. Se trata de una charla entre investigadores y no investigadores en la que se pueden discutir los puntos que deben ser estudiados, entre otras cosas. Es una extensa red que se reúne dos veces por semestre. Las últimas veces no hemos podido reunirnos por culpa del virus.
 
@@ -55,7 +57,7 @@ ME: Esto es una cuestión política. Independientemente de lo que yo piense, lo 
 
 **JGR: ¿Qué peso debe tener el establecimiento de límites versus la educación cuando hablamos de regulación del juego?**
 
-ME: La educación es muy importante, de eso no cabe duda. Existen muchos programas de educación y de prevención. El problema no es tanto que la regulación se centre en establecer límites, sino que los límites están mal establecidos. Hay que dejar de individualizar la responsabilidad. Quizá hayas oído hablar de lo que se conoce como “juego responsable”. Con ello surgen los “jugadores responsables”. Los jugadores deben tomar las decisiones correctas. Cuando todo va bien esto está genial. Pero la cosa es que cuando empiezan a haber problemas, también es culpa de ellos. La industria se desentiende y se sale con la suya estableciendo limites muy leves a los jugadores. En resumen, la educación es tan importante como el establecimiento de límites, pero los limites adecuados.
+ME: La educación es muy importante, de eso no cabe duda. Existen muchos programas de educación y de prevención. El problema no es tanto que la regulación se centre en establecer límites, sino que los límites están mal establecidos. Hay que dejar de individualizar la responsabilidad. Quizá hayas oído hablar de lo que se conoce como “juego responsable”. Con ello surgen los “jugadores responsables”. Los jugadores deben tomar las decisiones correctas. Cuando todo va bien esto está genial. Pero la cosa es que cuando empieza a haber problemas, también es culpa de ellos. La industria se desentiende y se sale con la suya estableciendo limites muy leves a los jugadores. En resumen, la educación es tan importante como el establecimiento de límites, pero los limites adecuados.
 
 **JGR: ¿Qué ha aprendido sobre adicción?**
 
@@ -63,8 +65,8 @@ ME: Puedo contarte algo basado en mi propia experiencia, durante unas entrevista
 
 **JGR: ¿Le gustaría compartir algún mensaje con los lectores?**
 
-ME: La dicotomía no es paternalismo estatal versus libertad, tal y como se cree. Al menos no si hablamos de libertad ciudadana individual. La verdadera dicotomía es paternalismo estatal versus libertad de la industria del juego. De nuevo, lo importante es encontrar un punto de equilibrio entre ambas partes. Si solo se tiene libertad individual, se es más vulnerable a la manipulación de la industria. Si se deja a la industria funcionar sin ningún tipo de frenos, nos manipulan. No hay que creer que el paternalismo estatal va en contra de nuestra libertad, porque en su correcta dosis también la protege.
+ME: La dicotomía no es paternalismo estatal versus libertad, tal y como se cree. Al menos no si hablamos de libertad ciudadana individual. La verdadera dicotomía es paternalismo estatal versus libertad de la industria del juego. De nuevo, lo importante es encontrar un punto de equilibrio entre ambas partes. Si solo se tiene libertad individual, se es más vulnerable a la manipulación de la industria. Si se deja a la industria funcionar sin ningún tipo de frenos, nos manipula. No hay que creer que el paternalismo estatal va en contra de nuestra libertad, porque en su correcta dosis también la protege.
 
 **JGR: ¿Qué libro recomendaría a los lectores?**
 
-ME: Un libro que me gusto mucho leer fue _Rewriting the soul_ (1995) de Ian Hacking, un filósofo canadiense. Como punto positivo, diría que para ser un libro de filosofía, es bastante fácil y rápido de leer. En este libro no se trata específicamente el tema de la adicción, sino el de la salud mental. Creo que ilustra muy bien lo determinante que es la forma en que definimos conceptos como salud mental o adicción en nuestra concepción del mundo. La conceptualización nos permite definir el esqueleto de nuestra realidad, el armazón que nos permite comprender quienes somos y quienes son esas otras personas con problemas.
+ME: Un libro que me gusto mucho leer fue *Rewriting the soul* (1995) de Ian Hacking, un filósofo canadiense. Como punto positivo, diría que para ser un libro de filosofía, es bastante fácil y rápido de leer. En este libro no se trata específicamente el tema de la adicción, sino el de la salud mental. Creo que ilustra muy bien lo determinante que es la forma en que definimos conceptos como salud mental o adicción en nuestra concepción del mundo. La conceptualización nos permite definir el esqueleto de nuestra realidad, el armazón que nos permite comprender quienes somos y quienes son esas otras personas con problemas.
