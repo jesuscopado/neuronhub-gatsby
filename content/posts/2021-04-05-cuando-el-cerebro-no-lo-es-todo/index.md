@@ -12,7 +12,7 @@ excerpt: >-
 hero: images/32.jpeg
 ---
 <span class="clarification-box">
-Do you want to read this article in English? <a href="/When-the-brain-falls-short">You can find it here.</a>
+Do you want to read this article in English? <a href="/When-the-brain-falls-short">Find it here.</a>
 </span>
 
 En el estudio del comportamiento humano, es inevitable pasar por experiencias in vitro, o estudios con células, tejidos u órganos. Incluso a veces es necesario pasar por modelos computacionales. La neurociencia puede tener numerosas ramificaciones que abordan diferentes aspectos de la conducta. Sin embargo, una disciplina algo olvidada por los profesionales de la bata blanca y la probeta es la sociología. Resulta imprescindible acordarse de lo que nos dicen los sociólogos cuando queremos entender un tema en su globalidad. ¿Por qué?
