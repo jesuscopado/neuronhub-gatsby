@@ -1,17 +1,18 @@
 ---
 author: Juan García Ruiz
-date: 2021-03-14
+date: 2021-03-14T00:00:00.000Z
 draft: false
-title: Más, más, más
+title: 'Más, más, más'
 type: post
 excerpt: >-
-  Tal vez la única diferencia entre las demás personas y yo es que yo siempre exigí más de la puesta de sol. Colores más espectaculares cuando el sol llega al horizonte. Tal vez ese sea mi único pecado.
+  Tal vez la única diferencia entre las demás personas y yo es que yo siempre
+  exigí más de la puesta de sol. Colores más espectaculares cuando el sol llega
+  al horizonte. Tal vez ese sea mi único pecado.
 hero: images/31.jpeg
 ---
+*Tal vez la única diferencia entre las demás personas y yo es que yo siempre exigí más de la puesta de sol. Colores más espectaculares cuando el sol llega al horizonte. Tal vez ese sea mi único pecado*.
 
-_Tal vez la única diferencia entre las demás personas y yo es que yo siempre exigí más de la puesta de sol. Colores más espectaculares cuando el sol llega al horizonte. Tal vez ese sea mi único pecado_.
-
-_Nymphomaniac, volumen I_, Lars Von Trier
+*Nymphomaniac, volumen I*, Lars Von Trier
 
 <div className="Image__Small">
   <img src="https://nervousystemhome.files.wordpress.com/2021/03/whatsapp-image-2021-02-26-at-14.54.09.jpeg?w=1007" alt="This is the alt text small image" />
@@ -23,6 +24,7 @@ La adicción es una dependencia constante de una sustancia o una actividad con c
 ### Algunas cifras
 
 La adicción supone a día de hoy una carga importante para nuestra sociedad. Según el último comunicado del European Monitoring Centre for Drugs and Drug Addiction (2020):
+
 * Las anfetaminas sumaron un total de 2 millones de consumidores de entre 15 y 64 años durante el pasado año; 2,7 millones en el caso del MDMA; 4,3 millones consumieron cocaína; y 25,2 millones consumieron cannabis.
 * El 34% de las peticiones de tratamiento estuvieron relacionadas con la heroína y otros opioides.
 * 82% de las sobredosis mortales se debieron al consumo de opioides.
@@ -59,13 +61,13 @@ KB: ¿Cómo nos volvemos adictos? Lo que buscamos en las drogas es el efecto ini
 
 Esto puede ocurrir con comportamientos que son en principio favorables. Basta con que el circuito de la recompensa y el estado emocional del individuo se vean alterados por un consumo reiterado.
 
-**JGR: El tema de los opioides parece haberle interesado bastante, hasta el punto de que ha hecho una tesis sobre esto. ¿Qué ha aprendido al respecto? **
+**JGR: El tema de los opioides parece haberle interesado bastante, hasta el punto de que ha hecho una tesis sobre esto. ¿Qué ha aprendido al respecto?** 
 
-KB: Cuando empecé se sabía más bien poco sobre este tema. Se sabían algunas cosas sobre opioides como la morfina, como cuáles eran sus receptores, pero no se habían caracterizado bien. Somos uno de los primeros laboratorios que han conseguido clonar estos receptores para entenderlos. Esto nos permitió identificar el receptor delta, lo que supuso un gran avance ya que a nivel molecular no teníamos ni idea de cómo funcionaba. Esto ha permitido abrir muchas vías de investigación. Por ejemplo, 20 años antes de estos descubrimientos ya había empresas farmacéuticas intentando entender el funcionamiento de la morfina. El hecho de que hayamos caracterizado estos opioides y sus receptores ha supuesto una gran contribución para la comprensión de sus mecanismos de acción.
+KB: Cuando empecé se sabía más bien poco sobre este tema. Se sabían algunas cosas sobre opioides como la morfina, como cuáles eran sus receptores, pero no se habían caracterizado bien. Somos uno de los primeros laboratorios que han conseguido clonar estos receptores para entenderlos. Esto nos permitió identificar el receptor delta, lo que supuso un gran avance ya que a nivel molecular no teníamos ni idea de cómo funcionaba, y abrió varias vías de investigación. Por ejemplo, 20 años antes de estos descubrimientos ya había empresas farmacéuticas intentando entender el funcionamiento de la morfina. El hecho de que hayamos caracterizado estos opioides y sus receptores ha supuesto una gran contribución para la comprensión de sus mecanismos de acción.
 
 **JGR: Según lo que he podido ver en sus publicaciones, los receptores de los opioides pueden jugar un papel en la sociabilidad, en el consumo de alimentos apetecibles y en los estados emocionales. ¿Cómo se relacionan estos tres comportamientos?**
 
-KB: Las regiones cerebrales implicadas en estos comportamientos que mencionas pertenecen al circuito de la recompensa, por lo que resulta normal que guarden cierta relación entre sí. En cuanto a los opioides, hemos identificado tres receptores: mu, delta y kappa. Cada receptor está implicado en un aspecto diferente, por ejemplo, los receptores mu están relacionados con los efectos eufóricos y analgésicos de la droga, mientras que los receptores delta están más relacionados con la emoción ligada al consumo de drogas. Que una región del cerebro está más relacionada con un comportamiento u otro dependerá del nivel de expresión de cada receptor.
+KB: Las regiones cerebrales implicadas en estos comportamientos que mencionas pertenecen al circuito de la recompensa, por lo que resulta normal que guarden cierta relación entre sí. En cuanto a los opioides, hemos identificado tres receptores: mu, delta y kappa. Cada receptor está implicado en un aspecto diferente, por ejemplo, los receptores mu están relacionados con los efectos eufóricos y analgésicos de la droga, mientras que los receptores delta están más relacionados con la emoción ligada al consumo de drogas. Que una región del cerebro esté más relacionada con un comportamiento u otro depende del nivel de expresión de cada receptor.
 
 **JGR: Parte de su investigación la ha dedicado al estudio de la alimentación compulstiva en los países industrializados. Por ejemplo, ha estudiado los edulcorantes. ¿Ha sacado alguna conclusión al comparar el azúcar y los edulcorantes?**
 
@@ -77,7 +79,7 @@ KB: Creo que no me había planteado esto antes.  Hasta lo que sé, lo más adic
 
 **JGR: ¿Cree que la adicción es un fenómeno reciente? Hoy hablamos de adicción a los videojuegos, a la comida, al tabaco, al alcohol o incluso al porno. ¿Había otras formas de adicción en el pasado o se trata de algo ligado a nuestro estilo de vida actual?**
 
-KB: Creo que en un pasado lejano el hombre dedicaba su tiempo a sobrevivir. Hemos entrado en una era en la que todo está a nuestra disposición, y esta evolución de nuestra sociedad nos hace más propensos a probar todo lo que tenemos ante nosotros. Es cierto que este acceso a todo lo que deseamos es muy diferente según el nivel de desarrollo de los países. Pero incluso los países más pobres y menos industrializados tienen un acceso fácil a la comida basura, por ejemplo. Por tanto, al final las fuentes de adicción están al alcance de todos. Creo por tanto que la adicción es algo ligado a una sociedad que nos expone con facilidad. Es una cuestión de acceso, de posibilidades. Con las drogas pasa lo mismo, hay drogas más accesibles (alcohol, tabaco), y una gran parte de la población es adicta.
+KB: Creo que en un pasado lejano el hombre dedicaba su tiempo a sobrevivir. Hemos entrado en una era en la que todo está a nuestra disposición, y esta evolución de nuestra sociedad nos hace más propensos a probar todo lo que tenemos ante nosotros. Es cierto que este acceso a todo lo que deseamos es muy diferente según el nivel de desarrollo de los países. Pero incluso los países más pobres y menos industrializados tienen un acceso fácil a la comida basura, por ejemplo. Por tanto, al final las fuentes de adicción están al alcance de todos. Me parece que la adicción está ligada a una sociedad que nos expone con facilidad. Es una cuestión de acceso, de posibilidades. Con las drogas pasa lo mismo, hay drogas más accesibles (alcohol, tabaco), y una gran parte de la población es adicta.
 
 **JGR: El consumo de tabaco disminuye desde principios del siglo veintiuno. ¿Cómo ve el futuro de nuestra sociedad en lo concerniente a la adicción? ¿Es optimista? ¿Aprendemos?**
 
@@ -98,10 +100,10 @@ La verdad es que no siempre es fácil motivar a los jóvenes cuando no están se
 <h4><button type="button" class="collapsible">Referencias</button></h4>
 <div class="content">
 
-Comisión Europea. (2019, 24 mayo). _Salud pública. Consumo de tabaco._ Salud pública - European Commission. [_Fuente_](https://ec.europa.eu/health/tobacco/overview_es)
+Comisión Europea. (2019, 24 mayo). *Salud pública. Consumo de tabaco.* Salud pública - European Commission. *[Fuente](https://ec.europa.eu/health/tobacco/overview_es)*
 
-European Monitoring Centre for Drugs and Drug Addiction. (2020). _Statistical Bulletin 2020 — prevalence of drug use_. [_Fuente_](https://www.emcdda.europa.eu/data/stats2020/gps_en)
+European Monitoring Centre for Drugs and Drug Addiction. (2020). *Statistical Bulletin 2020 — prevalence of drug use*. *[Fuente](https://www.emcdda.europa.eu/data/stats2020/gps_en)*
 
-World Health Organization. (s. f.). _Alcohol use - Data and statistics_. Recuperado 14 de marzo de 2021.[_Fuente_](https://www.euro.who.int/en/health-topics/disease-prevention/alcohol-use/data-and-statistics)
+World Health Organization. (s. f.). *Alcohol use - Data and statistics*. Recuperado 14 de marzo de 2021.*[Fuente](https://www.euro.who.int/en/health-topics/disease-prevention/alcohol-use/data-and-statistics)*
 
 </div>
