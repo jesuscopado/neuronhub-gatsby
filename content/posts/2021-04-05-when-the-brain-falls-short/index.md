@@ -11,7 +11,7 @@ secret: true
 ---
 
 <span class="clarification-box">
-¿Quieres leer el artículo en español? <a href="/Cuando-el-cerebro-no-lo-es-todo">Puedes encontrarlo aquí.</a>
+¿Quieres leer el artículo en español? <a href="/Cuando-el-cerebro-no-lo-es-todo">Encuéntralo aquí.</a>
 </span>
 
 In the study of human behavior, it is sometimes necessary to go through in vitro experiments, studies with cells, tissues or organs. Sometimes it is even necessary to go through computational models. Neuroscience can have numerous ramifications that address different aspects of behavior. However, a discipline somewhat forgotten by white coats is sociology. It is essential to remember what sociologists tell us when we want to understand the big picture of a subject. Why?
