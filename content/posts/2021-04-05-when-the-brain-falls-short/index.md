@@ -1,15 +1,17 @@
 ---
-author: Juan García Ruiz
-date: 2021-04-05
+excerpt: >-
+  In the study of human behavior, it is sometimes necessary to go through in
+  vitro experiments, studies with cells, tissues or organs. Sometimes it is even
+  necessary to go through computational models. Neuroscience can have numerous
+  ramifications that address different aspects of behavior. 
 draft: false
+author: Juan García Ruiz
+date: 2021-04-05T00:00:00.000Z
+secret: true
 title: When the brain falls short
 type: post
-excerpt: >-
-  In the study of human behavior, it is sometimes necessary to go through in vitro experiments, studies with cells, tissues or organs. Sometimes it is even necessary to go through computational models. Neuroscience can have numerous ramifications that address different aspects of behavior. 
 hero: images/32.jpeg
-secret: true
 ---
-
 <span class="clarification-box">
 ¿Quieres leer el artículo en español? <a href="/Cuando-el-cerebro-no-lo-es-todo">Encuéntralo aquí.</a>
 </span>
@@ -24,7 +26,7 @@ To give the reader a new perspective, to promote critical thinking and to avoid 
 
 **Juan García Ruiz: How do you study addiction?**
 
-Michael Egerer: Currently I am involved in a study looking at what is called the brain disease model of addiction (from a social point of view). The aim is to understand the implications of considering addiction as a matter of the brain a person has, and how this can affect treatments and prevention, or yet how it is used and public discourse. 
+Michael Egerer: Currently I am involved in a study looking at what is called the brain disease model of addiction (from a social point of view). The aim is to understand the implications of considering addiction as a matter of the brain a person has, and how this can affect treatments and prevention, or yet how it is used by public discourse. 
 
 **JGR: Have you already reached any conclusions?**
 
