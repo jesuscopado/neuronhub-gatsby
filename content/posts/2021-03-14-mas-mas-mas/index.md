@@ -1,8 +1,8 @@
 ---
 author: Juan García Ruiz
-date: 2021-03-14T00:00:00.000Z
+date: 2021-03-14
 draft: false
-title: 'Más, más, más'
+title: Más, más, más
 type: post
 excerpt: >-
   Tal vez la única diferencia entre las demás personas y yo es que yo siempre
@@ -10,6 +10,11 @@ excerpt: >-
   al horizonte. Tal vez ese sea mi único pecado.
 hero: images/31.jpeg
 ---
+
+<span class="clarification-box">
+Voudrais-tu lire cet article en français? <a href="/Plus-plus-plus">Trouve le ici.</a>
+</span>
+
 *Tal vez la única diferencia entre las demás personas y yo es que yo siempre exigí más de la puesta de sol. Colores más espectaculares cuando el sol llega al horizonte. Tal vez ese sea mi único pecado*.
 
 *Nymphomaniac, volumen I*, Lars Von Trier
@@ -75,7 +80,7 @@ KB: Todavía no se conocen completamente los mecanismos de acción de los edulco
 
 **JGR: Las grasas tienen una mejor ratio de energía aportada por cantidad de alimento consumida que el azúcar. Siendo esto así, ¿por qué nos volvemos más fácilmente adictos al azúcar que a las grasas?**
 
-KB: Creo que no me había planteado esto antes.  Hasta lo que sé, lo más adictivo es la asociación de azúcar y grasa. Es cierto que no hay tantos problemas de adicción a los lípidos. Creo que no es tanto una cuestión biológica, sino más bien de sociedad. En el mundo en que vivimos, el azúcar tiene un gran peso, y esto se ve reflejado en la publicidad. Por no hablar de lo frecuente que es en la industria alimentaria añadir azúcar a toda clase de alimentos, lo que contribuye al desarrollo de adicciones al azúcar con mayor facilidad que a las grasas.
+KB: Creo que no me había planteado esto antes. Hasta lo que sé, lo más adictivo es la asociación de azúcar y grasa. Es cierto que no hay tantos problemas de adicción a los lípidos. Creo que no es tanto una cuestión biológica, sino más bien de sociedad. En el mundo en que vivimos, el azúcar tiene un gran peso, y esto se ve reflejado en la publicidad. Por no hablar de lo frecuente que es en la industria alimentaria añadir azúcar a toda clase de alimentos, lo que contribuye al desarrollo de adicciones al azúcar con mayor facilidad que a las grasas.
 
 **JGR: ¿Cree que la adicción es un fenómeno reciente? Hoy hablamos de adicción a los videojuegos, a la comida, al tabaco, al alcohol o incluso al porno. ¿Había otras formas de adicción en el pasado o se trata de algo ligado a nuestro estilo de vida actual?**
 
@@ -104,6 +109,6 @@ Comisión Europea. (2019, 24 mayo). *Salud pública. Consumo de tabaco.* Salud p
 
 European Monitoring Centre for Drugs and Drug Addiction. (2020). *Statistical Bulletin 2020 — prevalence of drug use*. *[Fuente](https://www.emcdda.europa.eu/data/stats2020/gps_en)*
 
-World Health Organization. (s. f.). *Alcohol use - Data and statistics*. Recuperado 14 de marzo de 2021.*[Fuente](https://www.euro.who.int/en/health-topics/disease-prevention/alcohol-use/data-and-statistics)*
+World Health Organization. (s. f.). *Alcohol use - Data and statistics*. Recuperado 14 de marzo de 2021. *[Fuente](https://www.euro.who.int/en/health-topics/disease-prevention/alcohol-use/data-and-statistics)*
 
 </div>
