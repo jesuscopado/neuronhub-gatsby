@@ -1,8 +1,8 @@
 ---
 author: Juan García Ruiz
-date: 2021-03-14
+date: 2021-03-14T00:00:00.000Z
 draft: false
-title: Más, más, más
+title: 'Más, más, más'
 type: post
 excerpt: >-
   Tal vez la única diferencia entre las demás personas y yo es que yo siempre
@@ -10,9 +10,8 @@ excerpt: >-
   al horizonte. Tal vez ese sea mi único pecado.
 hero: images/31.jpeg
 ---
-
 <span class="clarification-box">
-Voudrais-tu lire cet article en français? <a href="/Plus-plus-plus">Trouve le ici.</a>
+Voudrais-tu lire cet article en français ? <a href="/Plus-plus-plus">Trouve le ici.</a>
 </span>
 
 *Tal vez la única diferencia entre las demás personas y yo es que yo siempre exigí más de la puesta de sol. Colores más espectaculares cuando el sol llega al horizonte. Tal vez ese sea mi único pecado*.
