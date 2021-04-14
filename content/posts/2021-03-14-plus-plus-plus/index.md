@@ -92,7 +92,7 @@ L’évolution de la recherche va nous permettre de mieux comprendre les mécani
 
 KB: J’ai une équipe super. On a 4 étudiants en thèse en ce moment et malgré la covid tout le monde reste motivé. C’est passionnant d’interagir avec des gens motivés. Par contre, la recherche en France c’est très compliqué d’un point de vue financier. Par exemple pour moi c’est une grosse difficulté car j’ai changé un peu tardivement mon sujet principal de recherche et j’ai redémarré des nouveaux projets pour lesquels il faut d'abord publier afin de faire ses preuves et pouvoir être financé. Réussir à trouver des financements devient de plus en plus difficile. J’arrive à recruter des jeunes très motivés pour réaliser leur thèse, on a des très beaux projets, mais le financement est très insuffisant. 
 
-**JGR: Vous avez un message pour les lecteurs que vous aimeriez partager ?**
+**JGR: Avez-vous un message que vous aimeriez partager avec nos lecteurs ?**
 
 KB: Il faut se poser des questions tout le temps, être curieux, découvrir d’autres façons de penser en travaillant dans d’autres pays malgré les chocs culturels et les difficultés quand on change d’environnement. C’est pas toujours facile de convaincre les jeunes qui sont pas sûrs de s¡engager dans la recherche car ils voient ertains chercheurs qui traversent des difficultés de temps en temps, mais je crois que cela est vrai pour beaucoup de domaines. Donc si la recherche vous tente, il faut y aller!
 
