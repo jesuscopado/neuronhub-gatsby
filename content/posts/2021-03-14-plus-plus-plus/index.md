@@ -25,13 +25,13 @@ secret: true
 
 ### Quelques chiffres
 
-L’addiction est un fardeau pour notre société. D’après le dernier communiqué de l’European Monitoring Centre for Drugs and Drug Addiction (2020):
+L’addiction est un fardeau pour notre société. D’après le dernier communiqué de l’European Monitoring Centre for Drugs and Drug Addiction (2020) :
 
 * On a constaté 2 millions d’utilisateurs d’amphétamines âgés de 15 à 64 ans au cours de l’année écoulée ; 2,7 millions pour la MDMA ; 4,3 millions pour la cocaïne et 25,2 millions pour le cannabis. 
 * Au total, 34% des demandes de traitement étaient liées à l’héroïne et aux autres opioïdes.
 * 82% des overdoses mortelles étaient dues à la consommation d’opioïdes. 
 
-En outre, selon l’OMS (n.d.), l’Union Européenne est la région où la consommation d’alcool est la plus élevée au monde: un citoyen sur cinq âgé de 15 ans ou plus a admis avoir bu l’équivalent de 5 verres (60 grammes d’alcool) ou plus en une seule occasion et au moins une fois par semaine.
+En outre, selon l’OMS (n.d.), l’Union Européenne est la région où la consommation d’alcool est la plus élevée au monde : un citoyen sur cinq âgé de 15 ans ou plus a admis avoir bu l’équivalent de 5 verres (60 grammes d’alcool) ou plus en une seule occasion et au moins une fois par semaine.
 
 Quant au tabac, il n’y a pas de quoi se réjouir. D’après la Commission Européenne (2019), la consommation de tabac est la cause de mort prématurée las plus fréquente dans l’Union Européenne (700.000 par an). Selon les données, 26% de la population générale et 29% des jeunes âgés entre 15 et 24 ans consomment du tabac.
 
@@ -83,9 +83,9 @@ KB: Je n’ai pas encore assez de recul. Ce que j’ai compris d’après ce que
 
 KB: Je pense que dans le passé l’homme était plus occupé à survivre. Aujourd’hui on consacre du temps au plaisir. On est rentrés dans des sociétés où tout est à notre disposition, et cette évolution de notre société nous rend plus prône à tester ce qu’on a devant les yeux. C’est vrai que cet accès à tout ce qu’on veut est différent selon le niveau de développement des pays, et ce n’est pas pareil dans les pays industrialisés et les pays plus pauvres. Cependant, même les pays les plus pauvres ont accès à la junk food donc tout le monde la consomme et peut y devenir addicte. Donc je pense que l’addiction est quelque chose de liée à l’évolution de notre société qui nous expose avec facilité. C’est l’accès, la possibilité de pouvoir le faire. Pour les drogues c’est pareil, il y a des drogues plus accessibles (alcool, tabac), et il y a une énorme partie de la population qui la consomme et qui y est addicte.
 
-**JGR: La consommation de tabac diminue depuis le commencement du siècle. Comment voyez-vous le futur de notre société vis-à-vis l’addiction en général: êtes-vous optimiste ? Apprend-on ?**
+**JGR: La consommation de tabac diminue depuis le commencement du siècle. Comment voyez-vous le futur de notre société vis-à-vis l’addiction en général : êtes-vous optimiste ? Apprend-on ?**
 
-KB: Disparaître complétement je ne pense pas, car l’homme a toujours cette curiosité et cette tendance à la prise de risque. En revanche le produit qui crée l’addiction se déplace: la nourriture, les jeux vidéo, etc.
+KB: Disparaître complétement je ne pense pas, car l’homme a toujours cette curiosité et cette tendance à la prise de risque. En revanche le produit qui crée l’addiction se déplace : la nourriture, les jeux vidéo, etc.
 
 L’évolution de la recherche va nous permettre de mieux comprendre les mécanismes et de faire de la prévention de façon plus efficace et d’aider les gens avec des problèmes d’addiction. A l’heure actuelle il n’y a pas de remède contre la rechute par exemple. Donc la recherche permettra d’aider, mais je ne pense pas que l’addiction disparaîtra complètement.
 
