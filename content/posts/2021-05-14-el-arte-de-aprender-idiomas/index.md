@@ -1,13 +1,22 @@
 ---
 excerpt: >-
-  ¿Cómo es posible que podamos aprender algo tan sofisticado como una lengua desde una edad tan temprana? La adquisición del lenguaje es algo que no dejará de intrigarnos. La adquisición del vocabulario de nuestra lengua materna depende de la memoria implícita, ya que la inmersión es completa y por lo tanto este proceso es automático. Sin embargo, la adquisición de una lengua extranjera depende de la memoria explícita, ya que normalmente hacemos un esfuerzo consciente para adquirir el vocabulario y las reglas internas del lenguaje. Según los métodos que se utilicen para enseñar una segunda lengua, los mecanismos cerebrales implicados pueden implicar más un tipo u otro de memoria. 
+  ¿Cómo es posible que podamos aprender algo tan sofisticado como una lengua
+  desde una edad tan temprana? La adquisición del lenguaje es algo que no dejará
+  de intrigarnos. La adquisición del vocabulario de nuestra lengua materna
+  depende de la memoria implícita, ya que la inmersión es completa y por lo
+  tanto este proceso es automático. Sin embargo, la adquisición de una lengua
+  extranjera depende de la memoria explícita, ya que normalmente hacemos un
+  esfuerzo consciente para adquirir el vocabulario y las reglas internas del
+  lenguaje. Según los métodos que se utilicen para enseñar una segunda lengua,
+  los mecanismos cerebrales implicados pueden implicar más un tipo u otro de
+  memoria. 
 draft: false
 author: Juan García Ruiz
-date: 2021-05-14 17:04:19+00:00
+date: 2021-05-14T17:04:19.000Z
 secret: false
-title: El arte de aprender idiomas
+title: Música para mis oídos
 type: post
-hero: images/34.jpg
+hero: images/whatsapp-image-2021-05-14-at-20.34.46.jpeg
 ---
 
 ¿Cómo es posible que podamos aprender algo tan sofisticado como una lengua desde una edad tan temprana? La adquisición del lenguaje es algo que no dejará de intrigarnos. La adquisición del vocabulario de nuestra lengua materna depende de la memoria implícita, ya que la inmersión es completa y por lo tanto este proceso es automático. Sin embargo, la adquisición de una lengua extranjera depende de la memoria explícita, ya que normalmente hacemos un esfuerzo consciente para adquirir el vocabulario y las reglas internas del lenguaje. Según los métodos que se utilicen para enseñar una segunda lengua, los mecanismos cerebrales implicados pueden implicar más un tipo u otro de memoria. 
