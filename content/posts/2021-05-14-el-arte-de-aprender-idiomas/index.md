@@ -14,7 +14,7 @@ draft: false
 author: Juan García Ruiz
 date: 2021-05-14T17:04:19.000Z
 secret: false
-title: El arte de aprender idiomas
+title: Música para mis oídos
 type: post
 hero: images/whatsapp-image-2021-05-14-at-20.34.46.jpeg
 ---
