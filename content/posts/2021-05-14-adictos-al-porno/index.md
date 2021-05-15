@@ -19,7 +19,7 @@ Hay un hecho indiscutible: a la gente le gusta el porno. Y la gente está de sue
 
 La pornografía está cada vez más presente en nuestras vidas. Cada vez se habla de ello con mayor apertura. Ahora más que nunca es un tema de actualidad, puesto que la pandemia ha cambiado por completo nuestras rutinas, incrementando el tiempo que pasamos ante las pantallas y, no muy sorprendentemente, el tiempo que pasamos viendo pornografía. 
 
-Pero no solo la pornografía ha ganado terreno en nuestra vida cotidiana. También conceptos como "adicción a la pornografía" o "consumo excesivo de pornografía" surgen en nuestro entorno. La pregunta que cabe hacerse es si deberíamos o no preocuparnos.
+Pero no solo la pornografía ha ganado terreno en nuestra vida cotidiana. También han surgido conceptos como "adicción a la pornografía" o "consumo excesivo de pornografía". La pregunta que cabe hacerse es si deberíamos o no preocuparnos.
 
 ### ¿Existe la adicción al porno?
 
