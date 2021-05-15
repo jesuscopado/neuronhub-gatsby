@@ -1,16 +1,21 @@
 ---
 excerpt: >-
-  Hay un hecho indiscutible: a la gente le gusta el porno. Y la gente está de suerte, porque gracias a la triple A - accesibilidad, asequibilidad, anonimidad - la pornografía está a la mano de todos (y nunca mejor dicho). Solo en 2019 hubo 42.000.000.000 visitas a una de las webs de pornografía más conocidas en todo el mundo, lo que equivale a 115 millones por día (Pornhub, 2019). En otras palabras, es como si cada día la totalidad de las poblaciones de España y de Francia juntas visitaran la web. 
+  Hay un hecho indiscutible: a la gente le gusta el porno. Y la gente está de
+  suerte, porque gracias a la triple A - accesibilidad, asequibilidad,
+  anonimidad - la pornografía está a la mano de todos (y nunca mejor dicho).
+  Solo en 2019 hubo 42.000.000.000 visitas a una de las webs de pornografía más
+  conocidas en todo el mundo, lo que equivale a 115 millones por día (Pornhub,
+  2019). En otras palabras, es como si cada día la totalidad de las poblaciones
+  de España y de Francia juntas visitaran la web. 
 draft: false
 author: Juan García Ruiz
-date: 2021-05-14 14:21:58+00:00
+date: 2021-05-14T14:21:58.000Z
 secret: false
 title: ¿Adictos al porno?
 type: post
 hero: images/33.jpg
 ---
-
-Hay un hecho indiscutible: a la gente le gusta el porno. Y la gente está de suerte, porque gracias a la triple A - accesibilidad, asequibilidad, anonimidad - la pornografía está a la mano de todos (y nunca mejor dicho). Solo en 2019 hubo 42.000.000.000 visitas a una de las webs de pornografía más conocidas en todo el mundo, lo que equivale a 115 millones por día (Pornhub, 2019). En otras palabras, es como si cada día la totalidad de las poblaciones de España y de Francia juntas visitaran la web. 
+Hay un hecho indiscutible: a la gente le gusta el porno. Y la gente está de suerte, porque gracias a la triple A - accesibilidad, asequibilidad, anonimidad - la pornografía está en manos de todos (y nunca mejor dicho). Solo en 2019 hubo 42.000.000.000 visitas a una de las webs de pornografía más conocidas en todo el mundo, lo que equivale a 115 millones por día (Pornhub, 2019). En otras palabras, es como si cada día la totalidad de las poblaciones de España y de Francia juntas visitaran la web. 
 
 La pornografía está cada vez más presente en nuestras vidas. Cada vez se habla de ello con mayor apertura. Ahora más que nunca es un tema de actualidad, puesto que la pandemia ha cambiado por completo nuestras rutinas, incrementando el tiempo que pasamos ante las pantallas y, no muy sorprendentemente, el tiempo que pasamos viendo pornografía. 
 
@@ -18,9 +23,9 @@ Pero no solo la pornografía ha ganado terreno en nuestra vida cotidiana. Tambi�
 
 ### ¿Existe la adicción al porno?
 
-Lo primero que hay que saber es que la adicción al porno no es un trastorno psicológico reconocido oficialmente. No existen criterios diagnósticos ni tratamientos oficiales, ni queda recogido en ningún manual oficial de psicología. Resulta complicado estudiar la adicción al porno como fenómeno independiente de la adicción al sexo. Sin embargo, ni siquiera la adicción al sexo está reconocida a día de hoy por los grandes manuales de referencia de psicología. Por ejemplo, el Manual diagnóstico y estadístico de los trastornos mentales (DSM, del inglés _Diagnostic and Statistical Manual of Mental Disorders_) dejó de incluir la adicción al sexo a partir de la cuarta edición (en el año 2000). A pesar de que se ha propuesto en repetidas ocasiones la reinclusión del trastorno en el DSM-5 (año 2013), se considera que no hay evidencia suficiente para hacerlo. Ni siquiera la décima edición (la última, hasta la fecha) de la Clasificación Estadística Internacional de Enfermedades y Problemas de Salud Relacionados (ICD-10, del inglés _International Statistical Classification of Diseases and Related Health Problems_) considera la adicción al porno como un fenómenos separado de otros que sí que incluye como el impulso sexual excesivo o el exceso de masturbación (Wikipedia contributors, 2021). 
+Lo primero que hay que saber es que la adicción al porno no es un trastorno psicológico reconocido oficialmente. No existen criterios diagnósticos ni tratamientos oficiales, ni queda recogido en ningún manual oficial de psicología. Resulta complicado estudiar la adicción al porno como fenómeno independiente de la adicción al sexo. Sin embargo, ni siquiera la adicción al sexo está reconocida a día de hoy por los grandes manuales de referencia de psicología. Por ejemplo, el Manual diagnóstico y estadístico de los trastornos mentales (DSM, del inglés *Diagnostic and Statistical Manual of Mental Disorders*) dejó de incluir la adicción al sexo a partir de la cuarta edición (en el año 2000). A pesar de que se ha propuesto en repetidas ocasiones la reinclusión del trastorno en el DSM-5 (año 2013), se considera que no hay evidencia suficiente para hacerlo. Ni siquiera la décima edición (la última, hasta la fecha) de la Clasificación Estadística Internacional de Enfermedades y Problemas de Salud Relacionados (ICD-10, del inglés *International Statistical Classification of Diseases and Related Health Problems*) considera la adicción al porno como un fenómenos separado de otros que sí que incluye como el impulso sexual excesivo o el exceso de masturbación (Wikipedia contributors, 2021). 
 
-A pesar de que la adicción al porno no se considere un trastorno mental oficial, su presencia en la cultura popular y en la literatura científica es innegable (ver _Figura 1_). No obstante, dado que no está reconocido como una realidad clínica, a menudo se habla de adicción a la pornografía autopercibida (en inglés es frecuente encontrarlo como SPPA, _Self Perceived Pornography Addiction_). Esto supone un gran problema a la hora de estudiarlo. ¿Usamos todos el mismo criterio cuando juzgamos lo que es un consumo bajo, moderado o elevado de pornografía? Claramente no. En una revisión publicada por Duffy et al. (2016) en la que comparan varios artículos sobre adicción al porno, los autores encuentran una gran discrepancia en la definición de lo que es un consumo excesivo. Mientras algunos autores consideran que ver porno 10 veces o más en tres meses es un consumo excesivo, otros consideran que el límite sería sobrepasar una visita diaria (es decir, 90 veces en tres meses, 9 veces más que los anteriores). Esta disparidad en la definición tiene consecuencias evidentes sobre las conclusiones de los estudios. 
+A pesar de que la adicción al porno no se considere un trastorno mental oficial, su presencia en la cultura popular y en la literatura científica es innegable (ver *Figura 1*). No obstante, dado que no está reconocido como una realidad clínica, a menudo se habla de adicción a la pornografía autopercibida (en inglés es frecuente encontrarlo como SPPA, *Self Perceived Pornography Addiction*). Esto supone un gran problema a la hora de estudiarlo. ¿Usamos todos el mismo criterio cuando juzgamos lo que es un consumo bajo, moderado o elevado de pornografía? Claramente no. En una revisión publicada por Duffy et al. (2016) en la que comparan varios artículos sobre adicción al porno, los autores encuentran una gran discrepancia en la definición de lo que es un consumo excesivo. Mientras algunos autores consideran que ver porno 10 veces o más en tres meses es un consumo excesivo, otros consideran que el límite sería sobrepasar una visita diaria (es decir, 90 veces en tres meses, 9 veces más que los anteriores). Esta disparidad en la definición tiene consecuencias evidentes sobre las conclusiones de los estudios. 
 
 <div className="Image__Medium">
   <img src="https://nervousystemhome.files.wordpress.com/2021/05/stats.png?w=1024" alt="This is the alt text medium image" />
@@ -51,7 +56,7 @@ Una de las críticas más fuertes que recibe la pornografía a día de hoy se de
 
 #### Distancia de seguridad al interpretar los estudios sobre pornografía
 
-Uno de los principales problemas ligados a estos estudios que partimos de un tema sin definición oficial. En primer lugar: ¿es la adicción a la pornografía un comportamiento objetivo o una experiencia subjetiva? Por ahora, la forma de abordarlo es mediante entrevistas o cuestionarios. En definitiva, nos basamos en lo que las personas nos cuentan (sin ir más lejos, hasta ahora se habla de _adicción autopercibida_, en ningún caso diagnosticada). Este método está sujeto a múltiples fuentes de sesgos: ¿cuál es el umbral de cada persona para considerar un consumo excesivo? ¿desde qué estándares morales se juzga cada uno? ¿hasta qué punto la respuesta de una persona es fiable, teniendo en cuenta la naturaleza del tema? Todo esto hace que la investigación sobre pornografía sea inconsistente. Para resolver algunos de estos problemas, un primer paso consistiría en estandarizar una definición de adicción a la pornografía (o de consumo excesivo), y en definirla sistemáticamente para que todos los participantes de los estudios evalúen el mismo comportamiento. Esto permitiría resolver el problema de los instrumentos de medida actuales, ya que la mayoría no permiten diferenciar entre adicción a la pornografía de la adicción al sexo en general.
+Uno de los principales problemas ligados a estos estudios que partimos de un tema sin definición oficial. En primer lugar: ¿es la adicción a la pornografía un comportamiento objetivo o una experiencia subjetiva? Por ahora, la forma de abordarlo es mediante entrevistas o cuestionarios. En definitiva, nos basamos en lo que las personas nos cuentan (sin ir más lejos, hasta ahora se habla de *adicción autopercibida*, en ningún caso diagnosticada). Este método está sujeto a múltiples fuentes de sesgos: ¿cuál es el umbral de cada persona para considerar un consumo excesivo? ¿desde qué estándares morales se juzga cada uno? ¿hasta qué punto la respuesta de una persona es fiable, teniendo en cuenta la naturaleza del tema? Todo esto hace que la investigación sobre pornografía sea inconsistente. Para resolver algunos de estos problemas, un primer paso consistiría en estandarizar una definición de adicción a la pornografía (o de consumo excesivo), y en definirla sistemáticamente para que todos los participantes de los estudios evalúen el mismo comportamiento. Esto permitiría resolver el problema de los instrumentos de medida actuales, ya que la mayoría no permiten diferenciar entre adicción a la pornografía de la adicción al sexo en general.
 
 Por otra parte, tras leer varios estudios sobre las consecuencias de la pornografía, uno puede acabar pensando que hay más consecuencias negativas que positivas. La realidad es que esto no se sabe. ¿Por qué?Simplemente porque la mayoría de los estudios solo analizan el impacto negativo del consumo del porno. Pocos o ninguno de los instrumentos de medida indagan en el impacto positivo, por lo que la metodología en sí misma está sesgada.
 
@@ -95,7 +100,7 @@ Luego si nos preguntamos por lo que puede explicar que este cambio se dé o no, 
 
 **JGR: ¿Por qué es importante que la adicción al porno sea considerada oficialmente como una patología?**
 
-SV: La Sociedad Americana de Psicología (APA, del inglés _American Psychological Association_) se encarga de editar y publicar el Manual diagnóstico y estadístico de los trastornos mentales o DSM. Los trastornos mentales que se incluyen (o no) en este manual se basan en la deliberación del comité de investigación de la APA y de expertos en un campo determinado. Martin Kafka, un psiquiatra e investigador de la universidad de Harvard, se dedicó a la conceptualización del trastorno de Hipersexualidad para introducirlo en la quinta edición del DSM. La APA comenzó a investigar este campo hace bastante tiempo. Por lo tanto no se trata de un trastorno que pase desapercibido, esta etapa ya se ha superado. La principal razón por la que no se ha incluido en el DSM-5 es por falta de evidencia, no porque no sea un problema.
+SV: La Sociedad Americana de Psicología (APA, del inglés *American Psychological Association*) se encarga de editar y publicar el Manual diagnóstico y estadístico de los trastornos mentales o DSM. Los trastornos mentales que se incluyen (o no) en este manual se basan en la deliberación del comité de investigación de la APA y de expertos en un campo determinado. Martin Kafka, un psiquiatra e investigador de la universidad de Harvard, se dedicó a la conceptualización del trastorno de Hipersexualidad para introducirlo en la quinta edición del DSM. La APA comenzó a investigar este campo hace bastante tiempo. Por lo tanto no se trata de un trastorno que pase desapercibido, esta etapa ya se ha superado. La principal razón por la que no se ha incluido en el DSM-5 es por falta de evidencia, no porque no sea un problema.
 
 **JGR: ¿A qué crees que se debe esta falta de evidencia?**
 
@@ -129,7 +134,7 @@ SV: A veces la gente te cuenta cosas en confianza, especialmente relacionadas co
 
 **JGR: ¿Algún libro que te gustaría recomendar?**
 
-SV: Una de las razones por las que hice mi residencia en el departamento de Psiquiatría fue porque me recomendaron un libro que me encantó: _The center cannot hold_, de Elyn Saks. El libro trata en parte del tema de la adicción. Pero no solo eso, también se aborda la relación entre las sustancias de abuso y el desarrollo de trastornos psicóticos. La propia autora, que es abogada en California, tiene esquizofrenia, lo que lo hace aún más fascinante.
+SV: Una de las razones por las que hice mi residencia en el departamento de Psiquiatría fue porque me recomendaron un libro que me encantó: *The center cannot hold*, de Elyn Saks. El libro trata en parte del tema de la adicción. Pero no solo eso, también se aborda la relación entre las sustancias de abuso y el desarrollo de trastornos psicóticos. La propia autora, que es abogada en California, tiene esquizofrenia, lo que lo hace aún más fascinante.
 
 ### Mensaje para llevarse a casa
 
@@ -144,20 +149,20 @@ Mi opinión personal con respecto a la existencia de la adicción al porno es qu
 <h4><button type="button" class="collapsible">Referencias</button></h4>
 <div class="content">
 
-Bridges, A. J., Wosnitzer, R., Scharrer, E., Sun, C., & Liberman, R. (2010). Aggression and Sexual Behavior in Best-Selling Pornography Videos: A Content Analysis Update. _Violence Against Women_, _16_(10), 1065–1085. [Fuente](https://doi.org/10.1177/1077801210382866)
+Bridges, A. J., Wosnitzer, R., Scharrer, E., Sun, C., & Liberman, R. (2010). Aggression and Sexual Behavior in Best-Selling Pornography Videos: A Content Analysis Update. *Violence Against Women*, *16*(10), 1065–1085. [Fuente](https://doi.org/10.1177/1077801210382866)
 
-Brown, J. (2017). _Is porn harmful? The evidence, the myths and the unknowns_. BBC Future. [Fuente](https://www.bbc.com/future/article/20170926-is-porn-harmful-the-evidence-the-myths-and-the-unknowns)
+Brown, J. (2017). *Is porn harmful? The evidence, the myths and the unknowns*. BBC Future. [Fuente](https://www.bbc.com/future/article/20170926-is-porn-harmful-the-evidence-the-myths-and-the-unknowns)
 
-Duffy, A., Dawson, D. L., & das Nair, R. (2016). Pornography Addiction in Adults: A Systematic Review of Definitions and Reported Impact. _The Journal of Sexual Medicine_, _13_(5), 760–777. [Fuente](https://doi.org/10.1016/j.jsxm.2016.03.002)
+Duffy, A., Dawson, D. L., & das Nair, R. (2016). Pornography Addiction in Adults: A Systematic Review of Definitions and Reported Impact. *The Journal of Sexual Medicine*, *13*(5), 760–777. [Fuente](https://doi.org/10.1016/j.jsxm.2016.03.002)
 
-Ley, D. (2021). _Your Belief in Porn Addiction Makes Things Worse_. Psychology Today. [Fuente](https://www.psychologytoday.com/us/blog/women-who-stray/201509/your-belief-in-porn-addiction-makes-things-worse)
+Ley, D. (2021). *Your Belief in Porn Addiction Makes Things Worse*. Psychology Today. [Fuente](https://www.psychologytoday.com/us/blog/women-who-stray/201509/your-belief-in-porn-addiction-makes-things-worse)
 
-Pornhub. (2019). _The 2019 Year in Review_. [Fuente](https://www.pornhub.com/insights/2019-year-in-review)
+Pornhub. (2019). *The 2019 Year in Review*. [Fuente](https://www.pornhub.com/insights/2019-year-in-review)
 
-Voros, F. (2009). The invention of addiction to pornography. _Sexologies_, _18_(4), 243–246. [Fuente](https://doi.org/10.1016/j.sexol.2009.09.007)
+Voros, F. (2009). The invention of addiction to pornography. *Sexologies*, *18*(4), 243–246. [Fuente](https://doi.org/10.1016/j.sexol.2009.09.007)
 
-Weir, K. (2014b). _Is pornography addictive?_ American Psychological Association. [Fuente](https://www.apa.org/monitor/2014/04/pornography)
+Weir, K. (2014b). *Is pornography addictive?* American Psychological Association. [Fuente](https://www.apa.org/monitor/2014/04/pornography)
 
-Wikipedia contributors. (2021, 9 abril). _Hypersexuality_. Wikipedia. [Fuente](https://en.wikipedia.org/wiki/Hypersexuality#As_a_disorder)
+Wikipedia contributors. (2021, 9 abril). *Hypersexuality*. Wikipedia. [Fuente](https://en.wikipedia.org/wiki/Hypersexuality#As_a_disorder)
 
 </div>
