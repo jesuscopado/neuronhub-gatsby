@@ -15,6 +15,10 @@ title: ¿Adictos al porno?
 type: post
 hero: images/33.jpg
 ---
+<span class="clarification-box">
+Do you want to read this article in English? <a href="/Porn-addicts">Find it here.</a>
+</span>
+
 Hay un hecho indiscutible: a la gente le gusta el porno. Y la gente está de suerte, porque gracias a la triple A - accesibilidad, asequibilidad, anonimidad - la pornografía está en manos de todos (y nunca mejor dicho). Solo en 2019 hubo 42.000.000.000 visitas a una de las webs de pornografía más conocidas en todo el mundo, lo que equivale a 115 millones por día (Pornhub, 2019). En otras palabras, es como si cada día la totalidad de las poblaciones de España y de Francia juntas visitaran la web. 
 
 La pornografía está cada vez más presente en nuestras vidas. Cada vez se habla de ello con mayor apertura. Ahora más que nunca es un tema de actualidad, puesto que la pandemia ha cambiado por completo nuestras rutinas, incrementando el tiempo que pasamos ante las pantallas y, no muy sorprendentemente, el tiempo que pasamos viendo pornografía. 
@@ -88,7 +92,7 @@ SV: Es un apunte interesante. No sabemos muy bien qué viene antes. En realidad 
 
 SV: Cualquier definición de cualquier adicción incluye una decena de criterios, y uno de ellos es la dificultad para reducir el consumo o fracaso a la hora de parar por completo. ¿Cómo medimos si una persona está tratando de reducir un comportamiento? Normalmente lo hacemos mediante una entrevista personal. Y si observas este patrón - la persona intenta reducir su comportamiento sin éxito - extendiéndose durante un periodo igual o superior a doce meses, entonces puedes tener claro que hay un problema.
 
-**JGR: ¿Crees que el consumo de pornografía es compatible con una vida sana?**
+**JGR: ¿Crees que el consumo de pornografía es compatible con una vida sexual sana?**
 
 SV: La gente tiene todo tipo de preferencias, y todo tipo de acuerdos en pareja. Hay muchos casos diferentes. Cuando la gente sabe dónde está el límite y consideran suficientemente los sentimientos de su pareja. Hay parejas que deciden ver pornografía juntos para enriquecer su vida sexual. De nuevo, yo trazaría el límite en el momento en el que algo comienza a ser disfuncional, cuando hay responsabilidades que dejan de cumplirse a causa de esto.
 
