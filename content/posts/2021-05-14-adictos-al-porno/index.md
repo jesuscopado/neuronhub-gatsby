@@ -104,7 +104,7 @@ Luego si nos preguntamos por lo que puede explicar que este cambio se dé o no, 
 
 **JGR: ¿Por qué es importante que la adicción al porno sea considerada oficialmente como una patología?**
 
-SV: La Sociedad Americana de Psicología (APA, del inglés *American Psychological Association*) se encarga de editar y publicar el Manual diagnóstico y estadístico de los trastornos mentales o DSM. Los trastornos mentales que se incluyen (o no) en este manual se basan en la deliberación del comité de investigación de la APA y de expertos en un campo determinado. Martin Kafka, un psiquiatra e investigador de la universidad de Harvard, se dedicó a la conceptualización del trastorno de Hipersexualidad para introducirlo en la quinta edición del DSM. La APA comenzó a investigar este campo hace bastante tiempo. Por lo tanto no se trata de un trastorno que pase desapercibido, esta etapa ya se ha superado. La principal razón por la que no se ha incluido en el DSM-5 es por falta de evidencia, no porque no sea un problema.
+SV: La Sociedad Americana de Psiquiatría (APA, del inglés *American Psychiatric Association*) se encarga de editar y publicar el Manual diagnóstico y estadístico de los trastornos mentales o DSM. Los trastornos mentales que se incluyen (o no) en este manual se basan en la deliberación del comité de investigación de la APA y de expertos en un campo determinado. Martin Kafka, un psiquiatra e investigador de la universidad de Harvard, se dedicó a la conceptualización del trastorno de Hipersexualidad para introducirlo en la quinta edición del DSM. La APA comenzó a investigar este campo hace bastante tiempo. Por lo tanto no se trata de un trastorno que pase desapercibido, esta etapa ya se ha superado. La principal razón por la que no se ha incluido en el DSM-5 es por falta de evidencia, no porque no sea un problema.
 
 **JGR: ¿A qué crees que se debe esta falta de evidencia?**
 
@@ -165,7 +165,7 @@ Pornhub. (2019). *The 2019 Year in Review*. [Fuente](https://www.pornhub.com/ins
 
 Voros, F. (2009). The invention of addiction to pornography. *Sexologies*, *18*(4), 243–246. [Fuente](https://doi.org/10.1016/j.sexol.2009.09.007)
 
-Weir, K. (2014b). *Is pornography addictive?* American Psychological Association. [Fuente](https://www.apa.org/monitor/2014/04/pornography)
+Weir, K. (2014). *Is pornography addictive?* American Psychological Association. [Fuente](https://www.apa.org/monitor/2014/04/pornography)
 
 Wikipedia contributors. (2021, 9 abril). *Hypersexuality*. Wikipedia. [Fuente](https://en.wikipedia.org/wiki/Hypersexuality#As_a_disorder)
 
