@@ -28,7 +28,7 @@ Lo primero que hay que saber es que la adicción al porno no es un trastorno psi
 A pesar de que la adicción al porno no se considere un trastorno mental oficial, su presencia en la cultura popular y en la literatura científica es innegable (ver *Figura 1*). No obstante, dado que no está reconocido como una realidad clínica, a menudo se habla de adicción a la pornografía autopercibida (en inglés es frecuente encontrarlo como SPPA, *Self Perceived Pornography Addiction*). Esto supone un gran problema a la hora de estudiarlo. ¿Usamos todos el mismo criterio cuando juzgamos lo que es un consumo bajo, moderado o elevado de pornografía? Claramente no. En una revisión publicada por Duffy et al. (2016) en la que comparan varios artículos sobre adicción al porno, los autores encuentran una gran discrepancia en la definición de lo que es un consumo excesivo. Mientras algunos autores consideran que ver porno 10 veces o más en tres meses es un consumo excesivo, otros consideran que el límite sería sobrepasar una visita diaria (es decir, 90 veces en tres meses, 9 veces más que los anteriores). Esta disparidad en la definición tiene consecuencias evidentes sobre las conclusiones de los estudios. 
 
 <div className="Image__Medium">
-  <img src="https://nervousystemhome.files.wordpress.com/2021/05/stats.png?w=1024" alt="This is the alt text medium image" />
+  <img src="https://nervousystemhome.files.wordpress.com/2021/05/stats-1.png?w=1024" alt="This is the alt text medium image" />
   <figcaption>Figura 1. Número de publicaciones sobre "Consumo de pornografía" y "Adicción a la pornografía" por año en la base de datos pubmed.</figcaption>
 </div>
 
