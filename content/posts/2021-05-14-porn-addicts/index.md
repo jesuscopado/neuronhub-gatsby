@@ -1,9 +1,15 @@
 ---
 excerpt: >-
-  There is a questionless fact: people like porn. And people are lucky, because thanks to triple A - accessibility, affordability, anonymity - pornography is in everyone's hands (and never better said). In 2019 alone there were 42,000,000,000,000 visits to one of the most popular porn sites worldwide, which corresponds to 115 million per day (Pornhub, 2019). In other words, it is as if the entire populations of the states of California, Texas, Florida, New York and Colorado combined visited the site every day. 
+  There is a questionless fact: people like porn. And people are lucky, because
+  thanks to triple A - accessibility, affordability, anonymity - pornography is
+  in everyone's hands (and never better said). In 2019 alone there were
+  42,000,000,000,000 visits to one of the most popular porn sites worldwide,
+  which corresponds to 115 million per day (Pornhub, 2019). In other words, it
+  is as if the entire populations of the states of California, Texas, Florida,
+  New York and Colorado combined visited the site every day. 
 draft: false
 author: Juan García Ruiz
-date: 2021-05-14 14:21:58+00:00
+date: 2021-05-14T14:21:58.000Z
 secret: true
 title: Porn addicts?
 type: post
@@ -40,16 +46,14 @@ Self-perceived porn addiction is defined as an excessive and uncontrollable cons
 
 #### What the ones who deny the existence of porn addiction tell us
 
-Consuming porn is a perfectly healthy behaviour. Its medicalization began in the late 70s, when the terminology used in Alcoholics Anonymous groups began to be used in other areas such as sex. In the 90s the concept of cyberaddiction emerged, which encompassed compulsive online shopping, sex addiction and gaming addiction. These behaviours shared one feature: they were ways of escaping from reality. Thus, porn addiction was gaining presence in popular discourse, and was spreading in opinion platforms (Voros, 2009). The way in which the connotations associated with porn evolve in parallel to other sociological phenomena means that porn addiction is seen not so much as a medical problem but as a malleable concept.
-Ley (2021) explains that considering oneself as having an addiction can be a source of stress. According to this point of view, the mere diagnosis of addiction gives rise to emotional distress wrongly attributed to a supposedly excessive consumption of pornography. Another argument used to deny porn addiction is that it is a moralistic construct or based on religiously biased arguments, with the sole purpose of maintaining order in sexual practice. It is also argued that there are clear interests to defend its existence and medicalization. However, this is not a very solid argument since the porn industry also has interests (and power) to deny its existence.
+Consuming porn is a perfectly healthy behaviour. Its medicalization began in the late 70s, when the terminology used in Alcoholics Anonymous groups began to be used in other areas such as sex. In the 90s the concept of cyberaddiction emerged, which encompassed compulsive online shopping, sex addiction and gaming addiction. These behaviours shared one feature: they were ways of escaping from reality. Thus, porn addiction was gaining presence in popular discourse, and was spreading in opinion platforms (Voros, 2009). The way in which the connotations associated with porn evolve in parallel to other sociological phenomena means that porn addiction is seen not so much as a medical problem but as a malleable concept. Ley (2021) explains that considering oneself as having an addiction can be a source of stress. According to this point of view, the mere diagnosis of addiction gives rise to emotional distress wrongly attributed to a supposedly excessive consumption of pornography. Another argument used to deny porn addiction is that it is a moralistic construct or based on religiously biased arguments, with the sole purpose of maintaining order in sexual practice. It is also argued that there are clear interests to defend its existence and medicalization. However, this is not a very solid argument since the porn industry also has interests (and power) to deny its existence.
 
 ### Porn in our daily lives
 
-The way men and women consume porn is different. This is an important aspect when considering its effects. Men tend to consume pornography alone, they choose videos that are limited to the sexual act without any kind of story behind it, and sometimes they do not even see the faces of the actors and actresses. Women tend to consume pornography with their couple and prefer videos with more egalitarian sexual relations and with some context (Weir, 2014). Therefore, if there are consequences linked to pornography, this gender difference in its consumption should be taken into account.
-According to Duffy et al. (2016), certain of the studies included in the review found no evidence on the impact of porn consumption by self-perceived addicts on their partners, others found a negative impact, and others a positive impact on the user. In total, 3 out of the 10 studies reviewed suggested that the values and moral judgments associated with pornography may have contributed to the perception of one's addiction (which may also explain the stress associated with this behaviour).
+The way men and women consume porn is different. This is an important aspect when considering its effects. Men tend to consume pornography alone, they choose videos that are limited to the sexual act without any kind of story behind it, and sometimes they do not even see the faces of the actors and actresses. Women tend to consume pornography with their couple and prefer videos with more egalitarian sexual relations and with some context (Weir, 2014). Therefore, if there are consequences linked to pornography, this gender difference in its consumption should be taken into account. According to Duffy et al. (2016), certain of the studies included in the review found no evidence on the impact of porn consumption by self-perceived addicts on their partners, others found a negative impact, and others a positive impact on the user. In total, 3 out of the 10 studies reviewed suggested that the values and moral judgments associated with pornography may have contributed to the perception of one's addiction (which may also explain the stress associated with this behaviour).
 One of the strongest criticisms of pornography today is due to the apathy it promotes towards the violence of certain sexual scenes, which may result in its normalization or even encouragement. A study conducted by Bridges et al. (2010) in which 304 pornographic scenes were analysed showed that 88.2% of the scenes contained physical aggression, and 48.7% contained verbal aggression. Furthermore, according to this study, most of the perpetrators of the assaults were men and most of the victims were women, who responded by showing neutrality or pleasure. However, whether or not this affects the behaviour of pornography users is less clear. For example, there appears to be no correlation between the legalization of pornography and sex crimes (Brown, 2017).
 
-#### Safety distance for interpreting pornography studies 
+#### Safety distance for interpreting pornography studies
 
 One of the main problems linked to these studies is that the topic has no official definition. Is pornography addiction an objective behaviour or a subjective experience? For now, the way to approach it is through interviews or questionnaires. In short, we rely on what people tell us (so far, we speak of self-perceived addiction). This method is subject to multiple sources of bias: what is each person's threshold for considering excessive consumption? what moral standards affect each person’s judgement? to what extent is a person's answer reliable, given the nature of the subject? All of this makes research on pornography inconsistent. To solve some of these problems, a first step would be to standardize a definition of pornography addiction (or excessive consumption), and to define it systematically to the subjects of the studies so that they respond to the very same behaviour. This would solve the problem of the current measurement instruments as well, as most of them do not allow differentiating between pornography addiction and sex addiction in general.
 
@@ -93,7 +97,7 @@ SV: I think neurobiology has an important role here. Much like many pleasure giv
 
 **JGR: Should excessive pornography use be officially considered as a pathology?**
 
-SV: The American Psychological Association (APA) is responsible for editing and publishing the Diagnostic and Statistical Manual of Mental Disorders (DSM). The mental disorders that are included (or not) in this manual are based on the deliberation of the APA's research committee and experts in a given field. There was a researcher in Harvard, his name was Martin Kafka, who put forward a bunch of hypotheses to conceptualize this problem and introduce it in DSM-5. The APA also studied this problem long ago, so it’s not something that goes unrecognised, it’s not at the stage where people completely dismiss it. We recognise it as a problem. But the proposal of its inclusion in the DSM-5 fell through, and the reason why is because of a lack of neurobiological and research evidence. 
+SV: The American Psychiatric Association (APA) is responsible for editing and publishing the Diagnostic and Statistical Manual of Mental Disorders (DSM). The mental disorders that are included (or not) in this manual are based on the deliberation of the APA's research committee and experts in a given field. There was a researcher in Harvard, his name was Martin Kafka, who put forward a bunch of hypotheses to conceptualize this problem and introduce it in DSM-5. The APA also studied this problem long ago, so it’s not something that goes unrecognised, it’s not at the stage where people completely dismiss it. We recognise it as a problem. But the proposal of its inclusion in the DSM-5 fell through, and the reason why is because of a lack of neurobiological and research evidence. 
 
 **JGR: And why do you think there is this lack of evidence?**
 
@@ -129,7 +133,7 @@ SV: Oftentimes there are people that share with you things in confidence, especi
 
 SV: Well, I am getting very nostalgic today. I told you about my residency in Psychiatry. The reason why I applied to this was because I read a book by Elyn Saks that I liked a lot called The center cannot hold. It has an addiction component to it. She’s actually a lawyer somewhere in California, I think at the University of South California. She has schizophrenia and she is a very celebrated personality. The whole “addiction to substances induces psychotic disorders” sort of thing comes into this. I think it’s a fascinating psychiatry book to read. 
 
-### Take home message 
+### Take home message
 
 We watch porn. More and more frenquently, or at least more openly. We watch it and comment on it. New concepts are emerging, like that of excessive consumption of pornography. To officially conceptualize this pathology (if it is one) needs more evidence.
 
@@ -142,20 +146,20 @@ My personal opinion regarding the existence of porn addiction is that frequency 
 <h4><button type="button" class="collapsible">References</button></h4>
 <div class="content">
 
-Bridges, A. J., Wosnitzer, R., Scharrer, E., Sun, C., & Liberman, R. (2010). Aggression and Sexual Behavior in Best-Selling Pornography Videos: A Content Analysis Update. _Violence Against Women_, _16_(10), 1065–1085. [Source](https://doi.org/10.1177/1077801210382866)
+Bridges, A. J., Wosnitzer, R., Scharrer, E., Sun, C., & Liberman, R. (2010). Aggression and Sexual Behavior in Best-Selling Pornography Videos: A Content Analysis Update. *Violence Against Women*, *16*(10), 1065–1085. [Source](https://doi.org/10.1177/1077801210382866)
 
-Brown, J. (2017). _Is porn harmful? The evidence, the myths and the unknowns_. BBC Future. [Source](https://www.bbc.com/future/article/20170926-is-porn-harmful-the-evidence-the-myths-and-the-unknowns)
+Brown, J. (2017). *Is porn harmful? The evidence, the myths and the unknowns*. BBC Future. [Source](https://www.bbc.com/future/article/20170926-is-porn-harmful-the-evidence-the-myths-and-the-unknowns)
 
-Duffy, A., Dawson, D. L., & das Nair, R. (2016). Pornography Addiction in Adults: A Systematic Review of Definitions and Reported Impact. _The Journal of Sexual Medicine_, _13_(5), 760–777. [Source](https://doi.org/10.1016/j.jsxm.2016.03.002)
+Duffy, A., Dawson, D. L., & das Nair, R. (2016). Pornography Addiction in Adults: A Systematic Review of Definitions and Reported Impact. *The Journal of Sexual Medicine*, *13*(5), 760–777. [Source](https://doi.org/10.1016/j.jsxm.2016.03.002)
 
-Ley, D. (2021). _Your Belief in Porn Addiction Makes Things Worse_. Psychology Today. [Source](https://www.psychologytoday.com/us/blog/women-who-stray/201509/your-belief-in-porn-addiction-makes-things-worse)
+Ley, D. (2021). *Your Belief in Porn Addiction Makes Things Worse*. Psychology Today. [Source](https://www.psychologytoday.com/us/blog/women-who-stray/201509/your-belief-in-porn-addiction-makes-things-worse)
 
-Pornhub. (2019). _The 2019 Year in Review_. [Source](https://www.pornhub.com/insights/2019-year-in-review)
+Pornhub. (2019). *The 2019 Year in Review*. [Source](https://www.pornhub.com/insights/2019-year-in-review)
 
-Voros, F. (2009). The invention of addiction to pornography. _Sexologies_, _18_(4), 243–246. [Source](https://doi.org/10.1016/j.sexol.2009.09.007)
+Voros, F. (2009). The invention of addiction to pornography. *Sexologies*, *18*(4), 243–246. [Source](https://doi.org/10.1016/j.sexol.2009.09.007)
 
-Weir, K. (2014b). _Is pornography addictive?_ American Psychological Association. [Source](https://www.apa.org/monitor/2014/04/pornography)
+Weir, K. (2014b). *Is pornography addictive?* American Psychological Association. [Source](https://www.apa.org/monitor/2014/04/pornography)
 
-Wikipedia contributors. (2021, 9 abril). _Hypersexuality_. Wikipedia. [Source](https://en.wikipedia.org/wiki/Hypersexuality#As_a_disorder)
+Wikipedia contributors. (2021, 9 abril). *Hypersexuality*. Wikipedia. [Source](https://en.wikipedia.org/wiki/Hypersexuality#As_a_disorder)
 
 </div>
