@@ -1,20 +1,25 @@
 ---
 excerpt: >-
-  Language is what separates us from other animals and brings us closer to other individuals of our species. We learn language before we are born and refine it throughout our lives. The power of language is such that from a finite number of elements we can reach an infinite number of meanings. Language makes us eternal, allowing us to communicate with our contemporaries, with people who no longer exist and with people who have not yet arrived. Language is fascinating, which is why it is important to understand how we acquire it.
+  Language is what separates us from other animals and brings us closer to other
+  individuals of our species. We learn language before we are born and refine it
+  throughout our lives. The power of language is such that from a finite number
+  of elements we can reach an infinite number of meanings. Language makes us
+  eternal, allowing us to communicate with our contemporaries, with people who
+  no longer exist and with people who have not yet arrived. Language is
+  fascinating, which is why it is important to understand how we acquire it.
 draft: false
 author: Juan García Ruiz
-date: 2021-07-04
+date: 2021-07-04T00:00:00.000Z
 secret: true
 title: Let there be words
 type: post
 hero: images/34.jpg
 ---
-
 <span class="clarification-box">
 ¿Quieres leer el artículo en español? <a href="/Haganse-las-palabras">Encuéntralo aquí.</a>
 </span>
 
-_When we cast a light on one piece of the world, we extinguish everything on which we have not cast that light. This is how we create the things we say: to speak is to create a piece of the world; it is to mould it, to make it, and to make it live._
+*When we cast a light on one piece of the world, we extinguish everything on which we have not cast that light. This is how we create the things we say: to speak is to create a piece of the world; it is to mould it, to make it, and to make it live.*
 
 Boris Cyrulnik
 
@@ -24,7 +29,7 @@ To better understand language acquisition, we talked to Caroline Rowland, head o
 
 **Juan García Ruiz: What’s so special about human language?**
 
-Caroline Rowland: You will see lots of theories that suggest there is ‘one big thing’ that distinguishes human language from animal communication. There are theories that suggest that it is our ability to understand other people’s intentions - our ability to get into other people’s heads - that allows us to communicate. Other people will argue that it is our ability to use complex grammar. The reality is that there are a lot of differences between human brains and the brains of all other animals, not just ‘one thing’. What’s special about human language is its power. Human language is much more powerful and flexible than any other animal system of communication. And multiple changes must have happened in evolution to give us this power. One obvious difference between language and animal communication systems is grammar. We have the ability to put together a finite number of items into an infinite number of meanings, we can potentially create an infinite number of sentences because we have this grammar system. So for example I can say “the dog is red”, or “the big dog is red”, or “the big dog that I saw in the park is red”, or even “the big dog that my neighbour owns that I saw in the park is red”. I could go on forever, and there is no other animal communication system that has this power. But I think there is something else. For some reason we can talk about much more abstract concepts. As far as I am aware, there aren’t animal communication systems that have the ability to talk about truth, justice, love, desire or even thinking itself. So grammar and abstract concepts are just two ways in which human language is much more powerful than other animals’ communication. 
+Caroline Rowland: You will see lots of theories that suggest there is one big thing that distinguishes human language from animal communication. There are theories that suggest that it is our ability to understand other people’s intentions - our ability to get into other people’s heads - that allows us to communicate. Other people will argue that it is our ability to use complex grammar. The reality is that there are a lot of differences between human brains and the brains of all other animals, not just ‘one thing’. What’s special about human language is its power. Human language is much more powerful and flexible than any other animal system of communication. And multiple changes must have happened in evolution to give us this power. One obvious difference between language and animal communication systems is grammar. We have the ability to put together a finite number of items into an infinite number of meanings, we can potentially create an infinite number of sentences because we have this grammar system. So for example I can say *the dog is red*, or *the big dog is red*, or *the big dog that I saw in the park is red*, or even *the big dog that my neighbour owns that I saw in the park is red*. I could go on forever, and there is no other animal communication system that has this power. But I think there is something else. For some reason we can talk about much more abstract concepts. As far as I am aware, there aren’t animal communication systems that have the ability to talk about truth, justice, love, desire or even thinking itself. So grammar and abstract concepts are just two ways in which human language is much more powerful than other animals’ communication. 
 
 **JGR: As for human language, what’s your opinion on the “nature vs nurture” debate?**
 
@@ -40,7 +45,7 @@ CR: In the language development department we do quite a lot of different things
 
 **JGR: ¿Alguna idea de lo que puede explicar estas diferencias?**
 
-CR: Pudimos averiguar algunos puntos clave con nuestro proyecto _The Language 0-5_, en el que seguimos de cerca a unos 90 niños durante los primeros cinco años de su vida para intentar averiguar lo que producía las diferencias en sus trayectorias. Algo que puede contribuir es, por ejemplo, la rapidez con la que utilizan la estadística del lenguaje, la rapidez con la que aprenden a predecir el lenguaje. El lenguaje tiene un patrón, una especie de distribución predecible de sonido. Algunos sonidos siguen a otros con mucha frecuencia. Por ejemplo, en la palabra _baby_, el sonido _ba _(/beɪ/) va seguido del sonido _by_ (/bi/), y si oyes muchas veces _baby _te das cuenta de que este segmento es en realidad una palabra distinta. Lo que descubrimos fue que los niños que son muy buenos en esta segmentación o aprendizaje distributivo parecen desarrollar el lenguaje un poco más rápido que los demás. Pero este efecto no era muy fuerte, así que, de nuevo, no hay una sola cosa que prediga el lenguaje.
+CR: Pudimos averiguar algunos puntos clave con nuestro proyecto *The Language 0-5*, en el que seguimos de cerca a unos 90 niños durante los primeros cinco años de su vida para intentar averiguar lo que producía las diferencias en sus trayectorias. Algo que puede contribuir es, por ejemplo, la rapidez con la que utilizan la estadística del lenguaje, la rapidez con la que aprenden a predecir el lenguaje. El lenguaje tiene un patrón, una especie de distribución predecible de sonido. Algunos sonidos siguen a otros con mucha frecuencia. Por ejemplo, en la palabra *baby*, el sonido *ba* (/beɪ/) va seguido del sonido *by* (/bi/), y si oyes muchas veces _baby _te das cuenta de que este segmento es en realidad una palabra distinta. Lo que descubrimos fue que los niños que son muy buenos en esta segmentación o aprendizaje distributivo parecen desarrollar el lenguaje un poco más rápido que los demás. Pero este efecto no era muy fuerte, así que, de nuevo, no hay una sola cosa que prediga el lenguaje.
 
 **JGR: We have no clue at the moment of what could explain those differences?**
 
