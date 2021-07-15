@@ -1,22 +1,26 @@
 ---
 excerpt: >-
-  Over four and a half billion years ago, the first life forms began to emerge from hydrothermal vents at the bottom of the oceans: prokaryotic microorganisms, the ancestors of bacteria. This occurred only two hundred and sixty thousand years after the origin of the Earth. In contrast, the first homo sapiens did not emerge until much later, about three hundred thousand years ago.
+  Over four and a half billion years ago, the first life forms began to emerge
+  from hydrothermal vents at the bottom of the oceans: prokaryotic
+  microorganisms, the ancestors of bacteria. This occurred only two hundred and
+  sixty thousand years after the origin of the Earth. In contrast, the first
+  homo sapiens did not emerge until much later, about three hundred thousand
+  years ago.
 draft: false
 author: Juan García Ruiz
-date: 2021-07-04
+date: 2021-07-04T00:00:00.000Z
 secret: true
 title: Out of sight tenants
 type: post
 hero: images/34.jpeg
 ---
-
 <span class="clarification-box">
 ¿Quieres leer el artículo en español? <a href="/Inquilinos-que-no-se-ven">Encuéntralo aquí.</a>
 </span>
 
 Over four and a half billion years ago, the first life forms began to emerge from hydrothermal vents at the bottom of the oceans: prokaryotic microorganisms, the ancestors of bacteria. This occurred only two hundred and sixty thousand years after the origin of the Earth. In contrast, the first homo sapiens did not emerge until much later, about three hundred thousand years ago. In relative terms, if we imagine that one hour has elapsed since the formation of the Earth until today, the first prokaryotes appeared 0.2 seconds after the formation of the Earth while the first homo sapiens appeared 59 minutes and 59 seconds later. Our passage on Earth is insignificant from a temporal point of view if we compare it with that of bacteria, which have lived almost the entire history of the Earth. Bacteria are no longer those insignificant microorganisms that we only think of when we have an infection. But it doesn't end there. Bacteria have not only lived much longer than humans, but they are also part of us (or we are part of them). Let's face reality: there are more bacterial than human cells in our body. In a way we are like mythological beings, except that unlike the centaur or the faun, we often forget our other half (and we do exist).
 
-To better understand our relationship with our prokaryotic neighbors, we talked to John Cryan, Professor at the University of Cork in southern Ireland, where he is also Vice President for Research and Innovation. John was trained in neuropharmacology and focuses his research on stress-related disorders and the brain-gut microbiota axis.
+To better understand our relationship with our prokaryotic tenants, we talked to John Cryan, Professor at the University of Cork in southern Ireland, where he is also Vice President for Research and Innovation. John was trained in neuropharmacology and focuses his research on stress-related disorders and the brain-gut microbiota axis.
 
 **Juan García Ruiz: What exactly is your current research about?**
 
@@ -72,7 +76,7 @@ JC: I worked in the industry so I spent four years working in Basel, and they we
 
 **JGR: You have participated in the writing of the bestselling The Psychobiotic Revolution. Can you talk us about this project?**
 
-JC: We wrote this book and for us is now like the new New Testament, it’s like our bible to the world to tell them that we should be thinking more holistic about the microbiome. We tried to get people excited about science. It was published by National Geographic, so it was a very exciting adventure. We translated it into a language so the everyday person could read it. Also in different languages. We recently published it in Polish, in Chinese and in Spanish: _La revolución psicobiógica_ (N. of A: pronounced with amazing accent). Not French, for the moment.
+JC: We wrote this book and for us is now like the new New Testament, it’s like our bible to the world to tell them that we should be thinking more holistic about the microbiome. We tried to get people excited about science. It was published by National Geographic, so it was a very exciting adventure. We translated it into a language so the everyday person could read it. Also in different languages. We recently published it in Polish, in Chinese and in Spanish: *La revolución psicobiógica* (N. of A: pronounced with amazing accent). Not French, for the moment.
 
 **JGR: In addition of the co-writing of The Psychobiotic Revolution, you have edited three books, you are a professor, you are on the editorial board of more than 15 journals, you have received numerous awards for your research and you still have time to do Ted talks. Are you a human being?**
 
