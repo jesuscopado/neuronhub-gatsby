@@ -1,15 +1,19 @@
 ---
 excerpt: >-
-  Hace más de cuatro mil doscientos millones de años comenzaron a surgir las primeras formas de vida en las fuentes hidrotermales del fondo de los océanos: los microorganismos procariotas antepasados de las bacterias. Esto ocurrió tan solo doscientos sesenta mil años después de que se originara la Tierra. En cambio, los primeros homo sapiens no surgieron hasta mucho más tarde, hace unos trescientos mil años.
+  Hace más de cuatro mil doscientos millones de años comenzaron a surgir las
+  primeras formas de vida en las fuentes hidrotermales del fondo de los océanos:
+  los microorganismos procariotas antepasados de las bacterias. Esto ocurrió tan
+  solo doscientos sesenta mil años después de que se originara la Tierra. En
+  cambio, los primeros homo sapiens no surgieron hasta mucho más tarde, hace
+  unos trescientos mil años.
 draft: false
 author: Juan García Ruiz
-date: 2021-07-12
+date: 2021-07-12T00:00:00.000Z
 secret: false
 title: Inquilinos que no se ven
 type: post
 hero: images/35.jpeg
 ---
-
 <span class="clarification-box">
 Do you want to read this article in English? <a href="/Out-of-sight-tenants">Find it here.</a>
 </span>
@@ -28,7 +32,7 @@ JC: Es de suma importancia, ya que si posicionamos esta investigación en un con
 
 **JGR: ¿Cuál es el número estimado de microbios que tenemos en nuestro intestino?**
 
-JC: Tenemos más microbios que células humanas. La proporción es de aproximadamente de 1,3 microbios por cada célula humana. Eso incluiría también virus y arqueas. En términos de genes, somos un 99% microbios. Estos datos nos ponen los pies en la tierra: ya hace 20 años desde que se inició el proyecto del genoma humano y sólo estamos tratando el 1% de todos los genes de nuestro cuerpo.
+JC: Tenemos más microbios que células humanas. La proporción es de aproximadamente 1,3 microbios por cada célula humana. Eso incluiría también virus y arqueas. En términos de genes, somos un 99% microbios. Estos datos nos ponen los pies en la tierra: ya hace 20 años desde que se inició el proyecto del genoma humano y sólo estamos tratando el 1% de todos los genes de nuestro cuerpo.
 
 **JGR: ¿Cómo se estudia la interacción entre la microbiota intestinal y el cerebro en el laboratorio?**
 
@@ -60,7 +64,7 @@ JC: Un momento eureka para mí fue cuando descubrimos que los ratones que crecí
 
 **JGR: Considerando su gran trayectoria en la ciencia, tengo muchas preguntas al respecto. ¿Qué le llevó a dedicarse a la investigación?**
 
-JC: Siempre he sido curioso, pero no investigué de verdad hasta que fui a la universidad. Estudié ciencias generales y me interesó la bioquímica. Pero como no era muy bien bioquímico y me gustaba mucho ver cómo cambian las cosas, comencé a interesarme por el estudio del comportamiento. Recuerdo que me quedé asombrado cuando un amigo mío que hacía estudios con drogas en aquella época me enseñó cómo trabajaba con ratones y éxtasis. Empecé a investigar sobre el sistema serotoninérgico y el comportamiento. Así que todo lo que hago está relacionado en alguna medida con el comportamiento. Lo que me gusta del campo de la microbiota es que a pesar de que no puedo ver los microbios, sí que puedo ver el resultado de su acción.
+JC: Siempre he sido curioso, pero no investigué de verdad hasta que fui a la universidad. Estudié ciencias generales y me interesó la bioquímica. Pero como no era muy buen bioquímico y me gustaba mucho ver cómo cambian las cosas, comencé a interesarme por el estudio del comportamiento. Recuerdo que me quedé asombrado cuando un amigo mío que hacía estudios con drogas en aquella época me enseñó cómo trabajaba con ratones y éxtasis. Empecé a investigar sobre el sistema serotoninérgico y el comportamiento. Así que todo lo que hago está relacionado en alguna medida con el comportamiento. Lo que me gusta del campo de la microbiota es que a pesar de que no puedo ver los microbios, sí que puedo ver el resultado de su acción.
 
 **JGR: Es autor de cientos de artículos y tiene un elevado índice h. Para los jóvenes investigadores es especialmente complicado el mundo de las publicaciones, y dadas las exigencias de la academia es importante aprender a desenvolverse cuanto antes. ¿Tiene algún consejo que darnos?**
 
@@ -68,15 +72,15 @@ JC: Lo más difícil para un joven investigador es centrarse en el resultado. Ha
 
 **JGR: ¿Cuál es el mejor consejo que recibió de alguien?**
 
-JC: Trabajé en la industria. Pasé cuatro años trabajando en Basilea, y fueron años maravillosos. Pero mi supervisor de doctorado me dijo una vez: nunca trabajes para la industria. Me quedé un poco perplejo viniendo de alguien que había trabajado en la industria. Pero luego lo reformuló: _trabaja para ti mismo mientras estés en la industria y mientras cumplas los objetivos de la industria y mantengas que eres un científico, y que eres creativo y curioso, no importa quién te pague el sueldo_. Creo que ahora se está produciendo una innovación realmente asombrosa en la industria, lo hemos visto con la vacuna de la COVID-19 y varias otras cosas. Algunos de los científicos más brillantes que conozco trabajan en la industria, así que también tenemos que ser conscientes de ello.
+JC: Trabajé en la industria. Pasé cuatro años trabajando en Basilea, y fueron años maravillosos. Pero mi supervisor de doctorado me dijo una vez: nunca trabajes para la industria. Me quedé un poco perplejo viniendo de alguien que había trabajado en la industria. Pero luego lo reformuló: *trabaja para ti mismo mientras estés en la industria y mientras cumplas los objetivos de la industria y mantengas que eres un científico, y que eres creativo y curioso, no importa quién te pague el sueldo*. Creo que ahora se está produciendo una innovación realmente asombrosa en la industria, lo hemos visto con la vacuna de la COVID-19 y varias otras cosas. Algunos de los científicos más brillantes que conozco trabajan en la industria, así que también tenemos que ser conscientes de ello.
 
-**JGR: Participó en la redacción del bestseller _La revolución psicobiótica_. ¿Puede darnos un adelanto del libro?**
+**JGR: Participó en la redacción del bestseller *La revolución psicobiótica*. ¿Puede darnos un adelanto del libro?**
 
-JC: Este libro es para nosotros como nuestra biblia, nuestra forma de decirle al mundo que deberíamos pensar de forma más holística sobre el microbioma. Intentamos que la gente se entusiasme con la ciencia. Fue publicado por National Geographic, así que fue muy emocionante. Lo escribimos de tal forma que el ciudadano de a pie pudiera leerlo. También lo hemos traducido a varios idiomas. Recientemente lo hemos publicado en polaco, en chino y en español: _La revolución psicobiógica_ (N. del A: pronunciado en castellano con un acepto impecable). En francés de momento no está disponible.
+JC: Este libro es para nosotros como nuestra biblia, nuestra forma de decirle al mundo que deberíamos pensar de forma más holística sobre el microbioma. Intentamos que la gente se entusiasme con la ciencia. Fue publicado por National Geographic, así que fue muy emocionante. Lo escribimos de tal forma que el ciudadano de a pie pudiera leerlo. También lo hemos traducido a varios idiomas. Recientemente lo hemos publicado en polaco, en chino y en español: *La revolución psicobiótica* (N. del A: pronunciado en castellano con un acepto impecable). En francés de momento no está disponible.
 
-**JGR: Además de la coescritura de _La revolución psicobiótica_ ha editado tres libros, es profesor, forma parte de la editorial de más de 15 revistas, ha recibido numerosos premios, ha dado charlas Ted y un largo etcétera. ¿Eres un ser humano?**
+**JGR: Además de la coescritura de *La revolución psicobiótica* ha editado tres libros, es profesor, forma parte de la editorial de más de 15 revistas, ha recibido numerosos premios, ha dado charlas Ted y un largo etcétera. ¿Eres un ser humano?**
 
-JC: ¡Y te olvidas de que también tengo hijos! La clave está en que me apasiona lo que hago. Eso hace que todo sea más fácil. Además no soy muy perfeccionista, así que soy capaz de dejar dejarme llevar y abandonar ciertas cosas. También siento pasión por la comunicación científica. Tenemos que ser capaces de transmitir mensajes para informar a la política y al público sobre lo que está pasando. Esto me ayuda a conseguir financiación. Esto se suma a que tengo un equipo increíble, entre ellos muchos españoles: de Madrid, Barcelona y de Mallorca. Aquí tenemos una visión del mundo muy hispano-catalana. Otro punto clave es que estoy muy orientado a la producción, y trato de formar a la gente para que lo esté, y esto nos permite conseguir muchas cosas. Nos exigimos mucho a nosotros mismos. Pero también hay mucha diversión, disfrutamos mucho y hacemos muchos descubrimientos. A día de hoy cada artículo que publico me sigue emocionando.
+JC: ¡Y te olvidas de que también tengo hijos! La clave está en que me apasiona lo que hago. Eso hace que todo sea más fácil. Además no soy muy perfeccionista, así que soy capaz de dejarme llevar y abandonar ciertas cosas. También siento pasión por la comunicación científica. Tenemos que ser capaces de transmitir mensajes para informar a la política y al público sobre lo que está pasando. Esto me ayuda a conseguir financiación. Además de todo esto, tengo un equipo increíble, entre ellos muchos españoles: de Madrid, Barcelona y de Mallorca. Tenemos una visión del mundo muy hispano-catalana. Otro punto clave es que estoy muy orientado a la producción, y trato de formar a la gente para que lo esté, y esto nos permite conseguir muchas cosas. Nos exigimos mucho a nosotros mismos. Pero también hay mucha diversión, disfrutamos mucho y hacemos muchos descubrimientos. A día de hoy cada artículo que publico me sigue emocionando.
 
 **JGR: ¿Le gustaría compartir algún mensaje con los lectores?**
 
