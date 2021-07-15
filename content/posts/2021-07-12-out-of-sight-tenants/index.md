@@ -76,7 +76,7 @@ JC: I worked in the industry so I spent four years working in Basel, and they we
 
 **JGR: You have participated in the writing of the bestselling The Psychobiotic Revolution. Can you talk us about this project?**
 
-JC: We wrote this book and for us is now like the new New Testament, it’s like our bible to the world to tell them that we should be thinking more holistic about the microbiome. We tried to get people excited about science. It was published by National Geographic, so it was a very exciting adventure. We translated it into a language so the everyday person could read it. Also in different languages. We recently published it in Polish, in Chinese and in Spanish: *La revolución psicobiógica* (N. of A: pronounced with amazing accent). Not French, for the moment.
+JC: We wrote this book and for us is now like the new New Testament, it’s like our Bible to the world to tell them that we should be thinking more holistic about the microbiome. We tried to get people excited about science. It was published by National Geographic, so it was a very exciting adventure. We translated it into a language so the everyday person could read it. Also in different languages. We recently published it in Polish, in Chinese and in Spanish: *La revolución psicobiógica* (N. of A: pronounced with amazing accent). Not French, for the moment.
 
 **JGR: In addition of the co-writing of The Psychobiotic Revolution, you have edited three books, you are a professor, you are on the editorial board of more than 15 journals, you have received numerous awards for your research and you still have time to do Ted talks. Are you a human being?**
 
