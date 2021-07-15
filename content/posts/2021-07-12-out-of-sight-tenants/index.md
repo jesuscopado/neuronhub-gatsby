@@ -32,7 +32,7 @@ JC: This is really important because if we place this research in an evolutionar
 
 **JGR: What’s the estimate number of microbes we have in our guts?**
 
-JC: We have more microbes than human cells, the ratio is about 1,3 to 1. That would also include virus, archaea and whatever else. In terms of genes thought, we are more than 99% microbials. That’s very humbling, it’s 20 years of the human genome project and we are only dealing with 1% of all the genes. 
+JC: We have more microbes than human cells, the ratio is about 1,3 to 1. That would also include virus, archaea and whatever else. In terms of genes though, we are more than 99% microbials. That’s very humbling, it’s 20 years of the human genome project and we are only dealing with 1% of all the genes. 
 
 **JGR: How do we study the microbiota-gut-brain interaction in the lab?**
 
