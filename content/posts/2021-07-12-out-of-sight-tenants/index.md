@@ -28,7 +28,7 @@ We are working on trying to understand the relationship between the microbiome, 
 
 **JGR: Why is this research so important for society?**
 
-JC: This is really important because if we place this research in an evolutionary context, the microbes were there first. There never has been a time where the brain existed without microbial signals. Understanding how this coevolution has occurred and to what level have signals from the microbiome been able to shape our brain circuits is essential for understanding every aspect of our lives, because if our microbes are shaping our brains, they are controlling all of our decisions and there therefore they impact everything that we do.
+JC: This is really important because if we place this research in an evolutionary context, the microbes were there first. There never has been a time where the brain existed without microbial signals. Understanding how this coevolution has occurred and to what level have signals from the microbiome been able to shape our brain circuits is essential for understanding every aspect of our lives, because if our microbes are shaping our brains, they are controlling all of our decisions and therefore they impact everything that we do.
 
 **JGR: What’s the estimate number of microbes we have in our guts?**
 
