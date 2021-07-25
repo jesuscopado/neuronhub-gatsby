@@ -12,7 +12,7 @@ date: 2021-07-04T00:00:00.000Z
 secret: true
 title: Out of sight tenants
 type: post
-hero: images/34.jpeg
+hero: images/35.jpeg
 ---
 <span class="clarification-box">
 ¿Quieres leer el artículo en español? <a href="/Inquilinos-que-no-se-ven">Encuéntralo aquí.</a>
