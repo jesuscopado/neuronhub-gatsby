@@ -5,7 +5,7 @@ excerpt: >-
   tesis con el doctor Karel Svoboda en el laboratorio Cold Spring Harbor, y
   luego trabajó con el doctor Dietmar Schmucker en el Dana-Farber Cancer
   Institute. Tras esto, trabajó con el doctor Josh Sanes en la Universidad de
-  Harvard durante su investigación post-doctoral.
+  Harvard durante su investigación postdoctoral.
 draft: false
 author: Juan García Ruiz
 date: 2021-10-11T20:37:40.000Z
@@ -18,7 +18,7 @@ hero: images/36.jpg
 Do you want to read this article in English? <a href="/From-neural-wiring-to-behavior">Find it here.</a>
 </span>
 
-Brian Chen es un profesor de neurociencia en la Universidad McGill. Comenzó a dirigir su propio laboratorio en la misma universidad en 2009. Realizó su tesis con el doctor Karel Svoboda en el laboratorio Cold Spring Harbor, y luego trabajó con el doctor Dietmar Schmucker en el Dana-Farber Cancer Institute. Tras esto, trabajó con el doctor Josh Sanes en la Universidad de Harvard durante su investigación post-doctoral.
+Brian Chen es un profesor de neurociencia en la Universidad McGill. Comenzó a dirigir su propio laboratorio en la misma universidad en 2009. Realizó su tesis con el doctor Karel Svoboda en el laboratorio Cold Spring Harbor, y luego trabajó con el doctor Dietmar Schmucker en el Dana-Farber Cancer Institute. Tras esto, trabajó con el doctor Josh Sanes en la Universidad de Harvard durante su investigación postdoctoral.
 
 **Juan García Ruiz: ¿Qué te llevó al mundo de la investigación?**
 
