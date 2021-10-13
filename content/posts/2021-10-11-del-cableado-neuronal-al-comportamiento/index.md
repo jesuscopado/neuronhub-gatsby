@@ -108,6 +108,6 @@ Por otra parte, verás más claramente cómo algunos proyectos pueden ramificars
 
 **JGR: ¿Te gustaría compartir un mensaje general con los lectores?**
 
-Lo primero: gracias por leer esto o por interesarte por lo que hago. Si he ayudado a una sola persona con mis largas respuestas, aunque sea inconscientemente, entonces ya ha merecido la pena.
+BC: Lo primero, gracias por leer esto o por interesarte por lo que hago. Si he ayudado a una sola persona con mis extensas respuestas, aunque sea inconscientemente, para mi ya habrá merecido la pena.
 
-Mi mensaje general para el lector es que no intente ser un buen científico, sino una buena persona. No trato de ser genérico. Lo que quiero decir es: aprende y desarrolla tantas competencias como puedas para ser útil para la sociedad o para alguien. No importa de qué competencias o de qué conocimiento se trate. Trata de ser buenísimo en algunas cosas, y bastante bueno en otras. Luego usa estas competencias o conocimiento para ayudar a alguien. Y repítelo. Estarás muy agradecido de los resultados.
+Mi mensaje general para el lector es que no intente ser un buen científico, sino una buena persona. No trato de ser genérico. Lo que quiero decir es: aprende y desarrolla tantas competencias como puedas para ser útil para la sociedad o para alguien. No importa de qué competencias o de qué conocimiento se trate. Trata de ser bueno en algunas cosas, y aprende a defenderte en otras. Luego usa estas competencias o conocimiento para ayudar a alguien. Estarás muy agradecido de los resultados.
