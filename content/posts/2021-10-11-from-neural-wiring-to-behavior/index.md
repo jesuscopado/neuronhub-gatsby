@@ -1,5 +1,9 @@
 ---
-excerpt: "Brian Chen is an Associate Professor in Neuroscience at McGill University. He started his lab at McGill University in 2009.\_Chen performed his graduate work with Dr. Karel Svoboda at Cold Spring Harbor Laboratory and then worked with Dr. Dietmar Schmucker at the Dana-Farber Cancer Institute and then Dr. Josh Sanes at Harvard University for his postdoctoral research."
+excerpt: >-
+  I'm going to remind you of something you already knew: nature is fascinating.
+  Who hasn't been amazed by the synchronized flight of starlings? Or by the
+  skilled spiders whey they spin their webs? No less impressive are the dances
+  of bees to communicate with each other when they find a source of food.
 draft: false
 author: Juan García Ruiz
 date: 2021-10-11T20:48:56.000Z
