@@ -1,15 +1,16 @@
 ---
 excerpt: >-
-  Our brain represents only 2% of our weight. Paradoxically, it consumes 20% of our available energy. So it is relatively small but a very energetically expensive organ.
+  Our brain represents only 2% of our weight. Paradoxically, it consumes 20% of
+  our available energy. So it is relatively small but a very energetically
+  expensive organ.
 draft: false
 author: Juan García Ruiz
-date: 2022-01-07
+date: 2022-01-07T00:00:00.000Z
 secret: true
 title: What does a brain eat?
 type: post
 hero: images/37.jpeg
 ---
-
 <span class="clarification-box">
 ¿Quieres leer el artículo en español? <a href="/Que-come-un-cerebro">Encuéntralo aquí.</a>
 </span>
@@ -20,7 +21,7 @@ Voulez-vous lire cet article en français? <a href="/Que-mange-un-cerveau">Trouv
 
 Our brain represents only 2% of our weight. Paradoxically, it consumes 20% of our available energy. So it is relatively small but a very energetically expensive organ. The brain is a bit clumsy at storing energy, so the energy it uses is found circulating in the blood vessels (the glucose we obtain through food), so it needs constant irrigation. Most of this energy is consumed by neurons. This is surprising for a very simple reason: neurons do not have privileged access to blood glucose, since there is a barrier of astrocytes separating them. In other words, neurons are hungry for glucose but to obtain it they need to communicate with astrocytes to be able to work properly. This is basically what the lactate shuttle theory proposes. Who better to understand it than Luc Pellerin, one of its fathers?
 
-Luc studied in Canada. He received his PhD in biochemistry from McGill University, specializing in neurochemistry. He did a postdoc at the University of Lausanne (Switzerland), in the department of neurophysiology. He then joined Pierre Magistretti's laboratory, where he was gradually promoted. He then became assistant professor, finally associate professor and head of the Department of Physiology. Two years ago, he accepted a position as professor of cell biology at the University of Poitiers. And he will soon become director of unit U1082 at INSERM, where he will explore metabolic interactions in transplantation.
+Luc studied in Canada. He received his PhD in biochemistry from McGill University, specializing in neurochemistry. He did a postdoc at the University of Lausanne (Switzerland), in the department of physiology, joining Pierre Magistretti's laboratory, where he was gradually promoted. He then became assistant professor, finally associate professor and head of the Department of Physiology. Two years ago, he accepted a position as professor of biochemistry and molecular biology at the University of Poitiers. And he will soon become director of unit U1313 at INSERM, where he will explore metabolic interactions in transplantation.
 
 **Juan García Ruiz: The brain consumes a large part of our available energy. How does it manage to obtain it?**
 
@@ -28,7 +29,7 @@ Luc Pellerin: The classic version since the 1950s results from the work of Henry
 
 **JGR: What is the ratio of glucose to lactate used by neurons as an energy source?**
 
-LP: The answer is still unclear. Early estimates suggested that neurons consume mainly glucose and relatively little lactate. Later _in vitro_ experiments suggested that when a neuron is presented with lactate and glucose at the same time, about 75% of ATP production during oxidative phosphorylation comes from lactate and 25% from glucose. But this is under basal and _in vitro_ conditions. During activation there is an increase in glucose consumption in astrocytes, much less in neurons. This points to the fact that when energy needs are higher, neurons are likely to use lactate preferentially. When we look at the distribution of energy consumption by the different cell types, neurons consume about half of the available glucose, which does not correspond to their high energy needs. This suggests that what is needed to fill the missing energy portion must come from another substrate such as lactate. One question that arises is related to the fate glucose: is it devoted entirely to support energetic activity or it can have other functions? And here again there is evidence suggesting that some of the glucose consumed is not metabolized in oxidative phosphorylation, but goes through the pentose pathway to regenerate NADPH. So there are other functions for which glucose is essential.
+LP: The answer is still unclear. Early estimates suggested that neurons consume mainly glucose and relatively little lactate. Later *in vitro* experiments suggested that when a neuron is presented with lactate and glucose at the same time, about 75% of ATP production during oxidative phosphorylation comes from lactate and 25% from glucose. But this is under basal and *in vitro* conditions. During activation there is an increase in glucose consumption in astrocytes, much less in neurons. This points to the fact that when energy needs are higher, neurons are likely to use lactate preferentially. When we look at the distribution of energy consumption by the different cell types, neurons consume about half of the available glucose, which does not correspond to their high energy needs. This suggests that what is needed to fill the missing energy portion must come from another substrate such as lactate. One question that arises is related to the fate glucose: is it devoted entirely to support energetic activity or it can have other functions? And here again there is evidence suggesting that some of the glucose consumed is not metabolized in oxidative phosphorylation, but goes through the pentose pathway to regenerate NADPH. So there are other functions for which glucose is essential.
 
 **JGR: How would you explain from an adaptive point of view that neurons need to go through astrocytes to access energy? Wouldn't it be much simpler for them to access it directly?**
 
@@ -52,7 +53,7 @@ LP: So far we have used two genetic approaches. On the one hand, we used viral v
 
 LP: There is something that remains unclear. We know that lactate is a good neuronal energy substrate. It is taken up by neurons through a transporter called monocarboxylate transporter type 2 (MCT-2), which is expressed on the surface of the plasma membrane. It has been shown that MCT-2 is also found in synapses, specifically in the postsynaptic component. This is curious: since it is the transporter of an energy substrate, why is it there? Is there a specific energy requirement at the synapse?
 
-Secondly, it has been shown that this transporter can associate with AMPA glutamatergic receptors (GluA2 subunits) in the postsynaptic membrane. This raises another question: in addition to being an energy transporter, can it regulate synaptic transmission? Are these two functions linked? There are other unresolved questions. For example, what regulates the expression of lactate transporters in astrocytes? This has already been studied in neurons, where it is translationally regulated by trophic factors such as BDNF (editor’s note: _brain-derived neurotrophic factor_). But in the astrocyte it has not been investigated. Is the expression related to synaptic plasticity? What are the signals involved? As you can see, there are still many unknowns. And the ideal would be to be able to translate all this to humans, to look for possible therapeutic approaches.
+Secondly, it has been shown that this transporter can associate with AMPA glutamatergic receptors (GluA2 subunits) in the postsynaptic membrane. This raises another question: in addition to being an energy transporter, can it regulate synaptic transmission? Are these two functions linked? There are other unresolved questions. For example, what regulates the expression of lactate transporters in astrocytes? This has already been studied in neurons, where it is translationally regulated by trophic factors such as BDNF (editor’s note: *brain-derived neurotrophic factor*). But in the astrocyte it has not been investigated. Is the expression related to synaptic plasticity? What are the signals involved? As you can see, there are still many unknowns. And the ideal would be to be able to translate all this to humans, to look for possible therapeutic approaches.
 
 **JGR: What led you to research?**
 
@@ -74,7 +75,7 @@ LP: You may not like my answer. In research many young people are solicited, but
 
 **JGR: Would you recommend a scientific book that left a mark on you?**
 
-LP: I am going to recommend a book entitled _Discovering_, written by Robert Scott Root-Bernstein. It was given to me as a gift by a friend who was doing her thesis when I was defending mine, just before doing my postdoc. It's a reflection on what makes some scientists make discoveries and others don't. What is the role of education, the way one is trained or the approach to science, in success? There was a chapter on affiliation. If you look at Nobel Prize winners, there are often connections. People who come from the same laboratory pass on their knowledge to others, and then to others, and so on. The idea is that there is a certain way of conceiving scientific research. And since this vision is passed on from generation to generation in the same laboratory, this predisposes them to have a higher probability of making an important discovery. He also explains that among the Nobel laureates, many people had other passions besides science. For example, there are many musicians.
+LP: I am going to recommend a book entitled *Discovering*, written by Robert Scott Root-Bernstein. It was given to me as a gift by a friend who was doing her thesis when I was defending mine, just before doing my postdoc. It's a reflection on what makes some scientists make discoveries and others don't. What is the role of education, the way one is trained or the approach to science, in success? There was a chapter on affiliation. If you look at Nobel Prize winners, there are often connections. People who come from the same laboratory pass on their knowledge to others, and then to others, and so on. The idea is that there is a certain way of conceiving scientific research. And since this vision is passed on from generation to generation in the same laboratory, this predisposes them to have a higher probability of making an important discovery. He also explains that among the Nobel laureates, many people had other passions besides science. For example, there are many musicians.
 
 **JGR: would you like to share a message with the readers?**
 
