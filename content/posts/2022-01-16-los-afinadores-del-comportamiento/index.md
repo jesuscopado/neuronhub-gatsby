@@ -5,7 +5,7 @@ draft: false
 author: Juan García Ruiz
 date: 2022-01-16
 secret: false
-title: Los afinadores del comportamienot
+title: Los afinadores del comportamiento
 type: post
 hero: images/38.jpg
 ---
