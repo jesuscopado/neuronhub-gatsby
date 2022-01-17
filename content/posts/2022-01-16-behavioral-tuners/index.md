@@ -5,7 +5,7 @@ draft: false
 author: Juan García Ruiz
 date: 2022-01-16
 secret: true
-title: What does a brain eat?
+title: Behavioural tuners
 type: post
 hero: images/38.jpg
 ---
@@ -15,7 +15,7 @@ hero: images/38.jpg
 </span>
 
 <span class="clarification-box">
-Voulez-vous lire cet article en français? <a href="/Les'accordeurs-du-comportement">Trouvez-le ici.</a>
+Voulez-vous lire cet article en français? <a href="/Les-accordeurs-du-comportement">Trouvez-le ici.</a>
 </span>
 
 The Greek word _enteron_ means gut. You know that the gut is that part of the digestive system located between the stomach and the anus where part of the absorption of nutrients from the food we eat takes place. In it we harbor an exuberant bacterial flora, as well as other microorganisms that do us more good than harm. Almost a century ago, an Italian man named Vittorio Erspamer found a molecule (specifically an amine) in intestinal cells that was capable of causing intestine contractions. As he was a very creative man, he wanted to give his molecule an original name, and so enteramin was born (yes, enteron and amine, enteramin, the amine of the intestine). What if I told you that you already knew about enteramin before reading this paragraph? A few years later, Arda Green, Irvine Page and Maurice Rapport discovered a molecule in blood serum with a vasoconstrictor effect. Being no less original than our Italian friend, they named this molecule serotonin (you guessed it, from serum, serotonin). A few years later they realized that enteramin and serotonin were the same molecule. The latter ended up making its way into our lives and that is how we know this neurotransmitter today. I mentioned that serotonin can induce intestinal contractions and vasoconstriction. But wasn't it the molecule of happiness? I won’t answer to this question, but Philippe will. He will also tell us about the importance of monoamines and share with us his vision of the research.
