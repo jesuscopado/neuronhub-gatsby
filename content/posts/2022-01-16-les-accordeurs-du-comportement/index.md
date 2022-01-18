@@ -1,15 +1,17 @@
 ---
 excerpt: >-
-  Le mot grec enteron signifie intestin. Vous savez déjà que l'intestin est la partie du système digestif située entre l'estomac et l'anus, où se produit une partie de l'absorption des nutriments provenant des aliments que nous mangeons.
+  Le mot grec enteron signifie intestin. Vous savez déjà que l'intestin est la
+  partie du système digestif située entre l'estomac et l'anus, où se produit une
+  partie de l'absorption des nutriments provenant des aliments que nous
+  mangeons.
 draft: false
 author: Juan García Ruiz
-date: 2022-01-16
+date: 2022-01-16T00:00:00.000Z
 secret: true
 title: Les accordeurs du comportement
 type: post
 hero: images/38.jpg
 ---
-
 <span class="clarification-box">
 ¿Quieres leer el artículo en español? <a href="/Los-afinadores-del-comportamiento">Encuéntralo aquí.</a>
 </span>
@@ -18,7 +20,7 @@ hero: images/38.jpg
 Do you want to read this article in English? <a href="/Behavioral-tuners">Find it here.</a>
 </span>
 
-Le mot grec _enteron_ signifie intestin. Vous savez déjà que l'intestin est la partie du système digestif située entre l'estomac et l'anus, où se produit une partie de l'absorption des nutriments provenant des aliments que nous mangeons. Il abrite une flore bactérienne exubérante, ainsi que d'autres micro-organismes qui nous font plus de bien que de mal. Il y a presque un siècle, un Italien du nom de Vittorio Erspamer a découvert dans les cellules intestinales une molécule (plus précisément une amine) capable de provoquer la contraction de l'intestin. Comme c'était un homme fort créatif, il a voulu donner à sa molécule un nom original, et c'est ainsi qu'est née l'entéramine (oui, entéron et amine, l'entéramine, l'amine de l'intestin). Et si je vous disais que vous connaissiez déjà l'entéramine avant de lire ce paragraphe ? Quelques années plus tard, Arda Green, Irvine Page et Maurice Rapport ont découvert dans le sérum sanguin une molécule ayant un effet vasoconstricteur. Non moins originaux que notre ami italien, ils ont appelé cette molécule sérotonine (vous l'avez deviné, du sérum, sérotonine). Quelques années plus tard, ils se sont rendu compte que l'entéramine et la sérotonine étaient la même molécule. Cette dernière appellation a fini par conquérir notre vocabulaire et c'est ainsi que nous connaissons aujourd'hui ce neurotransmetteur. Il a été mentionné que la sérotonine peut induire des contractions intestinales et de la vasoconstriction. Mais n'était-elle pas la molécule du bonheur ? Ce n'est pas moi qui répondrai, mais Philippe, qui nous parlera également de l'importance des monoamines et nous fera part de sa vision de la recherche.
+Le mot grec *enteron* signifie intestin. Vous savez déjà que l'intestin est la partie du système digestif située entre l'estomac et l'anus, où se produit une partie de l'absorption des nutriments provenant des aliments que nous mangeons. Il abrite une flore bactérienne exubérante, ainsi que d'autres micro-organismes qui nous font plus de bien que de mal. Il y a presque un siècle, un Italien appelé Vittorio Erspamer a découvert dans les cellules intestinales une molécule (plus précisément une monoamine) capable de provoquer la contraction de l'intestin. Comme c'était un homme fort créatif, il a voulu donner à sa molécule un nom original, et c'est ainsi qu'est née l'entéramine (oui, entéron et amine, l'entéramine, l'amine de l'intestin). Et si je vous disais que vous connaissiez déjà l'entéramine avant de lire ce paragraphe ? Quelques années plus tard, Arda Green, Irvine Page et Maurice Rapport ont découvert dans le sérum sanguin une molécule ayant un effet vasoconstricteur. Non moins originaux que notre ami italien, ils ont appelé cette molécule sérotonine (vous l'avez deviné, du sérum, sérotonine). Quelques années plus tard, ils se sont rendu compte que l'entéramine et la sérotonine étaient la même molécule. Cette dernière appellation a fini par conquérir notre vocabulaire et c'est ainsi que nous connaissons aujourd'hui ce neurotransmetteur. Il a été mentionné que la sérotonine peut induire des contractions intestinales et de la vasoconstriction. Mais n'était-elle pas la molécule du bonheur ? Ce n'est pas moi qui répondrai, mais Philippe, qui nous parlera également de l'importance des monoamines et nous fera part de sa vision de la recherche.
 
 Philippe De Deurwaerdère est professeur des universités à l’Université de Bordeaux depuis l’année 2000, après avoir obtenu une thèse en neuropharmacologie en 1997. Il a fait son postdoc à Los Angeles où il est resté un an et demi (et où il n’a pas tourné des films, a-t-il précisé). Il a été nommé Maître de conférences à l’Université de Bordeaux. Il a connu plusieurs laboratoires qui lui ont fait évoluer, et maintenant il est dans l’Institut de Neurosciences Cognitives et Intégratives d’Aquitaine (INCIA).
 
@@ -28,9 +30,9 @@ Philippe De Deurwaerdère : J’ai acheté du papier toilette sur lequel il y av
 
 **JGR : Comment aborder la complexité des systèmes de neurotransmetteurs modulateurs comme la dopamine ou la sérotonine ?**
 
-PDD : Ça part d’une philosophie d’échelles. Par exemple les expériences _in vitro_ vont nous permettre de comprendre l’interaction de ces molécules sur des récepteurs ou des transporteurs. Ça n’expliquera pas la fonction. La dimension d’un neurotransmetteur ou d’un neuromodulateur ne s’exprime que via la fonction du cerveau. Et c’est quoi la fonction du cerveau ? C’est produire des comportements. Donc comment aborder l’étude d’un système de neurotransmission aussi vaste que celui qui est la sérotonine ? Il ne faut jamais perdre à l’esprit cette notion de comportement, sachant qu’à priori par lui-même n’a pas grand-chose à voir avec le comportement. Il va juste moduler des systèmes qui sont un peu plus présents dans l’exécution des comportements. Et ça se complique beaucoup. On arrive à moduler le comportement avec des molécules sérotoninergiques, par exemple avec les hallucinogènes qui ciblent les récepteurs 5HT2A. Mais ce sont des cas particuliers. Comment on fait alors ? Il faut ne pas oublier le comportement, donc la fonction du cerveau, ni la dimension vaste de la distribution de ce neuromodulateur dans le cerveau. Quand on regarde un peu l’organisation du cerveau on se rend compte qu’il peut y avoir une action de la sérotonine dans une région qui entraînera des conséquences sur l’activité des neurones sérotoninergiques qui pourront aller dans une autre région. Il faut l’aborder de manière large et systémique.
+PDD : Ça part d’une philosophie d’échelles. Par exemple les expériences *in vitro* vont nous permettre de comprendre l’interaction de ces molécules sur des récepteurs ou des transporteurs. Ça n’expliquera pas la fonction. La dimension d’un neurotransmetteur ou d’un neuromodulateur ne s’exprime que via la fonction du cerveau. Et c’est quoi la fonction du cerveau ? C’est produire des comportements. Donc comment aborder l’étude d’un système de neurotransmission aussi vaste que celui qui est la sérotonine ? Il ne faut jamais perdre à l’esprit cette notion de comportement, sachant qu’à priori par lui-même n’a pas grand-chose à voir avec le comportement. Il va juste moduler des systèmes qui sont un peu plus présents dans l’exécution des comportements. Et ça se complique beaucoup. On arrive à moduler le comportement avec des molécules sérotoninergiques, par exemple avec les hallucinogènes qui ciblent les récepteurs 5HT2A. Mais ce sont des cas particuliers. Comment on fait alors ? Il faut ne pas oublier le comportement, donc la fonction du cerveau, ni la dimension vaste de la distribution de ce neuromodulateur dans le cerveau. Quand on regarde un peu l’organisation du cerveau on se rend compte qu’il peut y avoir une action de la sérotonine dans une région qui entraînera des conséquences sur l’activité des neurones sérotoninergiques qui pourront aller dans une autre région. Il faut l’aborder de manière large et systémique.
 
-**JGR : Que sont les _trace amine associated-receptors_ ou Taar1, en quelques mots ?**
+**JGR : Que sont les *trace amine associated-receptors* ou Taar1, en quelques mots ?**
 
 PDD : Les trace amines sont des molécules bizarres mais qui peuvent avoir son importance quand on commence à injecter d’autres molécules comme la L-DOPA (N.D.R. : la L-DOPA est le traitement de référence de la maladie de Parkinson). La L-DOPA, précurseur de la dopamine, peut fournir d’autres molécules comme la tyramine, de l’octopamine, 3-methoxytyramine, 3-methoxytyrosine, 3-O-methyldopa, etc. Toutes ces molécules sont considérées des traces amines. Il y a toute une famille des récepteurs qui fixe ces traces amines avec une très grande affinité (nanomolaire). Quand on pousse un petit peu le bouchon on se rend compte que des molécules comme la dopamine peuvent se fixer aussi là-dessus. Donc la nomenclature c’est joli, mais il faut s’en méfier. 
 
@@ -62,7 +64,7 @@ PDD : Il y a des disparités en Europe au niveau du fonctionnement. Par exemple,
 
 **JGR : Qu’est-ce que tu as appris lors de tes années de chercheur ?**
 
-PDD : Au départ on ne connait pas sa question. Elle s’alimente d’énormément de choses, d’énormément de lectures. Dans la recherche fondamentale le chercheur doit trouver sa question. Donc ça n’a rien à voir avec l’innovation. Plus généralement il s’agit d’une question qui est un peu impalpable, mais ça revient à tes premières questions : comment aborder le sujet ? Comment on se positionne ? Sachant qu’en fonction des niveaux de lecture du vivant il y en a qui se positionnent très bien sur la cellule, d’autres sur des systèmes _in vitro_, d’autres plutôt _in vivo_ et plus dans l’intégration, et d’autres qui ont absolument besoin du comportement pour préciser les capacités d’un organisme.
+PDD : Au départ on ne connait pas sa question. Elle s’alimente d’énormément de choses, d’énormément de lectures. Dans la recherche fondamentale le chercheur doit trouver sa question. Donc ça n’a rien à voir avec l’innovation. Plus généralement il s’agit d’une question qui est un peu impalpable, mais ça revient à tes premières questions : comment aborder le sujet ? Comment on se positionne ? Sachant qu’en fonction des niveaux de lecture du vivant il y en a qui se positionnent très bien sur la cellule, d’autres sur des systèmes *in vitro*, d’autres plutôt *in vivo* et plus dans l’intégration, et d’autres qui ont absolument besoin du comportement pour préciser les capacités d’un organisme.
 
 **JGR : On t’a déjà donné un conseil qui t’a marqué lors de ta carrière ?**
 
@@ -70,7 +72,7 @@ PDD : C’était après mon postdoc, mais c’était la directrice du labo dans 
 
 **JGR : Aurais-tu un livre à recommander ?**
 
-PDD : _L’éveil_, d’Oliver Sacks.
+PDD : *L’éveil*, d’Oliver Sacks.
 
 **JGR : Est-ce que tu as un message à passer aux lecteurs ?**
 
