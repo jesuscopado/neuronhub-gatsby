@@ -5,7 +5,7 @@ draft: false
 author: Juan García Ruiz
 date: 2022-01-16
 secret: true
-title: Behavioural tuners
+title: Behavioral tuners
 type: post
 hero: images/38.jpg
 ---
