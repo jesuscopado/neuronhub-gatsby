@@ -1,15 +1,17 @@
 ---
 excerpt: >-
-  La voz griega enteron significa intestino. Ya sabes que el intestino es esa parte del sistema digestivo situada entre el estómago y el ano en la que tiene lugar parte de la absorción de nutrientes a partir de los alimentos que ingerimos. 
+  La voz griega enteron significa intestino. Ya sabes que el intestino es esa
+  parte del sistema digestivo situada entre el estómago y el ano en la que tiene
+  lugar parte de la absorción de nutrientes a partir de los alimentos que
+  ingerimos. 
 draft: false
 author: Juan García Ruiz
-date: 2022-01-16
+date: 2022-01-16T00:00:00.000Z
 secret: false
 title: Los afinadores del comportamiento
 type: post
 hero: images/38.jpg
 ---
-
 <span class="clarification-box">
 Do you want to read this article in English? <a href="/Behavioral-tuners">Find it here.</a>
 </span>
@@ -18,7 +20,7 @@ Do you want to read this article in English? <a href="/Behavioral-tuners">Find i
 Voulez-vous lire cet article en français? <a href="/Les-accordeurs-du-comportement">Trouvez-le ici.</a>
 </span>
 
-La voz griega _enteron_ significa intestino. Ya sabes que el intestino es esa parte del sistema digestivo situada entre el estómago y el ano en la que tiene lugar parte de la absorción de nutrientes a partir de los alimentos que ingerimos. En él albergamos una exuberante flora bacteriana, además de otros microorganismos que nos hacen más bien que mal. Hace casi un siglo, un señor italiano llamado Vittorio Erspamer encontró una molécula (concretamente una monoamina) en unas células intestinales que era capaz de hacer que el intestino se contrajera. Como era un italiano muy creativo, quiso bautizar a su molécula con un nombre del todo original, y así nació la enteramina (sí, _enteron_ y _amina_, enteramina, la amina del intestino). ¿Y si te digo que ya conocías la enteramina antes de leer este párrafo? Unos años más tarde, Arda Green, Irvine Page y Maurice Rapport descubrieron una molécula en el plasma sanguíneo (en inglés _blood serum_) con un efecto vasoconstrictor. Como no eran menos originales que nuestro amigo italiano, llamaron a esta molécula serotonina (lo has adivinado, de _serum_, serotonina). Unos años más tarde se percataron de que la enteramina y la serotonina eran la misma molécula. Este último acabo haciéndose un hueco en nuestra vida y así es como hoy conocemos a este neurotransmisor. Se ha mencionado que la serotonina puede inducir contracciones intestinales y vasoconstricción. ¿Pero no era la molécula de la felicidad? No soy yo el que va a responder, sino Philippe, quien además nos va a hablar de la importancia de las monoaminas y compartirá con nosotros su visión de la investigación.
+La voz griega *enteron* significa intestino. Ya sabes que el intestino es esa parte del sistema digestivo situada entre el estómago y el ano en la que tiene lugar parte de la absorción de nutrientes a partir de los alimentos que ingerimos. En él albergamos una exuberante flora bacteriana, además de otros microorganismos que nos hacen más bien que mal. Hace casi un siglo, un señor italiano llamado Vittorio Erspamer encontró una molécula (concretamente una monoamina) en unas células intestinales que era capaz de hacer que el intestino se contrajera. Como era un italiano muy creativo, quiso bautizar a su molécula con un nombre del todo original, y así nació la enteramina (sí, *enteron* y *amina*, enteramina, la amina del intestino). ¿Y si te digo que ya conocías la enteramina antes de leer este párrafo? Unos años más tarde, Arda Green, Irvine Page y Maurice Rapport descubrieron una molécula en el plasma sanguíneo (en inglés *blood serum*) capaz de modificar el tono vascular con un efecto vasoconstrictor. Como no eran menos originales que nuestro amigo italiano, llamaron a esta molécula serotonina (lo has adivinado, *serum* y tono, serotonina). Unos años más tarde se percataron de que la enteramina y la serotonina eran la misma molécula. Este último acabo haciéndose un hueco en nuestra vida y así es como hoy conocemos a este neurotransmisor. Se ha mencionado que la serotonina puede inducir contracciones intestinales y vasoconstricción. ¿Pero no era la molécula de la felicidad? No soy yo el que va a responder, sino Philippe, quien además nos va a hablar de la importancia de las monoaminas y compartirá con nosotros su visión de la investigación.
 
 Philippe de Deurwaerdère es profesor en la Universidad de Burdeos desde el año 2000, tras obtener una tesis en neurofarmacología en 1997. Hizo su postdoctorado en Los Ángeles, donde vivió durante un año y medio (y donde no rodó películas, tal y como nos cuenta). Luego fue nombrado profesor en la Universidad de Burdeos. Ha estado en varios laboratorios que le han ayudado a evolucionar, y actualmente ocupa un puesto en el Institut de Neurosciences Cognitives et Intégratives d'Aquitaine (INCIA).
 
@@ -28,9 +30,9 @@ Philippe de Deurwaerdère: Compré papel higiénico en el que decía "dopamina =
 
 **JGR: ¿Cómo se puede abordar el estudio de neuromoduladores complejos como la dopamina o la serotonina?**
 
-PDD: Hay que partir de una filosofía de escalas. Por ejemplo, los experimentos _in vitro_ nos permitirán comprender la interacción de estas moléculas en los receptores o transportadores. Esto no explicará la función. La dimensión de un neurotransmisor o neuromodulador sólo se expresa a través de la función del cerebro. ¿Y cuál es la función del cerebro? La producción de comportamientos. ¿Cómo se aborda el estudio de un sistema de neurotransmisión tan vasto como la serotonina? Nunca debemos perder de vista esta noción de comportamiento. No obstante, a priori, la serotonina en sí misma tiene poco que ver con el comportamiento. Pero sí es capaz de modular los sistemas que ejecutan el comportamiento. La cosa se complica mucho. Podemos modular el comportamiento con moléculas serotoninérgicas, por ejemplo con alucinógenos que se dirigen a los receptores 5HT2A. Pero estos son casos especiales. Volviendo a la pregunta ¿entonces cómo lo hacemos? Sin olvidarnos del comportamiento, y por tanto de la función del cerebro, ni de la amplia distribución del neuromodulador en el cerebro. Cuando observamos la organización del cerebro, nos damos cuenta de que la serotonina puede actuar en una región y tener consecuencias en la actividad de las neuronas serotoninérgicas que pueden ir a otra región. Hay que abordar el tema de forma sistémica.
+PDD: Hay que partir de una filosofía de escalas. Por ejemplo, los experimentos *in vitro* nos permitirán comprender la interacción de estas moléculas en los receptores o transportadores. Esto no explicará la función. La dimensión de un neurotransmisor o neuromodulador sólo se expresa a través de la función del cerebro. ¿Y cuál es la función del cerebro? La producción de comportamientos. ¿Cómo se aborda el estudio de un sistema de neurotransmisión tan vasto como la serotonina? Nunca debemos perder de vista esta noción de comportamiento. No obstante, a priori, la serotonina en sí misma tiene poco que ver con el comportamiento. Pero sí es capaz de modular los sistemas que ejecutan el comportamiento. La cosa se complica mucho. Podemos modular el comportamiento con moléculas serotoninérgicas, por ejemplo con alucinógenos que se dirigen a los receptores 5HT2A. Pero estos son casos especiales. Volviendo a la pregunta ¿entonces cómo lo hacemos? Sin olvidarnos del comportamiento, y por tanto de la función del cerebro, ni de la amplia distribución del neuromodulador en el cerebro. Cuando observamos la organización del cerebro, nos damos cuenta de que la serotonina puede actuar en una región y tener consecuencias en la actividad de las neuronas serotoninérgicas que pueden ir a otra región. Hay que abordar el tema de forma sistémica.
 
-**JGR: ¿Qué son los _trace amine associated-receptors_ o Taar1, en pocas palabras?**
+**JGR: ¿Qué son los *trace amine associated-receptors* o Taar1, en pocas palabras?**
 
 PDD: Las aminas traza son unas extrañas moléculas que pueden tener una importancia considerable cuando se utilizan moléculas como la L-DOPA (N. del A.: la L-DOPA es el tratamiento de referencia para la enfermedad de Parkinson). La L-DOPA, precursora de la dopamina, puede dar lugar a otras moléculas como la tiramina, la octopamina, la 3-metoxitiramina, la 3-metoxitirosina, la 3-O-metildopa, etc. Todas estas moléculas son consideradas trazas de amina, y hay toda una familia de receptores a los que pueden unirse con una gran afinidad (nanomolar). No solo las trazas amina pueden unirse a estos receptores. También moléculas como la dopamina pueden hacerlo. Así que la nomenclatura es bonita, pero hay que tener cuidado con ella.
 
@@ -62,7 +64,7 @@ PDD: Hay disparidades en Europa en cuanto a su funcionamiento. Por ejemplo, tome
 
 **JGR: ¿Qué has aprendido durante tus años de investigación?**
 
-PDD: He aprendido que al principio no conoces tu pregunta. Tu pregunta bebe de muchas cosas, de muchas lecturas. En la investigación básica, el investigador tiene que encontrar lo que busca. Esto no tiene nada que ver con la innovación. En general, se trata de una pregunta un poco impalpable. Si volvemos al principio de la entrevista: ¿cómo se aborda el estudio de cierto tema? ¿Cómo nos posicionamos? Hay diferentes escalas. Hay quienes se posicionan en la célula, otros en los sistemas _in vitro_, otros más bien en los sistemas _in vivo_ y en la integración, y otros necesitan absolutamente estudiar el comportamiento.
+PDD: He aprendido que al principio no conoces tu pregunta. Tu pregunta bebe de muchas cosas, de muchas lecturas. En la investigación básica, el investigador tiene que encontrar lo que busca. Esto no tiene nada que ver con la innovación. En general, se trata de una pregunta un poco impalpable. Si volvemos al principio de la entrevista: ¿cómo se aborda el estudio de cierto tema? ¿Cómo nos posicionamos? Hay diferentes escalas. Hay quienes se posicionan en la célula, otros en los sistemas *in vitro*, otros más bien en los sistemas *in vivo* y en la integración, y otros necesitan absolutamente estudiar el comportamiento.
 
 **JGR: ¿Recuerdas algún buen consejo que te hayan dado?**
 
@@ -70,7 +72,7 @@ PDD: Sí. Fue después de mi postdoc, y me lo dio la directora del laboratorio d
 
 **JGR: ¿Qué libro nos recomiendas?**
 
-PDD: _Despertar_, por Oliver Sacks.
+PDD: *Despertar*, por Oliver Sacks.
 
 **JGR: Para acabar, ¿Tienes algún mensaje para los lectores?**
 
