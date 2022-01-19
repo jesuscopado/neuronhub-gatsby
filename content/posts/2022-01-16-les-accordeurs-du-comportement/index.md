@@ -26,7 +26,7 @@ Philippe De Deurwaerdère est professeur des universités à l’Université de 
 
 **Juan García Ruiz : La sérotonine est fréquemment associée à l’état de bonheur dans la vie de tous les jours. Compte tenu de sa distribution dans le système nerveux central et périphérique, dans quelle mesure est-il réducteur de l’attribuer ce rôle ?**
 
-Philippe De Deurwaerdère : J’ai acheté du papier toilette sur lequel il y avait marqué « dopamine = love » et « serotonine = bonheur ». Ça reste du papier toilette. On ne peut pas réduire le rôle de ces molécules à une fonction. Je vais paraphraser deux grands de la sérotonine : Jacobs et Azmitia. Ils disaient que la sérotonine participe à toutes les fonctions sans être nécessaire à aucune d’entre elles. C’est un neuromodulateur. En périphérie elle module aussi l’activité des organes dont l’intestin (où l’on trouve entre 80 et 90% de la sérotonine du corps).
+Philippe De Deurwaerdère : J’ai acheté du papier toilette sur lequel il y avait marqué « dopamine = love » et « serotonine = bonheur ». Ça reste du papier toilette. On ne peut pas réduire le rôle de ces molécules à une fonction. Je vais paraphraser deux grands de la sérotonine, Jacobs et Azmitia. Ils disaient que la sérotonine participe à toutes les fonctions sans être nécessaire à aucune d’entre elles. C’est un neuromodulateur. En périphérie elle module aussi l’activité des organes dont l’intestin (où l’on trouve entre 80 et 90% de la sérotonine du corps).
 
 **JGR : Comment aborder la complexité des systèmes de neurotransmetteurs modulateurs comme la dopamine ou la sérotonine ?**
 
