@@ -26,7 +26,7 @@ Philippe de Deurwaerdère es profesor en la Universidad de Burdeos desde el año
 
 **Juan García Ruiz: La serotonina se asocia frecuentemente con la felicidad en la vida cotidiana. Dada su amplia distribución en el sistema nervioso central y periférico, ¿hasta qué punto es reductor atribuirle este papel?**
 
-Philippe de Deurwaerdère: Compré papel higiénico en el que decía "dopamina = amor" y "serotonina = felicidad". Pues eso, que no es más que papel higiénico. No se puede reducir el papel de estas moléculas a una función. Voy a parafrasear a dos de los grandes de la serotonina: Jacobs y Azmitia: la serotonina participa en todas las funciones sin ser necesaria para ninguna de ellas. Es un neuromodulador. En la periferia, también modula la actividad de los órganos, incluido el intestino (donde se encuentra entre el 80 y el 90% de la serotonina del cuerpo).
+Philippe de Deurwaerdère: Compré papel higiénico en el que decía "dopamina = amor" y "serotonina = felicidad". Pues eso, que no es más que papel higiénico. No se puede reducir el papel de estas moléculas a una función. Voy a parafrasear a dos de los grandes de la serotonina, Jacobs y Azmitia: la serotonina participa en todas las funciones sin ser necesaria para ninguna de ellas. Es un neuromodulador. En la periferia, también modula la actividad de los órganos, incluido el intestino (donde se encuentra entre el 80 y el 90% de la serotonina del cuerpo).
 
 **JGR: ¿Cómo se puede abordar el estudio de neuromoduladores complejos como la dopamina o la serotonina?**
 
