@@ -25,7 +25,7 @@ Philippe de Deurwaerdère is a professor at the University of Bordeaux since 200
 
 **Juan Garcia Ruiz: Serotonin is often associated with happiness in everyday life. Given its wide distribution in the central and peripheral nervous system, to what extent is it reductive to attribute this unique role to it?**
 
-Philippe de Deurwaerdère: I bought toilet paper with a text that read: "dopamine = love" and "serotonin = happiness". So that's all it is, it's just toilet paper. The role of these molecules cannot be reduced to a function. I will paraphrase two of the greats of serotonin: Jacobs and Azmitia: serotonin participates in all functions without being necessary for any of them. It is a neuromodulator. In the periphery, it also modulates organ activity, including the gut (where 80 to 90% of the body's serotonin is found).
+Philippe de Deurwaerdère: I bought toilet paper with a text that read: "dopamine = love" and "serotonin = happiness". So that's all it is, it's just toilet paper. The role of these molecules cannot be reduced to a function. I will paraphrase two of the greats of serotonin, Jacobs and Azmitia: serotonin participates in all functions without being necessary for any of them. It is a neuromodulator. In the periphery, it also modulates organ activity, including the gut (where 80 to 90% of the body's serotonin is found).
 
 **JGR: How can one approach the study of complex neuromodulators such as dopamine or serotonin?**
 
