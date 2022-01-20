@@ -76,4 +76,4 @@ PDD: *Despertar*, por Oliver Sacks.
 
 **JGR: Para acabar, ¿Tienes algún mensaje para los lectores?**
 
-PDD: La investigación neurocientífica continúa, para bien o para mal. Creo que la investigación básica sigue siendo la fuerza motriz. La investigación aplicada no debería ser el modelo, porque se gasta demasiado dinero y es una investigación muy limitada en el tiempo. La investigación básica sigue siendo más difícil de abordar, pero tiene un mayor impacto.
+PDD: La investigación neurocientífica continúa, para bien o para mal. La innovación no debería ser el modelo, porque se gasta demasiado dinero y es una investigación muy limitada en el tiempo. La investigación básica sigue siendo la fuerza motriz, y aunque es más difícil de abordar, tiene un mayor impacto.
