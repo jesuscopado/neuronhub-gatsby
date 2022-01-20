@@ -76,4 +76,4 @@ PDD : *L’éveil*, d’Oliver Sacks.
 
 **JGR : Est-ce que tu as un message à passer aux lecteurs ?**
 
-PDD : La recherche en neurosciences continue dans le bien ou dans le mal. Je pense que la recherche fondamentale reste le moteur. Il ne faut pas que la recherche appliquée soit le modèle, car on dépense trop d’argent et c’est une recherche très limitée dans le temps. La recherche fondamentale reste plus difficile à aborder mais elle a une plus grande portée.
+PDD : La recherche en neurosciences continue dans le bien ou dans le mal. Il ne faut pas que l'innovation soit le modèle, car on dépense trop d’argent et c'est une recherche très limitée dans le temps. La recherche fondamentale reste le moteur, elle est plus difficile à aborder mais elle a une plus grande portée.
