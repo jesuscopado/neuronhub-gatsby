@@ -1,15 +1,16 @@
 ---
 excerpt: >-
-  The Greek word enteron means gut. You know that the gut is that part of the digestive system located between the stomach and the anus where part of the absorption of nutrients from the food we eat takes place. 
+  The Greek word enteron means gut. You know that the gut is that part of the
+  digestive system located between the stomach and the anus where part of the
+  absorption of nutrients from the food we eat takes place. 
 draft: false
 author: Juan García Ruiz
-date: 2022-01-16
+date: 2022-01-16T00:00:00.000Z
 secret: true
 title: Behavioral tuners
 type: post
 hero: images/38.jpg
 ---
-
 <span class="clarification-box">
 ¿Quieres leer el artículo en español? <a href="/Los-afinadores-del-comportamiento">Encuéntralo aquí.</a>
 </span>
@@ -18,17 +19,17 @@ hero: images/38.jpg
 Voulez-vous lire cet article en français? <a href="/Les-accordeurs-du-comportement">Trouvez-le ici.</a>
 </span>
 
-The Greek word _enteron_ means gut. You know that the gut is that part of the digestive system located between the stomach and the anus where part of the absorption of nutrients from the food we eat takes place. In it we harbor an exuberant bacterial flora, as well as other microorganisms that do us more good than harm. Almost a century ago, an Italian man named Vittorio Erspamer found a molecule (specifically an amine) in intestinal cells that was capable of causing intestine contractions. As he was a very creative man, he wanted to give his molecule an original name, and so enteramin was born (yes, enteron and amine, enteramin, the amine of the intestine). What if I told you that you already knew about enteramin before reading this paragraph? A few years later, Arda Green, Irvine Page and Maurice Rapport discovered a molecule in blood serum with a vasoconstrictor effect. Being no less original than our Italian friend, they named this molecule serotonin (you guessed it, from serum, serotonin). A few years later they realized that enteramin and serotonin were the same molecule. The latter ended up making its way into our lives and that is how we know this neurotransmitter today. I mentioned that serotonin can induce intestinal contractions and vasoconstriction. But wasn't it the molecule of happiness? I won’t answer to this question, but Philippe will. He will also tell us about the importance of monoamines and share with us his vision of the research.
+The Greek word *enteron* means gut. You know that the gut is that part of the digestive system located between the stomach and the anus where part of the absorption of nutrients from the food we eat takes place. In it we harbor an exuberant bacterial flora, as well as other microorganisms that do us more good than harm. Almost a century ago, an Italian man named Vittorio Erspamer found a molecule (specifically a monoamine) in intestinal cells that was capable of causing intestine contractions. As he was a very creative man, he wanted to give his molecule an original name, and so enteramin was born (yes, enteron and amine, enteramin, the amine of the intestine). What if I told you that you already knew about enteramin before reading this paragraph? A few years later, Arda Green, Irvine Page and Maurice Rapport discovered a molecule in blood serum capable of modifying vascular tone with a vasoconstrictor effect. Being no less original than our Italian friend, they named this molecule serotonin (you guessed it, serum and tone, serotonin). A few years later they realized that enteramin and serotonin were the same molecule. The latter ended up making its way into our lives and that is how we know this neurotransmitter today. I mentioned that serotonin can induce intestinal contractions and vasoconstriction. But wasn't it the molecule of happiness? I won’t answer to this question, but Philippe will. He will also tell us about the importance of monoamines and share with us his vision of the research.
 
 Philippe de Deurwaerdère is a professor at the University of Bordeaux since 2000, after obtaining a thesis in neuropharmacology in 1997. He did his postdoc in Los Angeles, where he lived for a year and a half (but he didn’t shoot any film, as he clarified). Then he started working as a professor at the University of Bordeaux. He has been working in several laboratories that have helped him evolve, and currently he holds a position at the Institut de Neurosciences Cognitives et Intégratives d'Aquitaine (INCIA).
 
 **Juan Garcia Ruiz: Serotonin is often associated with happiness in everyday life. Given its wide distribution in the central and peripheral nervous system, to what extent is it reductive to attribute this unique role to it?**
 
-Philippe de Deurwaerdère: I bought toilet paper with a text that read: "dopamine = love" and "serotonin = happiness". So that's all it is, it's just toilet paper. The role of these molecules cannot be reduced to a function. I will paraphrase two of the greats of serotonin: Jacobs and Azmitia: serotonin participates in all functions without being necessary for any of them. It is a neuromodulator. In the periphery, it also modulates organ activity, including the gut (where 80 to 90% of the body's serotonin is found).
+Philippe de Deurwaerdère: I bought toilet paper with a text that read: "dopamine = love" and "serotonin = happiness". So that's all it is, it's just toilet paper. The role of these molecules cannot be reduced to a function. I will paraphrase two of the greats of serotonin, Jacobs and Azmitia: serotonin participates in all functions without being necessary for any of them. It is a neuromodulator. In the periphery, it also modulates organ activity, including the gut (where 80 to 90% of the body's serotonin is found).
 
 **JGR: How can one approach the study of complex neuromodulators such as dopamine or serotonin?**
 
-PDD: We have to start from a philosophy of scales. For example, _in vitro_ experiments will allow us to understand the interaction of these molecules with receptors or transporters. This will not explain the function. The scope of a neurotransmitter or neuromodulator can only be pondered through the function of the brain. And what is the function of the brain? The production of behaviors. How does one approach the study of a neurotransmitter system as vast as serotonin? We must never lose sight of this notion of behavior, even if a priori, serotonin itself has little to do with its production. But it is capable of modulating it. It gets very complicated. We can modulate behavior with serotonergic molecules, for example with hallucinogens that target 5HT2A receptors. But these are special cases. Back to the question: how do we do it? We should just not forget behavior, the function of the brain, and the wide distribution of neuromodulators. When we look at the organization of the brain, we realize that serotonin can act in one region and have consequences on the activity of serotonergic neurons projecting to another region. The issue needs to be approached systemically.
+PDD: We have to start from a philosophy of scales. For example, *in vitro* experiments will allow us to understand the interaction of these molecules with receptors or transporters. This will not explain the function. The scope of a neurotransmitter or neuromodulator can only be pondered through the function of the brain. And what is the function of the brain? The production of behaviors. How does one approach the study of a neurotransmitter system as vast as serotonin? We must never lose sight of this notion of behavior, even if a priori, serotonin itself has little to do with its production. But it is capable of modulating it. It gets very complicated. We can modulate behavior with serotonergic molecules, for example with hallucinogens that target 5HT2A receptors. But these are special cases. Back to the question: how do we do it? We should just not forget behavior, the function of the brain, and the wide distribution of neuromodulators. When we look at the organization of the brain, we realize that serotonin can act in one region and have consequences on the activity of serotonergic neurons projecting to another region. The issue needs to be approached systemically.
 
 **JGR: What are the trace amine associated-receptors or Taar1, in a nutshell?**
 
@@ -62,7 +63,7 @@ PDD: There are disparities in Europe in terms of how it works. For example, take
 
 **JGR: What have you learned during your years of research?**
 
-PDD: I have learned that at the beginning you don't know your question. Your question arises from multiple sources, from many readings. In basic research, the researcher has to find what he is looking for. This has nothing to do with innovation. In general, it is a question that is a bit impalpable. If we go back to the beginning of the interview: how do we approach the study of a certain topic? How do we position ourselves? There are different scales. There are those who take the cell perspective, others the _in vitro_ systems, others rather the _in vivo_ systems and the integration, and others absolutely need to study behavior.
+PDD: I have learned that at the beginning you don't know your question. Your question arises from multiple sources, from many readings. In basic research, the researcher has to find what he is looking for. This has nothing to do with innovation. In general, it is a question that is a bit impalpable. If we go back to the beginning of the interview: how do we approach the study of a certain topic? How do we position ourselves? There are different scales. There are those who take the cell perspective, others the *in vitro* systems, others rather the *in vivo* systems and the integration, and others absolutely need to study behavior.
 
 **JGR: Do you remember any good advice you were given?**
 
@@ -70,7 +71,7 @@ PDD: Yes. It was after my postdoc, and it was given to me by the director of the
 
 **JGR: Do you have a book to recommend?**
 
-PDD: _Awakenings_, by Oliver Sacks.
+PDD: *Awakenings*, by Oliver Sacks.
 
 **JGR: Do you have a message for readers?**
 
