@@ -33,7 +33,7 @@ AN: La obesidad es un importante factor de riesgo para la diabetes, las enfermed
 
 **JGR: La obesidad ha alcanzado niveles epidémicos. Entre 1995 y 2000 pasamos de 200 millones de obesos a 300 millones. ¿Cuál crees que es la causa de este aumento?**
 
-AN: Es una pandemia. Se calcula que el 30% de la población mundial tiene sobrepeso y entre el 15 y el 20% es obesa. ¿Por qué? Hay varias razones. En primer lugar, hace poco menos de cien años se produjo un importante cambio nutricional con el consumo de azúcar refinado, uno de los nutrientes más obesogénicos que existen. Por otra parte está la llegada de la dieta occidental: comida rápida, pizza, bebidas azucaradas. Y asociado a esto, se ha producido un aumento del sedentarismo. La gente hace menos deporte y camina menos durante el día. En general, nos movemos menos y comemos comida mala en grandes cantidades y a cualquier horas.
+AN: Es una pandemia. Se calcula que el 30% de la población mundial tiene sobrepeso y entre el 15 y el 20% es obesa. ¿Por qué? Hay varias razones. En primer lugar, hace poco menos de cien años se produjo un importante cambio nutricional con el consumo de azúcar refinado, uno de los nutrientes más obesogénicos que existen. Por otra parte está la llegada de la dieta occidental: comida rápida, pizza, bebidas azucaradas. Y asociado a esto, se ha producido un aumento del sedentarismo. La gente hace menos deporte y camina menos durante el día. En general, nos movemos menos y comemos comida mala en grandes cantidades y a cualquier hora.
 
 **JGR: Estudias la obesidad a una escala mucho más pequeña: celular y molecular. En primer lugar, ¿qué es la microglía?**
 
