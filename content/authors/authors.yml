@@ -1,8 +1,9 @@
 - name: Juan García Ruiz
   bio: |
-    Desde antes de tener conciencia de mí mismo pregunto por qué. Estudié psicología y bioquímica para entender. En este sitio trato de responder. Cuando no escribo toco el piano.
+    A veces el lenguaje científico puede resultar incomprensible y soporífero. El objetivo de neuronhub es muy simple: entretenerte un poco y que aprendas algo mientras te tomas un café.
   longBio: |
-    Se necesita toda una vida para reconciliar las dos partes de un corazón dividido entre las letras y las ciencias. Fascinado por los grandes narradores de la talla de Roald Dahl, por la imaginación y el preciosismo de la escritura de Isaac Asimov, y por el alcance semántico de las metáforas de Julio Cortázar, trato de escribir artículos comprensibles por todo el mundo y cuya lectura sea lo más agradable posible. La complejidad de los temas tratados exige una toma de perspectiva, que en mi caso ha sido construida bajo el prisma de mi formación universitaria en psicología y bioquímica, con el rigor y la fundamentación que exigen ambas disciplinas.
+    Te cuento en un lenguaje comprensible lo que hacen los científicos con sus probetas y sus tubos de ensayo para entender cómo funciona tu cerebro. Aprende algo nuevo cada día con nuestros artículos y nuestras entrevistas a científicos de todo el mundo. 
+    Cada artículo tiene muchas horas de trabajo. Primero tengo que leer mucho sobre un tema. Luego tengo que ser capaz de explicarlo para que cualquier persona, experta o inexperta, lo entienda. También tengo que contactar a los científicos y preparar las entrevistas. Y por último tengo que transcribirlas y traducirlas para publicarlas en español y en versión original. Es mucho trabajo, pero lo hago con gusto porque es apasionante. Pero lo es más cuando puedo compartirlo. Así que si te gusta el contenido y quieres ayudarme a crecer un poquito, solo te pido una cosa: compártelo con tus amigos y enemigos. Lo sé, da pereza, ¡pero es gratis! Y cada vez que lo compartas el mundo será un lugar un poco más feliz.
   avatar: ./avatars/juan-garcia.jpeg
   social:
     - url: https://www.linkedin.com/in/garciaruizjuan/
