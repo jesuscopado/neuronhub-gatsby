@@ -14,7 +14,7 @@ title: The necessity of a big picture science
 type: post
 hero: images/40.jpg
 ---
-<span class="clarification-∑box">
+<span class="clarification-box">
 ¿Quieres leer el artículo en español? <a href="/La-necesidad-de-una-ciencia-panoramica">Encuéntralo aquí.</a>
 </span>
 
