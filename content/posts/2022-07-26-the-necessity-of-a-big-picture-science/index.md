@@ -14,8 +14,8 @@ title: The necessity of a big picture science
 type: post
 hero: images/40.jpg
 ---
-<span class="clarification-box">
-¿Quieres leer el artículo en español? <a href="/La-necesidad-de-una-ciencia-panorámica">Encuéntralo aquí.</a>
+<span class="clarification-∑box">
+¿Quieres leer el artículo en español? <a href="/La-necesidad-de-una-ciencia-panoramica">Encuéntralo aquí.</a>
 </span>
 
 The hippie movement that seeked to alter consciousness with drugs such as LSD and marijuana coincided in time with the most prodigious research on highness. The discovery of the receptors involved in cannabis mechanism of action not only helped us understanding what happens when people get high, but also led to the discovery of a crucial nervous modulation system involved in multiple physiological functions like learning, memory, sleep and food intake. The endocannabinoid system involves receptors such as CB1 (remember this, it will be helpful in a little bit) and little lipids synthetized by our system that are able to bind to those CB1 receptors. These lipids are known as endocannabinoids and are very similar in structure to tetrahydrocannabinol (THC), the psychoactive component of marijuana (*Figure 1*).
