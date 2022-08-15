@@ -24,7 +24,7 @@ const ArticleHero: React.FC<ArticleHeroProps> = ({ article, authors }) => {
         <HeroSubtitle hasCoAUthors={hasCoAUthors} id="ArticleSubtitle__Hero">
           <ArticleAuthors authors={authors} />
           <ArticleMeta hasCoAUthors={hasCoAUthors}>
-            {article.date} · {article.timeToRead} min read
+            {article.date} · {article.timeToRead} min read · {article.languages}
           </ArticleMeta>
         </HeroSubtitle>
       </Header>
