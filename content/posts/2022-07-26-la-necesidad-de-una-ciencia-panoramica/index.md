@@ -11,7 +11,7 @@ excerpt: >-
 draft: false
 author: Juan García Ruiz
 date: 2022-07-26T00:00:00.000Z
-secret: true
+secret: false
 title: La necesidad de una ciencia panorámica
 type: post
 hero: images/40.jpg
