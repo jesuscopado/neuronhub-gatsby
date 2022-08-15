@@ -10,6 +10,7 @@ excerpt: >-
   necesario pasar por modelos computacionales. La neurociencia puede tener
   numerosas ramificaciones que abordan diferentes aspectos de la conducta.
 hero: images/32.jpeg
+languages: 🇪🇸 🇬🇧 
 ---
 <span class="clarification-box">
 Do you want to read this article in English? <a href="/When-the-brain-falls-short">Find it here.</a>

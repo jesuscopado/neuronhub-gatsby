@@ -13,6 +13,7 @@ secret: true
 title: Out of sight tenants
 type: post
 hero: images/35.jpeg
+languages: 🇪🇸 🇬🇧 
 ---
 <span class="clarification-box">
 ¿Quieres leer el artículo en español? <a href="/Inquilinos-que-no-se-ven">Encuéntralo aquí.</a>

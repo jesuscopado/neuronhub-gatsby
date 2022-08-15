@@ -11,6 +11,7 @@ secret: true
 title: Les accordeurs du comportement
 type: post
 hero: images/38.jpg
+languages: 🇪🇸 🇬🇧 🇫🇷
 ---
 <span class="clarification-box">
 ¿Quieres leer el artículo en español? <a href="/Los-afinadores-del-comportamiento">Encuéntralo aquí.</a>

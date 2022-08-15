@@ -15,6 +15,7 @@ secret: false
 title: La necesidad de una ciencia panorámica
 type: post
 hero: images/40.jpg
+languages: 🇪🇸 🇬🇧
 ---
 <span class="clarification-box">
 Do you want to read this article in English? <a href="/The-necessity-of-a-big-picture-science">Find it here.</a>

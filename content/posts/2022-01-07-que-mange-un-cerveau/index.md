@@ -10,6 +10,7 @@ secret: true
 title: Que mange un cerveau ?
 type: post
 hero: images/37.jpeg
+languages: 🇪🇸 🇬🇧 🇫🇷
 ---
 <span class="clarification-box">
 ¿Quieres leer el artículo en español? <a href="/Que-come-un-cerebro">Encuéntralo aquí.</a>

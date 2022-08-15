@@ -13,6 +13,7 @@ secret: true
 title: Le troisième élément du cerveau
 type: post
 hero: images/39.jpeg
+languages: 🇪🇸 🇬🇧 🇫🇷
 ---
 <span class="clarification-box">
 ¿Quieres leer el artículo en español? <a href="/El-tercer-elemento-del-cerebro">Encuéntralo aquí.</a>

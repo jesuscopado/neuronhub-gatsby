@@ -12,6 +12,7 @@ secret: false
 title: Háganse las palabras
 type: post
 hero: images/34.jpg
+languages: 🇪🇸 🇬🇧 
 ---
 <span class="clarification-box">
 Do you want to read this article in English? <a href="/Let-there-be-words">Find it here.</a>

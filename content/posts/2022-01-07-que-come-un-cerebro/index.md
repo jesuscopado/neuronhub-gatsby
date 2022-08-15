@@ -10,6 +10,7 @@ secret: false
 title: ¿Qué come un cerebro?
 type: post
 hero: images/37.jpeg
+languages: 🇪🇸 🇬🇧 🇫🇷
 ---
 <span class="clarification-box">
 Do you want to read this article in English? <a href="/What-does-a-brain-eat">Find it here.</a>

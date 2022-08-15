@@ -10,6 +10,7 @@ secret: true
 title: 'Plus, plus, plus'
 type: post
 hero: images/31.jpeg
+languages: 🇪🇸 🇫🇷
 ---
 <span class="clarification-box">
 ¿Quieres leer el artículo en español? <a href="/Mas-mas-mas">Encuéntralo aquí.</a>

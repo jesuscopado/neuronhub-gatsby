@@ -11,6 +11,7 @@ secret: false
 title: Los afinadores del comportamiento
 type: post
 hero: images/38.jpg
+languages: 🇪🇸 🇬🇧 🇫🇷
 ---
 <span class="clarification-box">
 Do you want to read this article in English? <a href="/Behavioral-tuners">Find it here.</a>

@@ -17,6 +17,7 @@ secret: false
 title: Música para mis oídos
 type: post
 hero: images/whatsapp-image-2021-05-14-at-20.34.46.jpeg
+languages: 🇪🇸
 ---
 ¿Cómo es posible que podamos aprender algo tan sofisticado como una lengua desde una edad tan temprana? La adquisición del lenguaje es algo que no dejará de intrigarnos. La adquisición del vocabulario de nuestra lengua materna depende de la memoria implícita, ya que la inmersión es completa y por lo tanto este proceso es automático. Sin embargo, la adquisición de una lengua extranjera depende de la memoria explícita, ya que normalmente hacemos un esfuerzo consciente para adquirir el vocabulario y las reglas internas del lenguaje. Según los métodos que se utilicen para enseñar una segunda lengua, los mecanismos cerebrales implicados pueden implicar más un tipo u otro de memoria. 
 

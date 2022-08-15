@@ -11,6 +11,7 @@ secret: true
 title: From neural wiring to behavior
 type: post
 hero: images/36.jpg
+languages: 🇪🇸 🇬🇧
 ---
 <span class="clarification-box">
 ¿Quieres leer el artículo en español? <a href="/Del-cableado-neuronal-al-comportamiento">Encuéntralo aquí.</a>

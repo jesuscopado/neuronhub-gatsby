@@ -14,6 +14,7 @@ secret: false
 title: ¿Adictos al porno?
 type: post
 hero: images/33.jpg
+languages: 🇪🇸 🇬🇧 
 ---
 <span class="clarification-box">
 Do you want to read this article in English? <a href="/Porn-addicts">Find it here.</a>

@@ -14,6 +14,7 @@ secret: true
 title: Let there be words
 type: post
 hero: images/34.jpg
+languages: 🇪🇸 🇬🇧 
 ---
 <span class="clarification-box">
 ¿Quieres leer el artículo en español? <a href="/Haganse-las-palabras">Encuéntralo aquí.</a>

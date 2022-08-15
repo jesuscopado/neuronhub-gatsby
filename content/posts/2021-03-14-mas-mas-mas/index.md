@@ -9,6 +9,7 @@ excerpt: >-
   exigí más de la puesta de sol. Colores más espectaculares cuando el sol llega
   al horizonte. Tal vez ese sea mi único pecado.
 hero: images/31.jpeg
+languages: 🇪🇸 🇫🇷
 ---
 <span class="clarification-box">
 Voudrais-tu lire cet article en français ? <a href="/Plus-plus-plus">Trouve le ici.</a>

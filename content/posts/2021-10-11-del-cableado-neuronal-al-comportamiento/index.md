@@ -12,6 +12,7 @@ secret: false
 title: Del cableado neuronal al comportamiento
 type: post
 hero: images/36.jpg
+languages: 🇪🇸 🇬🇧
 ---
 <span class="clarification-box">
 Do you want to read this article in English? <a href="/From-neural-wiring-to-behavior">Find it here.</a>

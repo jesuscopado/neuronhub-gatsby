@@ -11,6 +11,7 @@ secret: true
 title: When the brain falls short
 type: post
 hero: images/32.jpeg
+languages: 🇪🇸 🇬🇧 
 ---
 <span class="clarification-box">
 ¿Quieres leer el artículo en español? <a href="/Cuando-el-cerebro-no-lo-es-todo">Encuéntralo aquí.</a>

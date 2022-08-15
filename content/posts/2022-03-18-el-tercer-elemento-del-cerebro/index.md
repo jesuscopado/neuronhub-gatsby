@@ -12,6 +12,7 @@ secret: false
 title: El tercer elemento del cerebro
 type: post
 hero: images/39.jpeg
+languages: 🇪🇸 🇬🇧 🇫🇷
 ---
 <span class="clarification-box">
 Do you want to read this article in English? <a href="/The-third-element-of-the-brain">Find it here.</a>

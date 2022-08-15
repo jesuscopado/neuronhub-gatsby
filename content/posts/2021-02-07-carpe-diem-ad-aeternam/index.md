@@ -13,6 +13,7 @@ excerpt: >-
   algunas personas mantienen ciertos comportamientos a pesar de que éstos
   producen claros efectos adversos.
 hero: images/30.jpg
+languages: 🇪🇸
 ---
 Los humanos somos capaces de proyectar nuestro futuro y tomar decisiones en función del mismo. A (casi) nadie se le ocurre beberse un vaso de lejía para empezar el día con fuerzas ya que (casi) todos sabemos que es una idea estúpida. Aunque no la hayamos probado, somos capaces de imaginar los resultados futuros tras ingerir esta sustancia. En el caso de la adicción, algunas personas mantienen ciertos comportamientos a pesar de que éstos producen claros efectos adversos. Es legítimo preguntarse si esto se debe a un problema a la hora de anticipar las consecuencias negativas de los mismos. 
 

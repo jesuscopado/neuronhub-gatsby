@@ -13,6 +13,7 @@ secret: true
 title: The necessity of a big picture science
 type: post
 hero: images/40.jpg
+languages: 🇪🇸 🇬🇧
 ---
 <span class="clarification-box">
 ¿Quieres leer el artículo en español? <a href="/La-necesidad-de-una-ciencia-panoramica">Encuéntralo aquí.</a>
