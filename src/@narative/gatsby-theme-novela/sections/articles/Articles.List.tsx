@@ -116,7 +116,7 @@ const ListItem: React.FC<ArticlesListItemProps> = ({ article, narrow }) => {
             {article.excerpt}
           </Excerpt>
           <MetaData>
-            {article.date} · {article.timeToRead} min read
+            {article.date} · {article.timeToRead} min read · {article.languages}
           </MetaData>
         </div>
       </Item>
@@ -333,11 +333,11 @@ const MetaData = styled.div`
   font-weight: 600;
   font-size: 16px;
   color: ${p => p.theme.colors.grey};
-  opacity: 0.33;
+  opacity: 0.66;
 
   ${mediaqueries.phablet`
     max-width: 100%;
-    padding:  0 20px 30px;
+    padding: 0 20px 30px;
   `}
 `;
 
