@@ -1,6 +1,6 @@
 ---
 excerpt: >-
-  El movimiento hippie que buscaba alterar la conciencia con drogas como el LSD
+  🇪🇸 🇬🇧 | El movimiento hippie que buscaba alterar la conciencia con drogas como el LSD
   y la marihuana coincidió en el tiempo con el pico de investigaciones que
   trataron de entender sus efectos. El descubrimiento de los receptores
   implicados en el mecanismo de acción del cannabis no sólo nos ayudó a entender

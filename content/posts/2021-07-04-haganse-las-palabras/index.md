@@ -1,6 +1,6 @@
 ---
 excerpt: >-
-  El lenguaje es lo que nos aleja del resto de animales y lo nos acerca a otros
+  🇪🇸 🇬🇧 | El lenguaje es lo que nos aleja del resto de animales y lo nos acerca a otros
   individuos de nuestra especie. Practicamos el lenguaje desde antes de haber
   nacido y lo perfeccionamos a lo largo de toda nuestra vida. El poder del
   lenguaje es tal que a partir de un número finito de elementos podemos alcanzar

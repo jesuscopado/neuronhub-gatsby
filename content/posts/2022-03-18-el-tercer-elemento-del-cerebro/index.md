@@ -1,6 +1,6 @@
 ---
 excerpt: >-
-  Os voy a contar una historia española de desamor. Érase una vez un cerebro
+  🇪🇸 🇬🇧 🇫🇷 | Os voy a contar una historia española de desamor. Érase una vez un cerebro
   reinado por un astrocito y una neurona. Espera, espera, no cierres todavía,
   que la cosa se pone interesante. La neurona era el centro de atención, se
   encargaba de la comunicación entre las diferentes partes del cerebro y entre

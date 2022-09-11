@@ -5,7 +5,7 @@ draft: false
 title: 'Más, más, más'
 type: post
 excerpt: >-
-  Tal vez la única diferencia entre las demás personas y yo es que yo siempre
+  🇪🇸 🇫🇷 | Tal vez la única diferencia entre las demás personas y yo es que yo siempre
   exigí más de la puesta de sol. Colores más espectaculares cuando el sol llega
   al horizonte. Tal vez ese sea mi único pecado.
 hero: images/31.jpeg

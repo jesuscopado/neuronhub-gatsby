@@ -1,6 +1,6 @@
 ---
 excerpt: >-
-  ¿Cómo es posible que podamos aprender algo tan sofisticado como una lengua
+  🇪🇸 | ¿Cómo es posible que podamos aprender algo tan sofisticado como una lengua
   desde una edad tan temprana? La adquisición del lenguaje es algo que no dejará
   de intrigarnos. La adquisición del vocabulario de nuestra lengua materna
   depende de la memoria implícita, ya que la inmersión es completa y por lo

@@ -1,6 +1,6 @@
 ---
 excerpt: >-
-  Voy a recordarte algo que ya sabías: la naturaleza es fascinante. ¿Quién no se
+  🇪🇸 🇬🇧 | Voy a recordarte algo que ya sabías: la naturaleza es fascinante. ¿Quién no se
   ha quedado pasmado mirando el vuelo sincronizado de los estorninos? ¿O ante la
   habilidad de las arañas tejiendo sus telas? No menos impresionantes son los
   bailes de las abejas para comunicarse entre ellas cuando encuentran una fuente

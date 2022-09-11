@@ -1,6 +1,6 @@
 ---
 excerpt: >-
-  La voz griega enteron significa intestino. Ya sabes que el intestino es esa
+  🇪🇸 🇬🇧 🇫🇷 | La voz griega enteron significa intestino. Ya sabes que el intestino es esa
   parte del sistema digestivo situada entre el estómago y el ano en la que tiene
   lugar parte de la absorción de nutrientes a partir de los alimentos que
   ingerimos. 

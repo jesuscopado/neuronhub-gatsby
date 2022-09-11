@@ -1,6 +1,6 @@
 ---
 excerpt: >-
-  Hace más de cuatro mil doscientos millones de años comenzaron a surgir las
+  🇪🇸 🇬🇧 | Hace más de cuatro mil doscientos millones de años comenzaron a surgir las
   primeras formas de vida en las fuentes hidrotermales del fondo de los océanos:
   los microorganismos procariotas antepasados de las bacterias. Esto ocurrió tan
   solo doscientos sesenta mil años después de que se originara la Tierra. En

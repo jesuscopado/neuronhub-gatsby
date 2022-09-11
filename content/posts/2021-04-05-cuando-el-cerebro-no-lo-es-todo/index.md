@@ -5,7 +5,7 @@ draft: false
 title: Cuando el cerebro no lo es todo
 type: post
 excerpt: >-
-  En el estudio del comportamiento humano, es inevitable pasar por experiencias
+  🇪🇸 🇬🇧 | En el estudio del comportamiento humano, es inevitable pasar por experiencias
   in vitro, o estudios con células, tejidos u órganos. Incluso a veces es
   necesario pasar por modelos computacionales. La neurociencia puede tener
   numerosas ramificaciones que abordan diferentes aspectos de la conducta.

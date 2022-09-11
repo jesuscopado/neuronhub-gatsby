@@ -1,6 +1,6 @@
 ---
 excerpt: >-
-  Nuestro cerebro representa solo un 2% de nuestro peso. Sin embargo,
+  🇪🇸 🇬🇧 🇫🇷 | Nuestro cerebro representa solo un 2% de nuestro peso. Sin embargo,
   paradójicamente consume el 20% de nuestra energía disponible. Así que es un
   órgano relativamente pequeño pero muy caro energéticamente. 
 draft: false
