@@ -15,7 +15,7 @@ Do you want to read this article in English? <a href="/Hahaha">Find it here.</a>
 
 *En la vida todo es pasajero menos el chófer.*
 
-¿Qué es el humor? ¿Por qué nos reímos cuando nos cuentan un chiste? ¿Por qué sentimos algo similar a un cosquilleo en el cerebro cuando escuchamos un juego de palabras? A veces un enunciado corto como el del chófer basta para provocarnos la risa. Sentimos una sensación de recompensa cuando descubrimos nuestro error de razonamiento al pensar que *pasajero* era un sinónimo de temporal (cuando leímos *todo es pasajero…*). Basta con terminar la frase (…*menos el chófer)* para descubrir que *pasajero* hacía referencia a una *persona que viaja*. Pero el humor no se limita a los juegos de palabras.
+¿Qué es el humor? ¿Por qué nos reímos cuando nos cuentan un chiste? ¿Por qué sentimos algo similar a un cosquilleo en el cerebro cuando escuchamos un juego de palabras? A veces un enunciado corto como el del chófer basta para provocarnos la risa. Sentimos una sensación de recompensa cuando descubrimos nuestro error de razonamiento al pensar que *pasajero* era un sinónimo de *temporal* (cuando leímos *todo es pasajero…*). Basta con terminar la frase (…*menos el chófer)* para descubrir que *pasajero* hacía referencia a una *persona que viaja*. Pero el humor no se limita a los juegos de palabras.
 
 *Un investigador inglés, uno francés y otro español se encuentran en un bar, y cuando los primeros se sientan el español les pregunta: ¿qué van a tomar?*
 
