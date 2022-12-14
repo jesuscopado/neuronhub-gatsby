@@ -10,7 +10,7 @@ secret: true
 title: What does a brain eat?
 type: post
 hero: images/37.jpeg
-languages: 🇪🇸 🇬🇧 🇫🇷
+languages: "\U0001F1EA\U0001F1F8 \U0001F1EC\U0001F1E7 \U0001F1EB\U0001F1F7"
 ---
 <span class="clarification-box">
 ¿Quieres leer el artículo en español? <a href="/Que-come-un-cerebro">Encuéntralo aquí.</a>
@@ -78,6 +78,6 @@ LP: You may not like my answer. In research many young people are solicited, but
 
 LP: I am going to recommend a book entitled *Discovering*, written by Robert Scott Root-Bernstein. It was given to me as a gift by a friend who was doing her thesis when I was defending mine, just before doing my postdoc. It's a reflection on what makes some scientists make discoveries and others don't. What is the role of education, the way one is trained or the approach to science, in success? There was a chapter on affiliation. If you look at Nobel Prize winners, there are often connections. People who come from the same laboratory pass on their knowledge to others, and then to others, and so on. The idea is that there is a certain way of conceiving scientific research. And since this vision is passed on from generation to generation in the same laboratory, this predisposes them to have a higher probability of making an important discovery. He also explains that among the Nobel laureates, many people had other passions besides science. For example, there are many musicians.
 
-**JGR: would you like to share a message with the readers?**
+**JGR: Would you like to share a message with the readers?**
 
 LP: The important thing, in my opinion, is to enjoy science all the time. It is a difficult career. Don't expect recognition from your environment, from your academic environment, from your hierarchy. Your reward should come from the pleasure you get from doing what you do. This has been my leitmotiv from the beginning. I had been hoping for a long time that at some point there would be recognition from my colleagues, but I realized that it doesn't work that way. It would be a shame to sacrifice your whole career trying to get this prestige, knowing that it may never happen, and that you've really sacrificed and put in a lot of time and not really enjoyed it. The idea is that you have to have fun doing research, really do what interests you, and not do it because others ask you to or because you want to please those who fund you. Pursue your interests, pursue what motivates you.
