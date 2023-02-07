@@ -2,16 +2,7 @@
 title: Primera persona del plural
 author: Juan García Ruiz
 date: '2023-02-07'
-excerpt: >-
-  Si te pregunto por el origen de la civilización, quizá se te vengan a la
-  cabeza distintas regiones como Mesopotamia (el actual Irak), el Antiguo
-  Egipto, el Valle del Indo (actual noroeste de India y Pakistán) o China, que
-  fueron la cuna de las primeras organizaciones humanas en sociedad. Hace 4000 o
-  5000 años los humanos que habitaban estas regiones desarrollaron complejos
-  sistemas sociales, políticos y económicos, y comenzó a surgir la división del
-  trabajo. Pensaste algo así, ¿verdad? No está mal tirado, uno podría pensar que
-  estas son las primeras civilizaciones de la historia. Salvo por el hecho de
-  que no es así en absoluto. 
+excerpt: "\U0001F1EA\U0001F1F8 \U0001F1EC\U0001F1E7 | Si te pregunto por el origen de la civilización, quizá se te vengan a la cabeza distintas regiones como Mesopotamia (el actual Irak), el Antiguo Egipto, el Valle del Indo (actual noroeste de India y Pakistán) o China, que fueron la cuna de las primeras organizaciones humanas en sociedad. Hace 4000 o 5000 años los humanos que habitaban estas regiones desarrollaron complejos sistemas sociales, políticos y económicos, y comenzó a surgir la división del trabajo. Pensaste algo así, ¿verdad? No está mal tirado, uno podría pensar que estas son las primeras civilizaciones de la historia. Salvo por el hecho de que no es así en absoluto. "
 hero: >-
   images/eyj0exaioijkv1qilcjhbgcioijiuzi1nij9.eyjpbsi6wyjcl2fydhdvcmtcl2ltywdlrmlszvwvyje2nta1ymexntuwmdg4zwizn2q1ody5n2ixmzcxndmuanbniiwicmvzaxplldiwmdasmjawmcjdfq.zexs_biz7s0ubqly8ulzx5qbgpci0fdu0lqestt90mu.jpg
 ---
