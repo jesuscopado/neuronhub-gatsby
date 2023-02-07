@@ -16,7 +16,7 @@ hero: >-
   images/eyj0exaioijkv1qilcjhbgcioijiuzi1nij9.eyjpbsi6wyjcl2fydhdvcmtcl2ltywdlrmlszvwvyje2nta1ymexntuwmdg4zwizn2q1ody5n2ixmzcxndmuanbniiwicmvzaxplldiwmdasmjawmcjdfq.zexs_biz7s0ubqly8ulzx5qbgpci0fdu0lqestt90mu.jpg
 ---
 <span class="clarification-box">
-Do you want to read this article in English? <a href="/First person plural">Find it here.</a>
+Do you want to read this article in English? <a href="/First-person-plural">Find it here.</a>
 </span>
 
 Si te pregunto por el origen de la civilización, quizá se te vengan a la cabeza distintas regiones como Mesopotamia (el actual Irak), el Antiguo Egipto, el Valle del Indo (actual noroeste de India y Pakistán) o China, que fueron la cuna de las primeras organizaciones humanas en sociedad. Hace 4000 o 5000 años los humanos que habitaban estas regiones desarrollaron complejos sistemas sociales, políticos y económicos, y comenzó a surgir la división del trabajo.
