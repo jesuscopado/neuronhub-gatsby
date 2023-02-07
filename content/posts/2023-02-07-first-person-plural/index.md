@@ -3,16 +3,7 @@ title: First person plural
 author: Juan García Ruiz
 date: '2023-02-07'
 secret: true
-excerpt: >-
-  If I ask you about the origin of civilization, you may first think of
-  different regions such as the Mesopotamian (the modern-day Iraq), Ancient
-  Egypt, the Indus Valley (current northwest India and Pakistan) or China, which
-  were the birthplace of the earliest human organization as a society. These are
-  the regions in which 4000 or 5000 years ago, humans started developing complex
-  social, political, and economic systems. Besides, it is the origin of human
-  division of labor. You guessed something like that, didn’t you? Not a bad
-  attempt to guess the first civilization ever, except for the fact that you are
-  completely wrong!
+excerpt: "\U0001F1EA\U0001F1F8 \U0001F1EC\U0001F1E7 | If I ask you about the origin of civilization, you may first think of different regions such as the Mesopotamian (the modern-day Iraq), Ancient Egypt, the Indus Valley (current northwest India and Pakistan) or China, which were the birthplace of the earliest human organization as a society. These are the regions in which 4000 or 5000 years ago, humans started developing complex social, political, and economic systems. Besides, it is the origin of human division of labor. You guessed something like that, didn’t you? Not a bad attempt to guess the first civilization ever, except for the fact that you are completely wrong!"
 hero: >-
   images/eyj0exaioijkv1qilcjhbgcioijiuzi1nij9.eyjpbsi6wyjcl2fydhdvcmtcl2ltywdlrmlszvwvyje2nta1ymexntuwmdg4zwizn2q1ody5n2ixmzcxndmuanbniiwicmvzaxplldiwmdasmjawmcjdfq.zexs_biz7s0ubqly8ulzx5qbgpci0fdu0lqestt90mu.jpg
 ---
