@@ -7,7 +7,15 @@ hero: images/the-lovers.jpeg
 ---
 <span class="clarification-box"> Do you want to read this article in English? <a href="/I-see-therefore-I-want">Find it here.</a> </span>
 
-*El hombre puede hacer lo que desea, pero no puede elegir lo que desea.*Arthur Schopenhauer
+<div style="text-align: center;">
+
+_El hombre puede hacer lo que desea, pero no puede elegir lo que desea._
+
+A﻿rthur Schopenhauer
+
+
+</div>
+<br>
 
 ¿Alguna vez has sentido que no valoran tu trabajo como deberían? ¿Se han acostumbrado a que hagas las cosas bien y ya? No es agradable, ¿verdad? ¡Pues tú haces lo mismo! ¡Infravaloras el trabajo que hace tu cerebro cada día, desde que sales de la cama hasta que vuelves a ella! Me explico. ¿Alguna vez te has parado a pensar en la cantidad de cosas que tu cerebro tiene en cuenta cuando te preguntan*qué tal estás*? Es una pregunta demasiado vaga. Sin embargo, la respuesta a veces puede ser simple. Tan simple como una sola palabra.*Bien. Mal. Tirando*. ¡Pero esto no quiere decir que nuestro cerebro sea un vago! La realidad es que hay una gran cantidad de procesamiento detrás de estas palabras tan simples. ¿Qué hace tu cerebro cuando dices que estás*bien*?
 
