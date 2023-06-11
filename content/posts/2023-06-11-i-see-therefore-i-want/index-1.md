@@ -2,6 +2,7 @@
 title: 'I see, therefore I want'
 author: Juan García Ruiz
 date: '2023-06-11'
+secret: true
 excerpt: >-
   Have you ever felt that they don’t value your work as much as they should?
   Have you felt that they’ve gotten used to you just doing things right? If so,
