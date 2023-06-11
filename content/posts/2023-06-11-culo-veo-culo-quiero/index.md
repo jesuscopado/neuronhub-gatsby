@@ -2,10 +2,7 @@
 title: 'Culo veo, culo quiero'
 author: Juan García Ruiz
 date: '2023-06-11'
-excerpt: >-
-  ¿Alguna vez has sentido que no valoran tu trabajo como deberían? ¿Se han
-  acostumbrado a que hagas las cosas bien y ya? No es agradable, ¿verdad? ¡Pues
-  tú haces lo mismo!
+excerpt: "\U0001F1EA\U0001F1F8 \U0001F1EC\U0001F1E7 | ¿Alguna vez has sentido que no valoran tu trabajo como deberían? ¿Se han acostumbrado a que hagas las cosas bien y ya? No es agradable, ¿verdad? ¡Pues tú haces lo mismo!"
 hero: images/the-lovers.jpeg
 ---
 <span class="clarification-box"> Do you want to read this article in English? <a href="/I-see-therefore-I-want">Find it here.</a> </span>
