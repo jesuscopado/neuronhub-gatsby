@@ -15,7 +15,7 @@ hero: images/41.jpg
 languages: "\U0001F1EA\U0001F1F8 \U0001F1EC\U0001F1E7"
 ---
 <span class="clarification-box">
-¿Quieres leer el artículo en español? <a href="/Jajaja">Encuéntralo aquí.</a>
+¿Quieres leer el artículo en español? <a href="/Culo-veo-culo-quiero">Encuéntralo aquí.</a>
 </span>
 
 *What is Beethoven doing right now? De-composing.*
