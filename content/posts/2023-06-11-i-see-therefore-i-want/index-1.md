@@ -8,11 +8,14 @@ hero: images/the-lovers.jpeg
 ---
 <span class="clarification-box"> ¿Quieres leer el artículo en español? <a href="/Culo-veo-culo-quiero">Encuéntralo aquí.</a> </span>
 
-*A man can do what he wills but cannot will what he wills*\
+<div style="text-align: center;">
+
+_A man can do what he wills but cannot will what he wills._\
+<br>
 Arthur Schopenhauer
 
-
-
+</div>
+<br>
 Have you ever felt that they don’t value your work as much as they should? Have you felt that they’ve gotten used to you just doing things right? If so, you’ll agree that it’s not nice. Well, you do the same thing! You undervalue the work your brain does inside your skull day in and day out, from the time you get out of bed until you get back into it! Just stop to think about how many things your brain ponders when someone asks you how you are doing. It’s a vague question, too vague. But yes, it’s true that the answer can be simple. Sometimes, if you don’t feel like talking, a couple of words is enough. *Doing well*. *Doing bad*. *Getting by.* But it doesn’t mean that your brain is a lazy ass! The reality is that there is a great deal of processing behind these simple words. Then, what do you mean when you say you’re *fine*?
 
 When you are asked *how you are doing* you are asked about your *current state*. That’s to say, whatever you are experiencing at the very moment you are asked the question. Where you are, what you see, what you hear, how healthy you are, how cold, hot, hungry or thirsty you are. But your current state is also everything that happened to you lately with your loved ones and friends, how was work, how well or badly you slept the night before, or how badly you need holidays.
