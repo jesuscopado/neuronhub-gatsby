@@ -10,7 +10,7 @@ excerpt: >-
 hero: images/the-lovers-magritte.jpeg
 ---
 <span class="clarification-box">
-Do you want to read this article in English? <a href="/C﻿ulo-veo-culo-quiero">Find it here.</a>
+¿Quieres leer el artículo en español? <a href="/Culo-veo-culo-quiero">Encuéntralo aquí.</a>
 </span>
 
 *A man can do what he wills but cannot will what he wills*\
