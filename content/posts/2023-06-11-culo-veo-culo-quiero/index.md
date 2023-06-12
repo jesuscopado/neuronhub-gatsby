@@ -98,7 +98,7 @@ MA: Yo fui el primer doctorando bajo su tutela, así que quizá estaba en su pun
 
 **JGR: ¿Qué define a un buen científico?**
 
-MA: Creo que la ciencia es dura y no siempre apreciada por la sociedad o los gobiernos. Pero es un privilegio increíble levantarse por la mañana y saber que tu trabajo es averiguar cómo funciona algo. En mi opinión, un científico más realizado y, probablemente, más productivo, es aquel que valora este regalo de poder centrar su vida en el descubrimiento. Aquellos que lo valoran tanto, que lo consideran el pago número uno.
+MA: Creo que la ciencia es dura y no siempre apreciada por la sociedad o los gobiernos. Pero es un privilegio increíble levantarse por la mañana y saber que tu trabajo es averiguar cómo funciona algo. En mi opinión, un científico más realizado y, probablemente, más productivo, es aquel que valora este regalo de poder centrar su vida en el descubrimiento. Aquel que lo valora tanto que lo considera el pago número uno.
 
 **JGR: Voy a hacer de abogado del diablo para ponerte a prueba. La investigación es cara. A veces requiere el uso de animales. Y a veces es difícil verle sentido, sobre todo cuando ves que se hacen muchos esfuerzos que parecen vanos. Por ejemplo, en la cura de enfermedades. Pero no sólo en términos de investigación clínica: es difícil dar sentido a la investigación fundamental porque no aporta resultados inmediatos. ¿Qué opinas al respecto?**
 
