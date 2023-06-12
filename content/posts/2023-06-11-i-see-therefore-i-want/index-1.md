@@ -8,9 +8,8 @@ hero: images/the-lovers.jpeg
 ---
 <span class="clarification-box"> ¿Quieres leer el artículo en español? <a href="/Culo-veo-culo-quiero">Encuéntralo aquí.</a> </span>
 
+*A man can do what he wills but cannot will what he wills.*
 
-
-_A man can do what he wills but cannot will what he wills._ \
 Arthur Schopenhauer
 
 
