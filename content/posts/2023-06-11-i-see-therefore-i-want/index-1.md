@@ -10,7 +10,7 @@ hero: images/the-lovers.jpeg
 
 
 
-_A man can do what he wills but cannot will what he wills._\
+_A man can do what he wills but cannot will what he wills._ \
 Arthur Schopenhauer
 
 
