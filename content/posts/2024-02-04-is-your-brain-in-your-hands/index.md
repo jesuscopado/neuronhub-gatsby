@@ -2,6 +2,7 @@
 title: Is your brain in your hands?
 author: Juan García Ruiz
 date: '2024-02-04'
+secret: true
 excerpt: "\U0001F1EA\U0001F1F8 \U0001F1EC\U0001F1E7 | There is a great cliché that says that we are all the same. And another one that says that each person is unique. But what does biology say about this?"
 hero: >-
   images/under-the-wave-off-kanagawa-kanagawa-oki-nam-the-metropolitan-museum-of-art_96feb835_230316165140_1280x860.jpg
