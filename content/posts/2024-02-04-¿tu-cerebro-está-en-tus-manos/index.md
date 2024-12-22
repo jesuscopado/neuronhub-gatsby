@@ -2,7 +2,7 @@
 title: ¿Tu cerebro está en tus manos?
 author: Juan García Ruiz
 date: '2024-02-04'
-excerpt: "\U0001F1EA\U0001F1F8 \U0001F1EC\U0001F1E7 | Existe un gran cliché que dice que todos somos iguales. Y otro que dice que cada persona es un mundo. Pero ¿qué dice la biología al respecto? "
+excerpt: "\U0001F1EA\U0001F1F8 \U0001F1EC\U0001F1E7 | Existe un gran cliché que dice que todos somos iguales. Y otro que dice que cad persona es un mundo. Pero ¿qué dice la biología al respecto? "
 hero: >-
   images/under-the-wave-off-kanagawa-kanagawa-oki-nam-the-metropolitan-museum-of-art_96feb835_230316165140_1280x860.jpg
 ---
