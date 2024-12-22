@@ -1,10 +1,5 @@
 ---
-excerpt: >-
-  Why do we laugh when we hear a joke? Why do we feel our brains tingle when we
-  hear a pun? Sometimes a short statement like Beethoven’s is enough to make us
-  laugh. We feel a sense of reward when we discover that decomposing could refer
-  to body decay or to the antonym of composing music. But humor is more than
-  puns.
+excerpt: "\U0001F1EA\U0001F1F8 \U0001F1EC\U0001F1E7 | Why do we laugh when we hear a joke? Why do we feel our brains tingle when we hear a pun? Sometimes a short statement like Beethoven’s is enough to make us laugh. We feel a sense of reward when we discover that decomposing could refer to body decay or to the antonym of composing music. But humor is more than puns."
 draft: false
 author: Juan García Ruiz
 date: 2022-10-12T00:00:00.000Z
