@@ -7,15 +7,9 @@ excerpt: >-
   chirping and singing of my best neighbors: songbirds. 
 hero: images/unnamed-1-.jpg
 ---
-<!--StartFragment-->
-
-<!-- wp:paragraph -->
+<span class="clarification-box"> ¿Quieres leer el artículo en español? <a href="/La-bonita-melodia-de-la-vida">Encuéntralo aquí.</a> </span>
 
 One of my most joyful moments is waking up early on summer mornings to the chirping and singing of my best neighbors: songbirds. As an amateur piano player, I often feel frustrated that I cannot carry my instrument with me wherever I go. This only deepens my fascination with these winged musical machines, which carry their instruments within their bodies and make up half of the total bird population. Of course, it is far less romantic to realize that their songs are not the analog of an artistic solo in the shower or a soprano recital at Carnegie Hall; instead, they are simply a way of marking territory or a scheme to flirt.
-
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
 
 How wonderful would it be if men on the streets of Paris adopted the seduction strategies of songbirds, rather than their usual whistling or out-of-context dirty talk? But unfortunately, we are far from singing like them (sorry, Anna Netrebko). Unlike us, songbirds possess a specialized vocal organ called the syrinx, which can produce multiple tones simultaneously thanks to its two sound sources. Songbirds control this syrinx through the coordination of respiratory muscles, syringeal muscles, and airflow. They also have a dedicated brain circuitry that involves motor areas, and something called the anterior forebrain pathway, which enables them to learn songs and adjust them.
 
