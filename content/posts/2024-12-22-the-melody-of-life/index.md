@@ -4,7 +4,7 @@ author: Juan García Ruiz
 date: '2024-12-22'
 secret: true
 excerpt: "\U0001F1EA\U0001F1F8 \U0001F1EC\U0001F1E7 | One of my most joyful moments is waking up early on summer mornings to the chirping and singing of my best neighbors: songbirds."
-hero: images/unnamed-edit.jpg
+hero: images/jack-vettriano-the-singing-butler-1-.jpg
 ---
 <span class="clarification-box"> ¿Quieres leer el artículo en español? <a href="/La-bonita-melodia-de-la-vida">Encuéntralo aquí.</a> </span>
 
