@@ -1,13 +1,5 @@
 ---
-excerpt: >-
-  🇪🇸 🇬🇧 | El movimiento hippie que buscaba alterar la conciencia con drogas como el LSD
-  y la marihuana coincidió en el tiempo con el pico de investigaciones que
-  trataron de entender sus efectos. El descubrimiento de los receptores
-  implicados en el mecanismo de acción del cannabis no sólo nos ayudó a entender
-  cómo nos afectaba la marihuana, sino que también nos llevó a descubrir un
-  sistema de modulación nerviosa crucial implicado en múltiples funciones
-  fisiológicas como el aprendizaje, la memoria, el sueño y la ingesta de
-  alimentos. 
+excerpt: "\U0001F1EA\U0001F1F8 \U0001F1EC\U0001F1E7 | El movimiento hippie que buscaba alterar la conciencia con drogas como el LSD y la marihuana coincidió en el tiempo con el pico de investigaciones que trataron de entender sus efectos."
 draft: false
 author: Juan García Ruiz
 date: 2022-07-26T00:00:00.000Z
@@ -15,7 +7,7 @@ secret: false
 title: La necesidad de una ciencia panorámica
 type: post
 hero: images/40.jpg
-languages: 🇪🇸 🇬🇧
+languages: "\U0001F1EA\U0001F1F8 \U0001F1EC\U0001F1E7"
 ---
 <span class="clarification-box">
 Do you want to read this article in English? <a href="/The-necessity-of-a-big-picture-science">Find it here.</a>
