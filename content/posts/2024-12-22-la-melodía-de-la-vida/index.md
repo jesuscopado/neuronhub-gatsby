@@ -5,7 +5,7 @@ date: '2024-12-22'
 excerpt: "\U0001F1EA\U0001F1F8 \U0001F1EC\U0001F1E7 | Uno de mis momentos más felices es despertarme temprano en verano con el canto de mis mejores vecinos: los pájaros cantores. "
 hero: images/unnamed-edit.jpg
 ---
-
+<span class="clarification-box"> Do you want to read this article in English? <a href="/The-beautiful-melody-of-life">Find it here.</a> </span>
 
 Uno de mis momentos más felices es despertarme temprano en verano con el canto de mis mejores vecinos: los pájaros cantores. Como pianista aficionado, a menudo me siento frustrado por no poder llevar mi instrumento conmigo a todas partes. Esto no hace más que aumentar mi fascinación por estas máquinas musicales aladas, que llevan sus instrumentos dentro del cuerpo y constituyen la mitad de la población total de aves. Por supuesto, es mucho menos romántico darse cuenta de que sus cantos no son el análogo de un solo artístico en la ducha o un recital de soprano en el Carnegie Hall. Lo cierto es que es simplemente una forma de marcar territorio o de ligar.
 
