@@ -17,9 +17,9 @@ En definitiva, que los pájaros cantores son un excelente modelo animal para est
 
 **Juan García Ruiz: ¿Qué podemos aprender de los pájaros cantores como humanos?**
 
-Richard Hahnloser: Los pájaros cantores tienen habilidades vocales fantásticas. Aunque tienen una laringe como nosotros, no la usan para cantar, sino que usan un órgano especializado llamado siringe. Tal vez por eso son tan buenos imitando sonidos. Tal vez no podamos extraer demasiado de la forma en que estas aves producen el sonido porque no tenemos el mismo órgano vocal, pero sí que podemos aprender sobre el mecanismo evolutivo que les ha permitido imitarse entre sí, cómo funciona esta imitación vocal, y cómo aprenden escuchando a los adultos. Algunas de estas cosas son difíciles de estudiar en humanos, porque no podemos experimentar con bebés. Entonces algunas respuestas sobre lo que sucede en los primeros años de vida de un bebé se pueden encontrar en las aves.
+Richard Hahnloser: Los pájaros cantores tienen habilidades vocales fantásticas. Aunque tienen una laringe como nosotros, no la usan para cantar, sino que usan un órgano especializado llamado siringe. Por eso son tan buenos imitando sonidos. Tal vez no podamos extraer demasiado de la forma en que estas aves producen el sonido porque no tenemos el mismo órgano vocal, pero sí que podemos aprender sobre el mecanismo evolutivo que les ha permitido imitarse entre sí, cómo funciona esta imitación vocal, y cómo aprenden escuchando a los adultos. Algunas de estas cosas son difíciles de estudiar en humanos, porque no podemos experimentar con bebés. Entonces algunas respuestas sobre lo que sucede en los primeros años de vida de un bebé se pueden encontrar en las aves.
 
-**JGR: ¿La imitación es siempre necesaria para que estos pájaros aprendan a cantar? ¿Podría un ave cantar estando completamente aislada otros miembros de la colonia?**
+**JGR: ¿La imitación es siempre necesaria para que estos pájaros aprendan a cantar? ¿Podría un ave cantar estando completamente aislada de otros miembros de la colonia?**
 
 RH: Los pájaros tan solo quieren cantar algo. Pero para ello necesitan ser enseñados. Necesitan un modelo. De otra forma, serían capaces de cantar igualmente, pero sonaría extraño. No sería un sonido estereotipado y limpio.
 
