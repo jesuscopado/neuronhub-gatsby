@@ -2,6 +2,7 @@
 title: The beautiful melody of life
 author: Juan García Ruiz
 date: '2024-12-22'
+secret: yes
 excerpt: "\U0001F1EA\U0001F1F8 \U0001F1EC\U0001F1E7 | One of my most joyful moments is waking up early on summer mornings to the chirping and singing of my best neighbors: songbirds."
 hero: images/unnamed-edit.jpg
 ---
