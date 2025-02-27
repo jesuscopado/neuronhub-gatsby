@@ -2,6 +2,9 @@
 title: Back to the stem
 author: Juan García Ruiz
 date: '2025-02-27'
+excerpt: >-
+  Yamanaka and Gurdon challenged one of the most fundamentals laws of biology:
+  aging.
 hero: images/the-floor-planers-by-caillebotte-15840.png
 ---
 <span class="clarification-box">
