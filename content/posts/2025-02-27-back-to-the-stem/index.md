@@ -3,9 +3,7 @@ title: Back to the stem
 author: Juan García Ruiz
 date: '2025-02-27'
 secret: true
-excerpt: >-
-  Yamanaka and Gurdon challenged one of the most fundamentals laws of biology:
-  aging.
+excerpt: "\U0001F1EA\U0001F1F8 \U0001F1EC\U0001F1E7 | Yamanaka and Gurdon challenged one of the most fundamentals laws of biology: aging."
 hero: images/the-floor-planers-by-caillebotte-15840.png
 ---
 <span class="clarification-box">
@@ -16,7 +14,7 @@ I am sure you know who Benjamin Button is. But do you know Shinya Yamanaka? Unli
 
 What is your point, Juan? What does Benjamin Button have to do with Professor Yamanaka and his Nobel Prize? ― You mentally ask. Yamanaka (along with Gurdon and the many researchers that worked under their guidance or collaborated with them) has come closer than anyone to making the curious case of the case of Benjamin Button a reality. They challenged one of the most fundamentals laws of biology: aging. They showed with their research that mature cells could be reprogrammed into stem cells.
 
-<span class="clarification-box"> <b>Keyword: stem cell:</b> Stem cells are immature, undifferentiated cells with the great ability to both proliferate and generate a wide range of specialized cell types. This potential allows them to contribute to tissue development, regeneration, and repair. </span>
+<span class="clarification-box"> <b>Stem cell:</b> Stem cells are immature, undifferentiated cells with the great ability to both proliferate and generate a wide range of specialized cell types. This potential allows them to contribute to tissue development, regeneration, and repair. </span>
 
 But how this whole rejuvenating mature cells actually work? What the researchers I mentioned earlier discovered in 2006 was that introducing a specific set of genes (known today as*Yamanaka factors*) into differentiated cells could reprogram them back into a pluripotent state. These genes encode transcription factors that play key roles in gene stability, cell self-renewal, and survival.
 
