@@ -2,9 +2,7 @@
 title: Células desde cero
 author: Juan García Ruiz
 date: '2025-02-27'
-excerpt: >-
-  Yamanaka y Gurdon desafiaron una de las leyes más fundamentales de la
-  biología: el envejecimiento.
+excerpt: "\U0001F1EA\U0001F1F8 \U0001F1EC\U0001F1E7 | Yamanaka y Gurdon desafiaron una de las leyes más fundamentales de la biología: el envejecimiento."
 hero: images/the-floor-planers-by-caillebotte-15840.png
 ---
 <span class="clarification-box"> Do you want to read this article in English? <a href="/Back-to-the-stem">Find it here.</a> </span>
@@ -13,7 +11,7 @@ Seguro que sabes quién es Benjamin Button. Pero, ¿conoces a Shinya Yamanaka? A
 
 Ahora bien, ¿qué tiene que ver Benjamin Button con el profesor Yamanaka y su Premio Nobel? Te lo explico: Yamanaka (junto con Gurdon y un gran número de investigadores que trabajaron con ellos) logró algo que parecía imposible. Demostró que las células maduras pueden reprogramarse para volver a un estado similar al embrionario, desafiando así una de las reglas más fundamentales de la biología: el envejecimiento celular.
 
-<span class="clarification-box"> <b>Palabra clave: célula madre:</b>Las células madre son células inmaduras e indiferenciadas con gran capacidad para proliferar y generar una amplia gama de tipos celulares especializados. Este potencial les permite contribuir al desarrollo, la regeneración y la reparación de los tejidos. </span>
+<span class="clarification-box"> <b>Células madre:</b> células inmaduras e indiferenciadas con gran capacidad para proliferar y generar una amplia gama de tipos celulares especializados. Este potencial les permite contribuir al desarrollo, la regeneración y la reparación de los tejidos. </span>
 
 Pero, ¿cómo funciona realmente todo esto de rejuvenecer las células maduras? Lo que los investigadores que he mencionado antes descubrieron en 2006 fue que la introducción de un conjunto específico de genes (conocidos como*factores Yamanaka*) en células diferenciadas podía reprogramarlas de nuevo a un estado pluripotente. Estos genes codifican factores de transcripción que desempeñan papeles clave en la estabilidad de los genes, la autorrenovación celular y la supervivencia.
 
