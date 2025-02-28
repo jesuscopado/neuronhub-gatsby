@@ -19,16 +19,8 @@ module.exports = {
     },
     social: [
       {
-        name: `twitter`,
-        url: `https://twitter.com/_neuronhub`,
-      },
-      {
         name: `linkedin`,
         url: `https://www.linkedin.com/company/neuronhub/`,
-      },
-      {
-        name: `facebook`,
-        url: `https://www.facebook.com/neuronhub.org/`,
       },
     ],
   },
