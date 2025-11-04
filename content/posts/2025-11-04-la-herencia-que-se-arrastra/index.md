@@ -2,9 +2,11 @@
 title: La herencia que se arrastra
 author: Juan García Ruiz
 date: '2025-11-04'
-excerpt: "Los\_biólogos\_de hoy en día,\_especialmente los que estudian la epigenética, están descubriendo que el entorno puede influir en la herencia."
+excerpt: "\U0001F1EA\U0001F1F8 \U0001F1EC\U0001F1E7 | Los\_biólogos\_de hoy en día,\_especialmente los que estudian la epigenética, están descubriendo que el entorno puede influir en la herencia."
 hero: images/matisse-la-danse.jpg
 ---
+<span class="clarification-box"> Do you want to read this article in English? <a href="/Like-father-like-worm">Find it here.</a> </span>
+
 Darwin suele ser considerado el padre de la evolución. En la escuela aprendemos que Darwin dio en el clavo con su teoría de la evolución, mientras que Lamarck estaba claramente equivocado al proponer que las especies podían heredar caracteres adquiridos. Ya sabes, la historia de las jirafas que estiran el cuello para alcanzar las hojas de los árboles altos, y que luego transmiten ese cuello más largo a su descendencia. Así que, según lo que aprendemos, Darwin es un genio y Lamarck un ignorante. ¿Qué hay de cierto en todo esto? 
 
 La realidad es que ambos fueron brillantes. Y este tema merece un poco de justicia histórica: Lamarck no fue el único que propuso la herencia de los caracteres adquiridos, sino que era una suposición compartida en su época. Él la mencionó en su obra, pero no era una idea distintiva de su teoría, ni creía en ella más que el propio Darwin. Por tanto, hacer una distinción tajante entre ambos no tiene mucho sentido, ya que los dos aceptaban esa idea. La verdadera diferencia es que Darwin hizo aportaciones fundamentales con sus conceptos de selección natural, variación y adaptación a las presiones del entorno. Pero Lamarck también tuvo ideas muy importantes, como la transformación gradual de las especies y la influencia del ambiente en la forma de los organismos. 
