@@ -2,6 +2,7 @@
 title: 'Like father, like worm'
 author: Juan García Ruiz
 date: '2025-11-04'
+secret: true
 excerpt: "\U0001F1EA\U0001F1F8 \U0001F1EC\U0001F1E7 | Today, modern biologists, especially those studying epigenetics, are finding that the environment can influence heredity."
 hero: images/matisse-la-danse.jpg
 ---
