@@ -97,7 +97,7 @@ I think we’ll move toward publishing preprints, and journals and editors will 
 OR: Yes, a few actually. It’s not exactly a science book, and it’s a bit controversial, but it’s related to transgenerational inheritance. It’s an excellent book called The Case of the Midwife Toad by Arthur Koestler, about a rather infamous scientist named Paul Kammerer. Another great one is The Common Thread by John Sulston. It’s about the race to sequence the human genome, and it’s really fantastic. And of course, there’s the classic What Is Life? by Erwin Schrödinger.
 
 <h4><button type="button" class="collapsible">References</button></h4>
-<div class="content"
+<div class="content">
 
 Chen, X., & Rechavi, O. (2021). Plant and animal small RNA communications between cells and organisms. Nature Reviews Molecular Cell Biology, 23(3), 185-203. https://doi.org/10.1038/s41580-021-00425-y
 
@@ -106,3 +106,5 @@ Houri-Ze’evi, L., Korem, Y., Sheftel, H., Faigenbloom, L., Toker, I. A., Dagan
 Posner, R., Toker, I. A., Antonova, O., Star, E., Anava, S., Azmon, E., Hendricks, M., Bracha, S., Gingold, H., & Rechavi, O. (2019). Neuronal small RNAs control behavior transgenerationally. Cell, 177(7), 1814-1826.e15. https://doi.org/10.1016/j.cell.2019.04.029
 
 Toker, I. A., Lev, I., Mor, Y., Gurevich, Y., Fisher, D., Houri-Zeevi, L., Antonova, O., Doron, H., Anava, S., Gingold, H., Hadany, L., Shaham, S., & Rechavi, O. (2022). Transgenerational inheritance of sexual attractiveness via small RNAs enhances evolvability in C. elegans. Developmental Cell, 57(3), 298-309.e9. https://doi.org/10.1016/j.devcel.2022.01.005
+
+</div>
