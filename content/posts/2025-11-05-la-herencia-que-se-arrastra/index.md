@@ -103,3 +103,5 @@ Houri-Ze’evi, L., Korem, Y., Sheftel, H., Faigenbloom, L., Toker, I. A., 
 Posner, R., Toker, I. A., Antonova, O., Star, E., Anava, S., Azmon, E., Hendricks, M., Bracha, S., Gingold, H., & Rechavi, O. (2019). Neuronal small RNAs control behavior transgenerationally. Cell, 177(7), 1814-1826.e15. https://doi.org/10.1016/j.cell.2019.04.029 
 
 Toker, I. A., Lev, I., Mor, Y., Gurevich, Y., Fisher, D., Houri-Zeevi, L., Antonova, O., Doron, H., Anava, S., Gingold, H., Hadany, L., Shaham, S., & Rechavi, O. (2022). Transgenerational inheritance of sexual attractiveness via small RNAs enhances evolvability in C. elegans. Developmental Cell, 57(3), 298-309.e9. https://doi.org/10.1016/j.devcel.2022.01.005
+
+</div>
